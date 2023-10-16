@@ -7,11 +7,11 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v4
 
       # https://github.com/octokit/request-action
       - name: GET user from API
-        uses: octokit/request-action@v2.1.7
+        uses: octokit/request-action@v2.1.0
         id: get_user
         with:
           route: GET /users/{username}
@@ -41,15 +41,4 @@ jobs:
           git config --global user.email "${{ github.actor_id }}+${{ github.actor }}@users.noreply.github.com"
           git add -A
           git commit -m "Post-create action commit"
-
-      - name: Install Trunk & auto-format
-        run: |
-          curl https://get.trunk.io -fsSL | bash -s -- -y
-          trunk init --yes-to-all --nocheck-sample
-          trunk actions enable trunk-announce trunk-check-pre-push trunk-fmt-pre-commit
-
-      - name: Commit & push all changes
-        run: |
-          git add -A
-          git commit -m "Initial Trunk commit"
           git push origin main
