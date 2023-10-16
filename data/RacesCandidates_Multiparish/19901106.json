@@ -1,0 +1,1364 @@
+{
+  "Races": {
+    "WriteTime": "2023-01-20T16:31:42.613",
+    "Race": [
+      {
+        "ID": "3154",
+        "SpecificTitle": "U. S. Representative -- 2nd Congressional District",
+        "GeneralTitle": "U.S. Representative",
+        "OfficeLevel": "145",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "0",
+        "Choice": [
+          {
+            "Color": "0x8970cb",
+            "ID": "6860",
+            "Desc": "William J. Jefferson (DEM)"
+          },
+          { "Color": "0xb6dc6b", "ID": "6861", "Desc": "Marc H. Morial (DEM)" }
+        ]
+      },
+      {
+        "ID": "2307",
+        "SpecificTitle": "District Judge --  1st Judicial District, Division B",
+        "GeneralTitle": "District Judge",
+        "OfficeLevel": "210",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "0",
+        "Choice": [
+          {
+            "Color": "0x8970cb",
+            "ID": "4731",
+            "Desc": "James R. \"Jim\" Dawson (DEM)"
+          },
+          {
+            "Color": "0xb6dc6b",
+            "ID": "4732",
+            "Desc": "John D. Goodwin (REP)"
+          },
+          {
+            "Color": "0xffec6c",
+            "ID": "4733",
+            "Desc": "James E. Stewart (DEM)"
+          }
+        ]
+      },
+      {
+        "ID": "2309",
+        "SpecificTitle": "District Judge --  1st Judicial District, Division C",
+        "GeneralTitle": "District Judge",
+        "OfficeLevel": "210",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "0",
+        "Choice": [
+          {
+            "Color": "0x8970cb",
+            "ID": "4739",
+            "Desc": "Scott J. Crichton (DEM)"
+          },
+          {
+            "Color": "0xb6dc6b",
+            "ID": "4740",
+            "Desc": "Charles C. Grubb (DEM)"
+          },
+          {
+            "Color": "0xffec6c",
+            "ID": "4741",
+            "Desc": "Ronald D. Smith (DEM)"
+          },
+          { "Color": "0xff836b", "ID": "4742", "Desc": "\"Doug\" White (REP)" }
+        ]
+      },
+      {
+        "ID": "2311",
+        "SpecificTitle": "District Judge --  1st Judicial District, Division E",
+        "GeneralTitle": "District Judge",
+        "OfficeLevel": "210",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "0",
+        "Choice": [
+          {
+            "Color": "0x8970cb",
+            "ID": "4744",
+            "Desc": "Robert J. \"Bob\" Donovan, Jr. (DEM)"
+          },
+          {
+            "Color": "0xb6dc6b",
+            "ID": "4745",
+            "Desc": "\"Fred\" Ratzburg II (REP)"
+          },
+          { "Color": "0xffec6c", "ID": "4746", "Desc": "Frank Thaxton (DEM)" },
+          { "Color": "0xff836b", "ID": "4747", "Desc": "J. Waddy Tucker (DEM)" }
+        ]
+      },
+      {
+        "ID": "2312",
+        "SpecificTitle": "District Judge --  1st Judicial District, Division F",
+        "GeneralTitle": "District Judge",
+        "OfficeLevel": "210",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "0",
+        "Choice": [
+          { "Color": "0x8970cb", "ID": "4748", "Desc": "Gary A. Bowers (REP)" },
+          { "Color": "0xb6dc6b", "ID": "4749", "Desc": "S. P. Davis (DEM)" },
+          { "Color": "0xffec6c", "ID": "4750", "Desc": "Richard Goorley (DEM)" }
+        ]
+      },
+      {
+        "ID": "2316",
+        "SpecificTitle": "District Judge --  4th Judicial District, Division A",
+        "GeneralTitle": "District Judge",
+        "OfficeLevel": "210",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "0",
+        "Choice": [
+          {
+            "Color": "0x8970cb",
+            "ID": "4755",
+            "Desc": "James L. Braddock (DEM)"
+          },
+          {
+            "Color": "0xb6dc6b",
+            "ID": "4756",
+            "Desc": "Robert W. \"Bob\" Kostelka (REP)"
+          }
+        ]
+      },
+      {
+        "ID": "2317",
+        "SpecificTitle": "District Judge --  4th Judicial District, Division B",
+        "GeneralTitle": "District Judge",
+        "OfficeLevel": "210",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "0",
+        "Choice": [
+          { "Color": "0x8970cb", "ID": "4757", "Desc": "V. Gerald Dean (REP)" },
+          {
+            "Color": "0xb6dc6b",
+            "ID": "4758",
+            "Desc": "Charles E. Joiner (DEM)"
+          },
+          {
+            "Color": "0xffec6c",
+            "ID": "4759",
+            "Desc": "W. Lee Perkins, Jr. (DEM)"
+          },
+          {
+            "Color": "0xff836b",
+            "ID": "4760",
+            "Desc": "Marshall Sanson (DEM)"
+          },
+          { "Color": "0xa20017", "ID": "4761", "Desc": "Douglas Walker (REP)" },
+          {
+            "Color": "0x81b1d5",
+            "ID": "4762",
+            "Desc": "Jack Wright, Jr. (REP)"
+          }
+        ]
+      },
+      {
+        "ID": "2322",
+        "SpecificTitle": "District Judge --  4th Judicial District, Division G",
+        "GeneralTitle": "District Judge",
+        "OfficeLevel": "210",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "0",
+        "Choice": [
+          {
+            "Color": "0x8970cb",
+            "ID": "4767",
+            "Desc": "Sedric Earl Banks (DEM)"
+          },
+          { "Color": "0xb6dc6b", "ID": "4768", "Desc": "Daryl Blue (OTHER)" },
+          {
+            "Color": "0xffec6c",
+            "ID": "4769",
+            "Desc": "James H. \"Jimmy\" Boddie, Jr. (DEM)"
+          },
+          { "Color": "0xff836b", "ID": "4770", "Desc": "Tom Fowler (DEM)" }
+        ]
+      },
+      {
+        "ID": "3160",
+        "SpecificTitle": "District Judge --  7th Judicial District, Division B",
+        "GeneralTitle": "District Judge",
+        "OfficeLevel": "210",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "0",
+        "Choice": [
+          { "Color": "0x8970cb", "ID": "6872", "Desc": "Leo Boothe (DEM)" },
+          { "Color": "0xb6dc6b", "ID": "6873", "Desc": "Jerry R. Humble (DEM)" }
+        ]
+      },
+      {
+        "ID": "2323",
+        "SpecificTitle": "District Judge --  9th Judicial District, Division A",
+        "GeneralTitle": "District Judge",
+        "OfficeLevel": "210",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "0",
+        "Choice": [
+          {
+            "Color": "0x8970cb",
+            "ID": "4771",
+            "Desc": "Alfred A. Mansour (DEM)"
+          },
+          {
+            "Color": "0xb6dc6b",
+            "ID": "4772",
+            "Desc": "P. Spencer-Torry (OTHER)"
+          }
+        ]
+      },
+      {
+        "ID": "2325",
+        "SpecificTitle": "District Judge --  9th Judicial District, Division C",
+        "GeneralTitle": "District Judge",
+        "OfficeLevel": "210",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "0",
+        "Choice": [
+          {
+            "Color": "0x8970cb",
+            "ID": "4775",
+            "Desc": "Richard E. \"Dick\" Lee (DEM)"
+          },
+          { "Color": "0xb6dc6b", "ID": "4776", "Desc": "Rae Swent (DEM)" }
+        ]
+      },
+      {
+        "ID": "2326",
+        "SpecificTitle": "District Judge --  9th Judicial District, Division D",
+        "GeneralTitle": "District Judge",
+        "OfficeLevel": "210",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "0",
+        "Choice": [
+          { "Color": "0x8970cb", "ID": "4777", "Desc": "Ross Foote (DEM)" },
+          {
+            "Color": "0xb6dc6b",
+            "ID": "4778",
+            "Desc": "Martin L. Laird III (DEM)"
+          }
+        ]
+      },
+      {
+        "ID": "2327",
+        "SpecificTitle": "District Judge --  9th Judicial District, Division E",
+        "GeneralTitle": "District Judge",
+        "OfficeLevel": "210",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "0",
+        "Choice": [
+          { "Color": "0x8970cb", "ID": "4779", "Desc": "Bernard Kramer (DEM)" },
+          {
+            "Color": "0xb6dc6b",
+            "ID": "4780",
+            "Desc": "B. Dexter Ryland (DEM)"
+          }
+        ]
+      },
+      {
+        "ID": "3161",
+        "SpecificTitle": "District Judge -- 11th Judicial District, Division A",
+        "GeneralTitle": "District Judge",
+        "OfficeLevel": "210",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "0",
+        "Choice": [
+          {
+            "Color": "0x8970cb",
+            "ID": "6874",
+            "Desc": "Robert E. Burgess (DEM)"
+          },
+          {
+            "Color": "0xb6dc6b",
+            "ID": "6875",
+            "Desc": "James Lynn Davis (DEM)"
+          }
+        ]
+      },
+      {
+        "ID": "2330",
+        "SpecificTitle": "District Judge -- 14th Judicial District, Division B",
+        "GeneralTitle": "District Judge",
+        "OfficeLevel": "210",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "0",
+        "Choice": [
+          {
+            "Color": "0x8970cb",
+            "ID": "4783",
+            "Desc": "Cynthia Clay Guillory (DEM)"
+          },
+          {
+            "Color": "0xb6dc6b",
+            "ID": "4784",
+            "Desc": "W. L. Bill McLeod, Jr. (DEM)"
+          }
+        ]
+      },
+      {
+        "ID": "2331",
+        "SpecificTitle": "District Judge -- 14th Judicial District, Division C",
+        "GeneralTitle": "District Judge",
+        "OfficeLevel": "210",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "0",
+        "Choice": [
+          { "Color": "0x8970cb", "ID": "4785", "Desc": "Billy H. Ezell (DEM)" },
+          {
+            "Color": "0xb6dc6b",
+            "ID": "4786",
+            "Desc": "Hardy M. Parkerson (DEM)"
+          }
+        ]
+      },
+      {
+        "ID": "2332",
+        "SpecificTitle": "District Judge -- 14th Judicial District, Division D",
+        "GeneralTitle": "District Judge",
+        "OfficeLevel": "210",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "0",
+        "Choice": [
+          { "Color": "0x8970cb", "ID": "4787", "Desc": "Fred R. Godwin (DEM)" },
+          {
+            "Color": "0xb6dc6b",
+            "ID": "4788",
+            "Desc": "H. Gayle Marshall (DEM)"
+          },
+          { "Color": "0xffec6c", "ID": "4789", "Desc": "Scotty G. Rozas (DEM)" }
+        ]
+      },
+      {
+        "ID": "2333",
+        "SpecificTitle": "District Judge -- 14th Judicial District, Division E",
+        "GeneralTitle": "District Judge",
+        "OfficeLevel": "210",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "0",
+        "Choice": [
+          { "Color": "0x8970cb", "ID": "4790", "Desc": "Jack W. Caskey (DEM)" },
+          {
+            "Color": "0xb6dc6b",
+            "ID": "4791",
+            "Desc": "A. J. Planchard (DEM)"
+          },
+          { "Color": "0xffec6c", "ID": "4792", "Desc": "Ronald F. Ware (DEM)" },
+          { "Color": "0xff836b", "ID": "4793", "Desc": "Robert L. Wyatt (DEM)" }
+        ]
+      },
+      {
+        "ID": "2334",
+        "SpecificTitle": "District Judge -- 14th Judicial District, Division F",
+        "GeneralTitle": "District Judge",
+        "OfficeLevel": "210",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "0",
+        "Choice": [
+          { "Color": "0x8970cb", "ID": "4794", "Desc": "Rick Bryant (DEM)" },
+          {
+            "Color": "0xb6dc6b",
+            "ID": "4795",
+            "Desc": "Wilford D. Carter (DEM)"
+          },
+          { "Color": "0xffec6c", "ID": "4796", "Desc": "\"E. C.\" Hunt (DEM)" },
+          { "Color": "0xff836b", "ID": "4797", "Desc": "Jim Ortego (DEM)" },
+          { "Color": "0xa20017", "ID": "4798", "Desc": "Bill Swift (DEM)" },
+          {
+            "Color": "0x81b1d5",
+            "ID": "4799",
+            "Desc": "Billie C. Woodard (OTHER)"
+          }
+        ]
+      },
+      {
+        "ID": "2335",
+        "SpecificTitle": "District Judge -- 14th Judicial District, Division G",
+        "GeneralTitle": "District Judge",
+        "OfficeLevel": "210",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "0",
+        "Choice": [
+          { "Color": "0x8970cb", "ID": "4800", "Desc": "Al Gray (DEM)" },
+          {
+            "Color": "0xb6dc6b",
+            "ID": "4801",
+            "Desc": "Charley Quienalty (DEM)"
+          }
+        ]
+      },
+      {
+        "ID": "2342",
+        "SpecificTitle": "District Judge -- 15th Judicial District, Division F",
+        "GeneralTitle": "District Judge",
+        "OfficeLevel": "210",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "0",
+        "Choice": [
+          {
+            "Color": "0x8970cb",
+            "ID": "4808",
+            "Desc": "Hugh Ellis Brunson (DEM)"
+          },
+          {
+            "Color": "0xb6dc6b",
+            "ID": "4809",
+            "Desc": "Sylvia R. Cooks (DEM)"
+          },
+          {
+            "Color": "0xffec6c",
+            "ID": "4810",
+            "Desc": "Darrell D. Desormeaux (DEM)"
+          },
+          {
+            "Color": "0xff836b",
+            "ID": "4811",
+            "Desc": "J. Lomax Max Jordan (REP)"
+          }
+        ]
+      },
+      {
+        "ID": "2347",
+        "SpecificTitle": "District Judge -- 15th Judicial District, Division K",
+        "GeneralTitle": "District Judge",
+        "OfficeLevel": "210",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "0",
+        "Choice": [
+          {
+            "Color": "0x8970cb",
+            "ID": "4816",
+            "Desc": "Benny Gautreaux (DEM)"
+          },
+          {
+            "Color": "0xb6dc6b",
+            "ID": "4817",
+            "Desc": "Patrick Louis \"Rick\" Michot (DEM)"
+          }
+        ]
+      },
+      {
+        "ID": "2356",
+        "SpecificTitle": "District Judge -- 19th Judicial District, Division E",
+        "GeneralTitle": "District Judge",
+        "OfficeLevel": "210",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "0",
+        "Choice": [
+          {
+            "Color": "0x8970cb",
+            "ID": "4827",
+            "Desc": "Richard Chaffin (DEM)"
+          },
+          {
+            "Color": "0xb6dc6b",
+            "ID": "4828",
+            "Desc": "E. Clark Gaudin (REP)"
+          },
+          {
+            "Color": "0xffec6c",
+            "ID": "4829",
+            "Desc": "Linda L. Holliday (DEM)"
+          }
+        ]
+      },
+      {
+        "ID": "2358",
+        "SpecificTitle": "District Judge -- 19th Judicial District, Division G",
+        "GeneralTitle": "District Judge",
+        "OfficeLevel": "210",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "0",
+        "Choice": [
+          {
+            "Color": "0x8970cb",
+            "ID": "4831",
+            "Desc": "Leo P. Higginbotham, Jr. (REP)"
+          },
+          {
+            "Color": "0xb6dc6b",
+            "ID": "4832",
+            "Desc": "A. Foster Sanders III (DEM)"
+          }
+        ]
+      },
+      {
+        "ID": "2360",
+        "SpecificTitle": "District Judge -- 19th Judicial District, Division I",
+        "GeneralTitle": "District Judge",
+        "OfficeLevel": "210",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "0",
+        "Choice": [
+          {
+            "Color": "0x8970cb",
+            "ID": "4834",
+            "Desc": "William H. \"Bill\" Brown (REP)"
+          },
+          { "Color": "0xb6dc6b", "ID": "4835", "Desc": "John B. Comish (DEM)" }
+        ]
+      },
+      {
+        "ID": "2363",
+        "SpecificTitle": "District Judge -- 19th Judicial District, Division L",
+        "GeneralTitle": "District Judge",
+        "OfficeLevel": "210",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "0",
+        "Choice": [
+          { "Color": "0x8970cb", "ID": "4840", "Desc": "Jerry Arbour (REP)" },
+          {
+            "Color": "0xb6dc6b",
+            "ID": "4841",
+            "Desc": "Michael R. \"Mike\" Erwin (DEM)"
+          },
+          {
+            "Color": "0xffec6c",
+            "ID": "4842",
+            "Desc": "Michael J. \"Mike\" Harig (REP)"
+          },
+          {
+            "Color": "0xff836b",
+            "ID": "4843",
+            "Desc": "Johnnie Jones, Jr. (DEM)"
+          },
+          {
+            "Color": "0xa20017",
+            "ID": "4844",
+            "Desc": "Thomas K. \"Tom\" Kirkpatrick (REP)"
+          },
+          { "Color": "0x81b1d5", "ID": "4845", "Desc": "Cynthia Picou (REP)" }
+        ]
+      },
+      {
+        "ID": "3155",
+        "SpecificTitle": "District Judge -- 21st Judicial District, Division D",
+        "GeneralTitle": "District Judge",
+        "OfficeLevel": "210",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "0",
+        "Choice": [
+          {
+            "Color": "0x8970cb",
+            "ID": "6862",
+            "Desc": "James E. \"Jimmy\" Kuhn (DEM)"
+          },
+          {
+            "Color": "0xb6dc6b",
+            "ID": "6863",
+            "Desc": "Michael \"Mike\" Lee (DEM)"
+          }
+        ]
+      },
+      {
+        "ID": "3159",
+        "SpecificTitle": "District Judge -- 22nd Judicial District, Division G",
+        "GeneralTitle": "District Judge",
+        "OfficeLevel": "210",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "0",
+        "Choice": [
+          { "Color": "0x8970cb", "ID": "6870", "Desc": "Lane A. Carson (REP)" },
+          { "Color": "0xb6dc6b", "ID": "6871", "Desc": "Larry Green (DEM)" }
+        ]
+      },
+      {
+        "ID": "3156",
+        "SpecificTitle": "District Judge -- 23rd Judicial District, Division A",
+        "GeneralTitle": "District Judge",
+        "OfficeLevel": "210",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "0",
+        "Choice": [
+          { "Color": "0x8970cb", "ID": "6864", "Desc": "Glynn A. Long (DEM)" },
+          { "Color": "0xb6dc6b", "ID": "6865", "Desc": "Mike Poirrier (DEM)" }
+        ]
+      },
+      {
+        "ID": "3157",
+        "SpecificTitle": "District Judge -- 23rd Judicial District, Division C",
+        "GeneralTitle": "District Judge",
+        "OfficeLevel": "210",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "0",
+        "Choice": [
+          { "Color": "0x8970cb", "ID": "6866", "Desc": "Guy Holdridge (DEM)" },
+          {
+            "Color": "0xb6dc6b",
+            "ID": "6867",
+            "Desc": "Pegram J. Mire, Jr. (DEM)"
+          }
+        ]
+      },
+      {
+        "ID": "2373",
+        "SpecificTitle": "District Judge -- 24th Judicial District, Division I",
+        "GeneralTitle": "District Judge",
+        "OfficeLevel": "210",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "0",
+        "Choice": [
+          { "Color": "0x8970cb", "ID": "4857", "Desc": "Jo Ellen Grant (REP)" },
+          {
+            "Color": "0xb6dc6b",
+            "ID": "4858",
+            "Desc": "Anne \"Sherry\" Schneider (DEM)"
+          },
+          {
+            "Color": "0xffec6c",
+            "ID": "4859",
+            "Desc": "Anthony \"Tony\" Taormina (REP)"
+          },
+          {
+            "Color": "0xff836b",
+            "ID": "4860",
+            "Desc": "\"Steve\" Windhorst (REP)"
+          }
+        ]
+      },
+      {
+        "ID": "2375",
+        "SpecificTitle": "District Judge -- 24th Judicial District, Division K",
+        "GeneralTitle": "District Judge",
+        "OfficeLevel": "210",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "0",
+        "Choice": [
+          {
+            "Color": "0x8970cb",
+            "ID": "4863",
+            "Desc": "G. Michael Grosz (DEM)"
+          },
+          { "Color": "0xb6dc6b", "ID": "4864", "Desc": "Martha Sassone (REP)" },
+          { "Color": "0xffec6c", "ID": "4865", "Desc": "Joseph J. Tosh (REP)" }
+        ]
+      },
+      {
+        "ID": "2380",
+        "SpecificTitle": "District Judge -- 24th Judicial District, Division P",
+        "GeneralTitle": "District Judge",
+        "OfficeLevel": "210",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "0",
+        "Choice": [
+          {
+            "Color": "0x8970cb",
+            "ID": "4871",
+            "Desc": "Douglas A. Allen (DEM)"
+          },
+          {
+            "Color": "0xb6dc6b",
+            "ID": "4872",
+            "Desc": "A. Gerard Johnston (DEM)"
+          },
+          {
+            "Color": "0xffec6c",
+            "ID": "4873",
+            "Desc": "Joan Blanchard Montero (DEM)"
+          },
+          {
+            "Color": "0xff836b",
+            "ID": "4874",
+            "Desc": "Robert L. Simpson (REP)"
+          },
+          {
+            "Color": "0xa20017",
+            "ID": "4875",
+            "Desc": "Richard G. Steiner (REP)"
+          }
+        ]
+      },
+      {
+        "ID": "3158",
+        "SpecificTitle": "District Judge -- 32nd Judicial District, Division D",
+        "GeneralTitle": "District Judge",
+        "OfficeLevel": "210",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "0",
+        "Choice": [
+          {
+            "Color": "0x8970cb",
+            "ID": "6868",
+            "Desc": "Wilmore J. Broussard, Jr. (DEM)"
+          },
+          {
+            "Color": "0xb6dc6b",
+            "ID": "6869",
+            "Desc": "John T. Pettigrew (DEM)"
+          }
+        ]
+      },
+      {
+        "ID": "2308",
+        "SpecificTitle": "District Judge -- 34th Judicial District, Division D",
+        "GeneralTitle": "District Judge",
+        "OfficeLevel": "210",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "0",
+        "Choice": [
+          {
+            "Color": "0x8970cb",
+            "ID": "4735",
+            "Desc": "Charles J. Imbornone (DEM)"
+          },
+          {
+            "Color": "0xb6dc6b",
+            "ID": "4736",
+            "Desc": "Alvin P. Perry, Jr. (DEM)"
+          },
+          { "Color": "0xffec6c", "ID": "4737", "Desc": "Kirk A. Vaughn (DEM)" },
+          {
+            "Color": "0xff836b",
+            "ID": "4738",
+            "Desc": "Sharon Marie Williams (DEM)"
+          }
+        ]
+      },
+      {
+        "ID": "2381",
+        "SpecificTitle": "District Judge -- 40th Judicial District, Division A",
+        "GeneralTitle": "District Judge",
+        "OfficeLevel": "210",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "0",
+        "Choice": [
+          {
+            "Color": "0x8970cb",
+            "ID": "4876",
+            "Desc": "William B. \"Bill\" Birner (DEM)"
+          },
+          {
+            "Color": "0xb6dc6b",
+            "ID": "4877",
+            "Desc": "G. Walter \"Ton\" Caire (DEM)"
+          },
+          {
+            "Color": "0xffec6c",
+            "ID": "4878",
+            "Desc": "Donald J. Cicet (OTHER)"
+          },
+          {
+            "Color": "0xff836b",
+            "ID": "4879",
+            "Desc": "Fred R. DeFrancesch (DEM)"
+          },
+          {
+            "Color": "0xa20017",
+            "ID": "4880",
+            "Desc": "Madeline Jasmine (DEM)"
+          }
+        ]
+      },
+      {
+        "ID": "2382",
+        "SpecificTitle": "District Judge -- 40th Judicial District, Division B",
+        "GeneralTitle": "District Judge",
+        "OfficeLevel": "210",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "0",
+        "Choice": [
+          {
+            "Color": "0x8970cb",
+            "ID": "4881",
+            "Desc": "Mary Hotard Becnel (DEM)"
+          },
+          { "Color": "0xb6dc6b", "ID": "4882", "Desc": "Thomas J. Malik (DEM)" }
+        ]
+      },
+      {
+        "ID": "3167",
+        "SpecificTitle": "Judge -- Civil District Court, Division M",
+        "GeneralTitle": "District Judge",
+        "OfficeLevel": "210",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "0",
+        "Choice": [
+          {
+            "Color": "0x8970cb",
+            "ID": "6886",
+            "Desc": "Gasper J. Schiro (DEM)"
+          },
+          {
+            "Color": "0xb6dc6b",
+            "ID": "6887",
+            "Desc": "Ronald J. \"Ron\" Sholes (DEM)"
+          }
+        ]
+      },
+      {
+        "ID": "3411",
+        "SpecificTitle": "Judge -- Criminal District Court, Division E",
+        "GeneralTitle": "District Judge",
+        "OfficeLevel": "210",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "0",
+        "Choice": [
+          { "Color": "0x8970cb", "ID": "7385", "Desc": "Calvin Johnson (DEM)" },
+          {
+            "Color": "0xb6dc6b",
+            "ID": "7386",
+            "Desc": "Salvatore Panzeca (DEM)"
+          }
+        ]
+      },
+      {
+        "ID": "3166",
+        "SpecificTitle": "District Attorney --  4th Judicial District",
+        "GeneralTitle": "District Attorney",
+        "OfficeLevel": "215",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "0",
+        "Choice": [
+          { "Color": "0x8970cb", "ID": "6884", "Desc": "Jerry Jones (DEM)" },
+          { "Color": "0xb6dc6b", "ID": "6885", "Desc": "James Norris (DEM)" }
+        ]
+      },
+      {
+        "ID": "3165",
+        "SpecificTitle": "District Attorney -- 17th Judicial District",
+        "GeneralTitle": "District Attorney",
+        "OfficeLevel": "215",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "0",
+        "Choice": [
+          {
+            "Color": "0x8970cb",
+            "ID": "6882",
+            "Desc": "Wollen J. Falgout (DEM)"
+          },
+          {
+            "Color": "0xb6dc6b",
+            "ID": "6883",
+            "Desc": "Walter \"Butch\" Naquin, Jr. (DEM)"
+          }
+        ]
+      },
+      {
+        "ID": "3162",
+        "SpecificTitle": "District Attorney -- 23rd Judicial District",
+        "GeneralTitle": "District Attorney",
+        "OfficeLevel": "215",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "0",
+        "Choice": [
+          {
+            "Color": "0x8970cb",
+            "ID": "6876",
+            "Desc": "Donald T. Carmouche (DEM)"
+          },
+          {
+            "Color": "0xb6dc6b",
+            "ID": "6877",
+            "Desc": "Anthony G. \"Tony\" Falterman (DEM)"
+          }
+        ]
+      },
+      {
+        "ID": "3163",
+        "SpecificTitle": "District Attorney -- 35th Judicial District",
+        "GeneralTitle": "District Attorney",
+        "OfficeLevel": "215",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "0",
+        "Choice": [
+          {
+            "Color": "0x8970cb",
+            "ID": "6878",
+            "Desc": "Joseph P. \"Joe\" Beck II (DEM)"
+          },
+          {
+            "Color": "0xb6dc6b",
+            "ID": "6879",
+            "Desc": "\"Eddie\" Tarpley (REP)"
+          }
+        ]
+      },
+      {
+        "ID": "3339",
+        "SpecificTitle": "Mayor -- City of Eunice",
+        "GeneralTitle": "Mayor",
+        "OfficeLevel": "300",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "0",
+        "Choice": [
+          { "Color": "0x8970cb", "ID": "7230", "Desc": "Curtis Joubert (DEM)" },
+          {
+            "Color": "0xb6dc6b",
+            "ID": "7231",
+            "Desc": "Hubert \"Kutch\" Rougeau (DEM)"
+          }
+        ]
+      },
+      {
+        "ID": "3348",
+        "SpecificTitle": "Mayor -- City of Shreveport",
+        "GeneralTitle": "Mayor",
+        "OfficeLevel": "300",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "0",
+        "Choice": [
+          { "Color": "0x8970cb", "ID": "7248", "Desc": "Hazel Beard (REP)" },
+          { "Color": "0xb6dc6b", "ID": "7249", "Desc": "C. O. Simpkins (DEM)" }
+        ]
+      },
+      {
+        "ID": "3350",
+        "SpecificTitle": "Mayor -- Town of Broussard",
+        "GeneralTitle": "Mayor",
+        "OfficeLevel": "300",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "0",
+        "Choice": [
+          {
+            "Color": "0x8970cb",
+            "ID": "7252",
+            "Desc": "Charles E. Langlinais (DEM)"
+          },
+          { "Color": "0xb6dc6b", "ID": "7253", "Desc": "Leroy Miguez (DEM)" }
+        ]
+      },
+      {
+        "ID": "3355",
+        "SpecificTitle": "Chief of Police -- City of Eunice",
+        "GeneralTitle": "Chief of Police / Marshal",
+        "OfficeLevel": "305",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "0",
+        "Choice": [
+          {
+            "Color": "0x8970cb",
+            "ID": "7262",
+            "Desc": "A. W. \"Tony\" Fuselier (DEM)"
+          },
+          { "Color": "0xb6dc6b", "ID": "7263", "Desc": "Charles Manuel (DEM)" }
+        ]
+      },
+      {
+        "ID": "3371",
+        "SpecificTitle": "Chief of Police -- Town of Broussard",
+        "GeneralTitle": "Chief of Police / Marshal",
+        "OfficeLevel": "305",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "0",
+        "Choice": [
+          {
+            "Color": "0x8970cb",
+            "ID": "7294",
+            "Desc": "Sideny J. Broussard, Jr. (DEM)"
+          },
+          {
+            "Color": "0xb6dc6b",
+            "ID": "7295",
+            "Desc": "Harold J. Romero, Sr. (DEM)"
+          }
+        ]
+      },
+      {
+        "ID": "3402",
+        "SpecificTitle": "Councilman -- District  A, City of Shreveport",
+        "GeneralTitle": "Alderman / City Council Member",
+        "OfficeLevel": "310",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "0",
+        "Choice": [
+          { "Color": "0x8970cb", "ID": "7367", "Desc": "Cedric Glover (DEM)" },
+          {
+            "Color": "0xb6dc6b",
+            "ID": "7368",
+            "Desc": "Hilry Huckaby III (DEM)"
+          }
+        ]
+      },
+      {
+        "ID": "3399",
+        "SpecificTitle": "Councilman -- District  C, City of Shreveport",
+        "GeneralTitle": "Alderman / City Council Member",
+        "OfficeLevel": "310",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "0",
+        "Choice": [
+          {
+            "Color": "0x8970cb",
+            "ID": "7361",
+            "Desc": "Keith Hightower (DEM)"
+          },
+          { "Color": "0xb6dc6b", "ID": "7362", "Desc": "Mark Vigen (DEM)" }
+        ]
+      },
+      {
+        "ID": "3403",
+        "SpecificTitle": "Councilman -- District  D, City of Shreveport",
+        "GeneralTitle": "Alderman / City Council Member",
+        "OfficeLevel": "310",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "0",
+        "Choice": [
+          {
+            "Color": "0x8970cb",
+            "ID": "7369",
+            "Desc": "\"Ken\" Epperson (DEM)"
+          },
+          { "Color": "0xb6dc6b", "ID": "7370", "Desc": "Milton Williams (DEM)" }
+        ]
+      },
+      {
+        "ID": "3404",
+        "SpecificTitle": "Councilman -- District  E, City of Shreveport",
+        "GeneralTitle": "Alderman / City Council Member",
+        "OfficeLevel": "310",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "0",
+        "Choice": [
+          {
+            "Color": "0x8970cb",
+            "ID": "7371",
+            "Desc": "John L. Albritton (DEM)"
+          },
+          {
+            "Color": "0xb6dc6b",
+            "ID": "7372",
+            "Desc": "Rovert W. \"Bo\" Williams (REP)"
+          }
+        ]
+      },
+      {
+        "ID": "3405",
+        "SpecificTitle": "Councilman -- District  G, City of Shreveport",
+        "GeneralTitle": "Alderman / City Council Member",
+        "OfficeLevel": "310",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "0",
+        "Choice": [
+          { "Color": "0x8970cb", "ID": "7373", "Desc": "Roy Cary (DEM)" },
+          { "Color": "0xb6dc6b", "ID": "7374", "Desc": "Larry Ferdinand (DEM)" }
+        ]
+      },
+      {
+        "ID": "6349",
+        "SpecificTitle": "City of Shreveport -- HRC (1) - Increase Penalty                   ",
+        "GeneralTitle": "Proposition",
+        "OfficeLevel": "999",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "0",
+        "Choice": [
+          { "Color": "0x8970cb", "ID": "3", "Desc": "YES" },
+          { "Color": "0xb6dc6b", "ID": "4", "Desc": "NO" }
+        ]
+      },
+      {
+        "ID": "6350",
+        "SpecificTitle": "City of Shreveport -- HRC (2) - Printing Minutes                   ",
+        "GeneralTitle": "Proposition",
+        "OfficeLevel": "999",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "0",
+        "Choice": [
+          { "Color": "0x8970cb", "ID": "3", "Desc": "YES" },
+          { "Color": "0xb6dc6b", "ID": "4", "Desc": "NO" }
+        ]
+      },
+      {
+        "ID": "6351",
+        "SpecificTitle": "City of Shreveport -- HRC (3) - Delete Publishing                  ",
+        "GeneralTitle": "Proposition",
+        "OfficeLevel": "999",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "0",
+        "Choice": [
+          { "Color": "0x8970cb", "ID": "3", "Desc": "YES" },
+          { "Color": "0xb6dc6b", "ID": "4", "Desc": "NO" }
+        ]
+      },
+      {
+        "ID": "6352",
+        "SpecificTitle": "City of Shreveport -- HRC (4) - Init. Ordinances                   ",
+        "GeneralTitle": "Proposition",
+        "OfficeLevel": "999",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "0",
+        "Choice": [
+          { "Color": "0x8970cb", "ID": "3", "Desc": "YES" },
+          { "Color": "0xb6dc6b", "ID": "4", "Desc": "NO" }
+        ]
+      },
+      {
+        "ID": "6353",
+        "SpecificTitle": "City of Shreveport -- HRC (5) - Budget Prepare                     ",
+        "GeneralTitle": "Proposition",
+        "OfficeLevel": "999",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "0",
+        "Choice": [
+          { "Color": "0x8970cb", "ID": "3", "Desc": "YES" },
+          { "Color": "0xb6dc6b", "ID": "4", "Desc": "NO" }
+        ]
+      },
+      {
+        "ID": "6354",
+        "SpecificTitle": "City of Shreveport -- HRC (6) - Manage Airports                    ",
+        "GeneralTitle": "Proposition",
+        "OfficeLevel": "999",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "0",
+        "Choice": [
+          { "Color": "0x8970cb", "ID": "3", "Desc": "YES" },
+          { "Color": "0xb6dc6b", "ID": "4", "Desc": "NO" }
+        ]
+      },
+      {
+        "ID": "6355",
+        "SpecificTitle": "City of Shreveport -- HRC (7) - Water/Sewer System                 ",
+        "GeneralTitle": "Proposition",
+        "OfficeLevel": "999",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "0",
+        "Choice": [
+          { "Color": "0x8970cb", "ID": "3", "Desc": "YES" },
+          { "Color": "0xb6dc6b", "ID": "4", "Desc": "NO" }
+        ]
+      }
+    ]
+  }
+}

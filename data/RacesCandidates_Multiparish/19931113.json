@@ -1,0 +1,75 @@
+{
+  "Races": {
+    "WriteTime": "2023-01-20T16:24:09.210",
+    "Race": [
+      {
+        "ID": "7923",
+        "SpecificTitle": "District Judge -- 17th Judicial District, Division D",
+        "GeneralTitle": "District Judge",
+        "OfficeLevel": "210",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "0",
+        "Choice": [
+          {
+            "Color": "0x8970cb",
+            "ID": "16226",
+            "Desc": "L. G. LaPlante (DEM)"
+          },
+          { "Color": "0xb6dc6b", "ID": "16227", "Desc": "Bruce Simpson (DEM)" }
+        ]
+      },
+      {
+        "ID": "7924",
+        "SpecificTitle": "Judge -- Criminal District Court, Section I",
+        "GeneralTitle": "District Judge",
+        "OfficeLevel": "210",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "0",
+        "Choice": [
+          {
+            "Color": "0x8970cb",
+            "ID": "16228",
+            "Desc": "Raymond Bigelow (DEM)"
+          },
+          {
+            "Color": "0xb6dc6b",
+            "ID": "16229",
+            "Desc": "Harry S. Tervalon, Jr. (DEM)"
+          }
+        ]
+      },
+      {
+        "ID": "7941",
+        "SpecificTitle": "Alderman -- Ward 2, City of Eunice",
+        "GeneralTitle": "Alderman / City Council Member",
+        "OfficeLevel": "310",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "0",
+        "Choice": [
+          {
+            "Color": "0x8970cb",
+            "ID": "16262",
+            "Desc": "Nolton \"Puncho\" Anderson (DEM)"
+          },
+          {
+            "Color": "0xb6dc6b",
+            "ID": "16263",
+            "Desc": "Maxine G. Dupre (DEM)"
+          }
+        ]
+      }
+    ]
+  }
+}

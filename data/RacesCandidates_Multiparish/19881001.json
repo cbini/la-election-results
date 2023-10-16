@@ -1,0 +1,578 @@
+{
+  "Races": {
+    "WriteTime": "2023-01-20T16:36:33.820",
+    "Race": [
+      {
+        "ID": "10045",
+        "SpecificTitle": "U. S. Representative -- 1st Congressional District",
+        "GeneralTitle": "U.S. Representative",
+        "OfficeLevel": "145",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "0",
+        "Choice": [
+          { "Color": "0x8970cb", "ID": "21421", "Desc": "Eric Honig (DEM)" },
+          {
+            "Color": "0xb6dc6b",
+            "ID": "21422",
+            "Desc": "Robert L. \"Bob\" Livingston (REP)"
+          },
+          {
+            "Color": "0xffec6c",
+            "ID": "21423",
+            "Desc": "George Mustakas (DEM)"
+          }
+        ]
+      },
+      {
+        "ID": "10046",
+        "SpecificTitle": "U. S. Representative -- 2nd Congressional District",
+        "GeneralTitle": "U.S. Representative",
+        "OfficeLevel": "145",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "0",
+        "Choice": [
+          {
+            "Color": "0x8970cb",
+            "ID": "21424",
+            "Desc": "Lindy \"Mrs. Hale\" Boggs (DEM)"
+          },
+          {
+            "Color": "0xb6dc6b",
+            "ID": "21425",
+            "Desc": "Roger C. \"Captain\" Johnson (REP)"
+          }
+        ]
+      },
+      {
+        "ID": "10047",
+        "SpecificTitle": "U. S. Representative -- 3rd Congressional District",
+        "GeneralTitle": "U.S. Representative",
+        "OfficeLevel": "145",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "0",
+        "Choice": [
+          {
+            "Color": "0x8970cb",
+            "ID": "21427",
+            "Desc": "Millard Clement (DEM)"
+          },
+          {
+            "Color": "0xb6dc6b",
+            "ID": "21428",
+            "Desc": "W. J. \"Billy\" Tauzin (DEM)"
+          }
+        ]
+      },
+      {
+        "ID": "10048",
+        "SpecificTitle": "U. S. Representative -- 4th Congressional District",
+        "GeneralTitle": "U.S. Representative",
+        "OfficeLevel": "145",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "0",
+        "Choice": [
+          {
+            "Color": "0x8970cb",
+            "ID": "21429",
+            "Desc": "Robert \"Bob\" Briggs (DEM)"
+          },
+          {
+            "Color": "0xb6dc6b",
+            "ID": "21430",
+            "Desc": "\"Jim\" McCrery (REP)"
+          },
+          { "Color": "0xffec6c", "ID": "21431", "Desc": "Adeline Roemer (DEM)" }
+        ]
+      },
+      {
+        "ID": "10049",
+        "SpecificTitle": "U. S. Representative -- 5th Congressional District",
+        "GeneralTitle": "U.S. Representative",
+        "OfficeLevel": "145",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "0",
+        "Choice": [
+          {
+            "Color": "0x8970cb",
+            "ID": "21432",
+            "Desc": "\"Jerry\" Huckaby (DEM)"
+          },
+          {
+            "Color": "0xb6dc6b",
+            "ID": "21433",
+            "Desc": "Bradley Thomason Roark (REP)"
+          },
+          { "Color": "0xffec6c", "ID": "21434", "Desc": "Jack Wright (DEM)" }
+        ]
+      },
+      {
+        "ID": "10052",
+        "SpecificTitle": "U. S. Representative -- 8th Congressional District",
+        "GeneralTitle": "U.S. Representative",
+        "OfficeLevel": "145",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "0",
+        "Choice": [
+          {
+            "Color": "0x8970cb",
+            "ID": "21437",
+            "Desc": "Robert L. \"Bobby\" Freeman (DEM)"
+          },
+          {
+            "Color": "0xb6dc6b",
+            "ID": "21438",
+            "Desc": "Clyde C. Holloway (REP)"
+          },
+          {
+            "Color": "0xffec6c",
+            "ID": "21439",
+            "Desc": "J. E. Jumonville, Jr. (DEM)"
+          },
+          {
+            "Color": "0xff836b",
+            "ID": "21440",
+            "Desc": "John K. \"Tillie\" Snyder (DEM)"
+          },
+          { "Color": "0xa20017", "ID": "21441", "Desc": "Faye Williams (DEM)" }
+        ]
+      },
+      {
+        "ID": "10225",
+        "SpecificTitle": "Associate Justice -- 1st Supreme Court District",
+        "GeneralTitle": "Justice of the Supreme Court",
+        "OfficeLevel": "150",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "0",
+        "Choice": [
+          {
+            "Color": "0x8970cb",
+            "ID": "21897",
+            "Desc": "Pascal F. Calogero, Jr. (DEM)"
+          },
+          {
+            "Color": "0xb6dc6b",
+            "ID": "21898",
+            "Desc": "Darleen M. Jacobs (DEM)"
+          }
+        ]
+      },
+      {
+        "ID": "13676",
+        "SpecificTitle": "Judge, Court of Appeal -- 2nd Circuit, 1st District, Division A",
+        "GeneralTitle": "Judge of a Court of Appeal",
+        "OfficeLevel": "155",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "0",
+        "Choice": [
+          { "Color": "0x8970cb", "ID": "26950", "Desc": "Van H. Brass (DEM)" },
+          {
+            "Color": "0xb6dc6b",
+            "ID": "26951",
+            "Desc": "Lemmie O. Hightower (DEM)"
+          }
+        ]
+      },
+      {
+        "ID": "10192",
+        "SpecificTitle": "PSC -- District 2",
+        "GeneralTitle": "Public Service Commission Member",
+        "OfficeLevel": "160",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "0",
+        "Choice": [
+          { "Color": "0x8970cb", "ID": "21793", "Desc": "George Ackel (DEM)" },
+          {
+            "Color": "0xb6dc6b",
+            "ID": "21794",
+            "Desc": "Kathleen Babineaux Blanco (DEM)"
+          },
+          {
+            "Color": "0xffec6c",
+            "ID": "21795",
+            "Desc": "Lloyd F. Giardina (DEM)"
+          },
+          {
+            "Color": "0xff836b",
+            "ID": "21796",
+            "Desc": "Kernan \"Skip\" Hand (REP)"
+          },
+          {
+            "Color": "0xa20017",
+            "ID": "21797",
+            "Desc": "Leon J. Kinchen (REP)"
+          },
+          {
+            "Color": "0x81b1d5",
+            "ID": "21798",
+            "Desc": "Edward P. \"Bubby\" Lyons (DEM)"
+          },
+          {
+            "Color": "0x009899",
+            "ID": "21799",
+            "Desc": "G. \"Jerry\" Wattigny (DEM)"
+          }
+        ]
+      },
+      {
+        "ID": "10140",
+        "SpecificTitle": "State Representative --  33rd Representative District",
+        "GeneralTitle": "State Representative",
+        "OfficeLevel": "205",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "0",
+        "Choice": [
+          {
+            "Color": "0x8970cb",
+            "ID": "21619",
+            "Desc": "R. A. \"Ray\" Coltrin (DEM)"
+          },
+          {
+            "Color": "0xb6dc6b",
+            "ID": "21620",
+            "Desc": "Oliver \"Jackson\" Schrumpf (DEM)"
+          },
+          { "Color": "0xffec6c", "ID": "21621", "Desc": "\"Tim\" Stine (DEM)" }
+        ]
+      },
+      {
+        "ID": "10277",
+        "SpecificTitle": "District Judge --  4th Judicial District, Division C",
+        "GeneralTitle": "District Judge",
+        "OfficeLevel": "210",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "0",
+        "Choice": [
+          {
+            "Color": "0x8970cb",
+            "ID": "22045",
+            "Desc": "Benjamin Jones (DEM)"
+          },
+          {
+            "Color": "0xb6dc6b",
+            "ID": "22046",
+            "Desc": "Paul Henry Kidd (DEM)"
+          },
+          {
+            "Color": "0xffec6c",
+            "ID": "22047",
+            "Desc": "D. Milton Moore III (DEM)"
+          }
+        ]
+      },
+      {
+        "ID": "10326",
+        "SpecificTitle": "District Judge -- 22nd Judicial District, Division C",
+        "GeneralTitle": "District Judge",
+        "OfficeLevel": "210",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "0",
+        "Choice": [
+          {
+            "Color": "0x8970cb",
+            "ID": "22193",
+            "Desc": "Brady Fitzsimmons (DEM)"
+          },
+          {
+            "Color": "0xb6dc6b",
+            "ID": "22194",
+            "Desc": "J. R. \"Bob\" Jenkins (DEM)"
+          },
+          {
+            "Color": "0xffec6c",
+            "ID": "22195",
+            "Desc": "Madeleine Slaughter (REP)"
+          },
+          {
+            "Color": "0xff836b",
+            "ID": "22196",
+            "Desc": "Dolores M. Williams (DEM)"
+          }
+        ]
+      },
+      {
+        "ID": "10227",
+        "SpecificTitle": "District Judge -- 24th Judicial District, Division L",
+        "GeneralTitle": "District Judge",
+        "OfficeLevel": "210",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "0",
+        "Choice": [
+          {
+            "Color": "0x8970cb",
+            "ID": "21907",
+            "Desc": "Charles \"Chuck\" Cusimano II (REP)"
+          },
+          {
+            "Color": "0xb6dc6b",
+            "ID": "21908",
+            "Desc": "Melvin \"Mel\" Zeno (DEM)"
+          }
+        ]
+      },
+      {
+        "ID": "10128",
+        "SpecificTitle": "District Judge -- 26th Judicial District, Division A",
+        "GeneralTitle": "District Judge",
+        "OfficeLevel": "210",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "0",
+        "Choice": [
+          {
+            "Color": "0x8970cb",
+            "ID": "21593",
+            "Desc": "Dewey E. Burchett, Jr. (DEM)"
+          },
+          {
+            "Color": "0xb6dc6b",
+            "ID": "21594",
+            "Desc": "Bobby L. Stromile (DEM)"
+          }
+        ]
+      },
+      {
+        "ID": "10199",
+        "SpecificTitle": "Mayor -- Town of Delcambre",
+        "GeneralTitle": "Mayor",
+        "OfficeLevel": "300",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "0",
+        "Choice": [
+          { "Color": "0x8970cb", "ID": "21813", "Desc": "Leo Delcambre (DEM)" },
+          {
+            "Color": "0xb6dc6b",
+            "ID": "21814",
+            "Desc": "L. P. \"Chockoo\" Mayard (DEM)"
+          },
+          {
+            "Color": "0xffec6c",
+            "ID": "21815",
+            "Desc": "Geary L. Viator (DEM)"
+          }
+        ]
+      },
+      {
+        "ID": "10181",
+        "SpecificTitle": "Chief of Police -- Town of Basile",
+        "GeneralTitle": "Chief of Police / Marshal",
+        "OfficeLevel": "305",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "0",
+        "Choice": [
+          { "Color": "0x8970cb", "ID": "21765", "Desc": "Darwin Christ (DEM)" },
+          {
+            "Color": "0xb6dc6b",
+            "ID": "21766",
+            "Desc": "Allen Ivory, Jr. (DEM)"
+          },
+          {
+            "Color": "0xffec6c",
+            "ID": "21767",
+            "Desc": "Wilfred LaFleur (DEM)"
+          }
+        ]
+      },
+      {
+        "ID": "10198",
+        "SpecificTitle": "Chief of Police -- Town of Delcambre",
+        "GeneralTitle": "Chief of Police / Marshal",
+        "OfficeLevel": "305",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "0",
+        "Choice": [
+          {
+            "Color": "0x8970cb",
+            "ID": "21811",
+            "Desc": "Rivers Bourque (DEM)"
+          },
+          { "Color": "0xb6dc6b", "ID": "21812", "Desc": "Glenn Dore (DEM)" }
+        ]
+      },
+      {
+        "ID": "10193",
+        "SpecificTitle": "Alderman -- District 1, Town of Delcambre",
+        "GeneralTitle": "Alderman / City Council Member",
+        "OfficeLevel": "310",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "0",
+        "Choice": [
+          {
+            "Color": "0x8970cb",
+            "ID": "21800",
+            "Desc": "Randall Falgout (REP)"
+          },
+          {
+            "Color": "0xb6dc6b",
+            "ID": "21801",
+            "Desc": "Wilton J. Gilbert (REP)"
+          }
+        ]
+      },
+      {
+        "ID": "10195",
+        "SpecificTitle": "Alderman -- District 3, Town of Delcambre",
+        "GeneralTitle": "Alderman / City Council Member",
+        "OfficeLevel": "310",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "0",
+        "Choice": [
+          {
+            "Color": "0x8970cb",
+            "ID": "21803",
+            "Desc": "Lester J. Comeaux (DEM)"
+          },
+          {
+            "Color": "0xb6dc6b",
+            "ID": "21804",
+            "Desc": "Robert \"Bobby\" LeBlanc (DEM)"
+          }
+        ]
+      },
+      {
+        "ID": "10196",
+        "SpecificTitle": "Alderman -- District 4, Town of Delcambre",
+        "GeneralTitle": "Alderman / City Council Member",
+        "OfficeLevel": "310",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "0",
+        "Choice": [
+          {
+            "Color": "0x8970cb",
+            "ID": "21805",
+            "Desc": "Donald \"Phonse\" Martin (DEM)"
+          },
+          { "Color": "0xb6dc6b", "ID": "21806", "Desc": "Todd L. Miguez (DEM)" }
+        ]
+      },
+      {
+        "ID": "10197",
+        "SpecificTitle": "Alderman -- District 5, Town of Delcambre",
+        "GeneralTitle": "Alderman / City Council Member",
+        "OfficeLevel": "310",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "0",
+        "Choice": [
+          {
+            "Color": "0x8970cb",
+            "ID": "21807",
+            "Desc": "Darrel J. Barras (DEM)"
+          },
+          {
+            "Color": "0xb6dc6b",
+            "ID": "21808",
+            "Desc": "Rickey A. Dupre (DEM)"
+          },
+          {
+            "Color": "0xffec6c",
+            "ID": "21809",
+            "Desc": "Roland Esponge (DEM)"
+          },
+          {
+            "Color": "0xff836b",
+            "ID": "21810",
+            "Desc": "Verna Terrebonne (DEM)"
+          }
+        ]
+      },
+      {
+        "ID": "6051",
+        "SpecificTitle": "CA # 1 (Act 1008) HB 121 -- Ad Valorem Tax Adjustment for Restoration    ",
+        "GeneralTitle": "Constitutional Amendment",
+        "OfficeLevel": "998",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "0",
+        "Choice": [
+          { "Color": "0x8970cb", "ID": "1", "Desc": "FOR" },
+          { "Color": "0xb6dc6b", "ID": "2", "Desc": "AGAINST" }
+        ]
+      }
+    ]
+  }
+}

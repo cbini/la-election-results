@@ -1,0 +1,169 @@
+{
+  "Races": {
+    "WriteTime": "2023-01-20T15:13:47.800",
+    "Race": [
+      {
+        "ID": "56171",
+        "SpecificTitle": "District Judge -- 18th Judicial District Court, ES 3, Div. B",
+        "GeneralTitle": "District Judge",
+        "OfficeLevel": "210",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "0",
+        "Choice": [
+          {
+            "Color": "0x8970cb",
+            "ID": "102992",
+            "Desc": "Tonya Smith Lurry (NOPTY)"
+          },
+          {
+            "Color": "0xb6dc6b",
+            "ID": "102993",
+            "Desc": "\"Tom\" McCormick (REP)"
+          }
+        ]
+      },
+      {
+        "ID": "56170",
+        "SpecificTitle": "Councilmen at Large -- City of DeRidder",
+        "GeneralTitle": "Alderman / City Council at Large",
+        "OfficeLevel": "308",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "2",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "0",
+        "Choice": [
+          {
+            "Color": "0x8970cb",
+            "ID": "102988",
+            "Desc": "Michael D. Harris (DEM)"
+          },
+          {
+            "Color": "0xb6dc6b",
+            "ID": "102989",
+            "Desc": "Vincent Labue (IND)"
+          },
+          { "Color": "0xffec6c", "ID": "102990", "Desc": "Chance Lewis (REP)" },
+          { "Color": "0xff836b", "ID": "102991", "Desc": "Billy Spikes (DEM)" }
+        ]
+      },
+      {
+        "ID": "11065",
+        "SpecificTitle": "City of Shreveport Prop. No. 1 of 6 -- 1.120 Mills Continuation - CC - 5 Yrs.",
+        "GeneralTitle": "Proposition",
+        "OfficeLevel": "999",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": "City of Shreveport Proposition No. 1 of 6",
+        "FullText": "Shall the City of Shreveport continue, levy and collect a special ad valorem tax of 1.120 mills on all the property subject to ad valorem taxation within the City of Shreveport, Louisiana, (at this time an estimated $1,720,999 is expected to be collected from the levy of the tax for one entire year), for a period of five (5) years, beginning with the year 2018 and ending with the year 2022, being a continuation of the tax approved by the voters on April 6, 2013, for the purpose of improving, repairing, and maintaining the streets of the City of Shreveport, Louisiana, title to which shall be in the public?",
+        "IsClosedParty": "0",
+        "Choice": [
+          { "Color": "0x8970cb", "ID": "3", "Desc": "YES" },
+          { "Color": "0xb6dc6b", "ID": "4", "Desc": "NO" }
+        ]
+      },
+      {
+        "ID": "11066",
+        "SpecificTitle": "City of Shreveport Prop. No. 2 of 6 -- 0.830 Mills Continuation - CC - 5 Yrs.",
+        "GeneralTitle": "Proposition",
+        "OfficeLevel": "999",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": "City of Shreveport Proposition No. 2 of 6",
+        "FullText": "Shall the City of Shreveport continue, levy and collect a special ad valorem tax of 0.830 mills on all the property subject to ad valorem taxation within the City of Shreveport, Louisiana, (at this time an estimated $1,275,383 is expected to be collected from the levy of the tax for one entire year), for a period of five (5) years, beginning with the year 2018 and ending with the year 2022, being a continuation of the tax approved by the voters on April 6, 2013, for the purpose of operating and supplying recreational facilities and appurtenances and maintaining the same, title to which shall be in the public?",
+        "IsClosedParty": "0",
+        "Choice": [
+          { "Color": "0x8970cb", "ID": "3", "Desc": "YES" },
+          { "Color": "0xb6dc6b", "ID": "4", "Desc": "NO" }
+        ]
+      },
+      {
+        "ID": "11067",
+        "SpecificTitle": "City of Shreveport Prop. No. 3 of 6 -- 1.120 Mills Continuation - CC - 5 Yrs.",
+        "GeneralTitle": "Proposition",
+        "OfficeLevel": "999",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": "City of Shreveport Proposition No. 3 of 6",
+        "FullText": "Shall the City of Shreveport continue, levy and collect a special ad valorem tax of 1.120 mills on all the property subject to ad valorem taxation within the City of Shreveport, Louisiana, (at this time an estimated $1,720,999 expected to be collected from the levy of the tax for one entire year), for a period of five (5) years, beginning with the year 2018 and ending with the year 2022, being a continuation of the tax approved by the voters on April 6, 2013, for the purpose of continuing the salary and wage schedule of City employees and for no other purpose?",
+        "IsClosedParty": "0",
+        "Choice": [
+          { "Color": "0x8970cb", "ID": "3", "Desc": "YES" },
+          { "Color": "0xb6dc6b", "ID": "4", "Desc": "NO" }
+        ]
+      },
+      {
+        "ID": "11068",
+        "SpecificTitle": "City of Shreveport Prop. No. 4 of 6 -- 1.120 Mills Continuation - CC - 5 Yrs.",
+        "GeneralTitle": "Proposition",
+        "OfficeLevel": "999",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": "City of Shreveport Proposition No. 4 of 6",
+        "FullText": "Shall the City of Shreveport continue, levy and collect a special ad valorem tax of 1.120 mills on all the property subject to ad valorem taxation within the City of Shreveport, Louisiana, (at this time an estimated $1,720,999 is expected to be collected from the levy of the tax for one entire year), for a period of five (5) years, beginning with the year 2018 and ending with the year 2022, being a continuation of the tax approved by the voters on April 6, 2013, for the purpose of police and fire personnel and allowance for uniforms and equipment for said departments and for no other purpose?",
+        "IsClosedParty": "0",
+        "Choice": [
+          { "Color": "0x8970cb", "ID": "3", "Desc": "YES" },
+          { "Color": "0xb6dc6b", "ID": "4", "Desc": "NO" }
+        ]
+      },
+      {
+        "ID": "11069",
+        "SpecificTitle": "City of Shreveport Prop. No. 5 of 6 -- 1.690 Mills Continuation - CC - 5 Yrs.",
+        "GeneralTitle": "Proposition",
+        "OfficeLevel": "999",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": "City of Shreveport Proposition No. 5 of 6",
+        "FullText": "Shall the City of Shreveport continue, levy and collect a special ad valorem tax of 1.690 mills on all the property subject to ad valorem taxation within the City of Shreveport, Louisiana, (an estimated $2,596,865 is expected to be collected from the levy of the tax for one entire year), for a period of five (5) years, beginning with the year 2018 and concluding at the end of the year in 2022, being a continuation of the tax approved by the voters on April 6, 2013, for the purpose of providing funds for the City's portion of pensions, employee life insurance and hospitalization plan for City employees?",
+        "IsClosedParty": "0",
+        "Choice": [
+          { "Color": "0x8970cb", "ID": "3", "Desc": "YES" },
+          { "Color": "0xb6dc6b", "ID": "4", "Desc": "NO" }
+        ]
+      },
+      {
+        "ID": "11070",
+        "SpecificTitle": "City of Shreveport Prop. No. 6 of 6 -- 1.470 Mills - CC - 5 Yrs.",
+        "GeneralTitle": "Proposition",
+        "OfficeLevel": "999",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": "City of Shreveport Proposition No. 6 of 6",
+        "FullText": "Shall the City of Shreveport levy and collect a new special ad valorem tax of 1.470 mills on all the property subject to ad valorem taxation within the City of Shreveport, Louisiana, (an estimated $2,258,811 is expected to be collected from the levy of the tax for one entire year), for a period of five (5) years, beginning with the year 2018 and concluding at the end of the year in 2022, for the purpose of providing funds for the City's continuation and maintenance of a Police Three Platoon System, originally authorized by Article 14, Section 12, of the Louisiana Constitution of 1921?",
+        "IsClosedParty": "0",
+        "Choice": [
+          { "Color": "0x8970cb", "ID": "3", "Desc": "YES" },
+          { "Color": "0xb6dc6b", "ID": "4", "Desc": "NO" }
+        ]
+      },
+      {
+        "ID": "10986",
+        "SpecificTitle": "Hospital Service District -- 6.95 Mills Renewal - BOC - 10 Yrs.",
+        "GeneralTitle": "Proposition",
+        "OfficeLevel": "999",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": "Hospital Service District Proposition\n(Millage Renewal)",
+        "FullText": "Shall Calcasieu-Cameron Hospital Service District, State of Louisiana (the \"District\"), renew a levy and collect an ad valorem tax of six and ninety-five hundredths (6.95) mills on all property subject to taxation in said District for a period of ten (10) years beginning in 2020 and ending with the year 2029, with collections from the levy of the tax estimated to be $7,907,319.52 for one entire year, for the purpose of improving, maintaining, operating and supporting the hospital facilities of the Hospital Service District, including the acquisition of equipment and maintaining, expanding the District's Emergency Department's capabilities, and supporting the District's Therapeutic Riding program and Rural Health Clinics in Vinton and Hackberry, title to which shall be in the public?",
+        "IsClosedParty": "0",
+        "Choice": [
+          { "Color": "0x8970cb", "ID": "3", "Desc": "YES" },
+          { "Color": "0xb6dc6b", "ID": "4", "Desc": "NO" }
+        ]
+      }
+    ]
+  }
+}

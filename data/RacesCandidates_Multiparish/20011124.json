@@ -1,0 +1,31 @@
+{
+  "Races": {
+    "WriteTime": "2023-01-20T16:01:08.467",
+    "Race": {
+      "ID": "24324",
+      "SpecificTitle": "State Representative --  88th Representative District",
+      "GeneralTitle": "State Representative",
+      "OfficeLevel": "205",
+      "IsPresidentialNominee": "0",
+      "IsMultiParish": "1",
+      "NumberToBeElected": "1",
+      "SummaryText": null,
+      "FullText": null,
+      "IsClosedParty": "0",
+      "Choice": [
+        {
+          "Color": "0x8970cb",
+          "ID": "47459",
+          "Desc": "Thomas \"Tom\" Capella (REP)"
+        },
+        { "Color": "0xb6dc6b", "ID": "47460", "Desc": "Dianna Dyer (REP)" },
+        { "Color": "0xffec6c", "ID": "47461", "Desc": "Scott Masson (REP)" },
+        {
+          "Color": "0xff836b",
+          "ID": "47462",
+          "Desc": "Deborah D. Ryan (OTHER)"
+        }
+      ]
+    }
+  }
+}

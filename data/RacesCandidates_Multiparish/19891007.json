@@ -1,0 +1,215 @@
+{
+  "Races": {
+    "WriteTime": "2023-01-20T16:35:18.377",
+    "Race": [
+      {
+        "ID": "6053",
+        "SpecificTitle": "CA #  1 (Act  847) HB 80 -- Transportation Trust Fund                    ",
+        "GeneralTitle": "Constitutional Amendment",
+        "OfficeLevel": "998",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "0",
+        "Choice": [
+          { "Color": "0x8970cb", "ID": "1", "Desc": "FOR" },
+          { "Color": "0xb6dc6b", "ID": "2", "Desc": "AGAINST" }
+        ]
+      },
+      {
+        "ID": "6054",
+        "SpecificTitle": "CA #  2 (Act 24) SB 25 -- Wetlands Conservation and Restoration Fund   ",
+        "GeneralTitle": "Constitutional Amendment",
+        "OfficeLevel": "998",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "0",
+        "Choice": [
+          { "Color": "0x8970cb", "ID": "1", "Desc": "FOR" },
+          { "Color": "0xb6dc6b", "ID": "2", "Desc": "AGAINST" }
+        ]
+      },
+      {
+        "ID": "6055",
+        "SpecificTitle": "CA #  3 (Act 26) HB 7 -- St. Bd. of Inventory Ad Valorem Tax Review   ",
+        "GeneralTitle": "Constitutional Amendment",
+        "OfficeLevel": "998",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "0",
+        "Choice": [
+          { "Color": "0x8970cb", "ID": "1", "Desc": "FOR" },
+          { "Color": "0xb6dc6b", "ID": "2", "Desc": "AGAINST" }
+        ]
+      },
+      {
+        "ID": "6056",
+        "SpecificTitle": "CA #  4 (Act 840) SB 52 -- Contraband Drugs and Property Forfeiture     ",
+        "GeneralTitle": "Constitutional Amendment",
+        "OfficeLevel": "998",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "0",
+        "Choice": [
+          { "Color": "0x8970cb", "ID": "1", "Desc": "FOR" },
+          { "Color": "0xb6dc6b", "ID": "2", "Desc": "AGAINST" }
+        ]
+      },
+      {
+        "ID": "6057",
+        "SpecificTitle": "CA #  5 (Act 842) SB 63 -- Supreme Court Districts                      ",
+        "GeneralTitle": "Constitutional Amendment",
+        "OfficeLevel": "998",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "0",
+        "Choice": [
+          { "Color": "0x8970cb", "ID": "1", "Desc": "FOR" },
+          { "Color": "0xb6dc6b", "ID": "2", "Desc": "AGAINST" }
+        ]
+      },
+      {
+        "ID": "6058",
+        "SpecificTitle": "CA #  6 (Act 844) SB 68 -- Court of Appeal Districts                    ",
+        "GeneralTitle": "Constitutional Amendment",
+        "OfficeLevel": "998",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "0",
+        "Choice": [
+          { "Color": "0x8970cb", "ID": "1", "Desc": "FOR" },
+          { "Color": "0xb6dc6b", "ID": "2", "Desc": "AGAINST" }
+        ]
+      },
+      {
+        "ID": "6059",
+        "SpecificTitle": "CA #  7 (Act 25) SB 38 -- Board of Ethics for Elected Officials        ",
+        "GeneralTitle": "Constitutional Amendment",
+        "OfficeLevel": "998",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "0",
+        "Choice": [
+          { "Color": "0x8970cb", "ID": "1", "Desc": "FOR" },
+          { "Color": "0xb6dc6b", "ID": "2", "Desc": "AGAINST" }
+        ]
+      },
+      {
+        "ID": "6060",
+        "SpecificTitle": "CA #  8 (Act 843) SB 65 -- Lease/Donation of Lands/Bldgs by Local Govt. ",
+        "GeneralTitle": "Constitutional Amendment",
+        "OfficeLevel": "998",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "0",
+        "Choice": [
+          { "Color": "0x8970cb", "ID": "1", "Desc": "FOR" },
+          { "Color": "0xb6dc6b", "ID": "2", "Desc": "AGAINST" }
+        ]
+      },
+      {
+        "ID": "6061",
+        "SpecificTitle": "CA #  9 (Act 841) SB 60 -- Organizational Legislative; Gov.Veto Time Lmt",
+        "GeneralTitle": "Constitutional Amendment",
+        "OfficeLevel": "998",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "0",
+        "Choice": [
+          { "Color": "0x8970cb", "ID": "1", "Desc": "FOR" },
+          { "Color": "0xb6dc6b", "ID": "2", "Desc": "AGAINST" }
+        ]
+      },
+      {
+        "ID": "6062",
+        "SpecificTitle": "CA # 10 (Act 27) HB 23 -- Municipality Levy Additional Ad Valorem Taxes",
+        "GeneralTitle": "Constitutional Amendment",
+        "OfficeLevel": "998",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "0",
+        "Choice": [
+          { "Color": "0x8970cb", "ID": "1", "Desc": "FOR" },
+          { "Color": "0xb6dc6b", "ID": "2", "Desc": "AGAINST" }
+        ]
+      },
+      {
+        "ID": "6063",
+        "SpecificTitle": "CA # 11 (Act 28) HB 31 -- Raises Auto License Tag Taxes                ",
+        "GeneralTitle": "Constitutional Amendment",
+        "OfficeLevel": "998",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "0",
+        "Choice": [
+          { "Color": "0x8970cb", "ID": "1", "Desc": "FOR" },
+          { "Color": "0xb6dc6b", "ID": "2", "Desc": "AGAINST" }
+        ]
+      },
+      {
+        "ID": "6064",
+        "SpecificTitle": "CA # 12 (Act 29) HB 64 -- Tax Break for Impv. Downtown, Historical, etc",
+        "GeneralTitle": "Constitutional Amendment",
+        "OfficeLevel": "998",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "0",
+        "Choice": [
+          { "Color": "0x8970cb", "ID": "1", "Desc": "FOR" },
+          { "Color": "0xb6dc6b", "ID": "2", "Desc": "AGAINST" }
+        ]
+      },
+      {
+        "ID": "6065",
+        "SpecificTitle": "CA # 13 (Act 30) HB 91 -- Lignite Severance Tax                        ",
+        "GeneralTitle": "Constitutional Amendment",
+        "OfficeLevel": "998",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "0",
+        "Choice": [
+          { "Color": "0x8970cb", "ID": "1", "Desc": "FOR" },
+          { "Color": "0xb6dc6b", "ID": "2", "Desc": "AGAINST" }
+        ]
+      }
+    ]
+  }
+}

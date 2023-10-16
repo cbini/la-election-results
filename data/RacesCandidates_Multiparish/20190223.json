@@ -1,0 +1,216 @@
+{
+  "Races": {
+    "WriteTime": "2023-01-20T15:11:18.420",
+    "Race": [
+      {
+        "ID": "56300",
+        "SpecificTitle": "State Representative --  12th Representative District",
+        "GeneralTitle": "State Representative",
+        "OfficeLevel": "205",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "0",
+        "Choice": [
+          {
+            "Color": "0x8970cb",
+            "ID": "106160",
+            "Desc": "\"Jake\" Halley (REP)"
+          },
+          {
+            "Color": "0xb6dc6b",
+            "ID": "106155",
+            "Desc": "Christopher \"Chris\" Turner (REP)"
+          }
+        ]
+      },
+      {
+        "ID": "56446",
+        "SpecificTitle": "State Representative --  17th Representative District",
+        "GeneralTitle": "State Representative",
+        "OfficeLevel": "205",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "0",
+        "Choice": [
+          {
+            "Color": "0x8970cb",
+            "ID": "106158",
+            "Desc": "Anthony Garcia (DEM)"
+          },
+          {
+            "Color": "0xb6dc6b",
+            "ID": "106146",
+            "Desc": "Rodney McFarland, Sr. (DEM)"
+          },
+          {
+            "Color": "0xffec6c",
+            "ID": "106144",
+            "Desc": "\"Pat\" Moore (DEM)"
+          },
+          { "Color": "0xff836b", "ID": "106152", "Desc": "Rodney Welch (DEM)" }
+        ]
+      },
+      {
+        "ID": "56447",
+        "SpecificTitle": "State Representative --  18th Representative District",
+        "GeneralTitle": "State Representative",
+        "OfficeLevel": "205",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "0",
+        "Choice": [
+          {
+            "Color": "0x8970cb",
+            "ID": "106156",
+            "Desc": "NaTashia Carter Benoit (DEM)"
+          },
+          {
+            "Color": "0xb6dc6b",
+            "ID": "106148",
+            "Desc": "Tammi G. Fabre (REP)"
+          },
+          {
+            "Color": "0xffec6c",
+            "ID": "106163",
+            "Desc": "Jason Lee Fowler, Jr. (REP)"
+          },
+          {
+            "Color": "0xff836b",
+            "ID": "106154",
+            "Desc": "Jeremy S. LaCombe (DEM)"
+          },
+          {
+            "Color": "0xa20017",
+            "ID": "106153",
+            "Desc": "\"Bill\" Spencer (DEM)"
+          },
+          {
+            "Color": "0x81b1d5",
+            "ID": "106150",
+            "Desc": "Gary \"Sprout\" Spillman (DEM)"
+          }
+        ]
+      },
+      {
+        "ID": "56449",
+        "SpecificTitle": "State Representative --  26th Representative District",
+        "GeneralTitle": "State Representative",
+        "OfficeLevel": "205",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "0",
+        "Choice": [
+          {
+            "Color": "0x8970cb",
+            "ID": "106141",
+            "Desc": "Sandra Franklin (DEM)"
+          },
+          {
+            "Color": "0xb6dc6b",
+            "ID": "106149",
+            "Desc": "\"Ed\" Larvadain III (DEM)"
+          }
+        ]
+      },
+      {
+        "ID": "56444",
+        "SpecificTitle": "State Representative --  27th Representative District",
+        "GeneralTitle": "State Representative",
+        "OfficeLevel": "205",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "0",
+        "Choice": [
+          {
+            "Color": "0x8970cb",
+            "ID": "106143",
+            "Desc": "\"Mike\" Johnson (REP)"
+          },
+          {
+            "Color": "0xb6dc6b",
+            "ID": "106159",
+            "Desc": "Richard Kretzsinger (DEM)"
+          }
+        ]
+      },
+      {
+        "ID": "56445",
+        "SpecificTitle": "State Representative --  47th Representative District",
+        "GeneralTitle": "State Representative",
+        "OfficeLevel": "205",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "0",
+        "Choice": [
+          {
+            "Color": "0x8970cb",
+            "ID": "106142",
+            "Desc": "Ryan Bourriaque (REP)"
+          },
+          {
+            "Color": "0xb6dc6b",
+            "ID": "106145",
+            "Desc": "Ruben \"Ben\" Rivera, Jr. (REP)"
+          }
+        ]
+      },
+      {
+        "ID": "56448",
+        "SpecificTitle": "State Representative --  62nd Representative District",
+        "GeneralTitle": "State Representative",
+        "OfficeLevel": "205",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "0",
+        "Choice": [
+          {
+            "Color": "0x8970cb",
+            "ID": "106151",
+            "Desc": "Roy Daryl Adams (IND)"
+          },
+          {
+            "Color": "0xb6dc6b",
+            "ID": "106147",
+            "Desc": "Dennis Aucoin (REP)"
+          },
+          {
+            "Color": "0xffec6c",
+            "ID": "106161",
+            "Desc": "Jerel Giarrusso (DEM)"
+          },
+          {
+            "Color": "0xff836b",
+            "ID": "106162",
+            "Desc": "Tarries Greenup (DEM)"
+          },
+          {
+            "Color": "0xa20017",
+            "ID": "106157",
+            "Desc": "Jonathan Loveall (DEM)"
+          }
+        ]
+      }
+    ]
+  }
+}

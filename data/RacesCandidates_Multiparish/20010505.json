@@ -1,0 +1,112 @@
+{
+  "Races": {
+    "WriteTime": "2023-01-20T16:01:53.223",
+    "Race": [
+      {
+        "ID": "23590",
+        "SpecificTitle": "State Representative --  53rd Representative District",
+        "GeneralTitle": "State Representative",
+        "OfficeLevel": "205",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "0",
+        "Choice": [
+          {
+            "Color": "0x8970cb",
+            "ID": "45460",
+            "Desc": "Damon J. Baldone (DEM)"
+          },
+          {
+            "Color": "0xb6dc6b",
+            "ID": "45461",
+            "Desc": "\"Johnny\" Glover (DEM)"
+          },
+          {
+            "Color": "0xffec6c",
+            "ID": "45462",
+            "Desc": "\"Connie\" Scheer (REP)"
+          }
+        ]
+      },
+      {
+        "ID": "23602",
+        "SpecificTitle": "District Judge -- 24th JDC, Election Section 2, Division A",
+        "GeneralTitle": "District Judge",
+        "OfficeLevel": "210",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "0",
+        "Choice": [
+          {
+            "Color": "0x8970cb",
+            "ID": "45492",
+            "Desc": "Joan Schilleci Benge (REP)"
+          },
+          { "Color": "0xb6dc6b", "ID": "45493", "Desc": "Bruce Lizana (REP)" }
+        ]
+      },
+      {
+        "ID": "23601",
+        "SpecificTitle": "District Judge -- 34th JDC, Division B",
+        "GeneralTitle": "District Judge",
+        "OfficeLevel": "210",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "0",
+        "Choice": [
+          {
+            "Color": "0x8970cb",
+            "ID": "45490",
+            "Desc": "Manuel A. \"Manny\" Fernandez (DEM)"
+          },
+          {
+            "Color": "0xb6dc6b",
+            "ID": "45491",
+            "Desc": "Sharon Marie Williams (REP)"
+          }
+        ]
+      },
+      {
+        "ID": "23600",
+        "SpecificTitle": "Judge -- Civil District Court, Division L",
+        "GeneralTitle": "District Judge",
+        "OfficeLevel": "210",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "0",
+        "Choice": [
+          { "Color": "0x8970cb", "ID": "45488", "Desc": "Janet Ahern (DEM)" },
+          { "Color": "0xb6dc6b", "ID": "45489", "Desc": "Kern Reese (DEM)" }
+        ]
+      },
+      {
+        "ID": "2455",
+        "SpecificTitle": "School District No. 22 -- 2,600,000 Bond -- JFDV School Board - 20 Year",
+        "GeneralTitle": "Proposition",
+        "OfficeLevel": "999",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "0",
+        "Choice": [
+          { "Color": "0x8970cb", "ID": "3", "Desc": "YES" },
+          { "Color": "0xb6dc6b", "ID": "4", "Desc": "NO" }
+        ]
+      }
+    ]
+  }
+}

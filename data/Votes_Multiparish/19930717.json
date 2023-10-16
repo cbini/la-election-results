@@ -1,0 +1,48 @@
+{
+  "Races": {
+    "VersionDateTime": "1900-01-01T00:00:00",
+    "Race": [
+      {
+        "ID": "7757",
+        "PrecinctsReporting": "28",
+        "PrecinctsExpected": "28",
+        "NumAbsenteeReporting": "1",
+        "NumAbsenteeExpected": "1",
+        "VoterCountQualified": "-1",
+        "VoterCountVoted": "-1",
+        "Choice": [
+          { "ID": "15947", "VoteTotal": "96", "Outcome": "Defeated" },
+          { "ID": "15948", "VoteTotal": "137", "Outcome": "Defeated" },
+          { "ID": "15949", "VoteTotal": "275", "Outcome": "Defeated" },
+          { "ID": "15950", "VoteTotal": "36", "Outcome": "Defeated" },
+          { "ID": "15951", "VoteTotal": "26", "Outcome": "Defeated" },
+          { "ID": "15952", "VoteTotal": "24", "Outcome": "Defeated" },
+          { "ID": "15953", "VoteTotal": "153", "Outcome": "Defeated" },
+          { "ID": "15954", "VoteTotal": "2097", "Outcome": "Runoff" },
+          { "ID": "15955", "VoteTotal": "67", "Outcome": "Defeated" },
+          { "ID": "15956", "VoteTotal": "173", "Outcome": "Defeated" },
+          { "ID": "15957", "VoteTotal": "114", "Outcome": "Defeated" },
+          { "ID": "15958", "VoteTotal": "537", "Outcome": "Defeated" },
+          { "ID": "15959", "VoteTotal": "14", "Outcome": "Defeated" },
+          { "ID": "15960", "VoteTotal": "401", "Outcome": "Defeated" },
+          { "ID": "15961", "VoteTotal": "854", "Outcome": "Runoff" },
+          { "ID": "15962", "VoteTotal": "191", "Outcome": "Defeated" },
+          { "ID": "15963", "VoteTotal": "326", "Outcome": "Defeated" }
+        ]
+      },
+      {
+        "ID": "7406",
+        "PrecinctsReporting": "5",
+        "PrecinctsExpected": "5",
+        "NumAbsenteeReporting": "1",
+        "NumAbsenteeExpected": "1",
+        "VoterCountQualified": "-1",
+        "VoterCountVoted": "-1",
+        "Choice": [
+          { "ID": "3", "VoteTotal": "228", "Outcome": "Approved" },
+          { "ID": "4", "VoteTotal": "112", "Outcome": null }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "Races": {
+    "WriteTime": "2023-01-20T15:57:27.290",
+    "Race": [
+      {
+        "ID": "26361",
+        "SpecificTitle": "State Senator -- 36th Senatorial District",
+        "GeneralTitle": "State Senator",
+        "OfficeLevel": "200",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "0",
+        "Choice": [
+          { "Color": "0x8970cb", "ID": "51040", "Desc": "Robert Adley (DEM)" },
+          { "Color": "0xb6dc6b", "ID": "51041", "Desc": "Jerry Lott (DEM)" }
+        ]
+      },
+      {
+        "ID": "26324",
+        "SpecificTitle": "State Representative --  13th Representative District",
+        "GeneralTitle": "State Representative",
+        "OfficeLevel": "205",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "0",
+        "Choice": [
+          {
+            "Color": "0x8970cb",
+            "ID": "50930",
+            "Desc": "Todd Culpepper (DEM)"
+          },
+          {
+            "Color": "0xb6dc6b",
+            "ID": "50931",
+            "Desc": "James R. \"Jim\" Fannin (DEM)"
+          },
+          {
+            "Color": "0xffec6c",
+            "ID": "50932",
+            "Desc": "Loyd I. Sowers (DEM)"
+          },
+          {
+            "Color": "0xff836b",
+            "ID": "50933",
+            "Desc": "Leslie Thompson (DEM)"
+          },
+          { "Color": "0xa20017", "ID": "50934", "Desc": "Ben Young (REP)" }
+        ]
+      }
+    ]
+  }
+}

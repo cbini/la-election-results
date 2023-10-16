@@ -1,0 +1,78 @@
+{
+  "Races": {
+    "WriteTime": "2023-01-20T15:21:48.493",
+    "Race": [
+      {
+        "ID": "50860",
+        "SpecificTitle": "State Representative --  26th Representative District",
+        "GeneralTitle": "State Representative",
+        "OfficeLevel": "205",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "0",
+        "Choice": [
+          { "Color": "0x8970cb", "ID": "96466", "Desc": "\"Jeff\" Hall (DEM)" },
+          {
+            "Color": "0xb6dc6b",
+            "ID": "96467",
+            "Desc": "Alice \"Red\" Hammond (DEM)"
+          },
+          {
+            "Color": "0xffec6c",
+            "ID": "96475",
+            "Desc": "Daniel Williams (DEM)"
+          }
+        ]
+      },
+      {
+        "ID": "50497",
+        "SpecificTitle": "State Representative --  49th Representative District",
+        "GeneralTitle": "State Representative",
+        "OfficeLevel": "205",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "0",
+        "Choice": [
+          { "Color": "0x8970cb", "ID": "96473", "Desc": "John Bering (REP)" },
+          { "Color": "0xb6dc6b", "ID": "96465", "Desc": "Blake Miguez (REP)" }
+        ]
+      },
+      {
+        "ID": "50498",
+        "SpecificTitle": "State Representative --  66th Representative District",
+        "GeneralTitle": "State Representative",
+        "OfficeLevel": "205",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "0",
+        "Choice": [
+          {
+            "Color": "0x8970cb",
+            "ID": "96468",
+            "Desc": "\"Buddy\" Amoroso (REP)"
+          },
+          {
+            "Color": "0xb6dc6b",
+            "ID": "96471",
+            "Desc": "Richard \"Rick\" Bond (REP)"
+          },
+          {
+            "Color": "0xffec6c",
+            "ID": "96470",
+            "Desc": "Susan Nelson (NOPTY)"
+          },
+          { "Color": "0xff836b", "ID": "96472", "Desc": "Darrell Ourso (REP)" }
+        ]
+      }
+    ]
+  }
+}

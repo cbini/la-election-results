@@ -1,0 +1,66 @@
+{
+  "Races": {
+    "VersionDateTime": "1900-01-01T00:00:00",
+    "Race": [
+      {
+        "ID": "20778",
+        "PrecinctsReporting": "486",
+        "PrecinctsExpected": "486",
+        "NumAbsenteeReporting": "5",
+        "NumAbsenteeExpected": "5",
+        "VoterCountQualified": "-1",
+        "VoterCountVoted": "-1",
+        "Choice": [
+          { "ID": "41112", "VoteTotal": "9295", "Outcome": "Defeated" },
+          { "ID": "41113", "VoteTotal": "28059", "Outcome": "Defeated" },
+          { "ID": "41114", "VoteTotal": "344", "Outcome": "Defeated" },
+          { "ID": "41115", "VoteTotal": "246", "Outcome": "Defeated" },
+          { "ID": "41116", "VoteTotal": "22928", "Outcome": "Defeated" },
+          { "ID": "41117", "VoteTotal": "16446", "Outcome": "Defeated" },
+          { "ID": "41118", "VoteTotal": "36719", "Outcome": "Runoff" },
+          { "ID": "41119", "VoteTotal": "31741", "Outcome": "Runoff" },
+          { "ID": "41120", "VoteTotal": "720", "Outcome": "Defeated" }
+        ]
+      },
+      {
+        "ID": "20790",
+        "PrecinctsReporting": "53",
+        "PrecinctsExpected": "53",
+        "NumAbsenteeReporting": "2",
+        "NumAbsenteeExpected": "2",
+        "VoterCountQualified": "-1",
+        "VoterCountVoted": "-1",
+        "Choice": [
+          { "ID": "41145", "VoteTotal": "6008", "Outcome": "Defeated" },
+          { "ID": "41146", "VoteTotal": "6245", "Outcome": "Elected" }
+        ]
+      },
+      {
+        "ID": "20791",
+        "PrecinctsReporting": "37",
+        "PrecinctsExpected": "37",
+        "NumAbsenteeReporting": "1",
+        "NumAbsenteeExpected": "1",
+        "VoterCountQualified": "-1",
+        "VoterCountVoted": "-1",
+        "Choice": [
+          { "ID": "41147", "VoteTotal": "6021", "Outcome": "Defeated" },
+          { "ID": "41148", "VoteTotal": "6670", "Outcome": "Elected" }
+        ]
+      },
+      {
+        "ID": "20792",
+        "PrecinctsReporting": "32",
+        "PrecinctsExpected": "32",
+        "NumAbsenteeReporting": "1",
+        "NumAbsenteeExpected": "1",
+        "VoterCountQualified": "-1",
+        "VoterCountVoted": "-1",
+        "Choice": [
+          { "ID": "41149", "VoteTotal": "4718", "Outcome": "Elected" },
+          { "ID": "41150", "VoteTotal": "4626", "Outcome": "Defeated" }
+        ]
+      }
+    ]
+  }
+}

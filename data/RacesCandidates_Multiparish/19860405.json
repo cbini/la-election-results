@@ -1,0 +1,282 @@
+{
+  "Races": {
+    "WriteTime": "2023-01-20T16:41:18.847",
+    "Race": [
+      {
+        "ID": "30643",
+        "SpecificTitle": "Associate Justice -- Supreme Court, 5th Supreme Court District",
+        "GeneralTitle": "Justice of the Supreme Court",
+        "OfficeLevel": "150",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "0",
+        "Choice": [
+          {
+            "Color": "0x8970cb",
+            "ID": "58592",
+            "Desc": "Luther F. Cole (DEM)"
+          },
+          {
+            "Color": "0xb6dc6b",
+            "ID": "58593",
+            "Desc": "Patsy McDowell Cooper (REP)"
+          },
+          { "Color": "0xffec6c", "ID": "58594", "Desc": "C. Alvin Tyler (DEM)" }
+        ]
+      },
+      {
+        "ID": "30309",
+        "SpecificTitle": "State Representative --  24th Representative District",
+        "GeneralTitle": "State Representative",
+        "OfficeLevel": "205",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "0",
+        "Choice": [
+          {
+            "Color": "0x8970cb",
+            "ID": "57747",
+            "Desc": "\"Dickie\" Alexander (DEM)"
+          },
+          { "Color": "0xb6dc6b", "ID": "57748", "Desc": "Joe R. Salter (DEM)" },
+          {
+            "Color": "0xffec6c",
+            "ID": "57749",
+            "Desc": "Doyle \"Popcorn\" Scaife (REP)"
+          }
+        ]
+      },
+      {
+        "ID": "30310",
+        "SpecificTitle": "State Representative --  99th Representative District",
+        "GeneralTitle": "State Representative",
+        "OfficeLevel": "205",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "0",
+        "Choice": [
+          {
+            "Color": "0x8970cb",
+            "ID": "57750",
+            "Desc": "Sherman N. Copelin, Jr. (DEM)"
+          },
+          {
+            "Color": "0xb6dc6b",
+            "ID": "57751",
+            "Desc": "Nina Hebert Marchand (DEM)"
+          }
+        ]
+      },
+      {
+        "ID": "30311",
+        "SpecificTitle": "State Representative -- 101st Representative District",
+        "GeneralTitle": "State Representative",
+        "OfficeLevel": "205",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "0",
+        "Choice": [
+          {
+            "Color": "0x8970cb",
+            "ID": "57752",
+            "Desc": "Benjamin L. Edwards (DEM)"
+          },
+          { "Color": "0xb6dc6b", "ID": "57753", "Desc": "Al Jackson (DEM)" },
+          {
+            "Color": "0xffec6c",
+            "ID": "57754",
+            "Desc": "Herman Metover (DEM)"
+          },
+          { "Color": "0xff836b", "ID": "57755", "Desc": "Earl Miller (DEM)" },
+          {
+            "Color": "0xa20017",
+            "ID": "57756",
+            "Desc": "David S. Nixon (DEM)"
+          },
+          {
+            "Color": "0x81b1d5",
+            "ID": "57757",
+            "Desc": "Adam D. Rosemore (REP)"
+          },
+          {
+            "Color": "0x009899",
+            "ID": "57758",
+            "Desc": "Morris A. Rowe, Jr. (DEM)"
+          },
+          {
+            "Color": "0xed1b24",
+            "ID": "57759",
+            "Desc": "Vernon J. Shorty (DEM)"
+          },
+          {
+            "Color": "0x2db04a",
+            "ID": "57760",
+            "Desc": "Mercedes Thomas (DEM)"
+          },
+          {
+            "Color": "0x02538a",
+            "ID": "57761",
+            "Desc": "Naomi White Warren (DEM)"
+          },
+          { "Color": "0x642a7f", "ID": "57762", "Desc": "Lillyann Wylie (DEM)" }
+        ]
+      },
+      {
+        "ID": "30308",
+        "SpecificTitle": "District Judge -- 24th Judicial District Court, Elec. Sec. 4, Division H",
+        "GeneralTitle": "District Judge",
+        "OfficeLevel": "210",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "0",
+        "Choice": [
+          {
+            "Color": "0x8970cb",
+            "ID": "57745",
+            "Desc": "Robert N. Clarke (REP)"
+          },
+          {
+            "Color": "0xb6dc6b",
+            "ID": "57746",
+            "Desc": "Hubert A. Vondenstein (DEM)"
+          }
+        ]
+      },
+      {
+        "ID": "30335",
+        "SpecificTitle": "Mayor -- City of DeRidder",
+        "GeneralTitle": "Mayor",
+        "OfficeLevel": "300",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "0",
+        "Choice": [
+          {
+            "Color": "0x8970cb",
+            "ID": "57807",
+            "Desc": "\"Danny\" Branch (DEM)"
+          },
+          {
+            "Color": "0xb6dc6b",
+            "ID": "57808",
+            "Desc": "Gerald Johnson (DEM)"
+          },
+          { "Color": "0xffec6c", "ID": "57809", "Desc": "Creighten Pugh (DEM)" }
+        ]
+      },
+      {
+        "ID": "30334",
+        "SpecificTitle": "Councilmen -- at Large, City of DeRidder",
+        "GeneralTitle": "Alderman / City Council at Large",
+        "OfficeLevel": "308",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "0",
+        "Choice": [
+          { "Color": "0x8970cb", "ID": "57804", "Desc": "Perry Crysel (DEM)" },
+          { "Color": "0xb6dc6b", "ID": "57805", "Desc": "Vincent LaBue (DEM)" },
+          { "Color": "0xffec6c", "ID": "57806", "Desc": "Hayward Steele (DEM)" }
+        ]
+      },
+      {
+        "ID": "30330",
+        "SpecificTitle": "Councilman -- District 2, City of DeRidder",
+        "GeneralTitle": "Alderman / City Council Member",
+        "OfficeLevel": "310",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "0",
+        "Choice": [
+          { "Color": "0x8970cb", "ID": "57794", "Desc": "Arthur Dukes (DEM)" },
+          { "Color": "0xb6dc6b", "ID": "57795", "Desc": "Elton Mango (DEM)" }
+        ]
+      },
+      {
+        "ID": "30332",
+        "SpecificTitle": "Councilman -- District 4, City of DeRidder",
+        "GeneralTitle": "Alderman / City Council Member",
+        "OfficeLevel": "310",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "0",
+        "Choice": [
+          {
+            "Color": "0x8970cb",
+            "ID": "57797",
+            "Desc": "Chris \"Val\" Hanchey (DEM)"
+          },
+          { "Color": "0xb6dc6b", "ID": "57798", "Desc": "Elmo Johnson (DEM)" },
+          {
+            "Color": "0xffec6c",
+            "ID": "57799",
+            "Desc": "\"Rod\" E. Pollard (DEM)"
+          },
+          {
+            "Color": "0xff836b",
+            "ID": "57800",
+            "Desc": "David R. Williams (OTHER)"
+          }
+        ]
+      },
+      {
+        "ID": "30333",
+        "SpecificTitle": "Councilman -- District 5, City of DeRidder",
+        "GeneralTitle": "Alderman / City Council Member",
+        "OfficeLevel": "310",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "0",
+        "Choice": [
+          { "Color": "0x8970cb", "ID": "57801", "Desc": "Dean Caldwell (DEM)" },
+          { "Color": "0xb6dc6b", "ID": "57802", "Desc": "John L. Hyde (DEM)" }
+        ]
+      },
+      {
+        "ID": "5816",
+        "SpecificTitle": "Parishwide -- 5 Mill - PJ                                  ",
+        "GeneralTitle": "Proposition",
+        "OfficeLevel": "999",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "0",
+        "Choice": [
+          { "Color": "0x8970cb", "ID": "3", "Desc": "YES" },
+          { "Color": "0xb6dc6b", "ID": "4", "Desc": "NO" }
+        ]
+      }
+    ]
+  }
+}

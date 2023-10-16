@@ -1,0 +1,71 @@
+{
+  "Races": {
+    "WriteTime": "2023-01-20T16:20:34.937",
+    "Race": [
+      {
+        "ID": "9478",
+        "SpecificTitle": "District Judge -- 22nd Judicial District, Division C",
+        "GeneralTitle": "District Judge",
+        "OfficeLevel": "210",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "0",
+        "Choice": [
+          {
+            "Color": "0x8970cb",
+            "ID": "19858",
+            "Desc": "Herbert R. Alexander (REP)"
+          },
+          {
+            "Color": "0xb6dc6b",
+            "ID": "19859",
+            "Desc": "David S. Cressy (DEM)"
+          },
+          {
+            "Color": "0xffec6c",
+            "ID": "19860",
+            "Desc": "Patricia Hedges (REP)"
+          },
+          { "Color": "0xff836b", "ID": "19861", "Desc": "David Knight (REP)" }
+        ]
+      },
+      {
+        "ID": "9473",
+        "SpecificTitle": "District Judge -- 24th JDC, Subdistrict 2, Division A",
+        "GeneralTitle": "District Judge",
+        "OfficeLevel": "210",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "0",
+        "Choice": [
+          {
+            "Color": "0x8970cb",
+            "ID": "19839",
+            "Desc": "Gary Breedlove (REP)"
+          },
+          {
+            "Color": "0xb6dc6b",
+            "ID": "19840",
+            "Desc": "Steve J Mortillaro (REP)"
+          },
+          {
+            "Color": "0xffec6c",
+            "ID": "19841",
+            "Desc": "Walter J \"Wally\" Rothschild (DEM)"
+          },
+          {
+            "Color": "0xff836b",
+            "ID": "19842",
+            "Desc": "Anne Marie Vandenweghe (REP)"
+          }
+        ]
+      }
+    ]
+  }
+}

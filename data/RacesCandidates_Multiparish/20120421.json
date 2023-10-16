@@ -1,0 +1,55 @@
+{
+  "Races": {
+    "WriteTime": "2023-01-20T15:29:18.553",
+    "Race": [
+      {
+        "ID": "8782",
+        "SpecificTitle": "Sch. Dist.#7 of 2nd & 7th PJ Wds. -- 6.25 Mills - SB - 10 Yrs.",
+        "GeneralTitle": "Proposition",
+        "OfficeLevel": "999",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": "School District No. 7 Proposition\n(Tax Renewal)\n\nSummary:  10 year, 6.25 mills tax renewal for the purpose of operating, maintaining and improving public school facilities in the District.\n\n",
+        "FullText": "Shall School District No. 7 of the Second Police Jury Ward of the Parish of Evangeline, Louisiana, and the Seventh Police Jury Ward of the Parish of Acadia, Louisiana (the \"District\"), levy a six and twenty-five hundredths (6.25) mills tax on all property subject to taxation in the District (an estimated $196,875 reasonably expected at this time to be collected from the levy of the tax for an entire year), for a period of ten (10) years beginning with the year 2013 and ending with the year 2022, for the purpose of operating, maintaining and improving public school facilities in the District?\n",
+        "IsClosedParty": "0",
+        "Choice": [
+          { "Color": "0x8970cb", "ID": "3", "Desc": "YES" },
+          { "Color": "0xb6dc6b", "ID": "4", "Desc": "NO" }
+        ]
+      },
+      {
+        "ID": "8833",
+        "SpecificTitle": "School District No. 22 -- 11.89 Mills - SB - 10 Yrs.",
+        "GeneralTitle": "Proposition",
+        "OfficeLevel": "999",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": "School District No. 22 Proposition \n(Tax Renewal)\n\nSummary:  Renewal of a 11.89 mills tax for a period of 10 years for the purpose of providing funds for public school building maintenance, improvement, equipment, materials and supplies in School District No. 22 of the Parishes of Jefferson Davis and Allen.\n\n",
+        "FullText": "Shall School District No. 22 of the Parishes of Jefferson Davis and Allen, State of Louisiana (the \"District\"), be authorized to continue to levy and collect a special tax of eleven and eighty-nine hundredths (11.89) mills on all property subject to taxation within the District (an estimated $162,000 is reasonably expected at this time to be collected from the levy of the tax for an entire year) for a period of ten (10) years, beginning with the year 2013 and ending with the year 2022, for the purpose of providing funds for public school building maintenance, improvement, equipment, materials and supplies in the District?\n\n",
+        "IsClosedParty": "0",
+        "Choice": [
+          { "Color": "0x8970cb", "ID": "3", "Desc": "YES" },
+          { "Color": "0xb6dc6b", "ID": "4", "Desc": "NO" }
+        ]
+      },
+      {
+        "ID": "8807",
+        "SpecificTitle": "City of DeRidder -- 1/4% S&U - CC - 20 Yrs.",
+        "GeneralTitle": "Proposition",
+        "OfficeLevel": "999",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": "City of DeRidder Proposition\n(Sales Tax)\n\nSummary:  Authority for the City of DeRidder to levy and collect a sales and use tax of 1/4% for a period of twenty years beginning October 1, 2012 with collections from the levy of the Tax estimated to be $625,000 for one year, dedicated and used within the City for acquisition and construction of properties and facilities for public parks, playgrounds and recreation centers and programs, and other works of public improvement and/or economic development activities independently and/or through coordinated partnerships and cooperative endeavor agreements and, authorization to fund the avails of the Tax into bonds, to be used to fund the capital costs of improvements within the City.\n\n",
+        "FullText": "Shall the City of DeRidder (\"City\") pursuant to Article VI, Section 29 of the 1974 Louisiana Constitution and other constitutional and statutory authority, be authorized to levy and collect a sales and use tax of one-fourth percent (1/4%) upon sale at retail, use, lease or rental, consumption and storage for use or consumption of tangible personal property and on sales of services within the City, all as presently or hereafter defined in La. R.S. 47:301 to 317, inclusive (\"Tax\"), for a period of twenty years beginning October 1, 2012, with collections from levy of the Tax estimated to be $625,000 for one year, with avails of the Tax (after paying costs and expenses of collecting and administering the Tax) dedicated and used for:  Acquisition and construction of properties and facilities for public parks, playgrounds, recreation centers and other works of public improvement and/or recreation programs, economic development activities independently or through coordinated partnerships and/or cooperative endeavor agreements, and authorization to fund avails of the Tax into bonds in various series at times, to be used to fund capital costs of such improvements within the City, and secure payment of such bonds by a pledge of net proceeds of the Tax, as permitted by Louisiana law?\n",
+        "IsClosedParty": "0",
+        "Choice": [
+          { "Color": "0x8970cb", "ID": "3", "Desc": "YES" },
+          { "Color": "0xb6dc6b", "ID": "4", "Desc": "NO" }
+        ]
+      }
+    ]
+  }
+}

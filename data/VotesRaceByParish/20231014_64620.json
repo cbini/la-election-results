@@ -1,0 +1,45 @@
+{
+  "Parishes": {
+    "VersionDateTime": "1900-01-01T00:00:00",
+    "Parish": [
+      {
+        "ParishValue": "45",
+        "PrecinctsReporting": "7",
+        "PrecinctsExpected": "7",
+        "NumAbsenteeReporting": "1",
+        "NumAbsenteeExpected": "1",
+        "VoterCountQualified": "4669",
+        "VoterCountVoted": "0",
+        "Choice": [
+          { "ID": "119702", "VoteTotal": "611", "Outcome": "Defeated" },
+          { "ID": "119981", "VoteTotal": "32", "Outcome": "Defeated" },
+          { "ID": "119759", "VoteTotal": "68", "Outcome": "Defeated" },
+          { "ID": "119173", "VoteTotal": "463", "Outcome": "Defeated" },
+          { "ID": "118410", "VoteTotal": "283", "Outcome": "Defeated" },
+          { "ID": "118744", "VoteTotal": "62", "Outcome": "Defeated" },
+          { "ID": "119194", "VoteTotal": "201", "Outcome": "Runoff" },
+          { "ID": "119069", "VoteTotal": "161", "Outcome": "Runoff" }
+        ]
+      },
+      {
+        "ParishValue": "48",
+        "PrecinctsReporting": "29",
+        "PrecinctsExpected": "29",
+        "NumAbsenteeReporting": "1",
+        "NumAbsenteeExpected": "1",
+        "VoterCountQualified": "24012",
+        "VoterCountVoted": "0",
+        "Choice": [
+          { "ID": "119702", "VoteTotal": "653", "Outcome": "Defeated" },
+          { "ID": "119981", "VoteTotal": "1179", "Outcome": "Defeated" },
+          { "ID": "119759", "VoteTotal": "796", "Outcome": "Defeated" },
+          { "ID": "119173", "VoteTotal": "1067", "Outcome": "Defeated" },
+          { "ID": "118410", "VoteTotal": "707", "Outcome": "Defeated" },
+          { "ID": "118744", "VoteTotal": "679", "Outcome": "Defeated" },
+          { "ID": "119194", "VoteTotal": "1521", "Outcome": "Runoff" },
+          { "ID": "119069", "VoteTotal": "1412", "Outcome": "Runoff" }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "Races": {
+    "WriteTime": "2023-01-20T16:08:23.237",
+    "Race": {
+      "ID": "20519",
+      "SpecificTitle": "State Representative -- 105th Representative District",
+      "GeneralTitle": "State Representative",
+      "OfficeLevel": "205",
+      "IsPresidentialNominee": "0",
+      "IsMultiParish": "1",
+      "NumberToBeElected": "1",
+      "SummaryText": null,
+      "FullText": null,
+      "IsClosedParty": "0",
+      "Choice": [
+        { "Color": "0x8970cb", "ID": "40514", "Desc": "Sharon Branan (DEM)" },
+        { "Color": "0xb6dc6b", "ID": "40515", "Desc": "Jerry Hodnett (DEM)" },
+        { "Color": "0xffec6c", "ID": "40516", "Desc": "Chris Leopold (REP)" },
+        {
+          "Color": "0xff836b",
+          "ID": "40517",
+          "Desc": "Luke A. Petrovich (DEM)"
+        },
+        { "Color": "0xa20017", "ID": "40518", "Desc": "Ernest D. Wooton (DEM)" }
+      ]
+    }
+  }
+}

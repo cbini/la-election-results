@@ -1,0 +1,218 @@
+{
+  "Races": {
+    "WriteTime": "2023-01-20T16:28:00.437",
+    "Race": [
+      {
+        "ID": "5211",
+        "SpecificTitle": "Presidential Nominee -- Democratic Party",
+        "GeneralTitle": "Democratic Presidential Nominee",
+        "OfficeLevel": "050",
+        "IsPresidentialNominee": "1",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "1",
+        "Choice": [
+          { "Color": "0x8970cb", "ID": "10282", "Desc": "Larry Agran (DEM)" },
+          {
+            "Color": "0xb6dc6b",
+            "ID": "10283",
+            "Desc": "Edmund G. Brown, Jr. (DEM)"
+          },
+          { "Color": "0xffec6c", "ID": "10284", "Desc": "Stephen Burke (DEM)" },
+          { "Color": "0xff836b", "ID": "10285", "Desc": "Bill Clinton (DEM)" },
+          {
+            "Color": "0xa20017",
+            "ID": "10286",
+            "Desc": "\"Tom\" Harkin (DEM)"
+          },
+          {
+            "Color": "0x81b1d5",
+            "ID": "10287",
+            "Desc": "Tod Howard Hawks (DEM)"
+          },
+          {
+            "Color": "0x009899",
+            "ID": "10288",
+            "Desc": "\"Bob\" Kerrey (DEM)"
+          },
+          {
+            "Color": "0xed1b24",
+            "ID": "10289",
+            "Desc": "Lyndon H. LaRouche, Jr. (DEM)"
+          },
+          {
+            "Color": "0x2db04a",
+            "ID": "10290",
+            "Desc": "\"Tom\" Laughlin (DEM)"
+          },
+          {
+            "Color": "0x02538a",
+            "ID": "10291",
+            "Desc": "Jeffrey F. Marsh (DEM)"
+          },
+          {
+            "Color": "0x642a7f",
+            "ID": "10292",
+            "Desc": "J. Louis McAlpine (DEM)"
+          },
+          {
+            "Color": "0xf15a25",
+            "ID": "10293",
+            "Desc": "Eugene J. McCarthy (DEM)"
+          },
+          { "Color": "0xa67c52", "ID": "10294", "Desc": "Ray Rollinson (DEM)" },
+          {
+            "Color": "0xffcc06",
+            "ID": "10295",
+            "Desc": "Paul E. Tsongas (DEM)"
+          },
+          { "Color": "0xcfd5f9", "ID": "10296", "Desc": "Charles Woods (DEM)" }
+        ]
+      },
+      {
+        "ID": "5212",
+        "SpecificTitle": "Presidential Nominee -- Republican Party",
+        "GeneralTitle": "Democratic Presidential Nominee",
+        "OfficeLevel": "050",
+        "IsPresidentialNominee": "1",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "1",
+        "Choice": [
+          {
+            "Color": "0x8970cb",
+            "ID": "10297",
+            "Desc": "Patrick J. Buchanan (REP)"
+          },
+          { "Color": "0xb6dc6b", "ID": "10298", "Desc": "George Bush (REP)" },
+          { "Color": "0xffec6c", "ID": "10299", "Desc": "David Duke (REP)" },
+          {
+            "Color": "0xff836b",
+            "ID": "10300",
+            "Desc": "Thomas S Fabish (REP)"
+          },
+          { "Color": "0xa20017", "ID": "10301", "Desc": "Pat Paulsen (REP)" },
+          { "Color": "0x81b1d5", "ID": "10302", "Desc": "Tennie Rogers (REP)" },
+          {
+            "Color": "0x009899",
+            "ID": "10303",
+            "Desc": "George A. Zimmermann (REP)"
+          }
+        ]
+      },
+      {
+        "ID": "4860",
+        "SpecificTitle": "Judge, Court of Appeal -- 4th Circuit, 1st District, Division B",
+        "GeneralTitle": "Judge of a Court of Appeal",
+        "OfficeLevel": "155",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "0",
+        "Choice": [
+          {
+            "Color": "0x8970cb",
+            "ID": "9447",
+            "Desc": "Bernette Joshua Johnson (DEM)"
+          },
+          {
+            "Color": "0xb6dc6b",
+            "ID": "9448",
+            "Desc": "Miriam G. Waltzer (DEM)"
+          }
+        ]
+      },
+      {
+        "ID": "4862",
+        "SpecificTitle": "Judge, Court of Appeal -- 4th Circuit, 1st District, Division D",
+        "GeneralTitle": "Judge of a Court of Appeal",
+        "OfficeLevel": "155",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "0",
+        "Choice": [
+          {
+            "Color": "0x8970cb",
+            "ID": "9455",
+            "Desc": "Donald Bernard (OTHER)"
+          },
+          { "Color": "0xb6dc6b", "ID": "9456", "Desc": "Moon Landrieu (DEM)" }
+        ]
+      },
+      {
+        "ID": "4896",
+        "SpecificTitle": "State Representative --  28th Representative District",
+        "GeneralTitle": "State Representative",
+        "OfficeLevel": "205",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "0",
+        "Choice": [
+          { "Color": "0x8970cb", "ID": "9521", "Desc": "Allen Holmes (DEM)" },
+          {
+            "Color": "0xb6dc6b",
+            "ID": "9522",
+            "Desc": "Donald \"Donnie\" Laborde (DEM)"
+          },
+          {
+            "Color": "0xffec6c",
+            "ID": "9523",
+            "Desc": "James \"Dickie\" Mayeux (DEM)"
+          },
+          {
+            "Color": "0xff836b",
+            "ID": "9524",
+            "Desc": "Richard R. Michel (DEM)"
+          },
+          {
+            "Color": "0xa20017",
+            "ID": "9525",
+            "Desc": "Charles A Riddle III (DEM)"
+          },
+          { "Color": "0x81b1d5", "ID": "9526", "Desc": "Peter Roy (DEM)" }
+        ]
+      },
+      {
+        "ID": "4861",
+        "SpecificTitle": "Judge, Juvenile Court -- Section F",
+        "GeneralTitle": "District Judge",
+        "OfficeLevel": "210",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "0",
+        "Choice": [
+          {
+            "Color": "0x8970cb",
+            "ID": "9451",
+            "Desc": "Brenda M. Brown (DEM)"
+          },
+          {
+            "Color": "0xb6dc6b",
+            "ID": "9452",
+            "Desc": "Ray Charles Harris (DEM)"
+          },
+          {
+            "Color": "0xffec6c",
+            "ID": "9453",
+            "Desc": "George \"Buzz\" Kiefer (DEM)"
+          }
+        ]
+      }
+    ]
+  }
+}

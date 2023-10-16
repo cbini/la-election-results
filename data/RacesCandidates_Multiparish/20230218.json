@@ -1,0 +1,37 @@
+{
+  "Races": {
+    "WriteTime": "2023-03-19T19:48:07.473",
+    "Race": {
+      "ID": "63450",
+      "SpecificTitle": "State Representative --  93rd Representative District",
+      "GeneralTitle": "State Representative",
+      "OfficeLevel": "205",
+      "IsPresidentialNominee": "0",
+      "IsMultiParish": "1",
+      "NumberToBeElected": "1",
+      "SummaryText": null,
+      "FullText": null,
+      "IsClosedParty": "0",
+      "Choice": [
+        {
+          "Color": "0x8970cb",
+          "ID": "117996",
+          "Desc": "Morgan Clevenger (DEM)"
+        },
+        {
+          "Color": "0xb6dc6b",
+          "ID": "117997",
+          "Desc": "Matthew M. Hill (REP)"
+        },
+        { "Color": "0xffec6c", "ID": "117992", "Desc": "Steven Kennedy (DEM)" },
+        { "Color": "0xff836b", "ID": "117993", "Desc": "Alonzo Knox (DEM)" },
+        {
+          "Color": "0xa20017",
+          "ID": "117990",
+          "Desc": "Sibil \"Fox\" Richardson (DEM)"
+        },
+        { "Color": "0x81b1d5", "ID": "117991", "Desc": "\"Naj\" Wallace (DEM)" }
+      ]
+    }
+  }
+}

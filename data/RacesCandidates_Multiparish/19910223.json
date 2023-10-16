@@ -1,0 +1,152 @@
+{
+  "Races": {
+    "WriteTime": "2023-01-20T16:31:27.240",
+    "Race": [
+      {
+        "ID": "2390",
+        "SpecificTitle": "State Senator --  5th Senatorial District",
+        "GeneralTitle": "State Senator",
+        "OfficeLevel": "200",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "0",
+        "Choice": [
+          {
+            "Color": "0x8970cb",
+            "ID": "4896",
+            "Desc": "Diana E. Bajoie (DEM)"
+          },
+          {
+            "Color": "0xb6dc6b",
+            "ID": "4897",
+            "Desc": "\"Gay\" Cunningham (REP)"
+          },
+          { "Color": "0xffec6c", "ID": "4898", "Desc": "Keith Doley (DEM)" },
+          { "Color": "0xff836b", "ID": "4899", "Desc": "\"Doug\" Evans (DEM)" },
+          {
+            "Color": "0xa20017",
+            "ID": "4900",
+            "Desc": "Rudy E. Mills, Sr. (OTHER)"
+          }
+        ]
+      },
+      {
+        "ID": "2391",
+        "SpecificTitle": "State Senator -- 27th Senatorial District",
+        "GeneralTitle": "State Senator",
+        "OfficeLevel": "200",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "0",
+        "Choice": [
+          { "Color": "0x8970cb", "ID": "4901", "Desc": "\"Jim\" Cox (DEM)" },
+          { "Color": "0xb6dc6b", "ID": "4902", "Desc": "\"Vic\" Stelly (REP)" },
+          {
+            "Color": "0xffec6c",
+            "ID": "4903",
+            "Desc": "\"Sam\" Tarleton (DEM)"
+          },
+          { "Color": "0xff836b", "ID": "4904", "Desc": "\"Al\" Willis (DEM)" }
+        ]
+      },
+      {
+        "ID": "2392",
+        "SpecificTitle": "State Senator -- 34th Senatorial District",
+        "GeneralTitle": "State Senator",
+        "OfficeLevel": "200",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "0",
+        "Choice": [
+          { "Color": "0x8970cb", "ID": "4905", "Desc": "John Ensminger (REP)" },
+          { "Color": "0xb6dc6b", "ID": "4906", "Desc": "John H. Powell (DEM)" },
+          { "Color": "0xffec6c", "ID": "4907", "Desc": "Frank Snellings (DEM)" }
+        ]
+      },
+      {
+        "ID": "2393",
+        "SpecificTitle": "State Representative --   4th Representative District",
+        "GeneralTitle": "State Representative",
+        "OfficeLevel": "205",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "0",
+        "Choice": [
+          {
+            "Color": "0x8970cb",
+            "ID": "4908",
+            "Desc": "Tommy G. Armstrong (REP)"
+          },
+          {
+            "Color": "0xb6dc6b",
+            "ID": "4909",
+            "Desc": "Stephen B. Carter (DEM)"
+          },
+          { "Color": "0xffec6c", "ID": "4910", "Desc": "Forrest Davis (DEM)" }
+        ]
+      },
+      {
+        "ID": "2394",
+        "SpecificTitle": "State Representative --  10th Representative District",
+        "GeneralTitle": "State Representative",
+        "OfficeLevel": "205",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "0",
+        "Choice": [
+          { "Color": "0x8970cb", "ID": "4911", "Desc": "Eugene Eason (REP)" },
+          { "Color": "0xb6dc6b", "ID": "4912", "Desc": "Paul Lacobee (DEM)" },
+          { "Color": "0xffec6c", "ID": "4913", "Desc": "Faye Newsom (DEM)" },
+          {
+            "Color": "0xff836b",
+            "ID": "4914",
+            "Desc": "Pattei Cook Odom (DEM)"
+          },
+          { "Color": "0xa20017", "ID": "4915", "Desc": "Ralph L. Rentz (DEM)" },
+          { "Color": "0x81b1d5", "ID": "4916", "Desc": "Jack D. Tharpe (DEM)" }
+        ]
+      },
+      {
+        "ID": "2395",
+        "SpecificTitle": "State Representative --  50th Representative District",
+        "GeneralTitle": "State Representative",
+        "OfficeLevel": "205",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "0",
+        "Choice": [
+          {
+            "Color": "0x8970cb",
+            "ID": "4917",
+            "Desc": "\"Pam\" Daniels (OTHER)"
+          },
+          {
+            "Color": "0xb6dc6b",
+            "ID": "4918",
+            "Desc": "\"Randy\" Ratcliff (DEM)"
+          },
+          { "Color": "0xffec6c", "ID": "4919", "Desc": "Jack D. Smith (DEM)" },
+          { "Color": "0xff836b", "ID": "4920", "Desc": "\"Jim\" Supple (DEM)" }
+        ]
+      }
+    ]
+  }
+}

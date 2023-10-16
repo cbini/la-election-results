@@ -1,0 +1,21 @@
+{
+  "Races": {
+    "WriteTime": "2023-01-20T15:49:37.820",
+    "Race": {
+      "ID": "4103",
+      "SpecificTitle": "CALC-CAMN Hosp. Svc. Dist -- $25,000,000 Bond - BOC - 10 Yrs.             ",
+      "GeneralTitle": "Proposition",
+      "OfficeLevel": "999",
+      "IsPresidentialNominee": "0",
+      "IsMultiParish": "1",
+      "NumberToBeElected": "1",
+      "SummaryText": "CALCASIEU-CAMERON HOSPITAL SERVICE DISTRICT PROPOSITION\n(BONDS)\n\nSUMMARY:  AUTHORITY TO ISSUE $25,000,000, 10 YEAR GENERAL OBLIGATION BONDS OF CALCASIEU-CAMERON HOSPITAL SERVICE DISTRICT, IN ONE OR MORE SERIES, FOR CONSTRUCTING AND ACQUIRING BUILDINGS, MACHINERY AND EQUIPMENT, INCLUDING BOTH REAL AND PERSONAL PROPERTY, TO BE USED IN PROVIDING HOSPITAL AND RELATED HEALTH CARE FACILITIES FOR THE WEST CALCASIEU CAMERON HOSPITAL, INCLUDING ALL NECESSARY SITES, EQUIPMENT AND FURNISHINGS THEREFOR, TITLE TO WHICH SHALL BE IN THE PUBLIC, TO BE PAYABLE FROM AD VALOREM TAXES.",
+      "FullText": "Shall Calcasieu-Cameron Hospital Service District, State of Louisiana (the \"District\"), incur debt and issue bonds to the amount of Twenty-Five Million Dollars ($25,000,000), in one or more series, to run ten (10) years from date thereof, with interest at a rate or rates not exceeding eight per centum (8%) per annum, for the purpose of constructing and acquiring buildings, machinery and equipment, including both real and personal property, to be used in providing hospital and related health care facilities for the West Calcasieu Cameron Hospital, including all necessary sites, equipment and furnishings therefor, title to which shall be in the public, which bonds will be general obligations of the District and will be payable from ad valorem taxes to be levied and collected in the manner provided by Article VI, Section 33 of the Constitution of the State of Louisiana of 1974 and statutory authority supplemental thereto?\n",
+      "IsClosedParty": "0",
+      "Choice": [
+        { "Color": "0x8970cb", "ID": "3", "Desc": "YES" },
+        { "Color": "0xb6dc6b", "ID": "4", "Desc": "NO" }
+      ]
+    }
+  }
+}

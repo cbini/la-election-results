@@ -1,0 +1,397 @@
+{
+  "Races": {
+    "WriteTime": "2023-01-20T16:03:05.293",
+    "Race": [
+      {
+        "ID": "23261",
+        "SpecificTitle": "Presidential Electors",
+        "GeneralTitle": "Presidential Electors",
+        "OfficeLevel": "010",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "0",
+        "Choice": [
+          {
+            "Color": "0xb6dc6b",
+            "ID": "44696",
+            "Desc": "Gore & Lieberman Democratic Party"
+          },
+          {
+            "Color": "0x81b1d5",
+            "ID": "44697",
+            "Desc": "Buchanan & Foster Reform Party"
+          },
+          {
+            "Color": "0x009899",
+            "ID": "44698",
+            "Desc": "Bush & Cheney Republican Party"
+          },
+          {
+            "Color": "0x8970cb",
+            "ID": "44699",
+            "Desc": "Phillips & Frazier Constitution Party"
+          },
+          {
+            "Color": "0xffec6c",
+            "ID": "44700",
+            "Desc": "Nader & LaDuke Green Party"
+          },
+          {
+            "Color": "0xff836b",
+            "ID": "44701",
+            "Desc": "Browne & Olivier Libertarian Party"
+          },
+          {
+            "Color": "0xa20017",
+            "ID": "44702",
+            "Desc": "Hagelin & Ticciati Natural Law Party"
+          },
+          {
+            "Color": "0xed1b24",
+            "ID": "44703",
+            "Desc": "Harris & Trowe Socialist Workers Party"
+          }
+        ]
+      },
+      {
+        "ID": "23254",
+        "SpecificTitle": "U. S. Representative -- 1st Congressional District",
+        "GeneralTitle": "U.S. Representative",
+        "OfficeLevel": "145",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "0",
+        "Choice": [
+          {
+            "Color": "0x8970cb",
+            "ID": "44672",
+            "Desc": "Michael A. Armato (DEM)"
+          },
+          {
+            "Color": "0xb6dc6b",
+            "ID": "44673",
+            "Desc": "Cary J. Deaton (DEM)"
+          },
+          {
+            "Color": "0xffec6c",
+            "ID": "44674",
+            "Desc": "Martin A. Rosenthal (OTHER)"
+          },
+          {
+            "Color": "0xff836b",
+            "ID": "44675",
+            "Desc": "John Paul \"Jack\" Simanonok (OTHER)"
+          },
+          { "Color": "0xa20017", "ID": "44676", "Desc": "David Vitter (REP)" }
+        ]
+      },
+      {
+        "ID": "23256",
+        "SpecificTitle": "U. S. Representative -- 3rd Congressional District",
+        "GeneralTitle": "U.S. Representative",
+        "OfficeLevel": "145",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "0",
+        "Choice": [
+          {
+            "Color": "0x8970cb",
+            "ID": "44678",
+            "Desc": "Edwin J. \"Eddie\" Albares (OTHER)"
+          },
+          {
+            "Color": "0xb6dc6b",
+            "ID": "44679",
+            "Desc": "Dion Bourque (OTHER)"
+          },
+          {
+            "Color": "0xffec6c",
+            "ID": "44680",
+            "Desc": "Anita W. Rosenthal (OTHER)"
+          },
+          {
+            "Color": "0xff836b",
+            "ID": "44681",
+            "Desc": "W. J. \"Billy\" Tauzin (REP)"
+          }
+        ]
+      },
+      {
+        "ID": "23257",
+        "SpecificTitle": "U. S. Representative -- 4th Congressional District",
+        "GeneralTitle": "U.S. Representative",
+        "OfficeLevel": "145",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "0",
+        "Choice": [
+          {
+            "Color": "0x8970cb",
+            "ID": "44683",
+            "Desc": "Phillip R. Green (DEM)"
+          },
+          {
+            "Color": "0xb6dc6b",
+            "ID": "44684",
+            "Desc": "\"Jim\" McCrery (REP)"
+          },
+          {
+            "Color": "0xffec6c",
+            "ID": "44685",
+            "Desc": "James Ronald Skains (OTHER)"
+          },
+          {
+            "Color": "0xff836b",
+            "ID": "44686",
+            "Desc": "Michael \"Mike\" Taylor (OTHER)"
+          }
+        ]
+      },
+      {
+        "ID": "23258",
+        "SpecificTitle": "U. S. Representative -- 5th Congressional District",
+        "GeneralTitle": "U.S. Representative",
+        "OfficeLevel": "145",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "0",
+        "Choice": [
+          { "Color": "0x8970cb", "ID": "44687", "Desc": "Roger Beall (DEM)" },
+          {
+            "Color": "0xb6dc6b",
+            "ID": "44688",
+            "Desc": "John C. Cooksey (REP)"
+          },
+          {
+            "Color": "0xffec6c",
+            "ID": "44689",
+            "Desc": "Raymond A. \"Chuck\" Dumas (OTHER)"
+          },
+          {
+            "Color": "0xff836b",
+            "ID": "44690",
+            "Desc": "Sam Houston Melton, Jr. (DEM)"
+          }
+        ]
+      },
+      {
+        "ID": "23259",
+        "SpecificTitle": "U. S. Representative -- 6th Congressional District",
+        "GeneralTitle": "U.S. Representative",
+        "OfficeLevel": "145",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "0",
+        "Choice": [
+          {
+            "Color": "0x8970cb",
+            "ID": "44691",
+            "Desc": "Richard H. Baker (REP)"
+          },
+          {
+            "Color": "0xb6dc6b",
+            "ID": "44692",
+            "Desc": "Kathy J. Rogillio (DEM)"
+          },
+          {
+            "Color": "0xffec6c",
+            "ID": "44693",
+            "Desc": "Michael S. Wolf (OTHER)"
+          }
+        ]
+      },
+      {
+        "ID": "23260",
+        "SpecificTitle": "U. S. Representative -- 7th Congressional District",
+        "GeneralTitle": "U.S. Representative",
+        "OfficeLevel": "145",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "0",
+        "Choice": [
+          {
+            "Color": "0x8970cb",
+            "ID": "44694",
+            "Desc": "Michael P. Harris (OTHER)"
+          },
+          { "Color": "0xb6dc6b", "ID": "44695", "Desc": "Chris John (DEM)" }
+        ]
+      },
+      {
+        "ID": "23373",
+        "SpecificTitle": "State Representative --  62nd Representative District",
+        "GeneralTitle": "State Representative",
+        "OfficeLevel": "205",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "0",
+        "Choice": [
+          { "Color": "0x8970cb", "ID": "44963", "Desc": "Myron Hall (DEM)" },
+          {
+            "Color": "0xb6dc6b",
+            "ID": "44964",
+            "Desc": "Thomas H. \"Tom\" McVea (REP)"
+          }
+        ]
+      },
+      {
+        "ID": "23363",
+        "SpecificTitle": "State Representative -- 104th Representative District",
+        "GeneralTitle": "State Representative",
+        "OfficeLevel": "205",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "0",
+        "Choice": [
+          {
+            "Color": "0x8970cb",
+            "ID": "44938",
+            "Desc": "John Finckbeiner (DEM)"
+          },
+          {
+            "Color": "0xb6dc6b",
+            "ID": "44939",
+            "Desc": "Nita Rusich Hutter (REP)"
+          },
+          {
+            "Color": "0xffec6c",
+            "ID": "44940",
+            "Desc": "Lance V. Licciardi (DEM)"
+          },
+          {
+            "Color": "0xff836b",
+            "ID": "44941",
+            "Desc": "\"Joe\" Thibodeaux (DEM)"
+          }
+        ]
+      },
+      {
+        "ID": "23374",
+        "SpecificTitle": "District Judge --  4th JDC, Election Section 2, Division B",
+        "GeneralTitle": "District Judge",
+        "OfficeLevel": "210",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "0",
+        "Choice": [
+          { "Color": "0x8970cb", "ID": "44965", "Desc": "Paul Hurd (REP)" },
+          {
+            "Color": "0xb6dc6b",
+            "ID": "44966",
+            "Desc": "Sharon Ingram Marchman (DEM)"
+          }
+        ]
+      },
+      {
+        "ID": "2290",
+        "SpecificTitle": "CA #1-Act 153/2000 1st Ex -- creates \"Louisiana, Inc.\" (economic develop.)",
+        "GeneralTitle": "Constitutional Amendment",
+        "OfficeLevel": "998",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "0",
+        "Choice": [
+          { "Color": "0x8970cb", "ID": "1", "Desc": "FOR" },
+          { "Color": "0xb6dc6b", "ID": "2", "Desc": "AGAINST" }
+        ]
+      },
+      {
+        "ID": "2291",
+        "SpecificTitle": "CA #2-Act 48/2000 Regular -- deletes fed.inc.tax deduct.from state inc.tax",
+        "GeneralTitle": "Constitutional Amendment",
+        "OfficeLevel": "998",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "0",
+        "Choice": [
+          { "Color": "0x8970cb", "ID": "1", "Desc": "FOR" },
+          { "Color": "0xb6dc6b", "ID": "2", "Desc": "AGAINST" }
+        ]
+      },
+      {
+        "ID": "2292",
+        "SpecificTitle": "CA #3-Act 49/2000 Regular -- Sales/Use Tax: NOT EFFECTIVE, C.A.#2 FAILED  ",
+        "GeneralTitle": "Constitutional Amendment",
+        "OfficeLevel": "998",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "0",
+        "Choice": [
+          { "Color": "0x8970cb", "ID": "1", "Desc": "FOR" },
+          { "Color": "0xb6dc6b", "ID": "2", "Desc": "AGAINST" }
+        ]
+      },
+      {
+        "ID": "2293",
+        "SpecificTitle": "CA #4-Act 152/2000 1st Ex -- auth.local gov.to donate revenue for ind.dev.",
+        "GeneralTitle": "Constitutional Amendment",
+        "OfficeLevel": "998",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "0",
+        "Choice": [
+          { "Color": "0x8970cb", "ID": "1", "Desc": "FOR" },
+          { "Color": "0xb6dc6b", "ID": "2", "Desc": "AGAINST" }
+        ]
+      },
+      {
+        "ID": "2294",
+        "SpecificTitle": "Teche-VRML Fresh Wtr. Dis -- 1.5 Mills Renewal -- BOC                     ",
+        "GeneralTitle": "Proposition",
+        "OfficeLevel": "999",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "0",
+        "Choice": [
+          { "Color": "0x8970cb", "ID": "3", "Desc": "YES" },
+          { "Color": "0xb6dc6b", "ID": "4", "Desc": "NO" }
+        ]
+      }
+    ]
+  }
+}

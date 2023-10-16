@@ -1,0 +1,40 @@
+{
+  "Races": {
+    "WriteTime": "2023-01-20T16:34:40.853",
+    "Race": {
+      "ID": "9651",
+      "SpecificTitle": "State Representative --  44th Representative District",
+      "GeneralTitle": "State Representative",
+      "OfficeLevel": "205",
+      "IsPresidentialNominee": "0",
+      "IsMultiParish": "1",
+      "NumberToBeElected": "1",
+      "SummaryText": null,
+      "FullText": null,
+      "IsClosedParty": "0",
+      "Choice": [
+        { "Color": "0x8970cb", "ID": "20247", "Desc": "Dale Broussard (DEM)" },
+        {
+          "Color": "0xb6dc6b",
+          "ID": "20248",
+          "Desc": "Sylvan \"Sy\" Chaze (REP)"
+        },
+        {
+          "Color": "0xffec6c",
+          "ID": "20249",
+          "Desc": "\"Don\" Higginbotham (DEM)"
+        },
+        {
+          "Color": "0xff836b",
+          "ID": "20250",
+          "Desc": "Joshua Jackson, Sr. (DEM)"
+        },
+        {
+          "Color": "0xa20017",
+          "ID": "20251",
+          "Desc": "James \"Jimmy\" Theaux (REP)"
+        }
+      ]
+    }
+  }
+}

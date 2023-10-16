@@ -1,0 +1,916 @@
+{
+  "Races": {
+    "WriteTime": "2023-01-20T15:16:09.700",
+    "Race": [
+      {
+        "ID": "53898",
+        "SpecificTitle": "Presidential Electors",
+        "GeneralTitle": "Presidential Electors",
+        "OfficeLevel": "010",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "0",
+        "Choice": [
+          {
+            "Color": "0xffec6c",
+            "ID": "101870",
+            "Desc": "Hillary Clinton, Timothy Kaine Democratic"
+          },
+          {
+            "Color": "0xff836b",
+            "ID": "101877",
+            "Desc": "Jill Stein, Ajamu Baraka Green"
+          },
+          {
+            "Color": "0x81b1d5",
+            "ID": "101874",
+            "Desc": "Gary Johnson, Bill Weld Libertarian"
+          },
+          {
+            "Color": "0x2db04a",
+            "ID": "101869",
+            "Desc": "Donald Trump, Michael Pence Republican"
+          },
+          {
+            "Color": "0x8970cb",
+            "ID": "101878",
+            "Desc": "Darrell Castle, Scott Bradley Constitution Party Nominee"
+          },
+          {
+            "Color": "0xb6dc6b",
+            "ID": "101879",
+            "Desc": "Evan McMullin, Nathan Johnson Courage Character Service"
+          },
+          {
+            "Color": "0xa20017",
+            "ID": "101875",
+            "Desc": "Laurence Kotlikoff, Edward Lea It's Our Children"
+          },
+          {
+            "Color": "0x009899",
+            "ID": "101876",
+            "Desc": "Tom Hoefling, Steve Schulin Life, Family, Constitution"
+          },
+          {
+            "Color": "0xed1b24",
+            "ID": "101872",
+            "Desc": "Princess Jacob, Milton Fambro Loyal Trustworthy Compassion"
+          },
+          {
+            "Color": "0x02538a",
+            "ID": "101871",
+            "Desc": "Gloria La Riva, Eugene Puryear Socialism and Liberation"
+          },
+          {
+            "Color": "0x642a7f",
+            "ID": "101873",
+            "Desc": "Jerry White, Niles Niemuth Socialism Equality Anti-War"
+          },
+          {
+            "Color": "0xf15a25",
+            "ID": "101529",
+            "Desc": "Alyson Kennedy, Osborne Hart Socialist Workers Party"
+          },
+          {
+            "Color": "0xa67c52",
+            "ID": "101880",
+            "Desc": "Chris Keniston, Deacon Taylor Veterans Party"
+          }
+        ]
+      },
+      {
+        "ID": "53905",
+        "SpecificTitle": "U. S. Senator",
+        "GeneralTitle": "U.S. Senator",
+        "OfficeLevel": "140",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "0",
+        "Choice": [
+          {
+            "Color": "0x8970cb",
+            "ID": "101744",
+            "Desc": "Beryl Billiot (NOPTY)"
+          },
+          {
+            "Color": "0xb6dc6b",
+            "ID": "101153",
+            "Desc": "Charles Boustany (REP)"
+          },
+          {
+            "Color": "0xffec6c",
+            "ID": "101119",
+            "Desc": "Foster Campbell (DEM)"
+          },
+          {
+            "Color": "0xff836b",
+            "ID": "101241",
+            "Desc": "\"Joseph\" Cao (REP)"
+          },
+          {
+            "Color": "0xa20017",
+            "ID": "100937",
+            "Desc": "Thomas P. Clements (LBT)"
+          },
+          {
+            "Color": "0x81b1d5",
+            "ID": "101504",
+            "Desc": "Donald \"Crawdaddy\" Crawford (REP)"
+          },
+          { "Color": "0x009899", "ID": "101694", "Desc": "David Duke (REP)" },
+          {
+            "Color": "0xed1b24",
+            "ID": "101277",
+            "Desc": "Derrick Edwards (DEM)"
+          },
+          {
+            "Color": "0x2db04a",
+            "ID": "100923",
+            "Desc": "Caroline Fayard (DEM)"
+          },
+          { "Color": "0x02538a", "ID": "100919", "Desc": "John Fleming (REP)" },
+          {
+            "Color": "0x642a7f",
+            "ID": "101063",
+            "Desc": "Le Roy Gillam (LBT)"
+          },
+          {
+            "Color": "0xf15a25",
+            "ID": "100925",
+            "Desc": "Troy Hebert (NOPTY)"
+          },
+          { "Color": "0xa67c52", "ID": "101363", "Desc": "John Kennedy (REP)" },
+          {
+            "Color": "0xffcc06",
+            "ID": "101249",
+            "Desc": "Gary Landrieu (DEM)"
+          },
+          {
+            "Color": "0xcfd5f9",
+            "ID": "101535",
+            "Desc": "William Robert \"Bob\" Lang, Jr. (OTHER)"
+          },
+          {
+            "Color": "0xc3cf8f",
+            "ID": "101621",
+            "Desc": "\"Rob\" Maness (REP)"
+          },
+          {
+            "Color": "0x1d5ede",
+            "ID": "101154",
+            "Desc": "Kaitlin Marone (NOPTY)"
+          },
+          {
+            "Color": "0xffec6c",
+            "ID": "101481",
+            "Desc": "Charles Marsala (REP)"
+          },
+          {
+            "Color": "0xed1e79",
+            "ID": "101414",
+            "Desc": "MV \"Vinny\" Mendoza (DEM)"
+          },
+          { "Color": "0x6ce3b9", "ID": "101068", "Desc": "Abhay Patel (REP)" },
+          {
+            "Color": "0xffb169",
+            "ID": "101548",
+            "Desc": "Joshua Pellerin (DEM)"
+          },
+          {
+            "Color": "0x29aae3",
+            "ID": "101526",
+            "Desc": "Gregory Taylor, Jr. (OTHER)"
+          },
+          {
+            "Color": "0xde76f3",
+            "ID": "101220",
+            "Desc": "Arden Wells (NOPTY)"
+          },
+          {
+            "Color": "0x979936",
+            "ID": "101451",
+            "Desc": "Peter Williams (DEM)"
+          }
+        ]
+      },
+      {
+        "ID": "53899",
+        "SpecificTitle": "U. S. Representative -- 1st Congressional District",
+        "GeneralTitle": "U.S. Representative",
+        "OfficeLevel": "145",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "0",
+        "Choice": [
+          { "Color": "0x8970cb", "ID": "101668", "Desc": "Eliot Barron (GRN)" },
+          {
+            "Color": "0xb6dc6b",
+            "ID": "101631",
+            "Desc": "Lee Ann Dugas (DEM)"
+          },
+          {
+            "Color": "0xffec6c",
+            "ID": "101645",
+            "Desc": "Danil Ezekiel Faust (DEM)"
+          },
+          {
+            "Color": "0xff836b",
+            "ID": "101378",
+            "Desc": "Howard Kearney (LBT)"
+          },
+          {
+            "Color": "0xa20017",
+            "ID": "101217",
+            "Desc": "Steve Scalise (REP)"
+          },
+          {
+            "Color": "0x81b1d5",
+            "ID": "101409",
+            "Desc": "Joseph \"Joe\" Swider (DEM)"
+          },
+          {
+            "Color": "0x009899",
+            "ID": "101483",
+            "Desc": "Chuemai Yang (NOPTY)"
+          }
+        ]
+      },
+      {
+        "ID": "53900",
+        "SpecificTitle": "U. S. Representative -- 2nd Congressional District",
+        "GeneralTitle": "U.S. Representative",
+        "OfficeLevel": "145",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "0",
+        "Choice": [
+          {
+            "Color": "0x8970cb",
+            "ID": "101522",
+            "Desc": "Kenneth Cutno (DEM)"
+          },
+          {
+            "Color": "0xb6dc6b",
+            "ID": "101309",
+            "Desc": "Melvin L. \"Kip\" Holden (DEM)"
+          },
+          {
+            "Color": "0xffec6c",
+            "ID": "101351",
+            "Desc": "Cedric Richmond (DEM)"
+          }
+        ]
+      },
+      {
+        "ID": "53901",
+        "SpecificTitle": "U. S. Representative -- 3rd Congressional District",
+        "GeneralTitle": "U.S. Representative",
+        "OfficeLevel": "145",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "0",
+        "Choice": [
+          {
+            "Color": "0x8970cb",
+            "ID": "101150",
+            "Desc": "Scott A. Angelle (REP)"
+          },
+          {
+            "Color": "0xb6dc6b",
+            "ID": "101342",
+            "Desc": "Bryan Barrilleaux (REP)"
+          },
+          {
+            "Color": "0xffec6c",
+            "ID": "100950",
+            "Desc": "\"Greg\" Ellison (REP)"
+          },
+          {
+            "Color": "0xff836b",
+            "ID": "101195",
+            "Desc": "Brett Geymann (REP)"
+          },
+          {
+            "Color": "0xa20017",
+            "ID": "101267",
+            "Desc": "Jacob \"Dorian Phibian\" Hebert (DEM)"
+          },
+          { "Color": "0x81b1d5", "ID": "101745", "Desc": "Clay Higgins (REP)" },
+          { "Color": "0x009899", "ID": "101385", "Desc": "Guy McLendon (LBT)" },
+          { "Color": "0xed1b24", "ID": "101188", "Desc": "Larry Rader (DEM)" },
+          {
+            "Color": "0x2db04a",
+            "ID": "101240",
+            "Desc": "\"Gus\" Rantz (REP)"
+          },
+          {
+            "Color": "0x02538a",
+            "ID": "101298",
+            "Desc": "Grover Joseph Rees (REP)"
+          },
+          {
+            "Color": "0x642a7f",
+            "ID": "101097",
+            "Desc": "Kenny P. Scelfo, Sr. (NOPTY)"
+          },
+          {
+            "Color": "0xf15a25",
+            "ID": "101568",
+            "Desc": "Herman L. Vidrine (REP)"
+          }
+        ]
+      },
+      {
+        "ID": "53902",
+        "SpecificTitle": "U. S. Representative -- 4th Congressional District",
+        "GeneralTitle": "U.S. Representative",
+        "OfficeLevel": "145",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "0",
+        "Choice": [
+          {
+            "Color": "0x8970cb",
+            "ID": "101112",
+            "Desc": "Ralph \"Trey\" Baucum (REP)"
+          },
+          {
+            "Color": "0xb6dc6b",
+            "ID": "101577",
+            "Desc": "Elbert Guillory (REP)"
+          },
+          {
+            "Color": "0xffec6c",
+            "ID": "101331",
+            "Desc": "Mark David Halverson (NOPTY)"
+          },
+          {
+            "Color": "0xff836b",
+            "ID": "101290",
+            "Desc": "Oliver Jenkins (REP)"
+          },
+          {
+            "Color": "0xa20017",
+            "ID": "101096",
+            "Desc": "\"Rick\" John (REP)"
+          },
+          {
+            "Color": "0x81b1d5",
+            "ID": "101538",
+            "Desc": "\"Mike\" Johnson (REP)"
+          },
+          {
+            "Color": "0x009899",
+            "ID": "101125",
+            "Desc": "Marshall Jones (DEM)"
+          },
+          {
+            "Color": "0xed1b24",
+            "ID": "101317",
+            "Desc": "Kenneth J. Krefft (NOPTY)"
+          }
+        ]
+      },
+      {
+        "ID": "53903",
+        "SpecificTitle": "U. S. Representative -- 5th Congressional District",
+        "GeneralTitle": "U.S. Representative",
+        "OfficeLevel": "145",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "0",
+        "Choice": [
+          {
+            "Color": "0x8970cb",
+            "ID": "100917",
+            "Desc": "Ralph Abraham, Jr. (REP)"
+          },
+          {
+            "Color": "0xb6dc6b",
+            "ID": "101750",
+            "Desc": "Billy Burkette (REP)"
+          }
+        ]
+      },
+      {
+        "ID": "53904",
+        "SpecificTitle": "U. S. Representative -- 6th Congressional District",
+        "GeneralTitle": "U.S. Representative",
+        "OfficeLevel": "145",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "0",
+        "Choice": [
+          {
+            "Color": "0x8970cb",
+            "ID": "101667",
+            "Desc": "Robert Lamar \"Bob\" Bell (REP)"
+          },
+          {
+            "Color": "0xb6dc6b",
+            "ID": "101677",
+            "Desc": "Richard M. Fontanesi (LBT)"
+          },
+          {
+            "Color": "0xffec6c",
+            "ID": "101547",
+            "Desc": "Devin Lance Graham (OTHER)"
+          },
+          {
+            "Color": "0xff836b",
+            "ID": "101242",
+            "Desc": "Garret Graves (REP)"
+          },
+          {
+            "Color": "0xa20017",
+            "ID": "100933",
+            "Desc": "Richard Lieberman (DEM)"
+          },
+          {
+            "Color": "0x81b1d5",
+            "ID": "101783",
+            "Desc": "Jermaine Sampson (DEM)"
+          }
+        ]
+      },
+      {
+        "ID": "53906",
+        "SpecificTitle": "Associate Justice -- Supreme Court, 3rd Supreme Court District",
+        "GeneralTitle": "Justice of the Supreme Court",
+        "OfficeLevel": "150",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "0",
+        "Choice": [
+          {
+            "Color": "0x8970cb",
+            "ID": "101191",
+            "Desc": "Marilyn Castle (REP)"
+          },
+          {
+            "Color": "0xb6dc6b",
+            "ID": "101140",
+            "Desc": "James \"Jimmy\" Genovese (REP)"
+          }
+        ]
+      },
+      {
+        "ID": "53948",
+        "SpecificTitle": "Judge, Court of Appeal -- 2nd Circuit, 2nd Dist., Division C",
+        "GeneralTitle": "Judge of a Court of Appeal",
+        "OfficeLevel": "155",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "0",
+        "Choice": [
+          { "Color": "0x8970cb", "ID": "101556", "Desc": "Jay Caraway (REP)" },
+          { "Color": "0xb6dc6b", "ID": "100912", "Desc": "\"Jeff\" Cox (REP)" }
+        ]
+      },
+      {
+        "ID": "53981",
+        "SpecificTitle": "Judge, Court of Appeal -- 3rd Circuit, 1st Dist., Division B",
+        "GeneralTitle": "Judge of a Court of Appeal",
+        "OfficeLevel": "155",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "0",
+        "Choice": [
+          { "Color": "0x8970cb", "ID": "101286", "Desc": "Van Kyzar (DEM)" },
+          {
+            "Color": "0xb6dc6b",
+            "ID": "101066",
+            "Desc": "\"Chris\" Peters (DEM)"
+          }
+        ]
+      },
+      {
+        "ID": "54218",
+        "SpecificTitle": "Judge, Court of Appeal -- 4th Circuit, 1st District, Division D",
+        "GeneralTitle": "Judge of a Court of Appeal",
+        "OfficeLevel": "155",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "0",
+        "Choice": [
+          {
+            "Color": "0x8970cb",
+            "ID": "101415",
+            "Desc": "Regina Bartholomew-Woods (DEM)"
+          },
+          { "Color": "0xb6dc6b", "ID": "101369", "Desc": "Laurie White (DEM)" }
+        ]
+      },
+      {
+        "ID": "53908",
+        "SpecificTitle": "PSC -- District 4",
+        "GeneralTitle": "Public Service Commission Member",
+        "OfficeLevel": "160",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "0",
+        "Choice": [
+          {
+            "Color": "0x8970cb",
+            "ID": "101500",
+            "Desc": "\"Mike\" Francis (REP)"
+          },
+          { "Color": "0xb6dc6b", "ID": "101158", "Desc": "Reldon Owens (REP)" },
+          { "Color": "0xffec6c", "ID": "101246", "Desc": "Mary Werner (DEM)" }
+        ]
+      },
+      {
+        "ID": "54264",
+        "SpecificTitle": "District Judge --  5th Judicial District Court, Div. C",
+        "GeneralTitle": "District Judge",
+        "OfficeLevel": "210",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "0",
+        "Choice": [
+          {
+            "Color": "0x8970cb",
+            "ID": "101109",
+            "Desc": "\"Steve\" Dean (REP)"
+          },
+          {
+            "Color": "0xb6dc6b",
+            "ID": "101093",
+            "Desc": "Clay Hamilton (REP)"
+          },
+          {
+            "Color": "0xffec6c",
+            "ID": "101324",
+            "Desc": "Dawn Hendrix Mims (REP)"
+          }
+        ]
+      },
+      {
+        "ID": "54281",
+        "SpecificTitle": "District Judge -- 40th Judicial District Court, ES 1, Div. B",
+        "GeneralTitle": "District Judge",
+        "OfficeLevel": "210",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "0",
+        "Choice": [
+          {
+            "Color": "0x8970cb",
+            "ID": "101082",
+            "Desc": "Nghana Lewis Gauff (NOPTY)"
+          },
+          {
+            "Color": "0xb6dc6b",
+            "ID": "101259",
+            "Desc": "\"Jeff\" Perilloux (NOPTY)"
+          },
+          {
+            "Color": "0xffec6c",
+            "ID": "101074",
+            "Desc": "\"Rob\" Snyder, Jr. (DEM)"
+          }
+        ]
+      },
+      {
+        "ID": "54263",
+        "SpecificTitle": "District Judge -- 42nd Judicial District Court, Division A",
+        "GeneralTitle": "District Judge",
+        "OfficeLevel": "210",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "0",
+        "Choice": [
+          {
+            "Color": "0x8970cb",
+            "ID": "101410",
+            "Desc": "Amy Burford McCartney (NOPTY)"
+          },
+          { "Color": "0xb6dc6b", "ID": "100914", "Desc": "John Evans (DEM)" },
+          { "Color": "0xffec6c", "ID": "101330", "Desc": "Brenda Ford (DEM)" },
+          {
+            "Color": "0xff836b",
+            "ID": "101157",
+            "Desc": "Adrienne D. White (DEM)"
+          }
+        ]
+      },
+      {
+        "ID": "53876",
+        "SpecificTitle": "Judge -- Criminal District Court, Section D",
+        "GeneralTitle": "District Judge",
+        "OfficeLevel": "210",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "0",
+        "Choice": [
+          {
+            "Color": "0x8970cb",
+            "ID": "100975",
+            "Desc": "Paul A. Bonin (DEM)"
+          },
+          {
+            "Color": "0xb6dc6b",
+            "ID": "101632",
+            "Desc": "Kevin Guillory (DEM)"
+          },
+          {
+            "Color": "0xffec6c",
+            "ID": "101212",
+            "Desc": "Dennis W. Moore (DEM)"
+          }
+        ]
+      },
+      {
+        "ID": "54021",
+        "SpecificTitle": "Mayor -- Town of Delcambre",
+        "GeneralTitle": "Mayor",
+        "OfficeLevel": "300",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "0",
+        "Choice": [
+          {
+            "Color": "0x8970cb",
+            "ID": "101422",
+            "Desc": "Pam Blakely (OTHER)"
+          },
+          {
+            "Color": "0xb6dc6b",
+            "ID": "101709",
+            "Desc": "Carol Broussard (DEM)"
+          }
+        ]
+      },
+      {
+        "ID": "54258",
+        "SpecificTitle": "Mayor -- Village of Junction City",
+        "GeneralTitle": "Mayor",
+        "OfficeLevel": "300",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "0",
+        "Choice": [
+          {
+            "Color": "0x8970cb",
+            "ID": "101562",
+            "Desc": "Freddie Gibson (DEM)"
+          },
+          {
+            "Color": "0xb6dc6b",
+            "ID": "101226",
+            "Desc": "Charles Hogue (OTHER)"
+          }
+        ]
+      },
+      {
+        "ID": "54015",
+        "SpecificTitle": "Alderman -- District 1, Town of Delcambre",
+        "GeneralTitle": "Alderman / City Council Member",
+        "OfficeLevel": "310",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "0",
+        "Choice": [
+          {
+            "Color": "0x8970cb",
+            "ID": "101467",
+            "Desc": "Madison Saunier (REP)"
+          },
+          {
+            "Color": "0xb6dc6b",
+            "ID": "101820",
+            "Desc": "Amanda \"Mandy\" Thibodeaux (NOPTY)"
+          }
+        ]
+      },
+      {
+        "ID": "54016",
+        "SpecificTitle": "Alderman -- District 2, Town of Delcambre",
+        "GeneralTitle": "Alderman / City Council Member",
+        "OfficeLevel": "310",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "0",
+        "Choice": [
+          {
+            "Color": "0x8970cb",
+            "ID": "101520",
+            "Desc": "Donald Shelvin, Jr. (DEM)"
+          },
+          {
+            "Color": "0xb6dc6b",
+            "ID": "101638",
+            "Desc": "Sarah A. Trahan (DEM)"
+          }
+        ]
+      },
+      {
+        "ID": "10397",
+        "SpecificTitle": "CA NO. 1 (ACT 677 - HB 459) -- Registrar of Voters",
+        "GeneralTitle": "Constitutional Amendment",
+        "OfficeLevel": "998",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": "Amendment No. 1",
+        "FullText": "Do you support an amendment to provide that the manner of appointment for the registrar of voters in each parish is as provided by law and to require the qualifications of the registrar to be provided by law? (Amends Article XI, Section 5)",
+        "IsClosedParty": "0",
+        "Choice": [
+          { "Color": "0x8970cb", "ID": "3", "Desc": "YES" },
+          { "Color": "0xb6dc6b", "ID": "4", "Desc": "NO" }
+        ]
+      },
+      {
+        "ID": "10400",
+        "SpecificTitle": "CA NO. 2 (ACT 680 - SB 80) -- Establish Tuition without Legislative Approval",
+        "GeneralTitle": "Constitutional Amendment",
+        "OfficeLevel": "998",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": "Amendment No. 2",
+        "FullText": "Do you support an amendment to authorize the postsecondary education management boards to establish the tuition and mandatory fee amounts charged by institutions under their supervision and management, without legislative approval? (Adds Article VIII, Section 7.2)",
+        "IsClosedParty": "0",
+        "Choice": [
+          { "Color": "0x8970cb", "ID": "3", "Desc": "YES" },
+          { "Color": "0xb6dc6b", "ID": "4", "Desc": "NO" }
+        ]
+      },
+      {
+        "ID": "10402",
+        "SpecificTitle": "CA NO. 3 (ACT 31 - HB 31) -- Eliminate Deductibility of Federal Income Taxes",
+        "GeneralTitle": "Constitutional Amendment",
+        "OfficeLevel": "998",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": "Amendment No. 3",
+        "FullText": "Do you support an amendment to eliminate the deductibility of federal income taxes paid in computing state corporate income taxes? (Effective January 1, 2017) (Amends Article VII, Section 4(A))",
+        "IsClosedParty": "0",
+        "Choice": [
+          { "Color": "0x8970cb", "ID": "3", "Desc": "YES" },
+          { "Color": "0xb6dc6b", "ID": "4", "Desc": "NO" }
+        ]
+      },
+      {
+        "ID": "10398",
+        "SpecificTitle": "CA NO. 4 (ACT 678 - HB 505) -- Homestead Exemption-Surviving Spouse",
+        "GeneralTitle": "Constitutional Amendment",
+        "OfficeLevel": "998",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": "Amendment No. 4",
+        "FullText": "Do you support an amendment to authorize an exemption from ad valorem property tax for the total assessed value of the homestead of an unmarried surviving spouse of a person who died while on active duty as a member of the armed forces of the United States or the Louisiana National Guard, or while performing their duties as a state police, law enforcement, or fire protection officer? (Effective December 1, 2016) (Adds Article VII, Section 21(M))",
+        "IsClosedParty": "0",
+        "Choice": [
+          { "Color": "0x8970cb", "ID": "3", "Desc": "YES" },
+          { "Color": "0xb6dc6b", "ID": "4", "Desc": "NO" }
+        ]
+      },
+      {
+        "ID": "10399",
+        "SpecificTitle": "CA NO. 5 (ACT 679 - HB 603) -- Revenue Stabilization Trust Fund",
+        "GeneralTitle": "Constitutional Amendment",
+        "OfficeLevel": "998",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": "Amendment No. 5",
+        "FullText": "Do you support an amendment to establish the Revenue Stabilization Trust Fund for the deposit of recurring mineral and corporate tax revenues, to restrict the use of the fund to 10% of the balance when the balance reaches $5 billion, to restrict the use of the fund to construction projects and transportation infrastructure, and to allocate recurring mineral revenues to the payment of state employee retirement debt? (Adds Article VII, Section 10(F)(4)(h), 10.15, and 10.16)",
+        "IsClosedParty": "0",
+        "Choice": [
+          { "Color": "0x8970cb", "ID": "3", "Desc": "YES" },
+          { "Color": "0xb6dc6b", "ID": "4", "Desc": "NO" }
+        ]
+      },
+      {
+        "ID": "10401",
+        "SpecificTitle": "CA NO. 6 (ACT 681 - SB 201) -- Use Funds to Eliminate Projected Deficits",
+        "GeneralTitle": "Constitutional Amendment",
+        "OfficeLevel": "998",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": "Amendment No. 6",
+        "FullText": "Do you support an amendment to authorize the use of up to five percent of current year appropriations or allocations from statutorily or certain constitutionally created funds or up to one percent of the current year's balances in certain constitutionally created funds to eliminate a projected deficit in the next fiscal year if the official forecast for the next fiscal year is less than the official forecast for the current fiscal year or if the official forecast has been reduced by at least one percent from the most recently adopted estimate for the ensuing fiscal year, and to exempt certain funds and mandates from being used to eliminate a projected deficit? (Amends Article VII, Section 10(F)(2)(b); adds Article VII, Section 10(F)(4)(h), (i), (j), (k), and (l))",
+        "IsClosedParty": "0",
+        "Choice": [
+          { "Color": "0x8970cb", "ID": "3", "Desc": "YES" },
+          { "Color": "0xb6dc6b", "ID": "4", "Desc": "NO" }
+        ]
+      },
+      {
+        "ID": "10389",
+        "SpecificTitle": "City of Shreveport -- 1/4% S&U - CC - Perp.",
+        "GeneralTitle": "Proposition",
+        "OfficeLevel": "999",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": "City of Shreveport Proposition\n(Sales Tax Renewal)",
+        "FullText": "Shall the City of Shreveport, State of Louisiana (the \"City\"), under the provisions of La. R.S. 47:338.16 and other constitutional and statutory authority supplemental thereto, be authorized to levy and collect, and adopt an ordinance providing for such levy and collection, a renewal tax of one-fourth of one percent (1/4%) (the \"Tax\"), upon the sale at retail, the use, the lease or rental, the consumption, and the storage for use or consumption of tangible personal property and on sales of services, (an estimated $10,832,000 for an entire year, with adjustments depending upon the fluctuation of annual budgets), and with such avails or proceeds of the Tax (after paying the reasonable and necessary costs and expenses of collecting and administering the Tax) will be dedicated and used solely and exclusively for salaries, benefits, equipment and personnel for the Police and Fire Departments of the City of Shreveport, given that the passage and renewal of this tax at the November 2016 election will eliminate that need to call the tax for future elections as it will exist in perpetuity and have an effective date of January 1, 2018?",
+        "IsClosedParty": "0",
+        "Choice": [
+          { "Color": "0x8970cb", "ID": "3", "Desc": "YES" },
+          { "Color": "0xb6dc6b", "ID": "4", "Desc": "NO" }
+        ]
+      },
+      {
+        "ID": "10374",
+        "SpecificTitle": "Fire Protection Dist. No. 6 -- 16 Mills - BOC - 10 Yrs.",
+        "GeneralTitle": "Proposition",
+        "OfficeLevel": "999",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": "Fire Protection District No. 6 Proposition\n(Millage Renewal)",
+        "FullText": "Shall Fire Protection District No. 6 of the Parish of Terrebonne and the Parish of Lafourche, State of Louisiana (the \"District\"), levy a sixteen (16) mills tax on all property subject to taxation in said District (an estimated $1,469,120 reasonably expected at this time to be collected from the levy of the tax for an entire year), for a period of ten (10) years, beginning with the year 2018 and ending with the year 2027, for the purpose of acquiring, constructing, maintaining and operating the District's fire protection and emergency medical services facilities, for purchasing fire trucks and other fire fighting or emergency medical service equipment and paying the cost of obtaining water for fire protection purposes including charges for fire hydrant rentals and service?",
+        "IsClosedParty": "0",
+        "Choice": [
+          { "Color": "0x8970cb", "ID": "3", "Desc": "YES" },
+          { "Color": "0xb6dc6b", "ID": "4", "Desc": "NO" }
+        ]
+      },
+      {
+        "ID": "10394",
+        "SpecificTitle": "Bayou Blue Fire Prot. Dist. -- 20 Mills - BOC - 10 Yrs.",
+        "GeneralTitle": "Proposition",
+        "OfficeLevel": "999",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": "Bayou Blue Fire Protection District Proposition\n(In-Lieu Millage)",
+        "FullText": "Shall the Bayou Blue Fire Protection District of the Parishes of Terrebonne and Lafourche, State of Louisiana (the \"District\"), levy a special twenty (20) mills tax on all property subject to taxation within the District (an estimated $809,600 reasonably expected at this time to be collected from the levy of the tax for an entire year), for a period of ten (10) years, beginning with the year 2017 and ending with the year 2026, for the purpose of acquiring, constructing, improving, maintaining and operating facilities and equipment to provide fire protection and emergency medical services and paying the costs of obtaining water for fire protection purposes, including fire hydrants rentals and service, said tax to be in lieu of and replace a 10 mills tax authorized to be levied in the District through the year 2022, at an election held in said District on November 19, 2011?",
+        "IsClosedParty": "0",
+        "Choice": [
+          { "Color": "0x8970cb", "ID": "3", "Desc": "YES" },
+          { "Color": "0xb6dc6b", "ID": "4", "Desc": "NO" }
+        ]
+      }
+    ]
+  }
+}

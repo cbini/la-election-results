@@ -1,0 +1,799 @@
+{
+  "Races": {
+    "WriteTime": "2023-01-20T16:42:02.207",
+    "Race": [
+      {
+        "ID": "42230",
+        "SpecificTitle": "Lieutenant Governor",
+        "GeneralTitle": "Lieutenant Governor",
+        "OfficeLevel": "105",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "0",
+        "Choice": [
+          {
+            "Color": "0x000000",
+            "ID": "79780",
+            "Desc": "James E. \"Jimmy\" Fitzmorris, Jr. (DEM)"
+          },
+          {
+            "Color": "0x000000",
+            "ID": "79781",
+            "Desc": "Robert L. \"Bobby\" Freeman (DEM)"
+          }
+        ]
+      },
+      {
+        "ID": "42228",
+        "SpecificTitle": "Commissioner of -- Insurance",
+        "GeneralTitle": "Commissioner of Insurance",
+        "OfficeLevel": "130",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "0",
+        "Choice": [
+          {
+            "Color": "0x000000",
+            "ID": "79776",
+            "Desc": "Sherman A. Bernard (DEM)"
+          },
+          {
+            "Color": "0x000000",
+            "ID": "79777",
+            "Desc": "\"Dave\" Brennan (REP)"
+          }
+        ]
+      },
+      {
+        "ID": "42258",
+        "SpecificTitle": "State Senator -- 11th Senatorial District",
+        "GeneralTitle": "State Senator",
+        "OfficeLevel": "200",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "0",
+        "Choice": [
+          { "Color": "0x000000", "ID": "79836", "Desc": "Roy K. Burns (DEM)" },
+          {
+            "Color": "0x000000",
+            "ID": "79837",
+            "Desc": "Gerry E. Hinton (DEM)"
+          }
+        ]
+      },
+      {
+        "ID": "42259",
+        "SpecificTitle": "State Senator -- 20th Senatorial District",
+        "GeneralTitle": "State Senator",
+        "OfficeLevel": "200",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "0",
+        "Choice": [
+          {
+            "Color": "0x000000",
+            "ID": "79838",
+            "Desc": "Leonard J. Chabert (DEM)"
+          },
+          {
+            "Color": "0x000000",
+            "ID": "79839",
+            "Desc": "Glynn F. Voisin (DEM)"
+          }
+        ]
+      },
+      {
+        "ID": "42260",
+        "SpecificTitle": "State Senator -- 28th Senatorial District",
+        "GeneralTitle": "State Senator",
+        "OfficeLevel": "200",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "0",
+        "Choice": [
+          { "Color": "0x000000", "ID": "79840", "Desc": "\"Don\" Hines (DEM)" },
+          { "Color": "0x000000", "ID": "79841", "Desc": "John Saunders (DEM)" }
+        ]
+      },
+      {
+        "ID": "42261",
+        "SpecificTitle": "State Senator -- 29th Senatorial District",
+        "GeneralTitle": "State Senator",
+        "OfficeLevel": "200",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "0",
+        "Choice": [
+          {
+            "Color": "0x000000",
+            "ID": "79842",
+            "Desc": "\"Joe\" McPherson (DEM)"
+          },
+          {
+            "Color": "0x000000",
+            "ID": "79843",
+            "Desc": "Edward G. \"Ned\" Randolph, Jr. (DEM)"
+          }
+        ]
+      },
+      {
+        "ID": "42262",
+        "SpecificTitle": "State Senator -- 39th Senatorial District",
+        "GeneralTitle": "State Senator",
+        "OfficeLevel": "200",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "0",
+        "Choice": [
+          { "Color": "0x000000", "ID": "79844", "Desc": "Bill Keith (DEM)" },
+          { "Color": "0x000000", "ID": "79845", "Desc": "Gregory Tarver (DEM)" }
+        ]
+      },
+      {
+        "ID": "42231",
+        "SpecificTitle": "State Representative --   1st Representative District",
+        "GeneralTitle": "State Representative",
+        "OfficeLevel": "205",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "0",
+        "Choice": [
+          { "Color": "0x000000", "ID": "79782", "Desc": "Bruce N. Lynn (REP)" },
+          {
+            "Color": "0x000000",
+            "ID": "79783",
+            "Desc": "John W. \"Jack\" Miller (DEM)"
+          }
+        ]
+      },
+      {
+        "ID": "42232",
+        "SpecificTitle": "State Representative --   2nd Representative District",
+        "GeneralTitle": "State Representative",
+        "OfficeLevel": "205",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "0",
+        "Choice": [
+          {
+            "Color": "0x000000",
+            "ID": "79784",
+            "Desc": "Alphonse Jackson, Jr. (DEM)"
+          },
+          { "Color": "0x000000", "ID": "79785", "Desc": "Roy W. Lester (DEM)" }
+        ]
+      },
+      {
+        "ID": "42233",
+        "SpecificTitle": "State Representative --   3rd Representative District",
+        "GeneralTitle": "State Representative",
+        "OfficeLevel": "205",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "0",
+        "Choice": [
+          {
+            "Color": "0x000000",
+            "ID": "79786",
+            "Desc": "Jerry Tim Brooks (DEM)"
+          },
+          {
+            "Color": "0x000000",
+            "ID": "79787",
+            "Desc": "Willie Singleton (DEM)"
+          }
+        ]
+      },
+      {
+        "ID": "42234",
+        "SpecificTitle": "State Representative --  11th Representative District",
+        "GeneralTitle": "State Representative",
+        "OfficeLevel": "205",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "0",
+        "Choice": [
+          {
+            "Color": "0x000000",
+            "ID": "79788",
+            "Desc": "Louise B. Johnson (DEM)"
+          },
+          { "Color": "0x000000", "ID": "79789", "Desc": "Jimmy Long (DEM)" }
+        ]
+      },
+      {
+        "ID": "42235",
+        "SpecificTitle": "State Representative --  15th Representative District",
+        "GeneralTitle": "State Representative",
+        "OfficeLevel": "205",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "0",
+        "Choice": [
+          {
+            "Color": "0x000000",
+            "ID": "79790",
+            "Desc": "Evelyn Blackmon (DEM)"
+          },
+          {
+            "Color": "0x000000",
+            "ID": "79791",
+            "Desc": "Robert Charles Payne (REP)"
+          }
+        ]
+      },
+      {
+        "ID": "42236",
+        "SpecificTitle": "State Representative --  18th Representative District",
+        "GeneralTitle": "State Representative",
+        "OfficeLevel": "205",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "0",
+        "Choice": [
+          {
+            "Color": "0x000000",
+            "ID": "79792",
+            "Desc": "Ralph W. Coleman (DEM)"
+          },
+          {
+            "Color": "0x000000",
+            "ID": "79793",
+            "Desc": "Archie R. Crosby (DEM)"
+          }
+        ]
+      },
+      {
+        "ID": "42237",
+        "SpecificTitle": "State Representative --  19th Representative District",
+        "GeneralTitle": "State Representative",
+        "OfficeLevel": "205",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "0",
+        "Choice": [
+          {
+            "Color": "0x000000",
+            "ID": "79794",
+            "Desc": "Francis Thompson (DEM)"
+          },
+          {
+            "Color": "0x000000",
+            "ID": "79795",
+            "Desc": "Moses Junior Williams (DEM)"
+          }
+        ]
+      },
+      {
+        "ID": "42238",
+        "SpecificTitle": "State Representative --  20th Representative District",
+        "GeneralTitle": "State Representative",
+        "OfficeLevel": "205",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "0",
+        "Choice": [
+          {
+            "Color": "0x000000",
+            "ID": "79796",
+            "Desc": "W. Fox McKeithen (DEM)"
+          },
+          { "Color": "0x000000", "ID": "79797", "Desc": "Glen Williams (DEM)" }
+        ]
+      },
+      {
+        "ID": "42239",
+        "SpecificTitle": "State Representative --  22nd Representative District",
+        "GeneralTitle": "State Representative",
+        "OfficeLevel": "205",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "0",
+        "Choice": [
+          {
+            "Color": "0x000000",
+            "ID": "79798",
+            "Desc": "Thomas \"Bud\" Brady (DEM)"
+          },
+          { "Color": "0x000000", "ID": "79799", "Desc": "W. L. Rambo (DEM)" }
+        ]
+      },
+      {
+        "ID": "42240",
+        "SpecificTitle": "State Representative --  34th Representative District",
+        "GeneralTitle": "State Representative",
+        "OfficeLevel": "205",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "0",
+        "Choice": [
+          { "Color": "0x000000", "ID": "79800", "Desc": "Allen August (DEM)" },
+          { "Color": "0x000000", "ID": "79801", "Desc": "Wilford Carter (DEM)" }
+        ]
+      },
+      {
+        "ID": "42241",
+        "SpecificTitle": "State Representative --  45th Representative District",
+        "GeneralTitle": "State Representative",
+        "OfficeLevel": "205",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "0",
+        "Choice": [
+          {
+            "Color": "0x000000",
+            "ID": "79802",
+            "Desc": "Kathleen Babineaux Blanco (DEM)"
+          },
+          {
+            "Color": "0x000000",
+            "ID": "79803",
+            "Desc": "\"Jan\" Heymann (REP)"
+          }
+        ]
+      },
+      {
+        "ID": "42242",
+        "SpecificTitle": "State Representative --  53rd Representative District",
+        "GeneralTitle": "State Representative",
+        "OfficeLevel": "205",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "0",
+        "Choice": [
+          { "Color": "0x000000", "ID": "79804", "Desc": "Marty Chabert (DEM)" },
+          {
+            "Color": "0x000000",
+            "ID": "79805",
+            "Desc": "Murray J. Herbert (DEM)"
+          }
+        ]
+      },
+      {
+        "ID": "42243",
+        "SpecificTitle": "State Representative --  58th Representative District",
+        "GeneralTitle": "State Representative",
+        "OfficeLevel": "205",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "0",
+        "Choice": [
+          {
+            "Color": "0x000000",
+            "ID": "79806",
+            "Desc": "Melvin Irvin, Jr. (DEM)"
+          },
+          {
+            "Color": "0x000000",
+            "ID": "79807",
+            "Desc": "Camille J. Russo, Jr. (DEM)"
+          }
+        ]
+      },
+      {
+        "ID": "42244",
+        "SpecificTitle": "State Representative --  61st Representative District",
+        "GeneralTitle": "State Representative",
+        "OfficeLevel": "205",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "0",
+        "Choice": [
+          {
+            "Color": "0x000000",
+            "ID": "79808",
+            "Desc": "Walter C. Dumas (DEM)"
+          },
+          { "Color": "0x000000", "ID": "79809", "Desc": "Louis Jetson (DEM)" }
+        ]
+      },
+      {
+        "ID": "42245",
+        "SpecificTitle": "State Representative --  62nd Representative District",
+        "GeneralTitle": "State Representative",
+        "OfficeLevel": "205",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "0",
+        "Choice": [
+          { "Color": "0x000000", "ID": "79810", "Desc": "\"Tom\" McVea (DEM)" },
+          { "Color": "0x000000", "ID": "79811", "Desc": "John D. Travis (DEM)" }
+        ]
+      },
+      {
+        "ID": "42246",
+        "SpecificTitle": "State Representative --  63rd Representative District",
+        "GeneralTitle": "State Representative",
+        "OfficeLevel": "205",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "0",
+        "Choice": [
+          {
+            "Color": "0x000000",
+            "ID": "79812",
+            "Desc": "Melvin \"Kip\" Holden (DEM)"
+          },
+          {
+            "Color": "0x000000",
+            "ID": "79813",
+            "Desc": "Jewel J. Newman (DEM)"
+          }
+        ]
+      },
+      {
+        "ID": "42247",
+        "SpecificTitle": "State Representative --  71st Representative District",
+        "GeneralTitle": "State Representative",
+        "OfficeLevel": "205",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "0",
+        "Choice": [
+          {
+            "Color": "0x000000",
+            "ID": "79814",
+            "Desc": "Julius A. Blount (DEM)"
+          },
+          {
+            "Color": "0x000000",
+            "ID": "79815",
+            "Desc": "Theresa Jackson (DEM)"
+          }
+        ]
+      },
+      {
+        "ID": "42248",
+        "SpecificTitle": "State Representative --  72nd Representative District",
+        "GeneralTitle": "State Representative",
+        "OfficeLevel": "205",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "0",
+        "Choice": [
+          {
+            "Color": "0x000000",
+            "ID": "79816",
+            "Desc": "Ty Cobb Lanier (DEM)"
+          },
+          { "Color": "0x000000", "ID": "79817", "Desc": "Weldon Russell (DEM)" }
+        ]
+      },
+      {
+        "ID": "42249",
+        "SpecificTitle": "State Representative --  77th Representative District",
+        "GeneralTitle": "State Representative",
+        "OfficeLevel": "205",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "0",
+        "Choice": [
+          {
+            "Color": "0x000000",
+            "ID": "79818",
+            "Desc": "Edward J. Deano, Jr. (DEM)"
+          },
+          {
+            "Color": "0x000000",
+            "ID": "79819",
+            "Desc": "Rykert O. Toledano, Jr. (DEM)"
+          }
+        ]
+      },
+      {
+        "ID": "42250",
+        "SpecificTitle": "State Representative --  79th Representative District",
+        "GeneralTitle": "State Representative",
+        "OfficeLevel": "205",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "0",
+        "Choice": [
+          {
+            "Color": "0x000000",
+            "ID": "79820",
+            "Desc": "\"Herb\" Cammatte (REP)"
+          },
+          {
+            "Color": "0x000000",
+            "ID": "79821",
+            "Desc": "Kernan \"Skip\" Hand (REP)"
+          }
+        ]
+      },
+      {
+        "ID": "42251",
+        "SpecificTitle": "State Representative --  87th Representative District",
+        "GeneralTitle": "State Representative",
+        "OfficeLevel": "205",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "0",
+        "Choice": [
+          { "Color": "0x000000", "ID": "79822", "Desc": "N.j. Damico (DEM)" },
+          {
+            "Color": "0x000000",
+            "ID": "79823",
+            "Desc": "Lloyd Lewis, Sr. (DEM)"
+          }
+        ]
+      },
+      {
+        "ID": "42252",
+        "SpecificTitle": "State Representative --  95th Representative District",
+        "GeneralTitle": "State Representative",
+        "OfficeLevel": "205",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "0",
+        "Choice": [
+          {
+            "Color": "0x000000",
+            "ID": "79824",
+            "Desc": "E. Henry Heaton, Jr. (DEM)"
+          },
+          {
+            "Color": "0x000000",
+            "ID": "79825",
+            "Desc": "Leo A. Watermeier (DEM)"
+          }
+        ]
+      },
+      {
+        "ID": "42253",
+        "SpecificTitle": "State Representative --  96th Representative District",
+        "GeneralTitle": "State Representative",
+        "OfficeLevel": "205",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "0",
+        "Choice": [
+          {
+            "Color": "0x000000",
+            "ID": "79826",
+            "Desc": "Louis Charbonnet III (DEM)"
+          },
+          {
+            "Color": "0x000000",
+            "ID": "79827",
+            "Desc": "Charles R. Jones (DEM)"
+          }
+        ]
+      },
+      {
+        "ID": "42254",
+        "SpecificTitle": "State Representative --  97th Representative District",
+        "GeneralTitle": "State Representative",
+        "OfficeLevel": "205",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "0",
+        "Choice": [
+          {
+            "Color": "0x000000",
+            "ID": "79828",
+            "Desc": "George C. \"Nick\" Connor, Jr. (DEM)"
+          },
+          {
+            "Color": "0x000000",
+            "ID": "79829",
+            "Desc": "Arthur A. Morrell (DEM)"
+          }
+        ]
+      },
+      {
+        "ID": "42255",
+        "SpecificTitle": "State Representative -- 102nd Representative District",
+        "GeneralTitle": "State Representative",
+        "OfficeLevel": "205",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "0",
+        "Choice": [
+          {
+            "Color": "0x000000",
+            "ID": "79830",
+            "Desc": "Francis C. Heitmeier (DEM)"
+          },
+          {
+            "Color": "0x000000",
+            "ID": "79831",
+            "Desc": "Leon M. Langley (DEM)"
+          }
+        ]
+      },
+      {
+        "ID": "42256",
+        "SpecificTitle": "State Representative -- 103rd Representative District",
+        "GeneralTitle": "State Representative",
+        "OfficeLevel": "205",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "0",
+        "Choice": [
+          {
+            "Color": "0x000000",
+            "ID": "79832",
+            "Desc": "Edward S. Bopp (DEM)"
+          },
+          {
+            "Color": "0x000000",
+            "ID": "79833",
+            "Desc": "Edw.\"Bud Rip\" Ripoll (REP)"
+          }
+        ]
+      },
+      {
+        "ID": "42257",
+        "SpecificTitle": "State Representative -- 105th Representative District",
+        "GeneralTitle": "State Representative",
+        "OfficeLevel": "205",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "0",
+        "Choice": [
+          {
+            "Color": "0x000000",
+            "ID": "79834",
+            "Desc": "Frank J. Patti (DEM)"
+          },
+          {
+            "Color": "0x000000",
+            "ID": "79835",
+            "Desc": "Gregory P. Ruiz (DEM)"
+          }
+        ]
+      },
+      {
+        "ID": "42229",
+        "SpecificTitle": "District Judge --  7th Judicial District Court, Division A",
+        "GeneralTitle": "District Judge",
+        "OfficeLevel": "210",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "0",
+        "Choice": [
+          {
+            "Color": "0x000000",
+            "ID": "79778",
+            "Desc": "Glenn Gremillion (DEM)"
+          },
+          {
+            "Color": "0x000000",
+            "ID": "79779",
+            "Desc": "George Griffing (DEM)"
+          }
+        ]
+      },
+      {
+        "ID": "42673",
+        "SpecificTitle": "District Judge --  9th Judicial District Court, Division F",
+        "GeneralTitle": "District Judge",
+        "OfficeLevel": "210",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "0",
+        "Choice": [
+          {
+            "Color": "0x000000",
+            "ID": "80671",
+            "Desc": "Polk Culpepper (DEM)"
+          },
+          {
+            "Color": "0x000000",
+            "ID": "80672",
+            "Desc": "Lewis \"Buddy\" Lauve (DEM)"
+          }
+        ]
+      }
+    ]
+  }
+}

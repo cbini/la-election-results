@@ -1,0 +1,251 @@
+{
+  "Races": {
+    "WriteTime": "2023-01-20T15:11:30.763",
+    "Race": [
+      {
+        "ID": "56437",
+        "SpecificTitle": "Secretary of State",
+        "GeneralTitle": "Secretary of State",
+        "OfficeLevel": "110",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "0",
+        "Choice": [
+          { "Color": "0x8970cb", "ID": "106131", "Desc": "Kyle Ardoin (REP)" },
+          {
+            "Color": "0xb6dc6b",
+            "ID": "106132",
+            "Desc": "\"Gwen\" Collins-Greenup (DEM)"
+          }
+        ]
+      },
+      {
+        "ID": "56439",
+        "SpecificTitle": "State Representative --  90th Representative District",
+        "GeneralTitle": "State Representative",
+        "OfficeLevel": "205",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "0",
+        "Choice": [
+          {
+            "Color": "0x8970cb",
+            "ID": "106135",
+            "Desc": "Mary DuBuisson (REP)"
+          },
+          { "Color": "0xb6dc6b", "ID": "106136", "Desc": "John Raymond (REP)" }
+        ]
+      },
+      {
+        "ID": "56372",
+        "SpecificTitle": "Judge -- Civil District Court, Division E",
+        "GeneralTitle": "District Judge",
+        "OfficeLevel": "210",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "0",
+        "Choice": [
+          { "Color": "0x8970cb", "ID": "106001", "Desc": "Omar Mason (DEM)" },
+          {
+            "Color": "0xb6dc6b",
+            "ID": "106002",
+            "Desc": "Marie Williams (DEM)"
+          }
+        ]
+      },
+      {
+        "ID": "56379",
+        "SpecificTitle": "Mayor -- City of Shreveport",
+        "GeneralTitle": "Mayor",
+        "OfficeLevel": "300",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "0",
+        "Choice": [
+          {
+            "Color": "0x8970cb",
+            "ID": "106015",
+            "Desc": "Adrian Perkins (DEM)"
+          },
+          {
+            "Color": "0xb6dc6b",
+            "ID": "106016",
+            "Desc": "Ollie S. Tyler (DEM)"
+          }
+        ]
+      },
+      {
+        "ID": "56330",
+        "SpecificTitle": "Alderman -- Town of Arnaudville",
+        "GeneralTitle": "Alderman / City Council Member",
+        "OfficeLevel": "310",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "0",
+        "Choice": [
+          {
+            "Color": "0x8970cb",
+            "ID": "105905",
+            "Desc": "Bertha Begnaud (DEM)"
+          },
+          {
+            "Color": "0xb6dc6b",
+            "ID": "105906",
+            "Desc": "\"Debbie\" Kidder (DEM)"
+          }
+        ]
+      },
+      {
+        "ID": "56326",
+        "SpecificTitle": "Alderman -- Ward 1, City of Eunice",
+        "GeneralTitle": "Alderman / City Council Member",
+        "OfficeLevel": "310",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "0",
+        "Choice": [
+          {
+            "Color": "0x8970cb",
+            "ID": "105897",
+            "Desc": "Chad Andrepont (NOPTY)"
+          },
+          { "Color": "0xb6dc6b", "ID": "105898", "Desc": "Roland Miller (REP)" }
+        ]
+      },
+      {
+        "ID": "56327",
+        "SpecificTitle": "Alderman -- Ward 2, City of Eunice",
+        "GeneralTitle": "Alderman / City Council Member",
+        "OfficeLevel": "310",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "0",
+        "Choice": [
+          {
+            "Color": "0x8970cb",
+            "ID": "105899",
+            "Desc": "Germaine Simpson (DEM)"
+          },
+          {
+            "Color": "0xb6dc6b",
+            "ID": "105900",
+            "Desc": "\"Jackie Ju Ju\" Vallare (DEM)"
+          }
+        ]
+      },
+      {
+        "ID": "56362",
+        "SpecificTitle": "Councilman -- District  A, City of Shreveport",
+        "GeneralTitle": "Alderman / City Council Member",
+        "OfficeLevel": "310",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "0",
+        "Choice": [
+          {
+            "Color": "0x8970cb",
+            "ID": "105977",
+            "Desc": "Willie Bradford (DEM)"
+          },
+          {
+            "Color": "0xb6dc6b",
+            "ID": "105978",
+            "Desc": "Rose Wilson McCulloch (DEM)"
+          }
+        ]
+      },
+      {
+        "ID": "56363",
+        "SpecificTitle": "Councilman -- District  B, City of Shreveport",
+        "GeneralTitle": "Alderman / City Council Member",
+        "OfficeLevel": "310",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "0",
+        "Choice": [
+          {
+            "Color": "0x8970cb",
+            "ID": "105979",
+            "Desc": "LeVette Fuller (DEM)"
+          },
+          { "Color": "0xb6dc6b", "ID": "105980", "Desc": "Wendy Vance (REP)" }
+        ]
+      },
+      {
+        "ID": "56364",
+        "SpecificTitle": "Councilman -- District  C, City of Shreveport",
+        "GeneralTitle": "Alderman / City Council Member",
+        "OfficeLevel": "310",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "0",
+        "Choice": [
+          {
+            "Color": "0x8970cb",
+            "ID": "105981",
+            "Desc": "Patrick Kirton (REP)"
+          },
+          {
+            "Color": "0xb6dc6b",
+            "ID": "105982",
+            "Desc": "John Nickelson (REP)"
+          }
+        ]
+      },
+      {
+        "ID": "56365",
+        "SpecificTitle": "Councilman -- District  D, City of Shreveport",
+        "GeneralTitle": "Alderman / City Council Member",
+        "OfficeLevel": "310",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "0",
+        "Choice": [
+          {
+            "Color": "0x8970cb",
+            "ID": "105983",
+            "Desc": "Grayson Boucher (REP)"
+          },
+          {
+            "Color": "0xb6dc6b",
+            "ID": "105984",
+            "Desc": "Versa \"V.O.\" Clark (DEM)"
+          }
+        ]
+      }
+    ]
+  }
+}

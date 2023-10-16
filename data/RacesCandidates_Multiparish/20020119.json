@@ -1,0 +1,21 @@
+{
+  "Races": {
+    "WriteTime": "2023-01-20T16:00:52.313",
+    "Race": {
+      "ID": "2686",
+      "SpecificTitle": "City of Eunice -- 1% S&U -- Mayor & BOA                        ",
+      "GeneralTitle": "Proposition",
+      "OfficeLevel": "999",
+      "IsPresidentialNominee": "0",
+      "IsMultiParish": "1",
+      "NumberToBeElected": "1",
+      "SummaryText": "CITY OF EUNICE PROPOSITION\nSALES TAX CONTINUATION\n\nSUMMARY: 1% SALES TAX CONTINUATION FOR 25 YEARS FOR PROVIDING ADDITIONAL REVENUES FOR THE GENERAL FUND OF THE CITY AND  FOR CONSTRUCTING, OPERATING, IMPROVING AND MAINTAINING CAPITAL IMPROVEMENTS, (INCLUDING, BUT NOT LIMITED TO, PUBLIC BUILDINGS AND STRUCTURES), SUBJECT TO FUNDING INTO BONDS.",
+      "FullText": "Shall the City of Eunice, State of Louisiana (the \"City\"), under the provisions of Article VI, Section 29(A) of the Constitution of the State of Louisiana of 1974, and other constitutional and statutory authority, be authorized to continue to levy and collect a tax of one percent (1%)  (the \"Tax\") upon the sale at retail, the use, the lease or rental, the consumption, and the storage for use or consumption, of tangible personal property and on sales of services in the City, all as defined in La. R.S. 47:301 through 47:317, inclusive, for a period of twenty-five (25) years from the date of the first levy of said tax (beginning January 1, 2003),  with the proceeds of the Tax (after paying the reasonable and necessary costs and expenses of collecting and administering the Tax), to be dedicated and used for the purpose of providing additional revenues for the general fund of the City and for constructing, operating, improving and maintaining capital improvements, (including, but not limited to, public buildings and structures), and shall the City be further authorized to fund the proceeds of the Tax into bonds, to the extent and in the manner permitted by the laws of Louisiana, including particularly Sub-Part F, Part III, Chapter 4, Title 39 of the Louisiana Revised Statutes of 1950?",
+      "IsClosedParty": "0",
+      "Choice": [
+        { "Color": "0x8970cb", "ID": "3", "Desc": "YES" },
+        { "Color": "0xb6dc6b", "ID": "4", "Desc": "NO" }
+      ]
+    }
+  }
+}

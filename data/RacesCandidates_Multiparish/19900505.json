@@ -1,0 +1,21 @@
+{
+  "Races": {
+    "WriteTime": "2023-01-20T16:34:20.687",
+    "Race": {
+      "ID": "9716",
+      "SpecificTitle": "Mayor -- City of DeRidder",
+      "GeneralTitle": "Mayor",
+      "OfficeLevel": "300",
+      "IsPresidentialNominee": "0",
+      "IsMultiParish": "1",
+      "NumberToBeElected": "1",
+      "SummaryText": null,
+      "FullText": null,
+      "IsClosedParty": "0",
+      "Choice": [
+        { "Color": "0x8970cb", "ID": "20531", "Desc": "Gregory Cagle (DEM)" },
+        { "Color": "0xb6dc6b", "ID": "20532", "Desc": "Gerald Johnson (DEM)" }
+      ]
+    }
+  }
+}

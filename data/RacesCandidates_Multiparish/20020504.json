@@ -1,0 +1,51 @@
+{
+  "Races": {
+    "WriteTime": "2023-01-20T16:00:17.660",
+    "Race": [
+      {
+        "ID": "25968",
+        "SpecificTitle": "State Representative --  91st Representative District",
+        "GeneralTitle": "State Representative",
+        "OfficeLevel": "205",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "0",
+        "Choice": [
+          {
+            "Color": "0x8970cb",
+            "ID": "50199",
+            "Desc": "Jalila Jefferson (DEM)"
+          },
+          {
+            "Color": "0xb6dc6b",
+            "ID": "50200",
+            "Desc": "Rosalind Magee Peychaud (DEM)"
+          }
+        ]
+      },
+      {
+        "ID": "25969",
+        "SpecificTitle": "District Judge -- 17th JDC, Division C",
+        "GeneralTitle": "District Judge",
+        "OfficeLevel": "210",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "0",
+        "Choice": [
+          { "Color": "0x8970cb", "ID": "50201", "Desc": "Walt Lanier (DEM)" },
+          {
+            "Color": "0xb6dc6b",
+            "ID": "50202",
+            "Desc": "Louis \"Thad\" Toups (REP)"
+          }
+        ]
+      }
+    ]
+  }
+}

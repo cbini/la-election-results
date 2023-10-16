@@ -1,0 +1,29 @@
+{
+  "Races": {
+    "WriteTime": "2023-01-20T16:02:49.047",
+    "Race": {
+      "ID": "23455",
+      "SpecificTitle": "State Representative -- 104th Representative District",
+      "GeneralTitle": "State Representative",
+      "OfficeLevel": "205",
+      "IsPresidentialNominee": "0",
+      "IsMultiParish": "1",
+      "NumberToBeElected": "1",
+      "SummaryText": null,
+      "FullText": null,
+      "IsClosedParty": "0",
+      "Choice": [
+        {
+          "Color": "0x8970cb",
+          "ID": "45142",
+          "Desc": "Nita Rusich Hutter (REP)"
+        },
+        {
+          "Color": "0xb6dc6b",
+          "ID": "45143",
+          "Desc": "Lance V. Licciardi (DEM)"
+        }
+      ]
+    }
+  }
+}

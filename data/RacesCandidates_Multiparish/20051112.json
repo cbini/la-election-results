@@ -1,0 +1,31 @@
+{
+  "Races": {
+    "WriteTime": "2023-01-20T15:49:54.040",
+    "Race": {
+      "ID": "30900",
+      "SpecificTitle": "District Attorney -- 14th JDC",
+      "GeneralTitle": "District Attorney",
+      "OfficeLevel": "215",
+      "IsPresidentialNominee": "0",
+      "IsMultiParish": "1",
+      "NumberToBeElected": "1",
+      "SummaryText": null,
+      "FullText": null,
+      "IsClosedParty": "0",
+      "Choice": [
+        {
+          "Color": "0x8970cb",
+          "ID": "59365",
+          "Desc": "John F. DeRosier (DEM)"
+        },
+        { "Color": "0xb6dc6b", "ID": "59366", "Desc": "\"Steve\" Hale (DEM)" },
+        {
+          "Color": "0xffec6c",
+          "ID": "59367",
+          "Desc": "Robert \"Rob\" McCorquodale (REP)"
+        },
+        { "Color": "0xff836b", "ID": "59368", "Desc": "Glen Vamvoras (OTHER)" }
+      ]
+    }
+  }
+}

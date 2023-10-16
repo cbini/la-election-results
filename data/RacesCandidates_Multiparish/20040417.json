@@ -1,0 +1,25 @@
+{
+  "Races": {
+    "WriteTime": "2023-01-20T15:52:49.550",
+    "Race": {
+      "ID": "30087",
+      "SpecificTitle": "State Representative --  45th Representative District",
+      "GeneralTitle": "State Representative",
+      "OfficeLevel": "205",
+      "IsPresidentialNominee": "0",
+      "IsMultiParish": "1",
+      "NumberToBeElected": "1",
+      "SummaryText": null,
+      "FullText": null,
+      "IsClosedParty": "0",
+      "Choice": [
+        {
+          "Color": "0x8970cb",
+          "ID": "57139",
+          "Desc": "Steven G. \"Buzz\" Durio (REP)"
+        },
+        { "Color": "0xb6dc6b", "ID": "57140", "Desc": "Joel Robideaux (OTHER)" }
+      ]
+    }
+  }
+}

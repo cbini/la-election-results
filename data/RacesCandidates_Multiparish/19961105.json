@@ -1,0 +1,2378 @@
+{
+  "Races": {
+    "WriteTime": "2023-01-20T16:13:36.157",
+    "Race": [
+      {
+        "ID": "15211",
+        "SpecificTitle": "Presidential Electors",
+        "GeneralTitle": "Presidential Electors",
+        "OfficeLevel": "010",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "0",
+        "Choice": [
+          {
+            "Color": "0x8970cb",
+            "ID": "29442",
+            "Desc": "Clinton & Gore Democratic Party"
+          },
+          {
+            "Color": "0x81b1d5",
+            "ID": "29443",
+            "Desc": "Dole & Kemp Republican Party"
+          },
+          {
+            "Color": "0xb6dc6b",
+            "ID": "29444",
+            "Desc": "Browne & Jorgensen Libertarian Party"
+          },
+          {
+            "Color": "0xffec6c",
+            "ID": "29445",
+            "Desc": "Nader & LaDuke Liberty, Ecology, Community"
+          },
+          {
+            "Color": "0xff836b",
+            "ID": "29446",
+            "Desc": "Hagelin & Tompkins Natural Law"
+          },
+          {
+            "Color": "0xa20017",
+            "ID": "29447",
+            "Desc": "Perot & Campbell Reform Party"
+          },
+          {
+            "Color": "0x009899",
+            "ID": "29448",
+            "Desc": "Phillips & Titus Taxpayers Party"
+          },
+          {
+            "Color": "0xed1b24",
+            "ID": "29449",
+            "Desc": "Moorehead & LaRiva Workers World"
+          }
+        ]
+      },
+      {
+        "ID": "14920",
+        "SpecificTitle": "RSCC Member(s) --   4th Representative District",
+        "GeneralTitle": "Republican State Central Committee Member",
+        "OfficeLevel": "062",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "1",
+        "Choice": [
+          {
+            "Color": "0x8970cb",
+            "ID": "28853",
+            "Desc": "Marjorie I. Hall (REP)"
+          },
+          { "Color": "0xb6dc6b", "ID": "28854", "Desc": "\"Al\" Henigan (REP)" }
+        ]
+      },
+      {
+        "ID": "14924",
+        "SpecificTitle": "RSCC Member(s) --   5th Representative District, Division D",
+        "GeneralTitle": "Republican State Central Committee Member",
+        "OfficeLevel": "062",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "1",
+        "Choice": [
+          { "Color": "0x8970cb", "ID": "28859", "Desc": "Harry Avant (REP)" },
+          { "Color": "0xb6dc6b", "ID": "28860", "Desc": "Ted Roberts (REP)" }
+        ]
+      },
+      {
+        "ID": "14926",
+        "SpecificTitle": "RSCC Member(s) --   6th Representative District, Division B",
+        "GeneralTitle": "Republican State Central Committee Member",
+        "OfficeLevel": "062",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "1",
+        "Choice": [
+          {
+            "Color": "0x8970cb",
+            "ID": "28862",
+            "Desc": "Martha C. Belchic (REP)"
+          },
+          {
+            "Color": "0xb6dc6b",
+            "ID": "28863",
+            "Desc": "E. C. Laster, Jr. (REP)"
+          },
+          { "Color": "0xffec6c", "ID": "28864", "Desc": "Leroy Scott (REP)" }
+        ]
+      },
+      {
+        "ID": "14933",
+        "SpecificTitle": "RSCC Member(s) --   9th Representative District, Division C",
+        "GeneralTitle": "Republican State Central Committee Member",
+        "OfficeLevel": "062",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "1",
+        "Choice": [
+          {
+            "Color": "0x8970cb",
+            "ID": "28875",
+            "Desc": "David L. Monroe (REP)"
+          },
+          {
+            "Color": "0xb6dc6b",
+            "ID": "28876",
+            "Desc": "\"Bob\" Scoggins (REP)"
+          }
+        ]
+      },
+      {
+        "ID": "14936",
+        "SpecificTitle": "RSCC Member(s) --  12th Representative District, Division A",
+        "GeneralTitle": "Republican State Central Committee Member",
+        "OfficeLevel": "062",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "1",
+        "Choice": [
+          { "Color": "0x8970cb", "ID": "28880", "Desc": "Harry Farrar (REP)" },
+          { "Color": "0xb6dc6b", "ID": "28881", "Desc": "Bill Jordan (REP)" }
+        ]
+      },
+      {
+        "ID": "14937",
+        "SpecificTitle": "RSCC Member(s) --  12th Representative District, Division B",
+        "GeneralTitle": "Republican State Central Committee Member",
+        "OfficeLevel": "062",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "1",
+        "Choice": [
+          { "Color": "0x8970cb", "ID": "28882", "Desc": "Walter Abbott (REP)" },
+          {
+            "Color": "0xb6dc6b",
+            "ID": "28883",
+            "Desc": "Terry T Bromell (REP)"
+          }
+        ]
+      },
+      {
+        "ID": "14939",
+        "SpecificTitle": "RSCC Member(s) --  13th Representative District",
+        "GeneralTitle": "Republican State Central Committee Member",
+        "OfficeLevel": "062",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "2",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "1",
+        "Choice": [
+          {
+            "Color": "0x8970cb",
+            "ID": "28885",
+            "Desc": "Katherine Brewton (REP)"
+          },
+          {
+            "Color": "0xb6dc6b",
+            "ID": "28886",
+            "Desc": "Michael L. \"Mike\" Towns (REP)"
+          },
+          {
+            "Color": "0xffec6c",
+            "ID": "28887",
+            "Desc": "James H. \"Jim\" Zeagler (REP)"
+          }
+        ]
+      },
+      {
+        "ID": "14940",
+        "SpecificTitle": "RSCC Member(s) --  14th Representative District",
+        "GeneralTitle": "Republican State Central Committee Member",
+        "OfficeLevel": "062",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "2",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "1",
+        "Choice": [
+          { "Color": "0x8970cb", "ID": "28888", "Desc": "Don W. Locke (REP)" },
+          {
+            "Color": "0xb6dc6b",
+            "ID": "28889",
+            "Desc": "John A. McDaniel (REP)"
+          },
+          {
+            "Color": "0xffec6c",
+            "ID": "28890",
+            "Desc": "Peggy R. McDaniel (REP)"
+          }
+        ]
+      },
+      {
+        "ID": "14948",
+        "SpecificTitle": "RSCC Member(s) --  17th Representative District",
+        "GeneralTitle": "Republican State Central Committee Member",
+        "OfficeLevel": "062",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "1",
+        "Choice": [
+          {
+            "Color": "0x8970cb",
+            "ID": "28898",
+            "Desc": "Robert \"Bob\" Currie (REP)"
+          },
+          {
+            "Color": "0xb6dc6b",
+            "ID": "28899",
+            "Desc": "William A. \"Bucky\" Hargiss (REP)"
+          }
+        ]
+      },
+      {
+        "ID": "14949",
+        "SpecificTitle": "RSCC Member(s) --  18th Representative District",
+        "GeneralTitle": "Republican State Central Committee Member",
+        "OfficeLevel": "062",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "1",
+        "Choice": [
+          {
+            "Color": "0x8970cb",
+            "ID": "28900",
+            "Desc": "Dianne M. Christopher (REP)"
+          },
+          {
+            "Color": "0xb6dc6b",
+            "ID": "28901",
+            "Desc": "John Michael Lockhart (REP)"
+          }
+        ]
+      },
+      {
+        "ID": "14955",
+        "SpecificTitle": "RSCC Member(s) --  24th Representative District",
+        "GeneralTitle": "Republican State Central Committee Member",
+        "OfficeLevel": "062",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "2",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "1",
+        "Choice": [
+          {
+            "Color": "0x8970cb",
+            "ID": "28911",
+            "Desc": "Gerald Holland (REP)"
+          },
+          {
+            "Color": "0xb6dc6b",
+            "ID": "28912",
+            "Desc": "J. Casey Simpson (REP)"
+          },
+          {
+            "Color": "0xffec6c",
+            "ID": "28913",
+            "Desc": "Robert D. \"Bob\" Spear (REP)"
+          }
+        ]
+      },
+      {
+        "ID": "14956",
+        "SpecificTitle": "RSCC Member(s) --  25th Representative District",
+        "GeneralTitle": "Republican State Central Committee Member",
+        "OfficeLevel": "062",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "2",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "1",
+        "Choice": [
+          { "Color": "0x8970cb", "ID": "28914", "Desc": "James Lamb (REP)" },
+          {
+            "Color": "0xb6dc6b",
+            "ID": "28915",
+            "Desc": "Chadwick A. Melder (REP)"
+          },
+          {
+            "Color": "0xffec6c",
+            "ID": "28916",
+            "Desc": "\"Chuck\" Tosten (REP)"
+          },
+          { "Color": "0xff836b", "ID": "28917", "Desc": "Louis Wellan (REP)" }
+        ]
+      },
+      {
+        "ID": "14957",
+        "SpecificTitle": "RSCC Member(s) --  26th Representative District",
+        "GeneralTitle": "Republican State Central Committee Member",
+        "OfficeLevel": "062",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "1",
+        "Choice": [
+          {
+            "Color": "0x8970cb",
+            "ID": "28918",
+            "Desc": "\"Phil\" Eisenwinter (REP)"
+          },
+          {
+            "Color": "0xb6dc6b",
+            "ID": "28919",
+            "Desc": "Elizabeth Weber Levy (REP)"
+          }
+        ]
+      },
+      {
+        "ID": "14958",
+        "SpecificTitle": "RSCC Member(s) --  27th Representative District",
+        "GeneralTitle": "Republican State Central Committee Member",
+        "OfficeLevel": "062",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "2",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "1",
+        "Choice": [
+          {
+            "Color": "0x8970cb",
+            "ID": "28920",
+            "Desc": "Robert A. \"Bob\" Corley III (REP)"
+          },
+          {
+            "Color": "0xb6dc6b",
+            "ID": "28921",
+            "Desc": "Nathan E. Firmin (REP)"
+          },
+          {
+            "Color": "0xffec6c",
+            "ID": "28922",
+            "Desc": "Tom G. \"Tommy\" Tenney (REP)"
+          }
+        ]
+      },
+      {
+        "ID": "14964",
+        "SpecificTitle": "RSCC Member(s) --  33rd Representative District",
+        "GeneralTitle": "Republican State Central Committee Member",
+        "OfficeLevel": "062",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "2",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "1",
+        "Choice": [
+          {
+            "Color": "0x8970cb",
+            "ID": "28929",
+            "Desc": "Lawrence E. \"Larry\" Adee (REP)"
+          },
+          { "Color": "0xb6dc6b", "ID": "28930", "Desc": "James Ball (REP)" },
+          { "Color": "0xffec6c", "ID": "28931", "Desc": "\"Mel\" Estess (REP)" }
+        ]
+      },
+      {
+        "ID": "14967",
+        "SpecificTitle": "RSCC Member(s) --  36th Representative District",
+        "GeneralTitle": "Republican State Central Committee Member",
+        "OfficeLevel": "062",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "2",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "1",
+        "Choice": [
+          {
+            "Color": "0x8970cb",
+            "ID": "28935",
+            "Desc": "Kathleen Boellert (REP)"
+          },
+          { "Color": "0xb6dc6b", "ID": "28936", "Desc": "\"Bill\" Hart (REP)" },
+          { "Color": "0xffec6c", "ID": "28937", "Desc": "Sharon LaFuria (REP)" }
+        ]
+      },
+      {
+        "ID": "14971",
+        "SpecificTitle": "RSCC Member(s) --  40th Representative District",
+        "GeneralTitle": "Republican State Central Committee Member",
+        "OfficeLevel": "062",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "1",
+        "Choice": [
+          { "Color": "0x8970cb", "ID": "28942", "Desc": "Andrew Gaudin (REP)" },
+          {
+            "Color": "0xb6dc6b",
+            "ID": "28943",
+            "Desc": "Carolyn F. Ledet (REP)"
+          }
+        ]
+      },
+      {
+        "ID": "14973",
+        "SpecificTitle": "RSCC Member(s) --  42nd Representative District",
+        "GeneralTitle": "Republican State Central Committee Member",
+        "OfficeLevel": "062",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "2",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "1",
+        "Choice": [
+          { "Color": "0x8970cb", "ID": "28946", "Desc": "Mike Francis (REP)" },
+          {
+            "Color": "0xb6dc6b",
+            "ID": "28947",
+            "Desc": "Helen Blue Garrett (REP)"
+          },
+          {
+            "Color": "0xffec6c",
+            "ID": "28948",
+            "Desc": "Frederick Gossen, Jr. (REP)"
+          },
+          {
+            "Color": "0xff836b",
+            "ID": "28949",
+            "Desc": "Leonard \"Lenny\" Hensgens (REP)"
+          }
+        ]
+      },
+      {
+        "ID": "14975",
+        "SpecificTitle": "RSCC Member(s) --  43rd Representative District, Division B",
+        "GeneralTitle": "Republican State Central Committee Member",
+        "OfficeLevel": "062",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "1",
+        "Choice": [
+          { "Color": "0x8970cb", "ID": "28951", "Desc": "Edwin A. Day (REP)" },
+          { "Color": "0xb6dc6b", "ID": "28952", "Desc": "Cindy R. Dore (REP)" },
+          { "Color": "0xffec6c", "ID": "28953", "Desc": "DeAnne Henke (REP)" }
+        ]
+      },
+      {
+        "ID": "14976",
+        "SpecificTitle": "RSCC Member(s) --  43rd Representative District, Division C",
+        "GeneralTitle": "Republican State Central Committee Member",
+        "OfficeLevel": "062",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "1",
+        "Choice": [
+          {
+            "Color": "0x8970cb",
+            "ID": "28954",
+            "Desc": "Jane Blackwell (REP)"
+          },
+          {
+            "Color": "0xb6dc6b",
+            "ID": "28955",
+            "Desc": "\"Dud\" Lastrapes (REP)"
+          }
+        ]
+      },
+      {
+        "ID": "14977",
+        "SpecificTitle": "RSCC Member(s) --  43rd Representative District, Division D",
+        "GeneralTitle": "Republican State Central Committee Member",
+        "OfficeLevel": "062",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "1",
+        "Choice": [
+          { "Color": "0x8970cb", "ID": "28956", "Desc": "Warren Caudle (REP)" },
+          { "Color": "0xb6dc6b", "ID": "28957", "Desc": "George R. Knox (REP)" }
+        ]
+      },
+      {
+        "ID": "14984",
+        "SpecificTitle": "RSCC Member(s) --  48th Representative District",
+        "GeneralTitle": "Republican State Central Committee Member",
+        "OfficeLevel": "062",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "2",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "1",
+        "Choice": [
+          {
+            "Color": "0x8970cb",
+            "ID": "28966",
+            "Desc": "Anne B. Caffery (REP)"
+          },
+          { "Color": "0xb6dc6b", "ID": "28967", "Desc": "David Dugas (REP)" },
+          {
+            "Color": "0xffec6c",
+            "ID": "28968",
+            "Desc": "Julius W. \"Will\" Grubbs, Jr. (REP)"
+          }
+        ]
+      },
+      {
+        "ID": "14985",
+        "SpecificTitle": "RSCC Member(s) --  49th Representative District",
+        "GeneralTitle": "Republican State Central Committee Member",
+        "OfficeLevel": "062",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "2",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "1",
+        "Choice": [
+          {
+            "Color": "0x8970cb",
+            "ID": "28969",
+            "Desc": "Raymond E. Allain (REP)"
+          },
+          {
+            "Color": "0xb6dc6b",
+            "ID": "28970",
+            "Desc": "Virgil J. Bryant (REP)"
+          },
+          {
+            "Color": "0xffec6c",
+            "ID": "28971",
+            "Desc": "Craig F. Romero (REP)"
+          }
+        ]
+      },
+      {
+        "ID": "14986",
+        "SpecificTitle": "RSCC Member(s) --  50th Representative District",
+        "GeneralTitle": "Republican State Central Committee Member",
+        "OfficeLevel": "062",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "2",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "1",
+        "Choice": [
+          {
+            "Color": "0x8970cb",
+            "ID": "28972",
+            "Desc": "Roger L. Busbice (REP)"
+          },
+          { "Color": "0xb6dc6b", "ID": "28973", "Desc": "Jessie Morton (REP)" },
+          {
+            "Color": "0xffec6c",
+            "ID": "28974",
+            "Desc": "Doris B. Shannon (REP)"
+          },
+          {
+            "Color": "0xff836b",
+            "ID": "28975",
+            "Desc": "Judy Moncla Todd (REP)"
+          }
+        ]
+      },
+      {
+        "ID": "14987",
+        "SpecificTitle": "RSCC Member(s) --  51st Representative District",
+        "GeneralTitle": "Republican State Central Committee Member",
+        "OfficeLevel": "062",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "2",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "1",
+        "Choice": [
+          {
+            "Color": "0x8970cb",
+            "ID": "28976",
+            "Desc": "George Beaugh, Sr. (REP)"
+          },
+          { "Color": "0xb6dc6b", "ID": "28977", "Desc": "Natalia Dean (REP)" },
+          { "Color": "0xffec6c", "ID": "28978", "Desc": "Joe Harrison (REP)" }
+        ]
+      },
+      {
+        "ID": "14988",
+        "SpecificTitle": "RSCC Member(s) --  52nd Representative District",
+        "GeneralTitle": "Republican State Central Committee Member",
+        "OfficeLevel": "062",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "2",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "1",
+        "Choice": [
+          {
+            "Color": "0x8970cb",
+            "ID": "28979",
+            "Desc": "William \"Brunnie\" Bisland (REP)"
+          },
+          { "Color": "0xb6dc6b", "ID": "28980", "Desc": "Mart J. Black (REP)" },
+          {
+            "Color": "0xffec6c",
+            "ID": "28981",
+            "Desc": "Charles G. \"Gary\" Blaize (REP)"
+          },
+          {
+            "Color": "0xff836b",
+            "ID": "28982",
+            "Desc": "\"Jim\" Madden (REP)"
+          },
+          { "Color": "0xa20017", "ID": "28983", "Desc": "Dale M. Norred (REP)" }
+        ]
+      },
+      {
+        "ID": "14990",
+        "SpecificTitle": "RSCC Member(s) --  54th Representative District",
+        "GeneralTitle": "Republican State Central Committee Member",
+        "OfficeLevel": "062",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "1",
+        "Choice": [
+          {
+            "Color": "0x8970cb",
+            "ID": "28986",
+            "Desc": "L. Clifton Dickerson III (REP)"
+          },
+          { "Color": "0xb6dc6b", "ID": "28987", "Desc": "Sandra Ingols (REP)" }
+        ]
+      },
+      {
+        "ID": "14991",
+        "SpecificTitle": "RSCC Member(s) --  55th Representative District",
+        "GeneralTitle": "Republican State Central Committee Member",
+        "OfficeLevel": "062",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "2",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "1",
+        "Choice": [
+          { "Color": "0x8970cb", "ID": "28988", "Desc": "Ed Delorge (REP)" },
+          {
+            "Color": "0xb6dc6b",
+            "ID": "28989",
+            "Desc": "Bertha Hillman (REP)"
+          },
+          {
+            "Color": "0xffec6c",
+            "ID": "28990",
+            "Desc": "Christopher H. Riviere (REP)"
+          }
+        ]
+      },
+      {
+        "ID": "14992",
+        "SpecificTitle": "RSCC Member(s) --  56th Representative District",
+        "GeneralTitle": "Republican State Central Committee Member",
+        "OfficeLevel": "062",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "2",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "1",
+        "Choice": [
+          {
+            "Color": "0x8970cb",
+            "ID": "28991",
+            "Desc": "Michael K. Henderson (REP)"
+          },
+          {
+            "Color": "0xb6dc6b",
+            "ID": "28992",
+            "Desc": "Barbara Landry (REP)"
+          },
+          { "Color": "0xffec6c", "ID": "28993", "Desc": "Barry Minnich (REP)" },
+          {
+            "Color": "0xff836b",
+            "ID": "28994",
+            "Desc": "\"Bobby\" Riggs (REP)"
+          }
+        ]
+      },
+      {
+        "ID": "14995",
+        "SpecificTitle": "RSCC Member(s) --  59th Representative District",
+        "GeneralTitle": "Republican State Central Committee Member",
+        "OfficeLevel": "062",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "2",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "1",
+        "Choice": [
+          {
+            "Color": "0x8970cb",
+            "ID": "28998",
+            "Desc": "Chester J. Diez, Jr. (REP)"
+          },
+          {
+            "Color": "0xb6dc6b",
+            "ID": "28999",
+            "Desc": "Mary Bourgeois Lane (REP)"
+          },
+          {
+            "Color": "0xffec6c",
+            "ID": "29000",
+            "Desc": "Randall \"Randy\" Robinson (REP)"
+          }
+        ]
+      },
+      {
+        "ID": "14996",
+        "SpecificTitle": "RSCC Member(s) --  60th Representative District",
+        "GeneralTitle": "Republican State Central Committee Member",
+        "OfficeLevel": "062",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "1",
+        "Choice": [
+          { "Color": "0x8970cb", "ID": "29001", "Desc": "William Carbo (REP)" },
+          {
+            "Color": "0xb6dc6b",
+            "ID": "29002",
+            "Desc": "Karen L. Fitzgerald (REP)"
+          }
+        ]
+      },
+      {
+        "ID": "14998",
+        "SpecificTitle": "RSCC Member(s) --  62nd Representative District",
+        "GeneralTitle": "Republican State Central Committee Member",
+        "OfficeLevel": "062",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "2",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "1",
+        "Choice": [
+          { "Color": "0x8970cb", "ID": "29004", "Desc": "John Durham (REP)" },
+          { "Color": "0xb6dc6b", "ID": "29005", "Desc": "Rick Guillory (REP)" },
+          {
+            "Color": "0xffec6c",
+            "ID": "29006",
+            "Desc": "Thomas E. \"Tem\" McHugh (REP)"
+          }
+        ]
+      },
+      {
+        "ID": "15002",
+        "SpecificTitle": "RSCC Member(s) --  65th Representative District, Division B",
+        "GeneralTitle": "Republican State Central Committee Member",
+        "OfficeLevel": "062",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "1",
+        "Choice": [
+          {
+            "Color": "0x8970cb",
+            "ID": "29011",
+            "Desc": "Carey R. Holliday (REP)"
+          },
+          {
+            "Color": "0xb6dc6b",
+            "ID": "29012",
+            "Desc": "John C. Mangano (REP)"
+          }
+        ]
+      },
+      {
+        "ID": "15003",
+        "SpecificTitle": "RSCC Member(s) --  65th Representative District, Division C",
+        "GeneralTitle": "Republican State Central Committee Member",
+        "OfficeLevel": "062",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "1",
+        "Choice": [
+          {
+            "Color": "0x8970cb",
+            "ID": "29013",
+            "Desc": "\"Kamron\" J. Lachney (REP)"
+          },
+          {
+            "Color": "0xb6dc6b",
+            "ID": "29014",
+            "Desc": "Robert W. \"Bob\" Morgan (REP)"
+          }
+        ]
+      },
+      {
+        "ID": "15009",
+        "SpecificTitle": "RSCC Member(s) --  68th Representative District, Division B",
+        "GeneralTitle": "Republican State Central Committee Member",
+        "OfficeLevel": "062",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "1",
+        "Choice": [
+          {
+            "Color": "0x8970cb",
+            "ID": "29020",
+            "Desc": "Michael G. Chittom (REP)"
+          },
+          {
+            "Color": "0xb6dc6b",
+            "ID": "29021",
+            "Desc": "\"Dan\" Garrett (REP)"
+          },
+          {
+            "Color": "0xffec6c",
+            "ID": "29022",
+            "Desc": "Sandra Bologna Ribes (REP)"
+          }
+        ]
+      },
+      {
+        "ID": "15010",
+        "SpecificTitle": "RSCC Member(s) --  68th Representative District, Division C",
+        "GeneralTitle": "Republican State Central Committee Member",
+        "OfficeLevel": "062",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "1",
+        "Choice": [
+          {
+            "Color": "0x8970cb",
+            "ID": "29023",
+            "Desc": "James \"Jimmy\" Burland (REP)"
+          },
+          {
+            "Color": "0xb6dc6b",
+            "ID": "29024",
+            "Desc": "Floyd Gonzalez (REP)"
+          },
+          { "Color": "0xffec6c", "ID": "29025", "Desc": "Bret T. Walsh (REP)" }
+        ]
+      },
+      {
+        "ID": "15012",
+        "SpecificTitle": "RSCC Member(s) --  69th Representative District, Division A",
+        "GeneralTitle": "Republican State Central Committee Member",
+        "OfficeLevel": "062",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "1",
+        "Choice": [
+          {
+            "Color": "0x8970cb",
+            "ID": "29027",
+            "Desc": "\"Kate\" Collins (REP)"
+          },
+          {
+            "Color": "0xb6dc6b",
+            "ID": "29028",
+            "Desc": "Ronald J. \"Ron\" Kobialka (REP)"
+          }
+        ]
+      },
+      {
+        "ID": "15013",
+        "SpecificTitle": "RSCC Member(s) --  69th Representative District, Division B",
+        "GeneralTitle": "Republican State Central Committee Member",
+        "OfficeLevel": "062",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "1",
+        "Choice": [
+          {
+            "Color": "0x8970cb",
+            "ID": "29029",
+            "Desc": "Raymond E. Boudreau, Jr. (REP)"
+          },
+          {
+            "Color": "0xb6dc6b",
+            "ID": "29030",
+            "Desc": "Memrie McDonald (REP)"
+          },
+          { "Color": "0xffec6c", "ID": "29031", "Desc": "Marvin E. Owen (REP)" }
+        ]
+      },
+      {
+        "ID": "15018",
+        "SpecificTitle": "RSCC Member(s) --  70th Representative District, Division C",
+        "GeneralTitle": "Republican State Central Committee Member",
+        "OfficeLevel": "062",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "1",
+        "Choice": [
+          {
+            "Color": "0x8970cb",
+            "ID": "29037",
+            "Desc": "\"Dick\" Juneau (REP)"
+          },
+          {
+            "Color": "0xb6dc6b",
+            "ID": "29038",
+            "Desc": "Stephen C. \"Steve\" LeBlanc (REP)"
+          },
+          {
+            "Color": "0xffec6c",
+            "ID": "29039",
+            "Desc": "Ernest Edward Skillman, Jr. (REP)"
+          }
+        ]
+      },
+      {
+        "ID": "15019",
+        "SpecificTitle": "RSCC Member(s) --  70th Representative District, Division D",
+        "GeneralTitle": "Republican State Central Committee Member",
+        "OfficeLevel": "062",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "1",
+        "Choice": [
+          {
+            "Color": "0x8970cb",
+            "ID": "29040",
+            "Desc": "Sally Nungesser (REP)"
+          },
+          { "Color": "0xb6dc6b", "ID": "29041", "Desc": "David Tatman (REP)" }
+        ]
+      },
+      {
+        "ID": "15022",
+        "SpecificTitle": "RSCC Member(s) --  73rd Representative District",
+        "GeneralTitle": "Republican State Central Committee Member",
+        "OfficeLevel": "062",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "2",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "1",
+        "Choice": [
+          { "Color": "0x8970cb", "ID": "29045", "Desc": "Donna L. Howe (REP)" },
+          {
+            "Color": "0xb6dc6b",
+            "ID": "29046",
+            "Desc": "Henry \"Tank\" Powell (REP)"
+          },
+          { "Color": "0xffec6c", "ID": "29047", "Desc": "Ray Starkey (REP)" }
+        ]
+      },
+      {
+        "ID": "15033",
+        "SpecificTitle": "RSCC Member(s) --  77th Representative District, Division C",
+        "GeneralTitle": "Republican State Central Committee Member",
+        "OfficeLevel": "062",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "1",
+        "Choice": [
+          { "Color": "0x8970cb", "ID": "29060", "Desc": "Edgar Dillard (REP)" },
+          {
+            "Color": "0xb6dc6b",
+            "ID": "29061",
+            "Desc": "Ellen \"Deedee\" Suthon (REP)"
+          }
+        ]
+      },
+      {
+        "ID": "15042",
+        "SpecificTitle": "RSCC Member(s) --  80th Representative District, Division B",
+        "GeneralTitle": "Republican State Central Committee Member",
+        "OfficeLevel": "062",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "1",
+        "Choice": [
+          {
+            "Color": "0x8970cb",
+            "ID": "29070",
+            "Desc": "Thomas A. Gennusa II (REP)"
+          },
+          { "Color": "0xb6dc6b", "ID": "29071", "Desc": "Mark A. Wright (REP)" }
+        ]
+      },
+      {
+        "ID": "15043",
+        "SpecificTitle": "RSCC Member(s) --  80th Representative District, Division C",
+        "GeneralTitle": "Republican State Central Committee Member",
+        "OfficeLevel": "062",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "1",
+        "Choice": [
+          {
+            "Color": "0x8970cb",
+            "ID": "29072",
+            "Desc": "Shirley R. Giambelluca (REP)"
+          },
+          {
+            "Color": "0xb6dc6b",
+            "ID": "29073",
+            "Desc": "G. Scott Vezina (REP)"
+          }
+        ]
+      },
+      {
+        "ID": "15044",
+        "SpecificTitle": "RSCC Member(s) --  81st Representative District, Division A",
+        "GeneralTitle": "Republican State Central Committee Member",
+        "OfficeLevel": "062",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "1",
+        "Choice": [
+          {
+            "Color": "0x8970cb",
+            "ID": "29074",
+            "Desc": "Jeffrey J. Hand (REP)"
+          },
+          { "Color": "0xb6dc6b", "ID": "29075", "Desc": "Roger Villere (REP)" }
+        ]
+      },
+      {
+        "ID": "15045",
+        "SpecificTitle": "RSCC Member(s) --  81st Representative District, Division B",
+        "GeneralTitle": "Republican State Central Committee Member",
+        "OfficeLevel": "062",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "1",
+        "Choice": [
+          {
+            "Color": "0x8970cb",
+            "ID": "29076",
+            "Desc": "Susan Sherlock Bernecker (REP)"
+          },
+          { "Color": "0xb6dc6b", "ID": "29077", "Desc": "John S. Treen (REP)" }
+        ]
+      },
+      {
+        "ID": "15051",
+        "SpecificTitle": "RSCC Member(s) --  83rd Representative District",
+        "GeneralTitle": "Republican State Central Committee Member",
+        "OfficeLevel": "062",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "2",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "1",
+        "Choice": [
+          { "Color": "0x8970cb", "ID": "29086", "Desc": "David Carbo (REP)" },
+          {
+            "Color": "0xb6dc6b",
+            "ID": "29087",
+            "Desc": "Walter A. Marschner (REP)"
+          },
+          {
+            "Color": "0xffec6c",
+            "ID": "29088",
+            "Desc": "George J. Van Houten (REP)"
+          }
+        ]
+      },
+      {
+        "ID": "15052",
+        "SpecificTitle": "RSCC Member(s) --  84th Representative District",
+        "GeneralTitle": "Republican State Central Committee Member",
+        "OfficeLevel": "062",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "2",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "1",
+        "Choice": [
+          {
+            "Color": "0x8970cb",
+            "ID": "29089",
+            "Desc": "Robert Bagnetto (REP)"
+          },
+          {
+            "Color": "0xb6dc6b",
+            "ID": "29090",
+            "Desc": "\"Bert\" C. Leblanc, Jr. (REP)"
+          },
+          {
+            "Color": "0xffec6c",
+            "ID": "29091",
+            "Desc": "David G. Terrebonne, Jr. (REP)"
+          },
+          { "Color": "0xff836b", "ID": "29092", "Desc": "Rickey J. Ullo (REP)" }
+        ]
+      },
+      {
+        "ID": "15053",
+        "SpecificTitle": "RSCC Member(s) --  85th Representative District",
+        "GeneralTitle": "Republican State Central Committee Member",
+        "OfficeLevel": "062",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "2",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "1",
+        "Choice": [
+          {
+            "Color": "0x8970cb",
+            "ID": "29094",
+            "Desc": "Lynn R. Cheramie (REP)"
+          },
+          {
+            "Color": "0xb6dc6b",
+            "ID": "29095",
+            "Desc": "Cherreen Gegenheimer (REP)"
+          },
+          {
+            "Color": "0xffec6c",
+            "ID": "29096",
+            "Desc": "Rita \"Pepper\" Scheffler (REP)"
+          }
+        ]
+      },
+      {
+        "ID": "15054",
+        "SpecificTitle": "RSCC Member(s) --  86th Representative District",
+        "GeneralTitle": "Republican State Central Committee Member",
+        "OfficeLevel": "062",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "2",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "1",
+        "Choice": [
+          { "Color": "0x8970cb", "ID": "29097", "Desc": "Ed Markle (REP)" },
+          { "Color": "0xb6dc6b", "ID": "29098", "Desc": "Jim Nugent (REP)" },
+          {
+            "Color": "0xffec6c",
+            "ID": "29099",
+            "Desc": "William Nungesser (REP)"
+          }
+        ]
+      },
+      {
+        "ID": "15056",
+        "SpecificTitle": "RSCC Member(s) --  88th Representative District, Division A",
+        "GeneralTitle": "Republican State Central Committee Member",
+        "OfficeLevel": "062",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "1",
+        "Choice": [
+          {
+            "Color": "0x8970cb",
+            "ID": "29101",
+            "Desc": "Margaret Bicknell (REP)"
+          },
+          {
+            "Color": "0xb6dc6b",
+            "ID": "29102",
+            "Desc": "Sandra H \"Sandy\" Emerson (REP)"
+          }
+        ]
+      },
+      {
+        "ID": "15059",
+        "SpecificTitle": "RSCC Member(s) --  88th Representative District, Division D",
+        "GeneralTitle": "Republican State Central Committee Member",
+        "OfficeLevel": "062",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "1",
+        "Choice": [
+          {
+            "Color": "0x8970cb",
+            "ID": "29105",
+            "Desc": "Marta P. \"Marty\" Highstreet (REP)"
+          },
+          {
+            "Color": "0xb6dc6b",
+            "ID": "29106",
+            "Desc": "Vinson J. \"Vince\" Serio (REP)"
+          }
+        ]
+      },
+      {
+        "ID": "15060",
+        "SpecificTitle": "RSCC Member(s) --  89th Representative District",
+        "GeneralTitle": "Republican State Central Committee Member",
+        "OfficeLevel": "062",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "2",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "1",
+        "Choice": [
+          {
+            "Color": "0x8970cb",
+            "ID": "29107",
+            "Desc": "Suzanne Haik Terrell (REP)"
+          },
+          {
+            "Color": "0xb6dc6b",
+            "ID": "29108",
+            "Desc": "John J. Hainkel, Jr. (REP)"
+          },
+          {
+            "Color": "0xffec6c",
+            "ID": "29109",
+            "Desc": "Haywood H. Hillyer III (REP)"
+          },
+          { "Color": "0xff836b", "ID": "29110", "Desc": "Bryan Wagner (REP)" }
+        ]
+      },
+      {
+        "ID": "15061",
+        "SpecificTitle": "RSCC Member(s) --  90th Representative District, Division A",
+        "GeneralTitle": "Republican State Central Committee Member",
+        "OfficeLevel": "062",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "1",
+        "Choice": [
+          {
+            "Color": "0x8970cb",
+            "ID": "29111",
+            "Desc": "\"Bobby\" Bonnoitt (REP)"
+          },
+          {
+            "Color": "0xb6dc6b",
+            "ID": "29112",
+            "Desc": "F. Hugh Golden (REP)"
+          },
+          {
+            "Color": "0xffec6c",
+            "ID": "29113",
+            "Desc": "Marlaine Peachey (REP)"
+          }
+        ]
+      },
+      {
+        "ID": "15064",
+        "SpecificTitle": "RSCC Member(s) --  90th Representative District, Division D",
+        "GeneralTitle": "Republican State Central Committee Member",
+        "OfficeLevel": "062",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "1",
+        "Choice": [
+          {
+            "Color": "0x8970cb",
+            "ID": "29115",
+            "Desc": "Sally S. Campbell (REP)"
+          },
+          { "Color": "0xb6dc6b", "ID": "29116", "Desc": "Susan Morris (REP)" }
+        ]
+      },
+      {
+        "ID": "15065",
+        "SpecificTitle": "RSCC Member(s) --  91st Representative District",
+        "GeneralTitle": "Republican State Central Committee Member",
+        "OfficeLevel": "062",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "1",
+        "Choice": [
+          {
+            "Color": "0x8970cb",
+            "ID": "29117",
+            "Desc": "John H. Musser IV (REP)"
+          },
+          {
+            "Color": "0xb6dc6b",
+            "ID": "29118",
+            "Desc": "James J. \"Jim\" O'Connor (REP)"
+          }
+        ]
+      },
+      {
+        "ID": "15066",
+        "SpecificTitle": "RSCC Member(s) --  92nd Representative District",
+        "GeneralTitle": "Republican State Central Committee Member",
+        "OfficeLevel": "062",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "2",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "1",
+        "Choice": [
+          {
+            "Color": "0x8970cb",
+            "ID": "29119",
+            "Desc": "Richard C. Bates (REP)"
+          },
+          {
+            "Color": "0xb6dc6b",
+            "ID": "29120",
+            "Desc": "Martha F. Miller (REP)"
+          },
+          {
+            "Color": "0xffec6c",
+            "ID": "29121",
+            "Desc": "Henry \"Coach\" Rando (REP)"
+          }
+        ]
+      },
+      {
+        "ID": "15067",
+        "SpecificTitle": "RSCC Member(s) --  93rd Representative District",
+        "GeneralTitle": "Republican State Central Committee Member",
+        "OfficeLevel": "062",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "1",
+        "Choice": [
+          {
+            "Color": "0x8970cb",
+            "ID": "29122",
+            "Desc": "James L. \"Jim\" Denson (REP)"
+          },
+          {
+            "Color": "0xb6dc6b",
+            "ID": "29123",
+            "Desc": "Stephen M. Swain (REP)"
+          }
+        ]
+      },
+      {
+        "ID": "15070",
+        "SpecificTitle": "RSCC Member(s) --  94th Representative District, Division C",
+        "GeneralTitle": "Republican State Central Committee Member",
+        "OfficeLevel": "062",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "1",
+        "Choice": [
+          {
+            "Color": "0x8970cb",
+            "ID": "29126",
+            "Desc": "Walter P. \"Pete\" Abercrombie (REP)"
+          },
+          {
+            "Color": "0xb6dc6b",
+            "ID": "29127",
+            "Desc": "Lurline B. Doty (REP)"
+          }
+        ]
+      },
+      {
+        "ID": "15071",
+        "SpecificTitle": "RSCC Member(s) --  95th Representative District",
+        "GeneralTitle": "Republican State Central Committee Member",
+        "OfficeLevel": "062",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "1",
+        "Choice": [
+          {
+            "Color": "0x8970cb",
+            "ID": "29128",
+            "Desc": "John A. Exnicios (REP)"
+          },
+          {
+            "Color": "0xb6dc6b",
+            "ID": "29129",
+            "Desc": "James L. Ezell, Jr. (REP)"
+          },
+          {
+            "Color": "0xffec6c",
+            "ID": "29130",
+            "Desc": "Kevin P. Kelley (REP)"
+          }
+        ]
+      },
+      {
+        "ID": "15072",
+        "SpecificTitle": "RSCC Member(s) --  96th Representative District",
+        "GeneralTitle": "Republican State Central Committee Member",
+        "OfficeLevel": "062",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "1",
+        "Choice": [
+          {
+            "Color": "0x8970cb",
+            "ID": "29131",
+            "Desc": "Eleria M. Hunter (REP)"
+          },
+          {
+            "Color": "0xb6dc6b",
+            "ID": "29132",
+            "Desc": "Patrick Phillpott (REP)"
+          }
+        ]
+      },
+      {
+        "ID": "15076",
+        "SpecificTitle": "RSCC Member(s) -- 100th Representative District",
+        "GeneralTitle": "Republican State Central Committee Member",
+        "OfficeLevel": "062",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "1",
+        "Choice": [
+          {
+            "Color": "0x8970cb",
+            "ID": "29137",
+            "Desc": "Richard H. \"Dick\" Drake (REP)"
+          },
+          { "Color": "0xb6dc6b", "ID": "29138", "Desc": "John Rondeno (REP)" }
+        ]
+      },
+      {
+        "ID": "15079",
+        "SpecificTitle": "RSCC Member(s) -- 103rd Representative District",
+        "GeneralTitle": "Republican State Central Committee Member",
+        "OfficeLevel": "062",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "2",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "1",
+        "Choice": [
+          {
+            "Color": "0x8970cb",
+            "ID": "29142",
+            "Desc": "\"Mike\" Bayham (REP)"
+          },
+          { "Color": "0xb6dc6b", "ID": "29143", "Desc": "Lynn Dean (REP)" },
+          {
+            "Color": "0xffec6c",
+            "ID": "29144",
+            "Desc": "Lynette R. DiFatta (REP)"
+          }
+        ]
+      },
+      {
+        "ID": "15230",
+        "SpecificTitle": "U. S. Senator",
+        "GeneralTitle": "U.S. Senator",
+        "OfficeLevel": "140",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "0",
+        "Choice": [
+          {
+            "Color": "0x8970cb",
+            "ID": "29486",
+            "Desc": "Louis \"Woody\" Jenkins (REP)"
+          },
+          {
+            "Color": "0xb6dc6b",
+            "ID": "29487",
+            "Desc": "Mary L. Landrieu (DEM)"
+          }
+        ]
+      },
+      {
+        "ID": "15231",
+        "SpecificTitle": "U. S. Representative -- 5th Congressional District",
+        "GeneralTitle": "U.S. Representative",
+        "OfficeLevel": "145",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "0",
+        "Choice": [
+          { "Color": "0x8970cb", "ID": "29488", "Desc": "John Cooksey (REP)" },
+          {
+            "Color": "0xb6dc6b",
+            "ID": "29489",
+            "Desc": "Francis Thompson (DEM)"
+          }
+        ]
+      },
+      {
+        "ID": "15232",
+        "SpecificTitle": "U. S. Representative -- 7th Congressional District",
+        "GeneralTitle": "U.S. Representative",
+        "OfficeLevel": "145",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "0",
+        "Choice": [
+          { "Color": "0x8970cb", "ID": "29490", "Desc": "Chris John (DEM)" },
+          { "Color": "0xb6dc6b", "ID": "29491", "Desc": "Hunter Lundy (DEM)" }
+        ]
+      },
+      {
+        "ID": "15233",
+        "SpecificTitle": "PSC -- District 2",
+        "GeneralTitle": "Public Service Commission Member",
+        "OfficeLevel": "160",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "0",
+        "Choice": [
+          {
+            "Color": "0x8970cb",
+            "ID": "29492",
+            "Desc": "Sydnie Mae Durand (DEM)"
+          },
+          { "Color": "0xb6dc6b", "ID": "29493", "Desc": "Jimmy Field (REP)" }
+        ]
+      },
+      {
+        "ID": "15234",
+        "SpecificTitle": "State Representative --  48th Representative District",
+        "GeneralTitle": "State Representative",
+        "OfficeLevel": "205",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "0",
+        "Choice": [
+          {
+            "Color": "0x8970cb",
+            "ID": "29494",
+            "Desc": "George T. Gros (REP)"
+          },
+          {
+            "Color": "0xb6dc6b",
+            "ID": "29495",
+            "Desc": "Errol \"Romo\" Romero (DEM)"
+          }
+        ]
+      },
+      {
+        "ID": "15245",
+        "SpecificTitle": "District Judge --  4th JDC, Election Section 2, Division E",
+        "GeneralTitle": "District Judge",
+        "OfficeLevel": "210",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "0",
+        "Choice": [
+          {
+            "Color": "0x8970cb",
+            "ID": "29516",
+            "Desc": "Frederic Amman (DEM)"
+          },
+          { "Color": "0xb6dc6b", "ID": "29517", "Desc": "Marcus Clark (DEM)" }
+        ]
+      },
+      {
+        "ID": "15241",
+        "SpecificTitle": "District Judge -- 10th JDC, Division B",
+        "GeneralTitle": "District Judge",
+        "OfficeLevel": "210",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "0",
+        "Choice": [
+          { "Color": "0x8970cb", "ID": "29508", "Desc": "Monty Doggett (DEM)" },
+          {
+            "Color": "0xb6dc6b",
+            "ID": "29509",
+            "Desc": "Jimmy Long, Jr. (DEM)"
+          }
+        ]
+      },
+      {
+        "ID": "15242",
+        "SpecificTitle": "District Judge -- 12th JDC, Division B",
+        "GeneralTitle": "District Judge",
+        "OfficeLevel": "210",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "0",
+        "Choice": [
+          { "Color": "0x8970cb", "ID": "29510", "Desc": "Billy Bennett (DEM)" },
+          { "Color": "0xb6dc6b", "ID": "29511", "Desc": "Kerry Spruill (DEM)" }
+        ]
+      },
+      {
+        "ID": "15247",
+        "SpecificTitle": "District Judge -- 15th JDC, Election Section 2, Division E",
+        "GeneralTitle": "District Judge",
+        "OfficeLevel": "210",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "0",
+        "Choice": [
+          {
+            "Color": "0x8970cb",
+            "ID": "29520",
+            "Desc": "Mark Allen Babineaux (DEM)"
+          },
+          { "Color": "0xb6dc6b", "ID": "29521", "Desc": "Herman Clause (DEM)" }
+        ]
+      },
+      {
+        "ID": "15248",
+        "SpecificTitle": "District Judge -- 15th JDC, Election Section 3, Division K",
+        "GeneralTitle": "District Judge",
+        "OfficeLevel": "210",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "0",
+        "Choice": [
+          {
+            "Color": "0x8970cb",
+            "ID": "29522",
+            "Desc": "\"Dan\" Hughes (REP)"
+          },
+          {
+            "Color": "0xb6dc6b",
+            "ID": "29523",
+            "Desc": "Patrick Louis \"Rick\" Michot (DEM)"
+          }
+        ]
+      },
+      {
+        "ID": "15250",
+        "SpecificTitle": "District Judge -- 19th JDC, Election Section 2, Division G",
+        "GeneralTitle": "District Judge",
+        "OfficeLevel": "210",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "0",
+        "Choice": [
+          {
+            "Color": "0x8970cb",
+            "ID": "29526",
+            "Desc": "Richard D. Anderson (REP)"
+          },
+          { "Color": "0xb6dc6b", "ID": "29527", "Desc": "Neal Wilkinson (DEM)" }
+        ]
+      },
+      {
+        "ID": "15253",
+        "SpecificTitle": "District Judge -- 19th JDC, Election Section 3, Division F",
+        "GeneralTitle": "District Judge",
+        "OfficeLevel": "210",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "0",
+        "Choice": [
+          {
+            "Color": "0x8970cb",
+            "ID": "29532",
+            "Desc": "Timothy E. \"Tim\" Kelley (REP)"
+          },
+          { "Color": "0xb6dc6b", "ID": "29533", "Desc": "\"Tom\" Walsh (REP)" }
+        ]
+      },
+      {
+        "ID": "15235",
+        "SpecificTitle": "District Judge -- 21st JDC, Division E",
+        "GeneralTitle": "District Judge",
+        "OfficeLevel": "210",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "0",
+        "Choice": [
+          { "Color": "0x8970cb", "ID": "29496", "Desc": "Ernie Drake (DEM)" },
+          {
+            "Color": "0xb6dc6b",
+            "ID": "29497",
+            "Desc": "Brenda Bedsole Ricks (REP)"
+          }
+        ]
+      },
+      {
+        "ID": "15236",
+        "SpecificTitle": "District Judge -- 22nd JDC, Division B",
+        "GeneralTitle": "District Judge",
+        "OfficeLevel": "210",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "0",
+        "Choice": [
+          {
+            "Color": "0x8970cb",
+            "ID": "29498",
+            "Desc": "Richard Greenland (REP)"
+          },
+          {
+            "Color": "0xb6dc6b",
+            "ID": "29499",
+            "Desc": "Elaine W. Guillot (REP)"
+          }
+        ]
+      },
+      {
+        "ID": "15237",
+        "SpecificTitle": "District Judge -- 22nd JDC, Division D",
+        "GeneralTitle": "District Judge",
+        "OfficeLevel": "210",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "0",
+        "Choice": [
+          {
+            "Color": "0x8970cb",
+            "ID": "29500",
+            "Desc": "Peter J. Garcia (REP)"
+          },
+          {
+            "Color": "0xb6dc6b",
+            "ID": "29501",
+            "Desc": "Mary S. Johnson (REP)"
+          }
+        ]
+      },
+      {
+        "ID": "15255",
+        "SpecificTitle": "District Judge -- 24th JDC, Election Section 6, Division J",
+        "GeneralTitle": "District Judge",
+        "OfficeLevel": "210",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "0",
+        "Choice": [
+          {
+            "Color": "0x8970cb",
+            "ID": "29536",
+            "Desc": "Sheldon Fernandez (REP)"
+          },
+          { "Color": "0xb6dc6b", "ID": "29537", "Desc": "Olden Toups (REP)" }
+        ]
+      },
+      {
+        "ID": "15238",
+        "SpecificTitle": "District Judge -- 26th JDC, Division B",
+        "GeneralTitle": "District Judge",
+        "OfficeLevel": "210",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "0",
+        "Choice": [
+          {
+            "Color": "0x8970cb",
+            "ID": "29502",
+            "Desc": "Whitley \"Whit\" Graves (REP)"
+          },
+          {
+            "Color": "0xb6dc6b",
+            "ID": "29503",
+            "Desc": "Ford E. Stinson, Jr. (DEM)"
+          }
+        ]
+      },
+      {
+        "ID": "15240",
+        "SpecificTitle": "District Judge -- 29th JDC, Division E",
+        "GeneralTitle": "District Judge",
+        "OfficeLevel": "210",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "0",
+        "Choice": [
+          {
+            "Color": "0x8970cb",
+            "ID": "29506",
+            "Desc": "Robert A. Chaisson (DEM)"
+          },
+          { "Color": "0xb6dc6b", "ID": "29507", "Desc": "Randy O. Lewis (REP)" }
+        ]
+      },
+      {
+        "ID": "15260",
+        "SpecificTitle": "District Judge -- 36th JDC, Division B",
+        "GeneralTitle": "District Judge",
+        "OfficeLevel": "210",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "0",
+        "Choice": [
+          {
+            "Color": "0x8970cb",
+            "ID": "29546",
+            "Desc": "Martha Ann O'Neal (DEM)"
+          },
+          {
+            "Color": "0xb6dc6b",
+            "ID": "29547",
+            "Desc": "H.I. \"Buddy\" Stewart (OTHER)"
+          }
+        ]
+      },
+      {
+        "ID": "15257",
+        "SpecificTitle": "District Judge -- 40th JDC, Election Section 3, Division C",
+        "GeneralTitle": "District Judge",
+        "OfficeLevel": "210",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "0",
+        "Choice": [
+          {
+            "Color": "0x8970cb",
+            "ID": "29540",
+            "Desc": "Brenda Braud Birner (REP)"
+          },
+          {
+            "Color": "0xb6dc6b",
+            "ID": "29541",
+            "Desc": "Sterling Snowdy (DEM)"
+          }
+        ]
+      },
+      {
+        "ID": "15243",
+        "SpecificTitle": "Judge -- Civil District Court, Division D",
+        "GeneralTitle": "District Judge",
+        "OfficeLevel": "210",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "0",
+        "Choice": [
+          {
+            "Color": "0x8970cb",
+            "ID": "29512",
+            "Desc": "C. Hunter King (DEM)"
+          },
+          {
+            "Color": "0xb6dc6b",
+            "ID": "29513",
+            "Desc": "Lloyd J. Medley, Jr. (DEM)"
+          }
+        ]
+      },
+      {
+        "ID": "15244",
+        "SpecificTitle": "Judge -- Criminal District Court, Section A",
+        "GeneralTitle": "District Judge",
+        "OfficeLevel": "210",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "0",
+        "Choice": [
+          {
+            "Color": "0x8970cb",
+            "ID": "29514",
+            "Desc": "Charles L. Elloie (DEM)"
+          },
+          {
+            "Color": "0xb6dc6b",
+            "ID": "29515",
+            "Desc": "David Oestreicher (DEM)"
+          }
+        ]
+      },
+      {
+        "ID": "15259",
+        "SpecificTitle": "Judge -- Criminal District Court, Section K",
+        "GeneralTitle": "District Judge",
+        "OfficeLevel": "210",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "0",
+        "Choice": [
+          {
+            "Color": "0x8970cb",
+            "ID": "29544",
+            "Desc": "Yvonne L. Hughes (DEM)"
+          },
+          { "Color": "0xb6dc6b", "ID": "29545", "Desc": "Arthur Hunter (DEM)" }
+        ]
+      },
+      {
+        "ID": "15267",
+        "SpecificTitle": "District Attorney",
+        "GeneralTitle": "District Attorney",
+        "OfficeLevel": "215",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "0",
+        "Choice": [
+          { "Color": "0x8970cb", "ID": "29560", "Desc": "Harry Connick (DEM)" },
+          { "Color": "0xb6dc6b", "ID": "29561", "Desc": "Morris W. Reed (DEM)" }
+        ]
+      },
+      {
+        "ID": "15263",
+        "SpecificTitle": "District Attorney --  8th JDC",
+        "GeneralTitle": "District Attorney",
+        "OfficeLevel": "215",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "0",
+        "Choice": [
+          {
+            "Color": "0x8970cb",
+            "ID": "29552",
+            "Desc": "Charles B. Bice (DEM)"
+          },
+          {
+            "Color": "0xb6dc6b",
+            "ID": "29553",
+            "Desc": "Terry R. Reeves (DEM)"
+          }
+        ]
+      },
+      {
+        "ID": "15264",
+        "SpecificTitle": "District Attorney -- 10th JDC",
+        "GeneralTitle": "District Attorney",
+        "OfficeLevel": "215",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "0",
+        "Choice": [
+          { "Color": "0x8970cb", "ID": "29554", "Desc": "Van Kyzar (DEM)" },
+          {
+            "Color": "0xb6dc6b",
+            "ID": "29555",
+            "Desc": "Billy West, Jr. (DEM)"
+          }
+        ]
+      },
+      {
+        "ID": "15265",
+        "SpecificTitle": "District Attorney -- 20th JDC",
+        "GeneralTitle": "District Attorney",
+        "OfficeLevel": "215",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "0",
+        "Choice": [
+          { "Color": "0x8970cb", "ID": "29556", "Desc": "Bruce Dodd (DEM)" },
+          {
+            "Color": "0xb6dc6b",
+            "ID": "29557",
+            "Desc": "Charles A. Shropshire (DEM)"
+          }
+        ]
+      },
+      {
+        "ID": "15261",
+        "SpecificTitle": "District Attorney -- 21st JDC",
+        "GeneralTitle": "District Attorney",
+        "OfficeLevel": "215",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "0",
+        "Choice": [
+          {
+            "Color": "0x8970cb",
+            "ID": "29548",
+            "Desc": "Duncan S. Kemp III (DEM)"
+          },
+          {
+            "Color": "0xb6dc6b",
+            "ID": "29549",
+            "Desc": "Scott M. Perrilloux (DEM)"
+          }
+        ]
+      },
+      {
+        "ID": "15266",
+        "SpecificTitle": "District Attorney -- 24th JDC",
+        "GeneralTitle": "District Attorney",
+        "OfficeLevel": "215",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "0",
+        "Choice": [
+          {
+            "Color": "0x8970cb",
+            "ID": "29558",
+            "Desc": "Jack M. Capella (REP)"
+          },
+          {
+            "Color": "0xb6dc6b",
+            "ID": "29559",
+            "Desc": "Paul Connick, Jr. (DEM)"
+          }
+        ]
+      },
+      {
+        "ID": "15262",
+        "SpecificTitle": "District Attorney -- 32nd JDC",
+        "GeneralTitle": "District Attorney",
+        "OfficeLevel": "215",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "0",
+        "Choice": [
+          {
+            "Color": "0x8970cb",
+            "ID": "29550",
+            "Desc": "\"Doug\" Greenburg (DEM)"
+          },
+          {
+            "Color": "0xb6dc6b",
+            "ID": "29551",
+            "Desc": "\"Joe\" Waitz, Jr. (DEM)"
+          }
+        ]
+      },
+      {
+        "ID": "15282",
+        "SpecificTitle": "City Marshal -- City Court, City of Shreveport",
+        "GeneralTitle": "Judge & Marshal of City Court",
+        "OfficeLevel": "250",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "0",
+        "Choice": [
+          { "Color": "0x8970cb", "ID": "29590", "Desc": "Jimmy Dove (DEM)" },
+          { "Color": "0xb6dc6b", "ID": "29591", "Desc": "\"Pat\" McGaha (REP)" }
+        ]
+      },
+      {
+        "ID": "15349",
+        "SpecificTitle": "Mayor -- City of Eunice",
+        "GeneralTitle": "Mayor",
+        "OfficeLevel": "300",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "0",
+        "Choice": [
+          {
+            "Color": "0x8970cb",
+            "ID": "29724",
+            "Desc": "Kenneth J. Peart (DEM)"
+          },
+          { "Color": "0xb6dc6b", "ID": "29725", "Desc": "Gil B. Young (DEM)" }
+        ]
+      },
+      {
+        "ID": "15374",
+        "SpecificTitle": "Alderman -- Town of Duson",
+        "GeneralTitle": "Alderman / City Council Member",
+        "OfficeLevel": "310",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "0",
+        "Choice": [
+          {
+            "Color": "0x8970cb",
+            "ID": "29775",
+            "Desc": "Gerald Alleman (DEM)"
+          },
+          {
+            "Color": "0xb6dc6b",
+            "ID": "29776",
+            "Desc": "Claudet \"Coco\" Broussard (DEM)"
+          }
+        ]
+      },
+      {
+        "ID": "15365",
+        "SpecificTitle": "Alderman -- Ward 4, City of Eunice",
+        "GeneralTitle": "Alderman / City Council Member",
+        "OfficeLevel": "310",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "0",
+        "Choice": [
+          {
+            "Color": "0x8970cb",
+            "ID": "29757",
+            "Desc": "Charles \"Brother\" Atchison (REP)"
+          },
+          {
+            "Color": "0xb6dc6b",
+            "ID": "29758",
+            "Desc": "\"Dale\" Soileau (DEM)"
+          }
+        ]
+      },
+      {
+        "ID": "15366",
+        "SpecificTitle": "Councilman -- District  A, City of Shreveport",
+        "GeneralTitle": "Alderman / City Council Member",
+        "OfficeLevel": "310",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "0",
+        "Choice": [
+          {
+            "Color": "0x8970cb",
+            "ID": "29759",
+            "Desc": "Bobby J. Cooper (DEM)"
+          },
+          {
+            "Color": "0xb6dc6b",
+            "ID": "29760",
+            "Desc": "James Robinson (OTHER)"
+          }
+        ]
+      },
+      {
+        "ID": "686",
+        "SpecificTitle": "Proposed CA No. 1 -- Prohibits Leg. & others from Ret. (Act 99)   ",
+        "GeneralTitle": "Constitutional Amendment",
+        "OfficeLevel": "998",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "0",
+        "Choice": [
+          { "Color": "0x8970cb", "ID": "1", "Desc": "FOR" },
+          { "Color": "0xb6dc6b", "ID": "2", "Desc": "AGAINST" }
+        ]
+      },
+      {
+        "ID": "687",
+        "SpecificTitle": "Proposed CA No. 2 -- Allows Donations by Pol. Sub. (Act 97)       ",
+        "GeneralTitle": "Constitutional Amendment",
+        "OfficeLevel": "998",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "0",
+        "Choice": [
+          { "Color": "0x8970cb", "ID": "1", "Desc": "FOR" },
+          { "Color": "0xb6dc6b", "ID": "2", "Desc": "AGAINST" }
+        ]
+      },
+      {
+        "ID": "688",
+        "SpecificTitle": "Proposed CA No. 3 -- Exempt/exclude goods from sales/use (Act 46) ",
+        "GeneralTitle": "Constitutional Amendment",
+        "OfficeLevel": "998",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "0",
+        "Choice": [
+          { "Color": "0x8970cb", "ID": "1", "Desc": "FOR" },
+          { "Color": "0xb6dc6b", "ID": "2", "Desc": "AGAINST" }
+        ]
+      }
+    ]
+  }
+}

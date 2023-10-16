@@ -1,0 +1,67 @@
+{
+  "Races": {
+    "WriteTime": "2023-01-20T15:14:16.300",
+    "Race": [
+      {
+        "ID": "56083",
+        "SpecificTitle": "Treasurer",
+        "GeneralTitle": "Treasurer",
+        "OfficeLevel": "120",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "0",
+        "Choice": [
+          {
+            "Color": "0x8970cb",
+            "ID": "102572",
+            "Desc": "Derrick Edwards (DEM)"
+          },
+          { "Color": "0xb6dc6b", "ID": "102573", "Desc": "John Schroder (REP)" }
+        ]
+      },
+      {
+        "ID": "56082",
+        "SpecificTitle": "State Representative --  77th Representative District",
+        "GeneralTitle": "State Representative",
+        "OfficeLevel": "205",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "0",
+        "Choice": [
+          {
+            "Color": "0x8970cb",
+            "ID": "102570",
+            "Desc": "\"Rob\" Maness (REP)"
+          },
+          { "Color": "0xb6dc6b", "ID": "102571", "Desc": "Mark Wright (REP)" }
+        ]
+      },
+      {
+        "ID": "56079",
+        "SpecificTitle": "Judge -- Civil District Court, Division J",
+        "GeneralTitle": "District Judge",
+        "OfficeLevel": "210",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "0",
+        "Choice": [
+          { "Color": "0x8970cb", "ID": "102564", "Desc": "Omar Mason (DEM)" },
+          {
+            "Color": "0xb6dc6b",
+            "ID": "102565",
+            "Desc": "D. Nicole Sheppard (DEM)"
+          }
+        ]
+      }
+    ]
+  }
+}

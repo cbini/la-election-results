@@ -1,0 +1,57 @@
+{
+  "Races": {
+    "WriteTime": "2023-01-20T16:12:48.253",
+    "Race": {
+      "ID": "17768",
+      "SpecificTitle": "State Representative --  98th Representative District",
+      "GeneralTitle": "State Representative",
+      "OfficeLevel": "205",
+      "IsPresidentialNominee": "0",
+      "IsMultiParish": "1",
+      "NumberToBeElected": "1",
+      "SummaryText": null,
+      "FullText": null,
+      "IsClosedParty": "0",
+      "Choice": [
+        {
+          "Color": "0x8970cb",
+          "ID": "34482",
+          "Desc": "Louis Charbonnet (DEM)"
+        },
+        {
+          "Color": "0xb6dc6b",
+          "ID": "34483",
+          "Desc": "Susan Price Geoghegan (DEM)"
+        },
+        { "Color": "0xffec6c", "ID": "34484", "Desc": "Louis Ivon (DEM)" },
+        { "Color": "0xff836b", "ID": "34485", "Desc": "Danatus N. King (DEM)" },
+        {
+          "Color": "0xa20017",
+          "ID": "34486",
+          "Desc": "Darrell McConduit (DEM)"
+        },
+        {
+          "Color": "0x81b1d5",
+          "ID": "34487",
+          "Desc": "R. E. \"Gus\" Payne (REP)"
+        },
+        {
+          "Color": "0x009899",
+          "ID": "34488",
+          "Desc": "Norbert Rome, Sr. (DEM)"
+        },
+        {
+          "Color": "0xed1b24",
+          "ID": "34489",
+          "Desc": "Melinda Schwegmann (DEM)"
+        },
+        { "Color": "0x2db04a", "ID": "34490", "Desc": "George Simno (REP)" },
+        {
+          "Color": "0x02538a",
+          "ID": "34491",
+          "Desc": "Catherine J. Smith (DEM)"
+        }
+      ]
+    }
+  }
+}

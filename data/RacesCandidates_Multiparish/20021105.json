@@ -1,0 +1,1030 @@
+{
+  "Races": {
+    "WriteTime": "2023-01-20T15:57:49.773",
+    "Race": [
+      {
+        "ID": "24348",
+        "SpecificTitle": "U. S. Senator",
+        "GeneralTitle": "U.S. Senator",
+        "OfficeLevel": "140",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "0",
+        "Choice": [
+          { "Color": "0x8970cb", "ID": "47505", "Desc": "Raymond Brown (DEM)" },
+          { "Color": "0xb6dc6b", "ID": "47506", "Desc": "John Cooksey (REP)" },
+          { "Color": "0xffec6c", "ID": "47507", "Desc": "Mary Landrieu (DEM)" },
+          {
+            "Color": "0xff836b",
+            "ID": "47508",
+            "Desc": "Patrick E. \"Live Wire\" Landry (OTHER)"
+          },
+          {
+            "Color": "0xa20017",
+            "ID": "47509",
+            "Desc": "James Lemann (OTHER)"
+          },
+          {
+            "Color": "0x81b1d5",
+            "ID": "47510",
+            "Desc": "\"Tony\" Perkins (REP)"
+          },
+          {
+            "Color": "0x009899",
+            "ID": "47511",
+            "Desc": "Gary D. Robbins (OTHER)"
+          },
+          {
+            "Color": "0xed1b24",
+            "ID": "47512",
+            "Desc": "Ernest Edward Skillman, Jr. (REP)"
+          },
+          {
+            "Color": "0x2db04a",
+            "ID": "47513",
+            "Desc": "Suzanne Haik Terrell (REP)"
+          }
+        ]
+      },
+      {
+        "ID": "25253",
+        "SpecificTitle": "U. S. Representative -- 1st Congressional District",
+        "GeneralTitle": "U.S. Representative",
+        "OfficeLevel": "145",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "0",
+        "Choice": [
+          {
+            "Color": "0x8970cb",
+            "ID": "48892",
+            "Desc": "Ian P. Hawxhurst (OTHER)"
+          },
+          {
+            "Color": "0xb6dc6b",
+            "ID": "48893",
+            "Desc": "Monica L. Monica (REP)"
+          },
+          { "Color": "0xffec6c", "ID": "48894", "Desc": "Robert Namer (REP)" },
+          { "Color": "0xff836b", "ID": "48895", "Desc": "David Vitter (REP)" }
+        ]
+      },
+      {
+        "ID": "25254",
+        "SpecificTitle": "U. S. Representative -- 2nd Congressional District",
+        "GeneralTitle": "U.S. Representative",
+        "OfficeLevel": "145",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "0",
+        "Choice": [
+          {
+            "Color": "0x8970cb",
+            "ID": "48897",
+            "Desc": "Wayne E. Clement (OTHER)"
+          },
+          {
+            "Color": "0xb6dc6b",
+            "ID": "48898",
+            "Desc": "Irma Muse Dixon (DEM)"
+          },
+          {
+            "Color": "0xffec6c",
+            "ID": "48899",
+            "Desc": "Clarence \"Buddy\" Hunt (DEM)"
+          },
+          {
+            "Color": "0xff836b",
+            "ID": "48900",
+            "Desc": "William J. Jefferson (DEM)"
+          },
+          {
+            "Color": "0xa20017",
+            "ID": "48901",
+            "Desc": "\"Silky\" Sullivan (REP)"
+          }
+        ]
+      },
+      {
+        "ID": "24382",
+        "SpecificTitle": "U. S. Representative -- 3rd Congressional District",
+        "GeneralTitle": "U.S. Representative",
+        "OfficeLevel": "145",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "0",
+        "Choice": [
+          {
+            "Color": "0x8970cb",
+            "ID": "47563",
+            "Desc": "William Beier (OTHER)"
+          },
+          {
+            "Color": "0xb6dc6b",
+            "ID": "47564",
+            "Desc": "David Iwancio (OTHER)"
+          },
+          {
+            "Color": "0xffec6c",
+            "ID": "47565",
+            "Desc": "W. J. \" Billy\" Tauzin (REP)"
+          }
+        ]
+      },
+      {
+        "ID": "24364",
+        "SpecificTitle": "U. S. Representative -- 4th Congressional District",
+        "GeneralTitle": "U.S. Representative",
+        "OfficeLevel": "145",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "0",
+        "Choice": [
+          {
+            "Color": "0x8970cb",
+            "ID": "47537",
+            "Desc": "\"Bill\" Jacobs (OTHER)"
+          },
+          {
+            "Color": "0xb6dc6b",
+            "ID": "47538",
+            "Desc": "\"Jim\" McCrery (REP)"
+          },
+          { "Color": "0xffec6c", "ID": "47539", "Desc": "John Milkovich (DEM)" }
+        ]
+      },
+      {
+        "ID": "24422",
+        "SpecificTitle": "U. S. Representative -- 5th Congressional District",
+        "GeneralTitle": "U.S. Representative",
+        "OfficeLevel": "145",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "0",
+        "Choice": [
+          {
+            "Color": "0x8970cb",
+            "ID": "47625",
+            "Desc": "Rodney Alexander (DEM)"
+          },
+          {
+            "Color": "0xb6dc6b",
+            "ID": "47626",
+            "Desc": "Robert J. Barham (REP)"
+          },
+          { "Color": "0xffec6c", "ID": "47627", "Desc": "Lee Fletcher (REP)" },
+          {
+            "Color": "0xff836b",
+            "ID": "47628",
+            "Desc": "Clyde C. Holloway (REP)"
+          },
+          {
+            "Color": "0xa20017",
+            "ID": "47629",
+            "Desc": "Sam Houston Melton, Jr. (DEM)"
+          },
+          {
+            "Color": "0x81b1d5",
+            "ID": "47630",
+            "Desc": "Vinson Mouser (OTHER)"
+          },
+          { "Color": "0x009899", "ID": "47631", "Desc": "Jack Wright (REP)" }
+        ]
+      },
+      {
+        "ID": "24383",
+        "SpecificTitle": "U. S. Representative -- 6th Congressional District",
+        "GeneralTitle": "U.S. Representative",
+        "OfficeLevel": "145",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "0",
+        "Choice": [
+          {
+            "Color": "0x8970cb",
+            "ID": "47566",
+            "Desc": "Richard H. Baker (REP)"
+          },
+          {
+            "Color": "0xb6dc6b",
+            "ID": "47567",
+            "Desc": "\"Rick\" Moscatello (OTHER)"
+          }
+        ]
+      },
+      {
+        "ID": "24347",
+        "SpecificTitle": "U. S. Representative -- 7th Congressional District",
+        "GeneralTitle": "U.S. Representative",
+        "OfficeLevel": "145",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "0",
+        "Choice": [
+          {
+            "Color": "0x8970cb",
+            "ID": "47503",
+            "Desc": "\"Chris\" John (DEM)"
+          },
+          {
+            "Color": "0xb6dc6b",
+            "ID": "47504",
+            "Desc": "Roberto Valletta (OTHER)"
+          }
+        ]
+      },
+      {
+        "ID": "26108",
+        "SpecificTitle": "Judge, Court of Appeal -- 4th Circuit, 1st District, Division A",
+        "GeneralTitle": "Judge of a Court of Appeal",
+        "OfficeLevel": "155",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "0",
+        "Choice": [
+          { "Color": "0x8970cb", "ID": "50479", "Desc": "Sidney Cates (DEM)" },
+          {
+            "Color": "0xb6dc6b",
+            "ID": "50480",
+            "Desc": "Edwin A. Lombard (DEM)"
+          }
+        ]
+      },
+      {
+        "ID": "26109",
+        "SpecificTitle": "PSC -- District 5",
+        "GeneralTitle": "Public Service Commission Member",
+        "OfficeLevel": "160",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "0",
+        "Choice": [
+          {
+            "Color": "0x8970cb",
+            "ID": "50481",
+            "Desc": "Foster L. Campbell, Jr. (DEM)"
+          },
+          { "Color": "0xb6dc6b", "ID": "50482", "Desc": "Don Owen (DEM)" }
+        ]
+      },
+      {
+        "ID": "26112",
+        "SpecificTitle": "District Judge --  7th JDC, Division A",
+        "GeneralTitle": "District Judge",
+        "OfficeLevel": "210",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "0",
+        "Choice": [
+          {
+            "Color": "0x8970cb",
+            "ID": "50487",
+            "Desc": "Madaline Cross Gibbs (DEM)"
+          },
+          { "Color": "0xb6dc6b", "ID": "50488", "Desc": "Kathy Johnson (DEM)" }
+        ]
+      },
+      {
+        "ID": "26116",
+        "SpecificTitle": "District Judge -- 14th JDC, Election Section 2, Division C",
+        "GeneralTitle": "District Judge",
+        "OfficeLevel": "210",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "0",
+        "Choice": [
+          { "Color": "0x8970cb", "ID": "50495", "Desc": "Guy Bradberry (DEM)" },
+          {
+            "Color": "0xb6dc6b",
+            "ID": "50496",
+            "Desc": "William J. \"Bill\" Cutrera (DEM)"
+          }
+        ]
+      },
+      {
+        "ID": "26262",
+        "SpecificTitle": "District Judge -- 15th JDC, Election Section 3, Division H",
+        "GeneralTitle": "District Judge",
+        "OfficeLevel": "210",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "0",
+        "Choice": [
+          {
+            "Color": "0x8970cb",
+            "ID": "50791",
+            "Desc": "David Blanchet (REP)"
+          },
+          {
+            "Color": "0xb6dc6b",
+            "ID": "50792",
+            "Desc": "Cynthia LeBourgeois (REP)"
+          }
+        ]
+      },
+      {
+        "ID": "26263",
+        "SpecificTitle": "District Judge -- 16th JDC, Election Section 1, Division H",
+        "GeneralTitle": "District Judge",
+        "OfficeLevel": "210",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "0",
+        "Choice": [
+          {
+            "Color": "0x8970cb",
+            "ID": "50793",
+            "Desc": "Lori A. Landry (DEM)"
+          },
+          { "Color": "0xb6dc6b", "ID": "50794", "Desc": "Curtis Sigur (DEM)" }
+        ]
+      },
+      {
+        "ID": "26115",
+        "SpecificTitle": "District Judge -- 18th JDC, Election Section 1, Division C",
+        "GeneralTitle": "District Judge",
+        "OfficeLevel": "210",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "0",
+        "Choice": [
+          { "Color": "0x8970cb", "ID": "50493", "Desc": "Alvin Batiste (DEM)" },
+          { "Color": "0xb6dc6b", "ID": "50494", "Desc": "Sharah Harris (DEM)" }
+        ]
+      },
+      {
+        "ID": "26110",
+        "SpecificTitle": "District Judge -- 21st JDC, Division F",
+        "GeneralTitle": "District Judge",
+        "OfficeLevel": "210",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "0",
+        "Choice": [
+          {
+            "Color": "0x8970cb",
+            "ID": "50483",
+            "Desc": "Robert H. Harrison, Jr. (REP)"
+          },
+          {
+            "Color": "0xb6dc6b",
+            "ID": "50484",
+            "Desc": "Jefferson D. Hughes III (REP)"
+          }
+        ]
+      },
+      {
+        "ID": "26117",
+        "SpecificTitle": "District Judge -- 23rd JDC, Election Section 2, Division B",
+        "GeneralTitle": "District Judge",
+        "OfficeLevel": "210",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "0",
+        "Choice": [
+          {
+            "Color": "0x8970cb",
+            "ID": "50497",
+            "Desc": "\"Tom\" Kliebert (DEM)"
+          },
+          { "Color": "0xb6dc6b", "ID": "50498", "Desc": "\"Joe\" Wiley (REP)" }
+        ]
+      },
+      {
+        "ID": "26261",
+        "SpecificTitle": "District Judge -- 32nd JDC, Division E",
+        "GeneralTitle": "District Judge",
+        "OfficeLevel": "210",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "0",
+        "Choice": [
+          {
+            "Color": "0x8970cb",
+            "ID": "50789",
+            "Desc": "\"Randy\" Bethancourt (REP)"
+          },
+          { "Color": "0xb6dc6b", "ID": "50790", "Desc": "Jerri Smitko (DEM)" }
+        ]
+      },
+      {
+        "ID": "26111",
+        "SpecificTitle": "District Judge -- 37th JDC",
+        "GeneralTitle": "District Judge",
+        "OfficeLevel": "210",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "0",
+        "Choice": [
+          { "Color": "0x8970cb", "ID": "50485", "Desc": "Don C. Burns (DEM)" },
+          { "Color": "0xb6dc6b", "ID": "50486", "Desc": "James E. Mixon (REP)" }
+        ]
+      },
+      {
+        "ID": "26113",
+        "SpecificTitle": "Judge -- Criminal District Court, Section C",
+        "GeneralTitle": "District Judge",
+        "OfficeLevel": "210",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "0",
+        "Choice": [
+          {
+            "Color": "0x8970cb",
+            "ID": "50489",
+            "Desc": "Sandra Cabrina Jenkins (DEM)"
+          },
+          {
+            "Color": "0xb6dc6b",
+            "ID": "50490",
+            "Desc": "Benedict \"Ben\" Willard (DEM)"
+          }
+        ]
+      },
+      {
+        "ID": "26114",
+        "SpecificTitle": "Judge -- Criminal District Court, Section J",
+        "GeneralTitle": "District Judge",
+        "OfficeLevel": "210",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "0",
+        "Choice": [
+          {
+            "Color": "0x8970cb",
+            "ID": "50491",
+            "Desc": "Darryl Derbigny (DEM)"
+          },
+          { "Color": "0xb6dc6b", "ID": "50492", "Desc": "Tim McElroy (DEM)" }
+        ]
+      },
+      {
+        "ID": "26120",
+        "SpecificTitle": "District Attorney",
+        "GeneralTitle": "District Attorney",
+        "OfficeLevel": "215",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "0",
+        "Choice": [
+          { "Color": "0x8970cb", "ID": "50503", "Desc": "Dale Atkins (DEM)" },
+          { "Color": "0xb6dc6b", "ID": "50504", "Desc": "Eddie Jordan (DEM)" }
+        ]
+      },
+      {
+        "ID": "26119",
+        "SpecificTitle": "District Attorney -- 20th JDC",
+        "GeneralTitle": "District Attorney",
+        "OfficeLevel": "215",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "0",
+        "Choice": [
+          { "Color": "0x8970cb", "ID": "50501", "Desc": "Sam D'Aquilla (DEM)" },
+          {
+            "Color": "0xb6dc6b",
+            "ID": "50502",
+            "Desc": "Charles A. Shropshire (DEM)"
+          }
+        ]
+      },
+      {
+        "ID": "26118",
+        "SpecificTitle": "District Attorney -- 26th JDC",
+        "GeneralTitle": "District Attorney",
+        "OfficeLevel": "215",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "0",
+        "Choice": [
+          {
+            "Color": "0x8970cb",
+            "ID": "50499",
+            "Desc": "\"Mike\" Boggs (REP)"
+          },
+          {
+            "Color": "0xb6dc6b",
+            "ID": "50500",
+            "Desc": "John \"Schuyler\" Marvin (DEM)"
+          }
+        ]
+      },
+      {
+        "ID": "26282",
+        "SpecificTitle": "Mayor -- Town of Broussard",
+        "GeneralTitle": "Mayor",
+        "OfficeLevel": "300",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "0",
+        "Choice": [
+          {
+            "Color": "0x8970cb",
+            "ID": "50831",
+            "Desc": "James C. Gondron (DEM)"
+          },
+          {
+            "Color": "0xb6dc6b",
+            "ID": "50832",
+            "Desc": "Charles E. Langlinais (DEM)"
+          }
+        ]
+      },
+      {
+        "ID": "26291",
+        "SpecificTitle": "Chief of Police -- Town of Duson",
+        "GeneralTitle": "Chief of Police / Marshal",
+        "OfficeLevel": "305",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "0",
+        "Choice": [
+          { "Color": "0x8970cb", "ID": "50849", "Desc": "Scott D. Gary (DEM)" },
+          { "Color": "0xb6dc6b", "ID": "50850", "Desc": "Roland Lewis (DEM)" }
+        ]
+      },
+      {
+        "ID": "26302",
+        "SpecificTitle": "Alderman -- District 3, Town of Broussard",
+        "GeneralTitle": "Alderman / City Council Member",
+        "OfficeLevel": "310",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "0",
+        "Choice": [
+          {
+            "Color": "0x8970cb",
+            "ID": "50880",
+            "Desc": "Karl J. Girouard (DEM)"
+          },
+          { "Color": "0xb6dc6b", "ID": "50881", "Desc": "Keith Rousseau (REP)" }
+        ]
+      },
+      {
+        "ID": "26303",
+        "SpecificTitle": "Alderman -- District 4, Town of Broussard",
+        "GeneralTitle": "Alderman / City Council Member",
+        "OfficeLevel": "310",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "0",
+        "Choice": [
+          {
+            "Color": "0x8970cb",
+            "ID": "50882",
+            "Desc": "Gertrude N. Batiste (DEM)"
+          },
+          { "Color": "0xb6dc6b", "ID": "50883", "Desc": "Harold Johnson (DEM)" }
+        ]
+      },
+      {
+        "ID": "26295",
+        "SpecificTitle": "Aldermen -- Town of Arnaudville",
+        "GeneralTitle": "Alderman / City Council Member",
+        "OfficeLevel": "310",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "3",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "0",
+        "Choice": [
+          {
+            "Color": "0x8970cb",
+            "ID": "50857",
+            "Desc": "Chester \"Doc\" Broussard (REP)"
+          },
+          {
+            "Color": "0xb6dc6b",
+            "ID": "50858",
+            "Desc": "Chaderick Hebert (DEM)"
+          },
+          {
+            "Color": "0xffec6c",
+            "ID": "50859",
+            "Desc": "Bradley G. Hollier (DEM)"
+          },
+          {
+            "Color": "0xff836b",
+            "ID": "50860",
+            "Desc": "Elsie H. Lagrange (DEM)"
+          },
+          { "Color": "0xa20017", "ID": "50861", "Desc": "Todd M. Meche (REP)" },
+          { "Color": "0x81b1d5", "ID": "50862", "Desc": "Remi Olivier (DEM)" }
+        ]
+      },
+      {
+        "ID": "26245",
+        "SpecificTitle": "Councilman -- District  A, City of Shreveport",
+        "GeneralTitle": "Alderman / City Council Member",
+        "OfficeLevel": "310",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "0",
+        "Choice": [
+          {
+            "Color": "0x8970cb",
+            "ID": "50757",
+            "Desc": "Calvin \"Ben\" Lester (DEM)"
+          },
+          {
+            "Color": "0xb6dc6b",
+            "ID": "50758",
+            "Desc": "Michael D. Williams (DEM)"
+          }
+        ]
+      },
+      {
+        "ID": "26246",
+        "SpecificTitle": "Councilman -- District  B, City of Shreveport",
+        "GeneralTitle": "Alderman / City Council Member",
+        "OfficeLevel": "310",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "0",
+        "Choice": [
+          {
+            "Color": "0x8970cb",
+            "ID": "50759",
+            "Desc": "\"Monty\" Walford (DEM)"
+          },
+          {
+            "Color": "0xb6dc6b",
+            "ID": "50760",
+            "Desc": "Jerard L. Wills (DEM)"
+          }
+        ]
+      },
+      {
+        "ID": "26247",
+        "SpecificTitle": "Councilman -- District  D, City of Shreveport",
+        "GeneralTitle": "Alderman / City Council Member",
+        "OfficeLevel": "310",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "0",
+        "Choice": [
+          {
+            "Color": "0x8970cb",
+            "ID": "50761",
+            "Desc": "Michael \"Mike\" Gibson (REP)"
+          },
+          {
+            "Color": "0xb6dc6b",
+            "ID": "50762",
+            "Desc": "\"Doug\" Shurling (REP)"
+          }
+        ]
+      },
+      {
+        "ID": "2945",
+        "SpecificTitle": "CA No.  1 (Act 1231-2001) -- Changes to Legislative Session               ",
+        "GeneralTitle": "Constitutional Amendment",
+        "OfficeLevel": "998",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "0",
+        "Choice": [
+          { "Color": "0x8970cb", "ID": "1", "Desc": "FOR" },
+          { "Color": "0xb6dc6b", "ID": "2", "Desc": "AGAINST" }
+        ]
+      },
+      {
+        "ID": "2946",
+        "SpecificTitle": "CA No.  2 (Act 88-2002) -- Ind. & joint income tax schedule             ",
+        "GeneralTitle": "Constitutional Amendment",
+        "OfficeLevel": "998",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "0",
+        "Choice": [
+          { "Color": "0x8970cb", "ID": "1", "Desc": "FOR" },
+          { "Color": "0xb6dc6b", "ID": "2", "Desc": "AGAINST" }
+        ]
+      },
+      {
+        "ID": "2947",
+        "SpecificTitle": "CA No.  3 (Act 1236-2001) -- Procedure for the Legis.to adj.appropriations",
+        "GeneralTitle": "Constitutional Amendment",
+        "OfficeLevel": "998",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "0",
+        "Choice": [
+          { "Color": "0x8970cb", "ID": "1", "Desc": "FOR" },
+          { "Color": "0xb6dc6b", "ID": "2", "Desc": "AGAINST" }
+        ]
+      },
+      {
+        "ID": "2948",
+        "SpecificTitle": "CA No.  4 (Act 166-2002) -- Removal of public employees from employment  ",
+        "GeneralTitle": "Constitutional Amendment",
+        "OfficeLevel": "998",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "0",
+        "Choice": [
+          { "Color": "0x8970cb", "ID": "1", "Desc": "FOR" },
+          { "Color": "0xb6dc6b", "ID": "2", "Desc": "AGAINST" }
+        ]
+      },
+      {
+        "ID": "2949",
+        "SpecificTitle": "CA No.  5 (Act 89-2002) -- St.Bd. of Commerce to contract ad valorem tax",
+        "GeneralTitle": "Constitutional Amendment",
+        "OfficeLevel": "998",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "0",
+        "Choice": [
+          { "Color": "0x8970cb", "ID": "1", "Desc": "FOR" },
+          { "Color": "0xb6dc6b", "ID": "2", "Desc": "AGAINST" }
+        ]
+      },
+      {
+        "ID": "2950",
+        "SpecificTitle": "CA No.  6 (Act 1234-2001) -- Budget estimate to fund law enforce.& fire   ",
+        "GeneralTitle": "Constitutional Amendment",
+        "OfficeLevel": "998",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "0",
+        "Choice": [
+          { "Color": "0x8970cb", "ID": "1", "Desc": "FOR" },
+          { "Color": "0xb6dc6b", "ID": "2", "Desc": "AGAINST" }
+        ]
+      },
+      {
+        "ID": "2951",
+        "SpecificTitle": "CA No.  7 (Act 87-2002) -- Homestead exemption assessment level         ",
+        "GeneralTitle": "Constitutional Amendment",
+        "OfficeLevel": "998",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "0",
+        "Choice": [
+          { "Color": "0x8970cb", "ID": "1", "Desc": "FOR" },
+          { "Color": "0xb6dc6b", "ID": "2", "Desc": "AGAINST" }
+        ]
+      },
+      {
+        "ID": "2952",
+        "SpecificTitle": "CA No.  8 (Act 1235-2001) -- Higher education to invest in stock up to 50%",
+        "GeneralTitle": "Constitutional Amendment",
+        "OfficeLevel": "998",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "0",
+        "Choice": [
+          { "Color": "0x8970cb", "ID": "1", "Desc": "FOR" },
+          { "Color": "0xb6dc6b", "ID": "2", "Desc": "AGAINST" }
+        ]
+      },
+      {
+        "ID": "2953",
+        "SpecificTitle": "CA No.  9 (Act 1232-2001) -- Permit investment in stock Med. Trust Fund   ",
+        "GeneralTitle": "Constitutional Amendment",
+        "OfficeLevel": "998",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "0",
+        "Choice": [
+          { "Color": "0x8970cb", "ID": "1", "Desc": "FOR" },
+          { "Color": "0xb6dc6b", "ID": "2", "Desc": "AGAINST" }
+        ]
+      },
+      {
+        "ID": "2954",
+        "SpecificTitle": "CA No. 10 (Act 1233-2001) -- Programs to assist farmers                   ",
+        "GeneralTitle": "Constitutional Amendment",
+        "OfficeLevel": "998",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "0",
+        "Choice": [
+          { "Color": "0x8970cb", "ID": "1", "Desc": "FOR" },
+          { "Color": "0xb6dc6b", "ID": "2", "Desc": "AGAINST" }
+        ]
+      },
+      {
+        "ID": "2955",
+        "SpecificTitle": "CA No. 11 (Act 86-2002) -- Exemption from ad valorem on drilling rigs   ",
+        "GeneralTitle": "Constitutional Amendment",
+        "OfficeLevel": "998",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "0",
+        "Choice": [
+          { "Color": "0x8970cb", "ID": "1", "Desc": "FOR" },
+          { "Color": "0xb6dc6b", "ID": "2", "Desc": "AGAINST" }
+        ]
+      },
+      {
+        "ID": "2956",
+        "SpecificTitle": "CA No. 12 (Act 1230-2001) -- Qualifications of Coroner, Livingston Parish ",
+        "GeneralTitle": "Constitutional Amendment",
+        "OfficeLevel": "998",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "0",
+        "Choice": [
+          { "Color": "0x8970cb", "ID": "1", "Desc": "FOR" },
+          { "Color": "0xb6dc6b", "ID": "2", "Desc": "AGAINST" }
+        ]
+      },
+      {
+        "ID": "2959",
+        "SpecificTitle": "Evergreen FPD -- 16.89 Mills -- BOC -- 10 Years               ",
+        "GeneralTitle": "Proposition",
+        "OfficeLevel": "999",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": "EVERGREEN FIRE PROTECTION DISTRICT PROPOSITION\n\nSUMMARY:  10-YEAR 16.89 MILLS PROPERTY TAX FOR THE PURPOSE OF CONSTRUCTION, ACQUISITION, AND MAINTENANCE OF BUILDINGS AND THE PURCHASE OF ADDITIONAL FIRE EQUIPMENT AND TRUCKS AND PROVIDING FOR OTHER MATTERS IN CONNECTION THEREWITH.",
+        "FullText": "Shall the Evergreen Fire Protection District of the Parishes of Claiborne and Webster, State of Louisiana (the \"District\"), under the provisions of Article VI, Sections 30 and 32 of the Constitution of the State of Louisiana of 1974, and other constitutional and statutory authority supplemental thereto, be authorized to levy and collect, and adopt an ordinance providing for such levy and collection a sixteen and eighty nine hundredths (16.89) mill property tax on all property subject to taxation in said Evergreen Fire Protection District for a period of ten (10) years, beginning with year 2003, and, if approved, this tax will replace the ten (10) year ten (10) mill property tax presently in existence, for the purpose of construction, acquisition, and maintenance of buildings and the purchase of additional fire equipment and trucks and providing for other matters in connection therewith?",
+        "IsClosedParty": "0",
+        "Choice": [
+          { "Color": "0x8970cb", "ID": "3", "Desc": "YES" },
+          { "Color": "0xb6dc6b", "ID": "4", "Desc": "NO" }
+        ]
+      },
+      {
+        "ID": "2957",
+        "SpecificTitle": "City of Shreveport -- 1/4% S & U - City Council                    ",
+        "GeneralTitle": "Proposition",
+        "OfficeLevel": "999",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": "CITY OF SHREVEPORT PROPOSITION\n( SALES TAX INCREASE FOR POLICE AND FIRE SALARIES, BENEFITS AND EQUIPMENT)\n\nSUMMARY: FOUR-YEAR, * PERCENT ADDITIONAL SALES TAX TO BE LEVIED WITHIN THE CITY OF SHREVEPORT, TO BE EXPENDED BY THE CITY OF SHREVEPORT FOR SALARIES, BENEFITS, EQUIPMENT AND PERSONNEL FOR THE POLICE AND FIRE DEPARTMENTS.",
+        "FullText": "Shall the City of Shreveport, State of Louisiana (the \"City\"), under the provisions of La. R.S. 33:2711.15 and other constitutional and statutory authority supplemental thereto, be authorized to levy and collect, and adopt an ordinance providing for such levy and collection, an additional tax of one-forth of one percent (1/4%) (the \"Tax\"), upon the sale at retail, the use, the lease or rental, the consumption, and the storage for use or consumption of tangible personal property and on sales of services, all as presently or thereafter defined in Chapter 2 of Subtitle II of Title 47 of the Louisiana Revised Statutes of 1950 within the corporate limits of the City of Shreveport for a term not to exceed four years from and after the date such additional tax is first levied, with the avails or proceeds of the Tax (after paying the reasonable and necessary costs and expenses of collecting and administering the Tax) to be dedicated and used solely and exclusively for salaries, benefits, equipment and personnel for the Police and Fire Departments of the City of Shreveport?",
+        "IsClosedParty": "0",
+        "Choice": [
+          { "Color": "0x8970cb", "ID": "3", "Desc": "YES" },
+          { "Color": "0xb6dc6b", "ID": "4", "Desc": "NO" }
+        ]
+      },
+      {
+        "ID": "2958",
+        "SpecificTitle": "City of Shreveport -- 7.99 Mills-Downtown Dev. Dist.-City Council  ",
+        "GeneralTitle": "Proposition",
+        "OfficeLevel": "999",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": "CITY OF SHREVEPORT PROPOSITION\n(DOWNTOWN DEVELOPMENT DISTRICT)\n\nSUMMARY:  25 YEAR, (IN LIEU OF THE EXISTING 5 YEAR AUTHORIZATION) 7.99 MILLS PROPERTY TAX TO BE LEVIED IN THE DOWNTOWN DEVELOPMENT DISTRICT, TO BE EXPENDED BY THE DOWNTOWN DEVELOPMENT AUTHORITY FOR ADMINISTRATION, OPERATIONAL EXPENSES, ACQUIRING PROPERTY, PROJECT EXPENSES AND/OR THE RETIREMENT OF BONDS OR OTHER EVIDENCES OF INDEBTEDNESS.",
+        "FullText": "Shall the City of Shreveport, State of Louisiana (the \"City\"), acting through the City Council as the governing authority thereof, be authorized to levy a special tax of Seven and Ninety-Nine Hundredths (7.99) mills on all property subject to taxation situated within the bounds of the Downtown Development District of the City of Shreveport (the \"District\") as defined by Act 554 of 1978, as amended by Act 411 of 1980 and Act 163 of 1984 (the \"Act\"), for a period of twenty-five (25) years (in lieu of the existing five (5) year authorization), beginning with the year 2002 and ending with the year 2027, with the proceeds of said tax to be used solely and exclusively for the purposes and benefit of the District, and to be expended by the Downtown Development Authority for administration, operational expenses, acquiring property, project expenses and/or the retirement of bonds or other evidences of indebtedness, in accordance with the terms and conditions of the Act as the same now exists or may hereafter be amended?",
+        "IsClosedParty": "0",
+        "Choice": [
+          { "Color": "0x8970cb", "ID": "3", "Desc": "YES" },
+          { "Color": "0xb6dc6b", "ID": "4", "Desc": "NO" }
+        ]
+      },
+      {
+        "ID": "2960",
+        "SpecificTitle": "Town of Arnaudville -- 7 Mills - Mayor & BOA                        ",
+        "GeneralTitle": "Proposition",
+        "OfficeLevel": "999",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": "TOWN OF ARNAUDVILLE PROPOSITION\n(TAX CONTINUATION)\n\nSUMMARY: AUTHORITY TO CONTINUE TO LEVY A 7 MILLS TAX FOR 10 YEARS FOR SUPPLEMENTING THE COST OF CONSTRUCTING, ACQUIRING, IMPROVING, MAINTAINING AND OPERATING THE TOWN'S WATERWORKS SYSTEM, SEWER SYSTEM AND NATURAL GAS TRANSMISSION AND DISTRIBUTION SYSTEM.",
+        "FullText": "Shall the Town of Arnaudville, State of Louisiana (the \"Town\"), be authorized to continue the levy of a special tax of seven (7) mills on all of the property subject to taxation in said Town for a period of ten (10) years, beginning with the year 2002 and ending with the year 2011, for the purpose of supplementing the cost of constructing, acquiring, improving, maintaining and operating the Town's waterworks system, sewer system and natural gas transmission and distribution system?\n\n",
+        "IsClosedParty": "0",
+        "Choice": [
+          { "Color": "0x8970cb", "ID": "3", "Desc": "YES" },
+          { "Color": "0xb6dc6b", "ID": "4", "Desc": "NO" }
+        ]
+      }
+    ]
+  }
+}

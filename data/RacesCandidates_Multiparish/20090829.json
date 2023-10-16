@@ -1,0 +1,51 @@
+{
+  "Races": {
+    "WriteTime": "2023-01-20T15:39:58.487",
+    "Race": [
+      {
+        "ID": "38868",
+        "SpecificTitle": "State Senator -- 20th Senatorial District",
+        "GeneralTitle": "State Senator",
+        "OfficeLevel": "200",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "0",
+        "Choice": [
+          { "Color": "0x8970cb", "ID": "74766", "Desc": "Brent Callais (REP)" },
+          {
+            "Color": "0xb6dc6b",
+            "ID": "74767",
+            "Desc": "\"Norby\" Chabert (DEM)"
+          }
+        ]
+      },
+      {
+        "ID": "38869",
+        "SpecificTitle": "State Representative --  40th Representative District",
+        "GeneralTitle": "State Representative",
+        "OfficeLevel": "205",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "0",
+        "Choice": [
+          {
+            "Color": "0x8970cb",
+            "ID": "74768",
+            "Desc": "Anna C. Simmons (DEM)"
+          },
+          {
+            "Color": "0xb6dc6b",
+            "ID": "74769",
+            "Desc": "Ledricka Johnson Thierry (DEM)"
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,84 @@
+{
+  "Races": {
+    "WriteTime": "2023-01-20T15:51:26.707",
+    "Race": [
+      {
+        "ID": "30697",
+        "SpecificTitle": "U. S. Representative -- 3rd Congressional District",
+        "GeneralTitle": "U.S. Representative",
+        "OfficeLevel": "145",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "0",
+        "Choice": [
+          {
+            "Color": "0x8970cb",
+            "ID": "58719",
+            "Desc": "\"Charlie\" Melancon (DEM)"
+          },
+          {
+            "Color": "0xb6dc6b",
+            "ID": "58720",
+            "Desc": "W.J. \"Billy\" Tauzin III (REP)"
+          }
+        ]
+      },
+      {
+        "ID": "30698",
+        "SpecificTitle": "U. S. Representative -- 7th Congressional District",
+        "GeneralTitle": "U.S. Representative",
+        "OfficeLevel": "145",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "0",
+        "Choice": [
+          {
+            "Color": "0x8970cb",
+            "ID": "58721",
+            "Desc": "Charles Boustany, Jr. (REP)"
+          },
+          {
+            "Color": "0xb6dc6b",
+            "ID": "58722",
+            "Desc": "Willie Landry Mount (DEM)"
+          }
+        ]
+      },
+      {
+        "ID": "30436",
+        "SpecificTitle": "State Senator --  4th Senatorial District",
+        "GeneralTitle": "State Senator",
+        "OfficeLevel": "200",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "0",
+        "Choice": [
+          {
+            "Color": "0x8970cb",
+            "ID": "58038",
+            "Desc": "Clayton J. Joffrion (OTHER)"
+          },
+          {
+            "Color": "0xb6dc6b",
+            "ID": "58039",
+            "Desc": "Edwin R. \"Ed\" Murray (DEM)"
+          },
+          {
+            "Color": "0xffec6c",
+            "ID": "58040",
+            "Desc": "Adam D. Wilson (OTHER)"
+          }
+        ]
+      }
+    ]
+  }
+}

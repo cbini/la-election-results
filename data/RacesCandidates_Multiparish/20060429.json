@@ -1,0 +1,87 @@
+{
+  "Races": {
+    "WriteTime": "2023-01-20T15:49:09.410",
+    "Race": [
+      {
+        "ID": "32392",
+        "SpecificTitle": "State Representative --  22nd Representative District",
+        "GeneralTitle": "State Representative",
+        "OfficeLevel": "205",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "0",
+        "Choice": [
+          {
+            "Color": "0x8970cb",
+            "ID": "62623",
+            "Desc": "Billy Chandler (DEM)"
+          },
+          { "Color": "0xb6dc6b", "ID": "62624", "Desc": "Tony K. Owens (REP)" }
+        ]
+      },
+      {
+        "ID": "32395",
+        "SpecificTitle": "Mayor -- City of DeRidder",
+        "GeneralTitle": "Mayor",
+        "OfficeLevel": "300",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "0",
+        "Choice": [
+          {
+            "Color": "0x8970cb",
+            "ID": "62629",
+            "Desc": "Gerald Johnson (DEM)"
+          },
+          { "Color": "0xb6dc6b", "ID": "62630", "Desc": "Ron Roberts (DEM)" }
+        ]
+      },
+      {
+        "ID": "32406",
+        "SpecificTitle": "Councilman -- District 1, City of DeRidder",
+        "GeneralTitle": "Alderman / City Council Member",
+        "OfficeLevel": "310",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "0",
+        "Choice": [
+          {
+            "Color": "0x8970cb",
+            "ID": "62651",
+            "Desc": "Chris Bryant (NOPTY)"
+          },
+          {
+            "Color": "0xb6dc6b",
+            "ID": "62652",
+            "Desc": "Robert \"Bo\" Rice (DEM)"
+          }
+        ]
+      },
+      {
+        "ID": "4145",
+        "SpecificTitle": "Fire Protect. Dist. No. 5 -- 16 Mills - BOC - 10 Yrs.                     ",
+        "GeneralTitle": "Proposition",
+        "OfficeLevel": "999",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": "FIRE PROTECTION DISTRICT NO. 5 PROPOSITION\n(MILLAGE)\n\nSUMMARY: AUTHORITY FOR FIRE PROTECTION DISTRICT NO. 5 OF THE PARISH OF TERREBONNE, STATE OF LOUISIANA, TO LEVY A 10 YEAR 16-MILLS TAX FOR THE PURPOSE OF ACQUIRING, CONSTRUCTING, MAINTAINING AND OPERATING THE DISTRICT'S FIRE PROTECTION AND EMERGENCY MEDICAL SERVICE FACILITIES, FOR PURCHASING FIRE TRUCKS AND OTHER FIRE FIGHTING OR EMERGENCY MEDICAL SERVICE EQUIPMENT AND PAYING THE COST OF OBTAINING WATER FOR FIRE PROTECTION PURPOSES, INCLUDING CHARGES FOR FIRE HYDRANT RENTALS AND SERVICE.",
+        "FullText": "Shall Fire Protection District No. 5 of the Parish of Terrebonne, State of Louisiana (the \"District\"), levy and collect a special tax of sixteen (16) mills on all property subject to taxation in said District, for a period of ten (10) years, beginning with the year 2007 and ending with the year 2016, for the purpose of acquiring, constructing, maintaining and operating the District's fire protection and emergency medical service facilities, for purchasing fire trucks and other fire fighting or emergency medical service equipment and paying the cost of obtaining water for fire protection purposes, including charges for fire hydrant rentals and service?",
+        "IsClosedParty": "0",
+        "Choice": [
+          { "Color": "0x8970cb", "ID": "3", "Desc": "YES" },
+          { "Color": "0xb6dc6b", "ID": "4", "Desc": "NO" }
+        ]
+      }
+    ]
+  }
+}

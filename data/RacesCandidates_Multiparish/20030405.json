@@ -1,0 +1,103 @@
+{
+  "Races": {
+    "WriteTime": "2023-01-20T15:57:06.163",
+    "Race": [
+      {
+        "ID": "3117",
+        "SpecificTitle": "City of Shreveport -- Prop.#1 -- 1.31 Mill Repair St. - Council 5Yr",
+        "GeneralTitle": "Proposition",
+        "OfficeLevel": "999",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": "PROPOSITION NO. 1\n(TAX CONTINUATION)\n\nSUMMARY: 5 YEAR 1.31 MILL PROPERTY TAX CONTINUATION FOR IMPROVING, REPAIRING AND MAINTAINING STREETS.",
+        "FullText": "Shall the City of Shreveport, State of Louisiana (the \"City\"), continue to levy a 1.31 mill tax on all the property subject to taxation within said City for a period of five (5) years, beginning with the year 2003 and ending with the year 2007, being a continuation of the tax approved by the voters on July 19, 1997, for the purpose of improving, repairing and maintaining the streets of the City, title to which shall be in the public?\n",
+        "IsClosedParty": "0",
+        "Choice": [
+          { "Color": "0x8970cb", "ID": "3", "Desc": "YES" },
+          { "Color": "0xb6dc6b", "ID": "4", "Desc": "NO" }
+        ]
+      },
+      {
+        "ID": "3118",
+        "SpecificTitle": "City of Shreveport -- Prop.#2 -- .98 Mill Rec. Facility - Council  ",
+        "GeneralTitle": "Proposition",
+        "OfficeLevel": "999",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": "PROPOSITION NO. 2\n(TAX CONTINUATION)\n\nSUMMARY: 5 YEAR .98 MILL PROPERTY TAX CONTINUATION FOR OPERATING AND SUPPLYING RECREATIONAL FACILITIES AND APPURTENANCES AND MAINTAINING THE SAME.",
+        "FullText": "Shall the City of Shreveport, State of Louisiana (the \"City\"), continue to levy a .98 mill tax on all the property subject to taxation within said City for a period of five (5) years, beginning with the year 2003 and ending with the year 2007, being a continuation of the tax approved by the voters on July 19, 1997, for the purpose of operating and supplying recreational facilities and appurtenances and maintaining the same, title to which shall be in the public?\n",
+        "IsClosedParty": "0",
+        "Choice": [
+          { "Color": "0x8970cb", "ID": "3", "Desc": "YES" },
+          { "Color": "0xb6dc6b", "ID": "4", "Desc": "NO" }
+        ]
+      },
+      {
+        "ID": "3119",
+        "SpecificTitle": "City of Shreveport -- Prop.#3 -- 1.31 Mill Salary/Wage - Council 5Y",
+        "GeneralTitle": "Proposition",
+        "OfficeLevel": "999",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": "PROPOSITION NO. 3\n(TAX CONTINUATION)\n\nSUMMARY: 5 YEAR 1.31 MILL PROPERTY TAX CONTINUATION FOR CONTINUING  SALARY AND WAGE SCHEDULE OF CITY EMPLOYEES.",
+        "FullText": "Shall the City of Shreveport, State of Louisiana (the \"City\"), continue to levy a 1.31 mill tax on all the property subject to taxation within said City for a period of five (5) years, beginning with the year 2003 and ending with the year 2007, being a continuation of the tax approved by the voters on July 19, 1997, for the purpose of continuing salary and wage schedule of City employees and for no other purpose?\n",
+        "IsClosedParty": "0",
+        "Choice": [
+          { "Color": "0x8970cb", "ID": "3", "Desc": "YES" },
+          { "Color": "0xb6dc6b", "ID": "4", "Desc": "NO" }
+        ]
+      },
+      {
+        "ID": "3120",
+        "SpecificTitle": "City of Shreveport -- Prop.#4 --1.31 Mill Police/Fire - Council 5Yr",
+        "GeneralTitle": "Proposition",
+        "OfficeLevel": "999",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": "PROPOSITION NO. 4\n(TAX CONTINUATION)\n\nSUMMARY: 5 YEAR 1.31 MILL PROPERTY TAX CONTINUATION FOR INCREASING\t POLICE AND FIRE PERSONNEL AND ALLOWANCE FOR UNIFORMS AND EQUIPMENT FOR SAID DEPARTMENTS.",
+        "FullText": "Shall the City of Shreveport, State of Louisiana (the \"City\"), continue to levy a 1.31 mill tax on all the property subject to taxation within said City for a period of five (5) years, beginning with the year 2003 and ending with the year 2007, being a continuation of the tax approved by the voters on July 19, 1997, for the purpose of increasing Police and Fire personnel and allowance for uniforms and equipment for said Departments and for no other purpose?\n",
+        "IsClosedParty": "0",
+        "Choice": [
+          { "Color": "0x8970cb", "ID": "3", "Desc": "YES" },
+          { "Color": "0xb6dc6b", "ID": "4", "Desc": "NO" }
+        ]
+      },
+      {
+        "ID": "3121",
+        "SpecificTitle": "City of Shreveport -- Prop.#5 -- 1.99 Mill Life Ins. - Council 5 Yr",
+        "GeneralTitle": "Proposition",
+        "OfficeLevel": "999",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": "PROPOSITION NO. 5\n(TAX CONTINUATION)\n\nSUMMARY: 5 YEAR 1.99 MILL PROPERTY TAX CONTINUATION FOR PROVIDING FUNDS FOR CITY'S PORTION OF PENSIONS, EMPLOYEE LIFE INSURANCE AND HOSPITAL PLAN FOR CITY EMPLOYEES.",
+        "FullText": "Shall the City of Shreveport, State of Louisiana (the \"City\"), continue to levy a 1.99 mill tax on all the property subject to taxation within said City for a period of five (5) years, beginning with the year 2003 and ending with the year 2007, being a continuation of the tax approved by the voters on July 19, 1997, for the purpose of providing funds for City's portion of pensions, employee life insurance and hospital plan for City employees?",
+        "IsClosedParty": "0",
+        "Choice": [
+          { "Color": "0x8970cb", "ID": "3", "Desc": "YES" },
+          { "Color": "0xb6dc6b", "ID": "4", "Desc": "NO" }
+        ]
+      },
+      {
+        "ID": "3116",
+        "SpecificTitle": "Bayou Lafx Fresh Wtr Dist -- 2.11 Mills Tax Renewal -- BOC - 10 yr        ",
+        "GeneralTitle": "Proposition",
+        "OfficeLevel": "999",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": "BAYOU LAFOURCHE FRESH WATER DISTRICT PROPOSITION \n(TAX RENEWAL)\n\nSUMMARY: 10-YEAR 2.11 MILLS PROPERTY TAX RENEWAL FOR THE PURPOSE OF ACQUIRING, ADMINISTERING, CONSTRUCTING, IMPROVING, MAINTAINING AND/OR OPERATING IMPROVEMENTS, EQUIPMENT, STRUCTURES, FACILITIES, PROJECTS AND PROGRAMS OF AND FOR THE BAYOU LAFOURCHE FRESH WATER DISTRICT, INCLUDING PAYING PERSONNEL COSTS.",
+        "FullText": "Shall Bayou Lafourche Fresh Water District (the \"District\") be authorized to levy a special tax of two and eleven hundredths (2.11) mills on all property subject to taxation in the District for a period of ten (10) years, beginning with the year 2004 and ending with the year 2013, for the purpose of acquiring, administering, constructing, improving, maintaining and/or operating improvements, equipment, structures, facilities, projects and programs of and for the District, including paying personnel costs?",
+        "IsClosedParty": "0",
+        "Choice": [
+          { "Color": "0x8970cb", "ID": "3", "Desc": "YES" },
+          { "Color": "0xb6dc6b", "ID": "4", "Desc": "NO" }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "Races": {
+    "VersionDateTime": "1900-01-01T00:00:00",
+    "Race": [
+      {
+        "ID": "6333",
+        "PrecinctsReporting": "79",
+        "PrecinctsExpected": "79",
+        "NumAbsenteeReporting": "1",
+        "NumAbsenteeExpected": "1",
+        "VoterCountQualified": "-1",
+        "VoterCountVoted": "-1",
+        "Choice": [
+          { "ID": "12452", "VoteTotal": "10983", "Outcome": "Elected" },
+          { "ID": "12453", "VoteTotal": "5964", "Outcome": "Defeated" }
+        ]
+      },
+      {
+        "ID": "6334",
+        "PrecinctsReporting": "194",
+        "PrecinctsExpected": "194",
+        "NumAbsenteeReporting": "6",
+        "NumAbsenteeExpected": "6",
+        "VoterCountQualified": "-1",
+        "VoterCountVoted": "-1",
+        "Choice": [
+          { "ID": "12454", "VoteTotal": "11094", "Outcome": "Defeated" },
+          { "ID": "12455", "VoteTotal": "15314", "Outcome": "Elected" }
+        ]
+      },
+      {
+        "ID": "6335",
+        "PrecinctsReporting": "26",
+        "PrecinctsExpected": "26",
+        "NumAbsenteeReporting": "1",
+        "NumAbsenteeExpected": "1",
+        "VoterCountQualified": "-1",
+        "VoterCountVoted": "-1",
+        "Choice": [
+          { "ID": "12456", "VoteTotal": "3890", "Outcome": "Elected" },
+          { "ID": "12457", "VoteTotal": "3179", "Outcome": "Defeated" }
+        ]
+      }
+    ]
+  }
+}

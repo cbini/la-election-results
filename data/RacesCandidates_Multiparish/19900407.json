@@ -1,0 +1,126 @@
+{
+  "Races": {
+    "WriteTime": "2023-01-20T16:34:28.750",
+    "Race": [
+      {
+        "ID": "9729",
+        "SpecificTitle": "State Representative --  44th Representative District",
+        "GeneralTitle": "State Representative",
+        "OfficeLevel": "205",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "0",
+        "Choice": [
+          {
+            "Color": "0x8970cb",
+            "ID": "20560",
+            "Desc": "\"Don\" Higginbotham (DEM)"
+          },
+          {
+            "Color": "0xb6dc6b",
+            "ID": "20561",
+            "Desc": "Joshua Jackson, Sr. (DEM)"
+          }
+        ]
+      },
+      {
+        "ID": "9503",
+        "SpecificTitle": "Mayor -- City of DeRidder",
+        "GeneralTitle": "Mayor",
+        "OfficeLevel": "300",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "0",
+        "Choice": [
+          {
+            "Color": "0x8970cb",
+            "ID": "19907",
+            "Desc": "James Edward Bolton (OTHER)"
+          },
+          { "Color": "0xb6dc6b", "ID": "19908", "Desc": "Gregory Cagle (DEM)" },
+          {
+            "Color": "0xffec6c",
+            "ID": "19909",
+            "Desc": "Gerald Johnson (DEM)"
+          },
+          {
+            "Color": "0xff836b",
+            "ID": "19910",
+            "Desc": "Ernest R. \"Ernie\" Roll (REP)"
+          }
+        ]
+      },
+      {
+        "ID": "9502",
+        "SpecificTitle": "Councilmen -- at Large, City of DeRidder",
+        "GeneralTitle": "Alderman / City Council at Large",
+        "OfficeLevel": "308",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "2",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "0",
+        "Choice": [
+          { "Color": "0x8970cb", "ID": "19904", "Desc": "Elmo Johnson (DEM)" },
+          { "Color": "0xb6dc6b", "ID": "19905", "Desc": "Vincent Labue (DEM)" },
+          { "Color": "0xffec6c", "ID": "19906", "Desc": "Hayward Steele (DEM)" }
+        ]
+      },
+      {
+        "ID": "9499",
+        "SpecificTitle": "Councilman -- District 3, City of DeRidder",
+        "GeneralTitle": "Alderman / City Council Member",
+        "OfficeLevel": "310",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "0",
+        "Choice": [
+          {
+            "Color": "0x8970cb",
+            "ID": "19899",
+            "Desc": "\"Danny\" Branch (DEM)"
+          },
+          {
+            "Color": "0xb6dc6b",
+            "ID": "19900",
+            "Desc": "Steven F. Delia (DEM)"
+          }
+        ]
+      },
+      {
+        "ID": "9500",
+        "SpecificTitle": "Councilman -- District 4, City of DeRidder",
+        "GeneralTitle": "Alderman / City Council Member",
+        "OfficeLevel": "310",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "0",
+        "Choice": [
+          {
+            "Color": "0x8970cb",
+            "ID": "19901",
+            "Desc": "Ellaweise Lambert (OTHER)"
+          },
+          {
+            "Color": "0xb6dc6b",
+            "ID": "19902",
+            "Desc": "R. E. \"Rod\" Pollard (DEM)"
+          }
+        ]
+      }
+    ]
+  }
+}

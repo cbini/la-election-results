@@ -1,0 +1,155 @@
+{
+  "Races": {
+    "WriteTime": "2023-01-20T16:44:24.227",
+    "Race": [
+      {
+        "ID": "43970",
+        "SpecificTitle": "BESE -- District 6",
+        "GeneralTitle": "State Board or Commission Member",
+        "OfficeLevel": "165",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "0",
+        "Choice": [
+          {
+            "Color": "0x000000",
+            "ID": "84918",
+            "Desc": "Jesse H. Bankston (DEM)"
+          },
+          {
+            "Color": "0x000000",
+            "ID": "84919",
+            "Desc": "Lillian W. Walker (DEM)"
+          }
+        ]
+      },
+      {
+        "ID": "43980",
+        "SpecificTitle": "State Representative --  12th Representative District",
+        "GeneralTitle": "State Representative",
+        "OfficeLevel": "205",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "0",
+        "Choice": [
+          {
+            "Color": "0x000000",
+            "ID": "84920",
+            "Desc": "William T. \"Troy\" Lowe (OTHER)"
+          },
+          {
+            "Color": "0x000000",
+            "ID": "84921",
+            "Desc": "William Robert Sumlin, Jr. (OTHER)"
+          }
+        ]
+      },
+      {
+        "ID": "43982",
+        "SpecificTitle": "State Representative --  99th Representative District",
+        "GeneralTitle": "State Representative",
+        "OfficeLevel": "205",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "0",
+        "Choice": [
+          {
+            "Color": "0x000000",
+            "ID": "84922",
+            "Desc": "G. J. Forster (OTHER)"
+          },
+          {
+            "Color": "0x000000",
+            "ID": "84923",
+            "Desc": "J. J. Landry, Jr. (OTHER)"
+          }
+        ]
+      },
+      {
+        "ID": "44301",
+        "SpecificTitle": "District Judge -- 18th Judicial District Court, Division D",
+        "GeneralTitle": "District Judge",
+        "OfficeLevel": "210",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "0",
+        "Choice": [
+          {
+            "Color": "0x000000",
+            "ID": "84924",
+            "Desc": "Joseph B. Dupont, Sr. (OTHER)"
+          },
+          {
+            "Color": "0x000000",
+            "ID": "84925",
+            "Desc": "Jack Marionneaux (OTHER)"
+          }
+        ]
+      },
+      {
+        "ID": "43993",
+        "SpecificTitle": "Councilman -- District  C, City of Shreveport",
+        "GeneralTitle": "Alderman / City Council Member",
+        "OfficeLevel": "310",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "0",
+        "Choice": [
+          {
+            "Color": "0x000000",
+            "ID": "85104",
+            "Desc": "\"Tom\" Arceneaux (OTHER)"
+          },
+          { "Color": "0x000000", "ID": "85105", "Desc": "John Settle (OTHER)" }
+        ]
+      },
+      {
+        "ID": "43995",
+        "SpecificTitle": "Councilman -- District  D, City of Shreveport",
+        "GeneralTitle": "Alderman / City Council Member",
+        "OfficeLevel": "310",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "0",
+        "Choice": [
+          { "Color": "0x000000", "ID": "85106", "Desc": ". Bush (OTHER)" },
+          { "Color": "0x000000", "ID": "85107", "Desc": ". Levinson (OTHER)" }
+        ]
+      },
+      {
+        "ID": "43997",
+        "SpecificTitle": "Councilman -- District  F, City of Shreveport",
+        "GeneralTitle": "Alderman / City Council Member",
+        "OfficeLevel": "310",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "0",
+        "Choice": [
+          { "Color": "0x000000", "ID": "85108", "Desc": ". Farr (OTHER)" },
+          { "Color": "0x000000", "ID": "85109", "Desc": ". Shyne (OTHER)" }
+        ]
+      }
+    ]
+  }
+}

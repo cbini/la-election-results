@@ -1,0 +1,25 @@
+{
+  "Races": {
+    "WriteTime": "2023-01-20T16:16:54.600",
+    "Race": {
+      "ID": "13668",
+      "SpecificTitle": "District Judge -- 11th Judicial District, Division C",
+      "GeneralTitle": "District Judge",
+      "OfficeLevel": "210",
+      "IsPresidentialNominee": "0",
+      "IsMultiParish": "1",
+      "NumberToBeElected": "1",
+      "SummaryText": null,
+      "FullText": null,
+      "IsClosedParty": "0",
+      "Choice": [
+        {
+          "Color": "0x8970cb",
+          "ID": "26932",
+          "Desc": "Stephen B. Beasley (DEM)"
+        },
+        { "Color": "0xb6dc6b", "ID": "26933", "Desc": "James Lynn Davis (DEM)" }
+      ]
+    }
+  }
+}

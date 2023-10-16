@@ -1,0 +1,33 @@
+{
+  "Parishes": {
+    "VersionDateTime": "1900-01-01T00:00:00",
+    "Parish": [
+      {
+        "ParishValue": "29",
+        "PrecinctsReporting": "31",
+        "PrecinctsExpected": "31",
+        "NumAbsenteeReporting": "1",
+        "NumAbsenteeExpected": "1",
+        "VoterCountQualified": "27566",
+        "VoterCountVoted": "0",
+        "Choice": [
+          { "ID": "119852", "VoteTotal": "1160", "Outcome": "Defeated" },
+          { "ID": "118840", "VoteTotal": "8211", "Outcome": "Elected" }
+        ]
+      },
+      {
+        "ParishValue": "55",
+        "PrecinctsReporting": "53",
+        "PrecinctsExpected": "53",
+        "NumAbsenteeReporting": "1",
+        "NumAbsenteeExpected": "1",
+        "VoterCountQualified": "43850",
+        "VoterCountVoted": "0",
+        "Choice": [
+          { "ID": "119852", "VoteTotal": "1854", "Outcome": "Defeated" },
+          { "ID": "118840", "VoteTotal": "13155", "Outcome": "Elected" }
+        ]
+      }
+    ]
+  }
+}

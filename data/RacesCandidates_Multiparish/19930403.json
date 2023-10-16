@@ -1,0 +1,242 @@
+{
+  "Races": {
+    "WriteTime": "2023-01-20T16:25:20.377",
+    "Race": [
+      {
+        "ID": "6337",
+        "SpecificTitle": "Judge, Court of Appeal -- 1st Circuit, 1st District, Division C",
+        "GeneralTitle": "Judge of a Court of Appeal",
+        "OfficeLevel": "155",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "0",
+        "Choice": [
+          {
+            "Color": "0x8970cb",
+            "ID": "12459",
+            "Desc": "Anthony \"Tony\" Lewis (DEM)"
+          },
+          {
+            "Color": "0xb6dc6b",
+            "ID": "12460",
+            "Desc": "Randolph H. \"Randy\" Parro (DEM)"
+          }
+        ]
+      },
+      {
+        "ID": "6470",
+        "SpecificTitle": "State Representative --  60th Representative District",
+        "GeneralTitle": "State Representative",
+        "OfficeLevel": "205",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "0",
+        "Choice": [
+          {
+            "Color": "0x8970cb",
+            "ID": "12695",
+            "Desc": "Audrey A. McCain (DEM)"
+          },
+          {
+            "Color": "0xb6dc6b",
+            "ID": "12696",
+            "Desc": "\"Marty\" Triche (DEM)"
+          }
+        ]
+      },
+      {
+        "ID": "6471",
+        "SpecificTitle": "State Representative --  67th Representative District",
+        "GeneralTitle": "State Representative",
+        "OfficeLevel": "205",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "0",
+        "Choice": [
+          { "Color": "0x8970cb", "ID": "12697", "Desc": "Yvonne Dorsey (DEM)" },
+          {
+            "Color": "0xb6dc6b",
+            "ID": "12698",
+            "Desc": "David Fergurson, Sr. (DEM)"
+          }
+        ]
+      },
+      {
+        "ID": "6371",
+        "SpecificTitle": "District Judge -- 18th JDC, Subdistrict 4, Division A",
+        "GeneralTitle": "District Judge",
+        "OfficeLevel": "210",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "0",
+        "Choice": [
+          { "Color": "0x8970cb", "ID": "12515", "Desc": "James J. Best (DEM)" },
+          {
+            "Color": "0xb6dc6b",
+            "ID": "12516",
+            "Desc": "Richard B. Minogue (OTHER)"
+          },
+          {
+            "Color": "0xffec6c",
+            "ID": "12517",
+            "Desc": "Michael E. \"Mike\" Parks (DEM)"
+          }
+        ]
+      },
+      {
+        "ID": "6372",
+        "SpecificTitle": "District Judge -- 21st Judicial District, Division A",
+        "GeneralTitle": "District Judge",
+        "OfficeLevel": "210",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "0",
+        "Choice": [
+          { "Color": "0x8970cb", "ID": "12518", "Desc": "Ray Chutz (DEM)" },
+          {
+            "Color": "0xb6dc6b",
+            "ID": "12519",
+            "Desc": "Douglas T. Curet (DEM)"
+          },
+          { "Color": "0xffec6c", "ID": "12520", "Desc": "Doug Hughes (DEM)" },
+          { "Color": "0xff836b", "ID": "12521", "Desc": "John King (DEM)" },
+          {
+            "Color": "0xa20017",
+            "ID": "12522",
+            "Desc": "Page McClendon Michell (DEM)"
+          },
+          { "Color": "0x81b1d5", "ID": "12523", "Desc": "Arden Wells (OTHER)" }
+        ]
+      },
+      {
+        "ID": "6381",
+        "SpecificTitle": "District Judge -- 27th Judicial Dist., Elec. Sect. 1C",
+        "GeneralTitle": "District Judge",
+        "OfficeLevel": "210",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "0",
+        "Choice": [
+          {
+            "Color": "0x8970cb",
+            "ID": "12535",
+            "Desc": "Jarvis J. Claiborne (DEM)"
+          },
+          { "Color": "0xb6dc6b", "ID": "12536", "Desc": "Josie Frank (DEM)" },
+          {
+            "Color": "0xffec6c",
+            "ID": "12537",
+            "Desc": "Elbert Lee Guillory (DEM)"
+          },
+          { "Color": "0xff836b", "ID": "12538", "Desc": "Alonzo Harris (DEM)" },
+          {
+            "Color": "0xa20017",
+            "ID": "12539",
+            "Desc": "Joshua J. Pitre (DEM)"
+          }
+        ]
+      },
+      {
+        "ID": "5815",
+        "SpecificTitle": "District Judge -- 40th JDC, Subdistrict 1, Division B",
+        "GeneralTitle": "District Judge",
+        "OfficeLevel": "210",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "0",
+        "Choice": [
+          {
+            "Color": "0x8970cb",
+            "ID": "11492",
+            "Desc": "Mary Hotard Becnel (DEM)"
+          },
+          {
+            "Color": "0xb6dc6b",
+            "ID": "11493",
+            "Desc": "G. Walton \"Ton\" Caire (OTHER)"
+          },
+          {
+            "Color": "0xffec6c",
+            "ID": "11494",
+            "Desc": "Fred DeFrancesch (DEM)"
+          },
+          {
+            "Color": "0xff836b",
+            "ID": "11495",
+            "Desc": "George Ann Graugnard (OTHER)"
+          },
+          { "Color": "0xa20017", "ID": "11496", "Desc": "Ron Landry (DEM)" }
+        ]
+      },
+      {
+        "ID": "7273",
+        "SpecificTitle": "P/W Port Commission -- Tax                                          ",
+        "GeneralTitle": "Proposition",
+        "OfficeLevel": "999",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "0",
+        "Choice": [
+          { "Color": "0x8970cb", "ID": "3", "Desc": "YES" },
+          { "Color": "0xb6dc6b", "ID": "4", "Desc": "NO" }
+        ]
+      },
+      {
+        "ID": "7271",
+        "SpecificTitle": "School District No. 22 -- Tax                                          ",
+        "GeneralTitle": "Proposition",
+        "OfficeLevel": "999",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "0",
+        "Choice": [
+          { "Color": "0x8970cb", "ID": "3", "Desc": "YES" },
+          { "Color": "0xb6dc6b", "ID": "4", "Desc": "NO" }
+        ]
+      },
+      {
+        "ID": "7272",
+        "SpecificTitle": "Bayou Lafourche FWD -- Tax                                          ",
+        "GeneralTitle": "Proposition",
+        "OfficeLevel": "999",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "0",
+        "Choice": [
+          { "Color": "0x8970cb", "ID": "3", "Desc": "YES" },
+          { "Color": "0xb6dc6b", "ID": "4", "Desc": "NO" }
+        ]
+      }
+    ]
+  }
+}

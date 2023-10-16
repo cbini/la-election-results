@@ -1,0 +1,235 @@
+{
+  "Races": {
+    "WriteTime": "2023-01-20T14:55:29.480",
+    "Race": [
+      {
+        "ID": "63377",
+        "SpecificTitle": "Judge, Court of Appeal -- 1st Circuit, 2nd Dist., Subdist. 1, Div. B",
+        "GeneralTitle": "Judge of a Court of Appeal",
+        "OfficeLevel": "155",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "0",
+        "Choice": [
+          {
+            "Color": "0x8970cb",
+            "ID": "117843",
+            "Desc": "Hunter Greene (REP)"
+          },
+          {
+            "Color": "0xb6dc6b",
+            "ID": "117844",
+            "Desc": "\"Don\" Johnson (DEM)"
+          }
+        ]
+      },
+      {
+        "ID": "63443",
+        "SpecificTitle": "PSC -- District 3",
+        "GeneralTitle": "Public Service Commission Member",
+        "OfficeLevel": "160",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "0",
+        "Choice": [
+          {
+            "Color": "0x8970cb",
+            "ID": "117975",
+            "Desc": "Lambert C. Boissiere III (DEM)"
+          },
+          { "Color": "0xb6dc6b", "ID": "117976", "Desc": "Davante Lewis (DEM)" }
+        ]
+      },
+      {
+        "ID": "63376",
+        "SpecificTitle": "District Judge -- 19th Judicial District Court, ES 2, Div. G",
+        "GeneralTitle": "District Judge",
+        "OfficeLevel": "210",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "0",
+        "Choice": [
+          {
+            "Color": "0x8970cb",
+            "ID": "117841",
+            "Desc": "Gail Horne Ray (DEM)"
+          },
+          {
+            "Color": "0xb6dc6b",
+            "ID": "117842",
+            "Desc": "\"Steve\" Myers (REP)"
+          }
+        ]
+      },
+      {
+        "ID": "63381",
+        "SpecificTitle": "Mayor -- City of Shreveport",
+        "GeneralTitle": "Mayor",
+        "OfficeLevel": "300",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "0",
+        "Choice": [
+          {
+            "Color": "0x8970cb",
+            "ID": "117851",
+            "Desc": "\"Tom\" Arceneaux (REP)"
+          },
+          {
+            "Color": "0xb6dc6b",
+            "ID": "117852",
+            "Desc": "Gregory Tarver (DEM)"
+          }
+        ]
+      },
+      {
+        "ID": "63335",
+        "SpecificTitle": "Alderman -- Ward 2, City of Eunice",
+        "GeneralTitle": "Alderman / City Council Member",
+        "OfficeLevel": "310",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "0",
+        "Choice": [
+          {
+            "Color": "0x8970cb",
+            "ID": "117748",
+            "Desc": "Germaine Simpson (DEM)"
+          },
+          {
+            "Color": "0xb6dc6b",
+            "ID": "117749",
+            "Desc": "\"Jackie JuJu\" Vallare (DEM)"
+          }
+        ]
+      },
+      {
+        "ID": "63365",
+        "SpecificTitle": "Councilman -- District  B, City of Shreveport",
+        "GeneralTitle": "Alderman / City Council Member",
+        "OfficeLevel": "310",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "0",
+        "Choice": [
+          { "Color": "0x8970cb", "ID": "117816", "Desc": "Gary Brooks (DEM)" },
+          {
+            "Color": "0xb6dc6b",
+            "ID": "117818",
+            "Desc": "Mavice Hughes Thigpen (DEM)"
+          }
+        ]
+      },
+      {
+        "ID": "63366",
+        "SpecificTitle": "Councilman -- District  E, City of Shreveport",
+        "GeneralTitle": "Alderman / City Council Member",
+        "OfficeLevel": "310",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "0",
+        "Choice": [
+          { "Color": "0x8970cb", "ID": "117819", "Desc": "Alan Jackson (DEM)" },
+          {
+            "Color": "0xb6dc6b",
+            "ID": "117820",
+            "Desc": "\"Tony\" Nations (REP)"
+          }
+        ]
+      },
+      {
+        "ID": "63367",
+        "SpecificTitle": "Councilman -- District  G, City of Shreveport",
+        "GeneralTitle": "Alderman / City Council Member",
+        "OfficeLevel": "310",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "0",
+        "Choice": [
+          {
+            "Color": "0x8970cb",
+            "ID": "117821",
+            "Desc": "Ursula Bowman (DEM)"
+          },
+          {
+            "Color": "0xb6dc6b",
+            "ID": "117822",
+            "Desc": "Derrick L. Henderson (DEM)"
+          }
+        ]
+      },
+      {
+        "ID": "12554",
+        "SpecificTitle": "CA No. 1 (ACT 279, 2022 - HB 178) -- Requires U.S. citizenship in order to register and vote in Louisiana",
+        "GeneralTitle": "Constitutional Amendment",
+        "OfficeLevel": "998",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": "Amendment No. 1",
+        "FullText": "Do you support an amendment to provide that no person who is not a citizen of the United States shall be allowed to register and vote in this state? (Amends Article I, Section 10)",
+        "IsClosedParty": "0",
+        "Choice": [
+          { "Color": "0x8970cb", "ID": "3", "Desc": "YES" },
+          { "Color": "0xb6dc6b", "ID": "4", "Desc": "NO" }
+        ]
+      },
+      {
+        "ID": "12556",
+        "SpecificTitle": "CA No. 2 (ACT 281, 2022 - SB 160) -- Requires Senate confirmation of gubernatorially appointed members of the State Civil Service Comm.",
+        "GeneralTitle": "Constitutional Amendment",
+        "OfficeLevel": "998",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": "Amendment No. 2",
+        "FullText": "Do you support an amendment to make appointed members of the State Civil Service Commission subject to confirmation by the Louisiana Senate? (Amends Article X, Section 3(B)(1) and (C))",
+        "IsClosedParty": "0",
+        "Choice": [
+          { "Color": "0x8970cb", "ID": "3", "Desc": "YES" },
+          { "Color": "0xb6dc6b", "ID": "4", "Desc": "NO" }
+        ]
+      },
+      {
+        "ID": "12555",
+        "SpecificTitle": "CA No. 3 (ACT 280, 2022 - SB 75) -- Requires Senate confirmation of certain members of the State Police Comm.",
+        "GeneralTitle": "Constitutional Amendment",
+        "OfficeLevel": "998",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": "Amendment No. 3",
+        "FullText": "Do you support an amendment to make appointed members of the State Police Commission subject to confirmation by the Louisiana Senate? (Amends Article X, Section 43(C))",
+        "IsClosedParty": "0",
+        "Choice": [
+          { "Color": "0x8970cb", "ID": "3", "Desc": "YES" },
+          { "Color": "0xb6dc6b", "ID": "4", "Desc": "NO" }
+        ]
+      }
+    ]
+  }
+}

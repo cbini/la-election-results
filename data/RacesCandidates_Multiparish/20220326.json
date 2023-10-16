@@ -1,0 +1,283 @@
+{
+  "Races": {
+    "WriteTime": "2023-01-20T15:02:09.633",
+    "Race": [
+      {
+        "ID": "61728",
+        "SpecificTitle": "Judge, Court of Appeal -- 2nd Circuit, 3rd Dist., Elec. Sec. 2C",
+        "GeneralTitle": "Judge of a Court of Appeal",
+        "OfficeLevel": "155",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "0",
+        "Choice": [
+          {
+            "Color": "0x8970cb",
+            "ID": "114760",
+            "Desc": "Erin Leigh Waddell Garrett (REP)"
+          },
+          {
+            "Color": "0xb6dc6b",
+            "ID": "114565",
+            "Desc": "Craig Marcotte (REP)"
+          }
+        ]
+      },
+      {
+        "ID": "63181",
+        "SpecificTitle": "State Representative -- 101st Representative District",
+        "GeneralTitle": "State Representative",
+        "OfficeLevel": "205",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "0",
+        "Choice": [
+          {
+            "Color": "0x8970cb",
+            "ID": "114776",
+            "Desc": "Dawn Chanet Collins (DEM)"
+          },
+          { "Color": "0xb6dc6b", "ID": "114566", "Desc": "Terry Hebert (IND)" },
+          {
+            "Color": "0xffec6c",
+            "ID": "114408",
+            "Desc": "Vanessa Caston LaFleur (DEM)"
+          }
+        ]
+      },
+      {
+        "ID": "63175",
+        "SpecificTitle": "District Judge -- 19th Judicial District Court, ES 3, Div. E",
+        "GeneralTitle": "District Judge",
+        "OfficeLevel": "210",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "0",
+        "Choice": [
+          {
+            "Color": "0x8970cb",
+            "ID": "114441",
+            "Desc": "Jordan Faircloth (REP)"
+          },
+          { "Color": "0xb6dc6b", "ID": "114543", "Desc": "Brad Myers (REP)" },
+          { "Color": "0xffec6c", "ID": "114420", "Desc": "\"Jen\" Racca (REP)" }
+        ]
+      },
+      {
+        "ID": "61699",
+        "SpecificTitle": "District Judge -- 26th Judicial District Court, Division D",
+        "GeneralTitle": "District Judge",
+        "OfficeLevel": "210",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "0",
+        "Choice": [
+          {
+            "Color": "0x8970cb",
+            "ID": "114650",
+            "Desc": "\"Allie\" Aiello Stahl (REP)"
+          },
+          {
+            "Color": "0xb6dc6b",
+            "ID": "114639",
+            "Desc": "\"Doug\" Stinson (REP)"
+          }
+        ]
+      },
+      {
+        "ID": "61704",
+        "SpecificTitle": "District Attorney -- 31st Judicial District Court",
+        "GeneralTitle": "District Attorney",
+        "OfficeLevel": "215",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "0",
+        "Choice": [
+          {
+            "Color": "0x8970cb",
+            "ID": "114424",
+            "Desc": "Elliott Cassidy (REP)"
+          },
+          {
+            "Color": "0xb6dc6b",
+            "ID": "114447",
+            "Desc": "Lauren Heinen (REP)"
+          },
+          { "Color": "0xffec6c", "ID": "114487", "Desc": "Daniel Sparks (IND)" }
+        ]
+      },
+      {
+        "ID": "61766",
+        "SpecificTitle": "Mayor -- City of DeRidder",
+        "GeneralTitle": "Mayor",
+        "OfficeLevel": "300",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "0",
+        "Choice": [
+          {
+            "Color": "0x8970cb",
+            "ID": "114421",
+            "Desc": "Misty Clanton (NOPTY)"
+          },
+          {
+            "Color": "0xb6dc6b",
+            "ID": "114481",
+            "Desc": "Michael D. Harris (DEM)"
+          },
+          {
+            "Color": "0xffec6c",
+            "ID": "114769",
+            "Desc": "Kelly J. St. Germain (IND)"
+          }
+        ]
+      },
+      {
+        "ID": "61765",
+        "SpecificTitle": "Councilmen at Large -- City of DeRidder",
+        "GeneralTitle": "Alderman / City Council at Large",
+        "OfficeLevel": "308",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "2",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "0",
+        "Choice": [
+          {
+            "Color": "0x8970cb",
+            "ID": "114603",
+            "Desc": "Vincent Labue (IND)"
+          },
+          {
+            "Color": "0xb6dc6b",
+            "ID": "114615",
+            "Desc": "Paula Spikes Piper (DEM)"
+          },
+          {
+            "Color": "0xffec6c",
+            "ID": "114411",
+            "Desc": "\"Danny\" Reynolds (REP)"
+          },
+          {
+            "Color": "0xff836b",
+            "ID": "114606",
+            "Desc": "Lydia Reynolds (REP)"
+          },
+          {
+            "Color": "0xa20017",
+            "ID": "114771",
+            "Desc": "Billy R. Spikes (DEM)"
+          }
+        ]
+      },
+      {
+        "ID": "61760",
+        "SpecificTitle": "Councilman -- District 1, City of DeRidder",
+        "GeneralTitle": "Alderman / City Council Member",
+        "OfficeLevel": "310",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "0",
+        "Choice": [
+          {
+            "Color": "0x8970cb",
+            "ID": "114479",
+            "Desc": "Wayne J. Godfrey, Sr. (DEM)"
+          },
+          {
+            "Color": "0xb6dc6b",
+            "ID": "114531",
+            "Desc": "Kimaron Haynes Moore (DEM)"
+          }
+        ]
+      },
+      {
+        "ID": "61763",
+        "SpecificTitle": "Councilman -- District 4, City of DeRidder",
+        "GeneralTitle": "Alderman / City Council Member",
+        "OfficeLevel": "310",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "0",
+        "Choice": [
+          {
+            "Color": "0x8970cb",
+            "ID": "114763",
+            "Desc": "Dane Bergeron (REP)"
+          },
+          {
+            "Color": "0xb6dc6b",
+            "ID": "114433",
+            "Desc": "\"Randy\" Larken (IND)"
+          }
+        ]
+      },
+      {
+        "ID": "61764",
+        "SpecificTitle": "Councilman -- District 5, City of DeRidder",
+        "GeneralTitle": "Alderman / City Council Member",
+        "OfficeLevel": "310",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "0",
+        "Choice": [
+          {
+            "Color": "0x8970cb",
+            "ID": "114773",
+            "Desc": "\"MK\" Dokwal (REP)"
+          },
+          {
+            "Color": "0xb6dc6b",
+            "ID": "114757",
+            "Desc": "Raymond Henderson (IND)"
+          },
+          { "Color": "0xffec6c", "ID": "114414", "Desc": "Keith Hooper (REP)" }
+        ]
+      },
+      {
+        "ID": "12277",
+        "SpecificTitle": "Evergreen Fire Protection District -- 10 Mills Renewal - BOC - 10 Yrs.",
+        "GeneralTitle": "Proposition",
+        "OfficeLevel": "999",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": "Evergreen Fire Protection District Proposition \n(Millage Renewal)",
+        "FullText": "Shall Evergreen Fire Protection District, Claiborne/Webster Parishes, Louisiana (the \"District\"), be authorized to continue to levy a special tax of ten (10) mills on all the property subject to taxation in the District (an estimated $138,000 expected at this time to be collected from the levy of the tax for an entire year), for a period of ten (10) years, beginning with the year 2023 and ending with the year 2032, for the purpose of acquiring, constructing, improving, maintaining and/or operating fire protection facilities and equipment, including fire trucks, in and for the District, and paying the cost of obtaining water for fire protection purposes?",
+        "IsClosedParty": "0",
+        "Choice": [
+          { "Color": "0x8970cb", "ID": "3", "Desc": "YES" },
+          { "Color": "0xb6dc6b", "ID": "4", "Desc": "NO" }
+        ]
+      }
+    ]
+  }
+}

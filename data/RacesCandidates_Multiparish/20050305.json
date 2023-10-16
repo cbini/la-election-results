@@ -1,0 +1,89 @@
+{
+  "Races": {
+    "WriteTime": "2023-01-20T15:50:58.323",
+    "Race": [
+      {
+        "ID": "30734",
+        "SpecificTitle": "State Representative --  29th Representative District",
+        "GeneralTitle": "State Representative",
+        "OfficeLevel": "205",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "0",
+        "Choice": [
+          {
+            "Color": "0x8970cb",
+            "ID": "59005",
+            "Desc": "Raymond Allmon (DEM)"
+          },
+          {
+            "Color": "0xb6dc6b",
+            "ID": "59006",
+            "Desc": "Regina Ashford Barrow (DEM)"
+          },
+          {
+            "Color": "0xffec6c",
+            "ID": "59007",
+            "Desc": "Donald R. Dobbins (DEM)"
+          },
+          {
+            "Color": "0xff836b",
+            "ID": "59008",
+            "Desc": "Sarah Holliday (DEM)"
+          },
+          {
+            "Color": "0xa20017",
+            "ID": "59009",
+            "Desc": "Charles R. Kelly (DEM)"
+          },
+          {
+            "Color": "0x81b1d5",
+            "ID": "59010",
+            "Desc": "Herbert A. Pate (DEM)"
+          },
+          {
+            "Color": "0x009899",
+            "ID": "59011",
+            "Desc": "Harold Williams (REP)"
+          }
+        ]
+      },
+      {
+        "ID": "30730",
+        "SpecificTitle": "State Representative --  66th Representative District",
+        "GeneralTitle": "State Representative",
+        "OfficeLevel": "205",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "0",
+        "Choice": [
+          { "Color": "0x8970cb", "ID": "58986", "Desc": "Hunter Greene (REP)" },
+          { "Color": "0xb6dc6b", "ID": "58987", "Desc": "Gene Guffey (REP)" },
+          {
+            "Color": "0xffec6c",
+            "ID": "58988",
+            "Desc": "Peter \"P'Ta Mon\" John (DEM)"
+          },
+          { "Color": "0xff836b", "ID": "58989", "Desc": "Gary Patureau (REP)" },
+          { "Color": "0xa20017", "ID": "58990", "Desc": "Sean Riecke (REP)" },
+          {
+            "Color": "0x81b1d5",
+            "ID": "58991",
+            "Desc": "Roland S. Stevens, Jr. (DEM)"
+          },
+          {
+            "Color": "0x009899",
+            "ID": "58992",
+            "Desc": "Martha Jane Tassin (REP)"
+          }
+        ]
+      }
+    ]
+  }
+}

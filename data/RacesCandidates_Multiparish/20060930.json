@@ -1,0 +1,1077 @@
+{
+  "Races": {
+    "WriteTime": "2023-01-20T15:47:08.890",
+    "Race": [
+      {
+        "ID": "30861",
+        "SpecificTitle": "Secretary of State",
+        "GeneralTitle": "Secretary of State",
+        "OfficeLevel": "110",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "0",
+        "Choice": [
+          { "Color": "0x8970cb", "ID": "59280", "Desc": "Mary Chehardy (REP)" },
+          {
+            "Color": "0xb6dc6b",
+            "ID": "59281",
+            "Desc": "Rayburn Clipper (LBT)"
+          },
+          {
+            "Color": "0xffec6c",
+            "ID": "59282",
+            "Desc": "James \"Jim\" Crowley III (NOPTY)"
+          },
+          {
+            "Color": "0xff836b",
+            "ID": "59283",
+            "Desc": "\"Jay\" Dardenne (REP)"
+          },
+          {
+            "Color": "0xa20017",
+            "ID": "59284",
+            "Desc": "\"Mike\" Francis (REP)"
+          },
+          {
+            "Color": "0x81b1d5",
+            "ID": "59285",
+            "Desc": "Francis C. Heitmeier (DEM)"
+          },
+          {
+            "Color": "0x009899",
+            "ID": "59286",
+            "Desc": "Allen \"Al\" Leone (REP)"
+          }
+        ]
+      },
+      {
+        "ID": "32448",
+        "SpecificTitle": "Commissioner of Insurance",
+        "GeneralTitle": "Commissioner of Insurance",
+        "OfficeLevel": "130",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "0",
+        "Choice": [
+          {
+            "Color": "0x8970cb",
+            "ID": "62755",
+            "Desc": "James David Cain (REP)"
+          },
+          {
+            "Color": "0xb6dc6b",
+            "ID": "62756",
+            "Desc": "James J. \"Jim\" Donelon (REP)"
+          },
+          {
+            "Color": "0xffec6c",
+            "ID": "62757",
+            "Desc": "S. B. A. Zaitoon (LBT)"
+          }
+        ]
+      },
+      {
+        "ID": "32472",
+        "SpecificTitle": "State Representative --  21st Representative District",
+        "GeneralTitle": "State Representative",
+        "OfficeLevel": "205",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "0",
+        "Choice": [
+          {
+            "Color": "0x8970cb",
+            "ID": "62817",
+            "Desc": "\"Andy\" Anders (DEM)"
+          },
+          { "Color": "0xb6dc6b", "ID": "62818", "Desc": "James E. Lee (DEM)" },
+          { "Color": "0xffec6c", "ID": "62819", "Desc": "Samuel Thomas (DEM)" }
+        ]
+      },
+      {
+        "ID": "32454",
+        "SpecificTitle": "State Representative --  97th Representative District",
+        "GeneralTitle": "State Representative",
+        "OfficeLevel": "205",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "0",
+        "Choice": [
+          { "Color": "0x8970cb", "ID": "62765", "Desc": "Gary Clark (REP)" },
+          { "Color": "0xb6dc6b", "ID": "62766", "Desc": "Brian Egana (DEM)" },
+          {
+            "Color": "0xffec6c",
+            "ID": "62767",
+            "Desc": "\"J. P.\" Morrell (DEM)"
+          }
+        ]
+      },
+      {
+        "ID": "32468",
+        "SpecificTitle": "District Judge --  4th Judicial District Court, Elec. Sec. 2, Division A",
+        "GeneralTitle": "District Judge",
+        "OfficeLevel": "210",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "0",
+        "Choice": [
+          { "Color": "0x8970cb", "ID": "62808", "Desc": "Scott Leehy (REP)" },
+          {
+            "Color": "0xb6dc6b",
+            "ID": "62809",
+            "Desc": "Jay B. Mitchell (DEM)"
+          }
+        ]
+      },
+      {
+        "ID": "32471",
+        "SpecificTitle": "District Judge -- 24th Judicial District Court, Elec. Sec. 7, Division B",
+        "GeneralTitle": "District Judge",
+        "OfficeLevel": "210",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "0",
+        "Choice": [
+          {
+            "Color": "0x8970cb",
+            "ID": "62814",
+            "Desc": "Cornelius E. \"Conn\" Regan (REP)"
+          },
+          {
+            "Color": "0xb6dc6b",
+            "ID": "62815",
+            "Desc": "Danyelle Taylor (REP)"
+          }
+        ]
+      },
+      {
+        "ID": "32243",
+        "SpecificTitle": "Mayor -- City of Broussard",
+        "GeneralTitle": "Mayor",
+        "OfficeLevel": "300",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "0",
+        "Choice": [
+          {
+            "Color": "0x8970cb",
+            "ID": "62307",
+            "Desc": "Charles E. Langlinais (DEM)"
+          },
+          {
+            "Color": "0xb6dc6b",
+            "ID": "62308",
+            "Desc": "Mark M. Ste. Marie (REP)"
+          }
+        ]
+      },
+      {
+        "ID": "31361",
+        "SpecificTitle": "Mayor -- City of Eunice",
+        "GeneralTitle": "Mayor",
+        "OfficeLevel": "300",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "0",
+        "Choice": [
+          {
+            "Color": "0x8970cb",
+            "ID": "60483",
+            "Desc": "E. Lynn LeJeune (DEM)"
+          },
+          {
+            "Color": "0xb6dc6b",
+            "ID": "60484",
+            "Desc": "Robert \"Bob\" Morris (REP)"
+          }
+        ]
+      },
+      {
+        "ID": "31863",
+        "SpecificTitle": "Mayor -- City of Shreveport",
+        "GeneralTitle": "Mayor",
+        "OfficeLevel": "300",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "0",
+        "Choice": [
+          { "Color": "0x8970cb", "ID": "61551", "Desc": "Arlena Acree (REP)" },
+          {
+            "Color": "0xb6dc6b",
+            "ID": "61552",
+            "Desc": "Vernon D. Adams (REP)"
+          },
+          { "Color": "0xffec6c", "ID": "61553", "Desc": "Madjun Ali (NOPTY)" },
+          {
+            "Color": "0xff836b",
+            "ID": "61554",
+            "Desc": "\"Ed\" Bradley (DEM)"
+          },
+          {
+            "Color": "0xa20017",
+            "ID": "61555",
+            "Desc": "Cedric B. Glover (DEM)"
+          },
+          {
+            "Color": "0x81b1d5",
+            "ID": "61556",
+            "Desc": "\"Tim\" Goeders (REP)"
+          },
+          {
+            "Color": "0x009899",
+            "ID": "61557",
+            "Desc": "Henry E. Hodge-Bey (NOPTY)"
+          },
+          {
+            "Color": "0xed1b24",
+            "ID": "61558",
+            "Desc": "\"Jerry\" Jones (REP)"
+          },
+          {
+            "Color": "0x2db04a",
+            "ID": "61559",
+            "Desc": "Max Tatum Malone (REP)"
+          },
+          {
+            "Color": "0x02538a",
+            "ID": "61560",
+            "Desc": "Wilson Quinby McMullan (NOPTY)"
+          },
+          { "Color": "0x642a7f", "ID": "61561", "Desc": "\"Liz\" Swaine (DEM)" }
+        ]
+      },
+      {
+        "ID": "31351",
+        "SpecificTitle": "Mayor -- Town of Arnaudville",
+        "GeneralTitle": "Mayor",
+        "OfficeLevel": "300",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "0",
+        "Choice": [
+          {
+            "Color": "0x8970cb",
+            "ID": "60458",
+            "Desc": "\"Kathy\" Richard (DEM)"
+          },
+          {
+            "Color": "0xb6dc6b",
+            "ID": "60459",
+            "Desc": "John Ray Taylor (DEM)"
+          }
+        ]
+      },
+      {
+        "ID": "31689",
+        "SpecificTitle": "Mayor -- Town of Basile",
+        "GeneralTitle": "Mayor",
+        "OfficeLevel": "300",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "0",
+        "Choice": [
+          {
+            "Color": "0x8970cb",
+            "ID": "61189",
+            "Desc": "John \"J. J.\" Jenkins (DEM)"
+          },
+          {
+            "Color": "0xb6dc6b",
+            "ID": "61190",
+            "Desc": "Berline B. Sonnier (DEM)"
+          }
+        ]
+      },
+      {
+        "ID": "32235",
+        "SpecificTitle": "Chief of Police -- City of Broussard",
+        "GeneralTitle": "Chief of Police / Marshal",
+        "OfficeLevel": "305",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "0",
+        "Choice": [
+          {
+            "Color": "0x8970cb",
+            "ID": "62296",
+            "Desc": "Brannon J. Decou (REP)"
+          },
+          {
+            "Color": "0xb6dc6b",
+            "ID": "62297",
+            "Desc": "Richard \"Ricky\" Martin (REP)"
+          }
+        ]
+      },
+      {
+        "ID": "31360",
+        "SpecificTitle": "Chief of Police -- City of Eunice",
+        "GeneralTitle": "Chief of Police / Marshal",
+        "OfficeLevel": "305",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "0",
+        "Choice": [
+          { "Color": "0x8970cb", "ID": "60479", "Desc": "Ronald Dies (DEM)" },
+          {
+            "Color": "0xb6dc6b",
+            "ID": "60480",
+            "Desc": "Gary \"Goose\" Fontenot (OTHER)"
+          },
+          {
+            "Color": "0xffec6c",
+            "ID": "60481",
+            "Desc": "Carlton Thibodeaux (DEM)"
+          },
+          { "Color": "0xff836b", "ID": "60482", "Desc": "Gerald Watley (DEM)" }
+        ]
+      },
+      {
+        "ID": "31350",
+        "SpecificTitle": "Chief of Police -- Town of Arnaudville",
+        "GeneralTitle": "Chief of Police / Marshal",
+        "OfficeLevel": "305",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "0",
+        "Choice": [
+          {
+            "Color": "0x8970cb",
+            "ID": "60456",
+            "Desc": "Michael Duplechain (DEM)"
+          },
+          {
+            "Color": "0xb6dc6b",
+            "ID": "60457",
+            "Desc": "Richard Mizzi (NOPTY)"
+          }
+        ]
+      },
+      {
+        "ID": "31709",
+        "SpecificTitle": "Chief of Police -- Town of Duson",
+        "GeneralTitle": "Chief of Police / Marshal",
+        "OfficeLevel": "305",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "0",
+        "Choice": [
+          { "Color": "0x8970cb", "ID": "61236", "Desc": "Scott Gary (REP)" },
+          {
+            "Color": "0xb6dc6b",
+            "ID": "61237",
+            "Desc": "Joseph \"TJ\" Johnfore (OTHER)"
+          },
+          { "Color": "0xffec6c", "ID": "61238", "Desc": "Roland Lewis (DEM)" }
+        ]
+      },
+      {
+        "ID": "31687",
+        "SpecificTitle": "Alderman -- District 4, Town of Basile",
+        "GeneralTitle": "Alderman / City Council Member",
+        "OfficeLevel": "310",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "0",
+        "Choice": [
+          {
+            "Color": "0x8970cb",
+            "ID": "61185",
+            "Desc": "Frank Ceasar, Sr. (DEM)"
+          },
+          {
+            "Color": "0xb6dc6b",
+            "ID": "61186",
+            "Desc": "Elzy \"Popeye\" Richardson (DEM)"
+          }
+        ]
+      },
+      {
+        "ID": "31356",
+        "SpecificTitle": "Alderman -- Ward 1, City of Eunice",
+        "GeneralTitle": "Alderman / City Council Member",
+        "OfficeLevel": "310",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "0",
+        "Choice": [
+          {
+            "Color": "0x8970cb",
+            "ID": "60468",
+            "Desc": "Wallace \"Bubba\" Bourque (REP)"
+          },
+          { "Color": "0xb6dc6b", "ID": "60469", "Desc": "George Fisher (DEM)" },
+          { "Color": "0xffec6c", "ID": "60470", "Desc": "Louis A. Pavur (DEM)" }
+        ]
+      },
+      {
+        "ID": "31357",
+        "SpecificTitle": "Alderman -- Ward 2, City of Eunice",
+        "GeneralTitle": "Alderman / City Council Member",
+        "OfficeLevel": "310",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "0",
+        "Choice": [
+          {
+            "Color": "0x8970cb",
+            "ID": "60471",
+            "Desc": "Nolton \"Puncho\" Anderson (DEM)"
+          },
+          {
+            "Color": "0xb6dc6b",
+            "ID": "60472",
+            "Desc": "Lloyd \"Rev\" Antoine (DEM)"
+          },
+          {
+            "Color": "0xffec6c",
+            "ID": "60473",
+            "Desc": "Steven \"Coz\" Fontenot (OTHER)"
+          },
+          {
+            "Color": "0xff836b",
+            "ID": "60474",
+            "Desc": "Marguerite Fruge-Simpson (DEM)"
+          }
+        ]
+      },
+      {
+        "ID": "31358",
+        "SpecificTitle": "Alderman -- Ward 3, City of Eunice",
+        "GeneralTitle": "Alderman / City Council Member",
+        "OfficeLevel": "310",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "0",
+        "Choice": [
+          {
+            "Color": "0x8970cb",
+            "ID": "60475",
+            "Desc": "Chawana V. Fontenot (REP)"
+          },
+          {
+            "Color": "0xb6dc6b",
+            "ID": "60476",
+            "Desc": "Betty Pousson Young (REP)"
+          }
+        ]
+      },
+      {
+        "ID": "31359",
+        "SpecificTitle": "Alderman -- Ward 4, City of Eunice",
+        "GeneralTitle": "Alderman / City Council Member",
+        "OfficeLevel": "310",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "0",
+        "Choice": [
+          {
+            "Color": "0x8970cb",
+            "ID": "60477",
+            "Desc": "Charles \"Brother\" Atchison (REP)"
+          },
+          {
+            "Color": "0xb6dc6b",
+            "ID": "60478",
+            "Desc": "\"Dale\" Soileau (DEM)"
+          }
+        ]
+      },
+      {
+        "ID": "31349",
+        "SpecificTitle": "Aldermen -- Town of Arnaudville",
+        "GeneralTitle": "Alderman / City Council Member",
+        "OfficeLevel": "310",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "5",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "0",
+        "Choice": [
+          {
+            "Color": "0x8970cb",
+            "ID": "60448",
+            "Desc": "Chester \"Doc\" Broussard (REP)"
+          },
+          {
+            "Color": "0xb6dc6b",
+            "ID": "60449",
+            "Desc": "Annette K. Guidry (DEM)"
+          },
+          {
+            "Color": "0xffec6c",
+            "ID": "60450",
+            "Desc": "Elsie Lagrange (DEM)"
+          },
+          {
+            "Color": "0xff836b",
+            "ID": "60451",
+            "Desc": "Ricky J. Lagrange (DEM)"
+          },
+          { "Color": "0xa20017", "ID": "60452", "Desc": "Todd Meche (REP)" },
+          { "Color": "0x81b1d5", "ID": "60453", "Desc": "Remi Olivier (DEM)" },
+          { "Color": "0x009899", "ID": "60454", "Desc": "Wade Ray (NOPTY)" },
+          {
+            "Color": "0xed1b24",
+            "ID": "60455",
+            "Desc": "Louis E. Stelly, Jr. (DEM)"
+          }
+        ]
+      },
+      {
+        "ID": "31708",
+        "SpecificTitle": "Aldermen -- Town of Duson",
+        "GeneralTitle": "Alderman / City Council Member",
+        "OfficeLevel": "310",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "5",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "0",
+        "Choice": [
+          {
+            "Color": "0x8970cb",
+            "ID": "61230",
+            "Desc": "Gerald Alleman (DEM)"
+          },
+          { "Color": "0xb6dc6b", "ID": "61231", "Desc": "Dwayne Bowers (DEM)" },
+          {
+            "Color": "0xffec6c",
+            "ID": "61232",
+            "Desc": "Eugene Cahanin (DEM)"
+          },
+          {
+            "Color": "0xff836b",
+            "ID": "61233",
+            "Desc": "\"Jimmy\" Champagne (DEM)"
+          },
+          { "Color": "0xa20017", "ID": "61234", "Desc": "Alvin Felix (DEM)" },
+          {
+            "Color": "0x81b1d5",
+            "ID": "61235",
+            "Desc": "Harold \"Thib\" Thibodeaux (DEM)"
+          }
+        ]
+      },
+      {
+        "ID": "31856",
+        "SpecificTitle": "Councilman -- District  A, City of Shreveport",
+        "GeneralTitle": "Alderman / City Council Member",
+        "OfficeLevel": "310",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "0",
+        "Choice": [
+          {
+            "Color": "0x8970cb",
+            "ID": "61528",
+            "Desc": "Calvin \"Ben\" Lester, Jr. (DEM)"
+          },
+          {
+            "Color": "0xb6dc6b",
+            "ID": "61529",
+            "Desc": "Wilbert A. Williams (DEM)"
+          }
+        ]
+      },
+      {
+        "ID": "31857",
+        "SpecificTitle": "Councilman -- District  B, City of Shreveport",
+        "GeneralTitle": "Alderman / City Council Member",
+        "OfficeLevel": "310",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "0",
+        "Choice": [
+          {
+            "Color": "0x8970cb",
+            "ID": "61530",
+            "Desc": "Melvin \"Mel\" Brown (DEM)"
+          },
+          { "Color": "0xb6dc6b", "ID": "61531", "Desc": "Scot Colby (REP)" },
+          { "Color": "0xffec6c", "ID": "61532", "Desc": "Sheva Sims (DEM)" },
+          {
+            "Color": "0xff836b",
+            "ID": "61533",
+            "Desc": "\"Monty\" Walford (DEM)"
+          }
+        ]
+      },
+      {
+        "ID": "31858",
+        "SpecificTitle": "Councilman -- District  C, City of Shreveport",
+        "GeneralTitle": "Alderman / City Council Member",
+        "OfficeLevel": "310",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "0",
+        "Choice": [
+          { "Color": "0x8970cb", "ID": "61534", "Desc": "Michael Long (REP)" },
+          { "Color": "0xb6dc6b", "ID": "61535", "Desc": "Henry McQueen (DEM)" },
+          {
+            "Color": "0xffec6c",
+            "ID": "61536",
+            "Desc": "\"Rick\" Seaton (REP)"
+          }
+        ]
+      },
+      {
+        "ID": "31859",
+        "SpecificTitle": "Councilman -- District  D, City of Shreveport",
+        "GeneralTitle": "Alderman / City Council Member",
+        "OfficeLevel": "310",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "0",
+        "Choice": [
+          { "Color": "0x8970cb", "ID": "61537", "Desc": "\"Bob\" Brown (REP)" },
+          {
+            "Color": "0xb6dc6b",
+            "ID": "61538",
+            "Desc": "Cynthia Norton Robertson (DEM)"
+          },
+          {
+            "Color": "0xffec6c",
+            "ID": "61539",
+            "Desc": "\"Phil\" Serio (REP)"
+          },
+          { "Color": "0xff836b", "ID": "61540", "Desc": "Bryan Wooley (REP)" }
+        ]
+      },
+      {
+        "ID": "31860",
+        "SpecificTitle": "Councilman -- District  E, City of Shreveport",
+        "GeneralTitle": "Alderman / City Council Member",
+        "OfficeLevel": "310",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "0",
+        "Choice": [
+          {
+            "Color": "0x8970cb",
+            "ID": "61541",
+            "Desc": "John Albritton (DEM)"
+          },
+          { "Color": "0xb6dc6b", "ID": "61542", "Desc": "\"Ron\" Webb (REP)" }
+        ]
+      },
+      {
+        "ID": "31861",
+        "SpecificTitle": "Councilman -- District  F, City of Shreveport",
+        "GeneralTitle": "Alderman / City Council Member",
+        "OfficeLevel": "310",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "0",
+        "Choice": [
+          {
+            "Color": "0x8970cb",
+            "ID": "61543",
+            "Desc": "James Edward Green (DEM)"
+          },
+          { "Color": "0xb6dc6b", "ID": "61544", "Desc": "Alice Horton (DEM)" },
+          { "Color": "0xffec6c", "ID": "61545", "Desc": "Steve Norman (REP)" },
+          { "Color": "0xff836b", "ID": "61546", "Desc": "Joe Shyne (DEM)" },
+          {
+            "Color": "0xa20017",
+            "ID": "61547",
+            "Desc": "Marvin \"Jabber Jaws\" Williams (DEM)"
+          }
+        ]
+      },
+      {
+        "ID": "31862",
+        "SpecificTitle": "Councilman -- District  G, City of Shreveport",
+        "GeneralTitle": "Alderman / City Council Member",
+        "OfficeLevel": "310",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "0",
+        "Choice": [
+          { "Color": "0x8970cb", "ID": "61548", "Desc": "Joyce Bowman (DEM)" },
+          {
+            "Color": "0xb6dc6b",
+            "ID": "61549",
+            "Desc": "Bonita Douzart (DEM)"
+          },
+          {
+            "Color": "0xffec6c",
+            "ID": "61550",
+            "Desc": "\"Sam\" Jenkins, Jr. (DEM)"
+          }
+        ]
+      },
+      {
+        "ID": "32238",
+        "SpecificTitle": "Councilman -- District 2, City of Broussard",
+        "GeneralTitle": "Alderman / City Council Member",
+        "OfficeLevel": "310",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "0",
+        "Choice": [
+          {
+            "Color": "0x8970cb",
+            "ID": "62300",
+            "Desc": "David M. Bonin (REP)"
+          },
+          {
+            "Color": "0xb6dc6b",
+            "ID": "62301",
+            "Desc": "Jerry \"JP\" Morgan (REP)"
+          }
+        ]
+      },
+      {
+        "ID": "32240",
+        "SpecificTitle": "Councilman -- District 4, City of Broussard",
+        "GeneralTitle": "Alderman / City Council Member",
+        "OfficeLevel": "310",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "0",
+        "Choice": [
+          {
+            "Color": "0x8970cb",
+            "ID": "62303",
+            "Desc": "Gertrude Batiste (DEM)"
+          },
+          {
+            "Color": "0xb6dc6b",
+            "ID": "62304",
+            "Desc": "Cynthia Jacquet (DEM)"
+          }
+        ]
+      },
+      {
+        "ID": "4264",
+        "SpecificTitle": "CA No. 1 (Act 69-2005,1x) -- Chg.name:Wetlands Conserv.to Coastal Protect.",
+        "GeneralTitle": "Constitutional Amendment",
+        "OfficeLevel": "998",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "0",
+        "Choice": [
+          { "Color": "0x8970cb", "ID": "1", "Desc": "FOR" },
+          { "Color": "0xb6dc6b", "ID": "2", "Desc": "AGAINST" }
+        ]
+      },
+      {
+        "ID": "4265",
+        "SpecificTitle": "CA No. 2 (Act 854-2006) -- Repeals LA Coastal Restoration Fund          ",
+        "GeneralTitle": "Constitutional Amendment",
+        "OfficeLevel": "998",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "0",
+        "Choice": [
+          { "Color": "0x8970cb", "ID": "1", "Desc": "FOR" },
+          { "Color": "0xb6dc6b", "ID": "2", "Desc": "AGAINST" }
+        ]
+      },
+      {
+        "ID": "4266",
+        "SpecificTitle": "CA No. 3 (Act 43-2006,1x) -- Provides establish. regional flood prot. auth",
+        "GeneralTitle": "Constitutional Amendment",
+        "OfficeLevel": "998",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "0",
+        "Choice": [
+          { "Color": "0x8970cb", "ID": "1", "Desc": "FOR" },
+          { "Color": "0xb6dc6b", "ID": "2", "Desc": "AGAINST" }
+        ]
+      },
+      {
+        "ID": "4267",
+        "SpecificTitle": "CA No. 4 (Act 853-2006) -- Compensation taking prop. hurricane protect. ",
+        "GeneralTitle": "Constitutional Amendment",
+        "OfficeLevel": "998",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "0",
+        "Choice": [
+          { "Color": "0x8970cb", "ID": "1", "Desc": "FOR" },
+          { "Color": "0xb6dc6b", "ID": "2", "Desc": "AGAINST" }
+        ]
+      },
+      {
+        "ID": "4268",
+        "SpecificTitle": "CA No. 5 (Act 851-2006) -- Prohibits expropriation of property          ",
+        "GeneralTitle": "Constitutional Amendment",
+        "OfficeLevel": "998",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "0",
+        "Choice": [
+          { "Color": "0x8970cb", "ID": "1", "Desc": "FOR" },
+          { "Color": "0xb6dc6b", "ID": "2", "Desc": "AGAINST" }
+        ]
+      },
+      {
+        "ID": "4269",
+        "SpecificTitle": "CA No. 6 (Act 859-2006) -- Provides procedures expropriation of property",
+        "GeneralTitle": "Constitutional Amendment",
+        "OfficeLevel": "998",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "0",
+        "Choice": [
+          { "Color": "0x8970cb", "ID": "1", "Desc": "FOR" },
+          { "Color": "0xb6dc6b", "ID": "2", "Desc": "AGAINST" }
+        ]
+      },
+      {
+        "ID": "4270",
+        "SpecificTitle": "CA No. 7 (Act 857-2006) -- Auth. investment Medicaid Trust for Elderly  ",
+        "GeneralTitle": "Constitutional Amendment",
+        "OfficeLevel": "998",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "0",
+        "Choice": [
+          { "Color": "0x8970cb", "ID": "1", "Desc": "FOR" },
+          { "Color": "0xb6dc6b", "ID": "2", "Desc": "AGAINST" }
+        ]
+      },
+      {
+        "ID": "4271",
+        "SpecificTitle": "CA No. 8 (Act 70-2005,1x) -- Provides Homestead exemption/natural disaster",
+        "GeneralTitle": "Constitutional Amendment",
+        "OfficeLevel": "998",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "0",
+        "Choice": [
+          { "Color": "0x8970cb", "ID": "1", "Desc": "FOR" },
+          { "Color": "0xb6dc6b", "ID": "2", "Desc": "AGAINST" }
+        ]
+      },
+      {
+        "ID": "4272",
+        "SpecificTitle": "CA No. 9 (Act 855-2006) -- Prohibits legis. mandates of school boards   ",
+        "GeneralTitle": "Constitutional Amendment",
+        "OfficeLevel": "998",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "0",
+        "Choice": [
+          { "Color": "0x8970cb", "ID": "1", "Desc": "FOR" },
+          { "Color": "0xb6dc6b", "ID": "2", "Desc": "AGAINST" }
+        ]
+      },
+      {
+        "ID": "4273",
+        "SpecificTitle": "CA No.10 (Act 856-2006) -- Auth. investment of funds of higher education",
+        "GeneralTitle": "Constitutional Amendment",
+        "OfficeLevel": "998",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "0",
+        "Choice": [
+          { "Color": "0x8970cb", "ID": "1", "Desc": "FOR" },
+          { "Color": "0xb6dc6b", "ID": "2", "Desc": "AGAINST" }
+        ]
+      },
+      {
+        "ID": "4274",
+        "SpecificTitle": "CA No.11 (Act 852-2006) -- Extends Homestead Exemption prop. owned      ",
+        "GeneralTitle": "Constitutional Amendment",
+        "OfficeLevel": "998",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "0",
+        "Choice": [
+          { "Color": "0x8970cb", "ID": "1", "Desc": "FOR" },
+          { "Color": "0xb6dc6b", "ID": "2", "Desc": "AGAINST" }
+        ]
+      },
+      {
+        "ID": "4275",
+        "SpecificTitle": "CA No.12 (Act 858-2006) -- Provides filling vacancy in statewide office ",
+        "GeneralTitle": "Constitutional Amendment",
+        "OfficeLevel": "998",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "0",
+        "Choice": [
+          { "Color": "0x8970cb", "ID": "1", "Desc": "FOR" },
+          { "Color": "0xb6dc6b", "ID": "2", "Desc": "AGAINST" }
+        ]
+      },
+      {
+        "ID": "4276",
+        "SpecificTitle": "CA No.13 (Act 860-2006) -- Provides for qualifications for Judges       ",
+        "GeneralTitle": "Constitutional Amendment",
+        "OfficeLevel": "998",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "0",
+        "Choice": [
+          { "Color": "0x8970cb", "ID": "1", "Desc": "FOR" },
+          { "Color": "0xb6dc6b", "ID": "2", "Desc": "AGAINST" }
+        ]
+      },
+      {
+        "ID": "4278",
+        "SpecificTitle": "City of Shreveport -- HRC Amendment - City Council                 ",
+        "GeneralTitle": "Proposition",
+        "OfficeLevel": "999",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": "CITY OF SHREVEPORT PROPOSITION\n\nSUMMARY:  PROPOSITION TO AMEND SECTION 4.12 OF THE CHARTER OF THE CITY OF SHREVEPORT TO DELETE THE PROVISION THAT EMPLOYEES OF THE CITY COUNCIL SHALL NOT BE ASSIGNED TO ANY INDIVIDUAL MEMBER OF THE CITY COUNCIL.",
+        "FullText": "Shall the following amendment to the Charter of the City of Shreveport, 1978, be adopted?\n\nAn amendment to Section 4.12 of the Charter of the City of Shreveport relative to employees of the City Council.  The amendment deletes the provision that all such employees shall serve the council as a whole and shall not be assigned to any individual member.",
+        "IsClosedParty": "0",
+        "Choice": [
+          { "Color": "0x8970cb", "ID": "3", "Desc": "YES" },
+          { "Color": "0xb6dc6b", "ID": "4", "Desc": "NO" }
+        ]
+      },
+      {
+        "ID": "4277",
+        "SpecificTitle": "City of Eunice -- 14.48 Mill - Mayor and Aldermen - 10 Yr.     ",
+        "GeneralTitle": "Proposition",
+        "OfficeLevel": "999",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": "CITY OF EUNICE PROPOSITION\n(MILLAGE)\n\nSUMMARY: 10 YEAR, 14.48 MILLS PROPERTY TAX FOR PAYMENT OF SALARIES FOR ALL CITY EMPLOYEES, WITH THE EXCEPTION OF ELECTED OFFICIALS, APPOINTED OFFICIALS, PART-TIME EMPLOYEES AND ALL EXECUTIVE OFFICIALS WITH A YEARLY SALARY OF $28,000 AND ABOVE.",
+        "FullText": "Shall the City of Eunice, State of Louisiana (the \"City\"), levy a special tax of fourteen and forty-eight hundredths (14.48) mills on all the property subject to taxation within the City for a period of ten (10) years, beginning with the year 2006 and ending with the year 2015, for the purpose of the payment of salaries for all City employees, with the exception of elected officials, appointed officials, part-time employees and all executive officials with a yearly salary of $28,000 and above?",
+        "IsClosedParty": "0",
+        "Choice": [
+          { "Color": "0x8970cb", "ID": "3", "Desc": "YES" },
+          { "Color": "0xb6dc6b", "ID": "4", "Desc": "NO" }
+        ]
+      }
+    ]
+  }
+}

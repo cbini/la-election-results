@@ -7,7 +7,7 @@ authors = [
 ]
 requires-python = ">=3.8"
 license = { text = "GPL-3.0-or-later" }
-dependencies = ["requests>=2.31.0"]
+dependencies = ["requests>=2.31.0", "pendulum>=2.1.2"]
 
 [build-system]
 requires = ["pdm-pep517>=1.0.0"]

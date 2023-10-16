@@ -1,0 +1,33 @@
+{
+  "Races": {
+    "WriteTime": "2023-01-20T15:51:12.487",
+    "Race": {
+      "ID": "30731",
+      "SpecificTitle": "State Representative --  96th Representative District",
+      "GeneralTitle": "State Representative",
+      "OfficeLevel": "205",
+      "IsPresidentialNominee": "0",
+      "IsMultiParish": "1",
+      "NumberToBeElected": "1",
+      "SummaryText": null,
+      "FullText": null,
+      "IsClosedParty": "0",
+      "Choice": [
+        { "Color": "0x8970cb", "ID": "58993", "Desc": "Ray A. Bright (DEM)" },
+        {
+          "Color": "0xb6dc6b",
+          "ID": "58994",
+          "Desc": "Christopher Daigle (DEM)"
+        },
+        {
+          "Color": "0xffec6c",
+          "ID": "58995",
+          "Desc": "Deborah Guy-Davenport (DEM)"
+        },
+        { "Color": "0xff836b", "ID": "58996", "Desc": "Juan LaFonta (DEM)" },
+        { "Color": "0xa20017", "ID": "58997", "Desc": "Michael McKenna (DEM)" },
+        { "Color": "0x81b1d5", "ID": "58998", "Desc": "B. Murray (OTHER)" }
+      ]
+    }
+  }
+}

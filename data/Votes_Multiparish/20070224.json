@@ -1,0 +1,55 @@
+{
+  "Races": {
+    "VersionDateTime": "1900-01-01T00:00:00",
+    "Race": [
+      {
+        "ID": "32634",
+        "PrecinctsReporting": "31",
+        "PrecinctsExpected": "31",
+        "NumAbsenteeReporting": "2",
+        "NumAbsenteeExpected": "2",
+        "VoterCountQualified": "-1",
+        "VoterCountVoted": "-1",
+        "Choice": [
+          { "ID": "63157", "VoteTotal": "42", "Outcome": "Defeated" },
+          { "ID": "63158", "VoteTotal": "826", "Outcome": "Defeated" },
+          { "ID": "63159", "VoteTotal": "417", "Outcome": "Defeated" },
+          { "ID": "63160", "VoteTotal": "3245", "Outcome": "Elected" },
+          { "ID": "63161", "VoteTotal": "146", "Outcome": "Defeated" }
+        ]
+      },
+      {
+        "ID": "32633",
+        "PrecinctsReporting": "26",
+        "PrecinctsExpected": "26",
+        "NumAbsenteeReporting": "1",
+        "NumAbsenteeExpected": "1",
+        "VoterCountQualified": "-1",
+        "VoterCountVoted": "-1",
+        "Choice": [
+          { "ID": "63153", "VoteTotal": "768", "Outcome": "Runoff" },
+          { "ID": "63154", "VoteTotal": "325", "Outcome": "Defeated" },
+          { "ID": "63155", "VoteTotal": "579", "Outcome": "Defeated" },
+          { "ID": "63156", "VoteTotal": "1323", "Outcome": "Runoff" }
+        ]
+      },
+      {
+        "ID": "32630",
+        "PrecinctsReporting": "43",
+        "PrecinctsExpected": "43",
+        "NumAbsenteeReporting": "1",
+        "NumAbsenteeExpected": "1",
+        "VoterCountQualified": "-1",
+        "VoterCountVoted": "-1",
+        "Choice": [
+          { "ID": "63140", "VoteTotal": "129", "Outcome": "Defeated" },
+          { "ID": "63141", "VoteTotal": "404", "Outcome": "Defeated" },
+          { "ID": "63142", "VoteTotal": "2159", "Outcome": "Runoff" },
+          { "ID": "63143", "VoteTotal": "1099", "Outcome": "Defeated" },
+          { "ID": "63144", "VoteTotal": "509", "Outcome": "Defeated" },
+          { "ID": "63145", "VoteTotal": "1297", "Outcome": "Runoff" }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "Races": {
+    "WriteTime": "2023-01-20T16:03:55.787",
+    "Race": {
+      "ID": "2151",
+      "SpecificTitle": "Comite Riv.Diver.Canal IA -- Amite Riv.Basin D&W Conserv.Dist 3 Mills--BOC",
+      "GeneralTitle": "Proposition",
+      "OfficeLevel": "999",
+      "IsPresidentialNominee": "0",
+      "IsMultiParish": "1",
+      "NumberToBeElected": "1",
+      "SummaryText": null,
+      "FullText": null,
+      "IsClosedParty": "0",
+      "Choice": [
+        { "Color": "0x8970cb", "ID": "3", "Desc": "YES" },
+        { "Color": "0xb6dc6b", "ID": "4", "Desc": "NO" }
+      ]
+    }
+  }
+}

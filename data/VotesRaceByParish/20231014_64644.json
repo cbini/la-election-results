@@ -1,0 +1,46 @@
+{
+  "Parishes": {
+    "VersionDateTime": "1900-01-01T00:00:00",
+    "Parish": [
+      {
+        "ParishValue": "03",
+        "PrecinctsReporting": "8",
+        "PrecinctsExpected": "8",
+        "NumAbsenteeReporting": "1",
+        "NumAbsenteeExpected": "1",
+        "VoterCountQualified": "10446",
+        "VoterCountVoted": "0",
+        "Choice": [
+          { "ID": "119573", "VoteTotal": "1043", "Outcome": "Defeated" },
+          { "ID": "118485", "VoteTotal": "2866", "Outcome": "Elected" }
+        ]
+      },
+      {
+        "ParishValue": "32",
+        "PrecinctsReporting": "16",
+        "PrecinctsExpected": "16",
+        "NumAbsenteeReporting": "1",
+        "NumAbsenteeExpected": "1",
+        "VoterCountQualified": "14600",
+        "VoterCountVoted": "0",
+        "Choice": [
+          { "ID": "119573", "VoteTotal": "2160", "Outcome": "Defeated" },
+          { "ID": "118485", "VoteTotal": "3469", "Outcome": "Elected" }
+        ]
+      },
+      {
+        "ParishValue": "47",
+        "PrecinctsReporting": "5",
+        "PrecinctsExpected": "5",
+        "NumAbsenteeReporting": "1",
+        "NumAbsenteeExpected": "1",
+        "VoterCountQualified": "3753",
+        "VoterCountVoted": "0",
+        "Choice": [
+          { "ID": "119573", "VoteTotal": "2073", "Outcome": "Defeated" },
+          { "ID": "118485", "VoteTotal": "234", "Outcome": "Elected" }
+        ]
+      }
+    ]
+  }
+}

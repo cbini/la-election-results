@@ -1,0 +1,351 @@
+{
+  "Races": {
+    "WriteTime": "2023-01-20T15:14:36.553",
+    "Race": [
+      {
+        "ID": "54526",
+        "SpecificTitle": "Treasurer",
+        "GeneralTitle": "Treasurer",
+        "OfficeLevel": "120",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "0",
+        "Choice": [
+          { "Color": "0x8970cb", "ID": "102368", "Desc": "Angele Davis (REP)" },
+          {
+            "Color": "0xb6dc6b",
+            "ID": "102443",
+            "Desc": "Derrick Edwards (DEM)"
+          },
+          { "Color": "0xffec6c", "ID": "102505", "Desc": "Terry Hughes (REP)" },
+          {
+            "Color": "0xff836b",
+            "ID": "102439",
+            "Desc": "Joseph D. Little (LBT)"
+          },
+          { "Color": "0xa20017", "ID": "102341", "Desc": "Neil Riser (REP)" },
+          { "Color": "0x81b1d5", "ID": "102386", "Desc": "John Schroder (REP)" }
+        ]
+      },
+      {
+        "ID": "54616",
+        "SpecificTitle": "Judge, Court of Appeal -- 2nd Circuit, 1st Dist., Elec. Sec. 2A",
+        "GeneralTitle": "Judge of a Court of Appeal",
+        "OfficeLevel": "155",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "0",
+        "Choice": [
+          {
+            "Color": "0x8970cb",
+            "ID": "102491",
+            "Desc": "Sharon Ingram Marchman (REP)"
+          },
+          {
+            "Color": "0xb6dc6b",
+            "ID": "102434",
+            "Desc": "James M. \"Jimbo\" Stephens (IND)"
+          }
+        ]
+      },
+      {
+        "ID": "54587",
+        "SpecificTitle": "Judge, Court of Appeal -- 4th Circuit, 1st District, Division B",
+        "GeneralTitle": "Judge of a Court of Appeal",
+        "OfficeLevel": "155",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "0",
+        "Choice": [
+          {
+            "Color": "0x8970cb",
+            "ID": "102390",
+            "Desc": "Tiffany Gautier Chase (DEM)"
+          },
+          {
+            "Color": "0xb6dc6b",
+            "ID": "102379",
+            "Desc": "Tracey Flemings Davillier (DEM)"
+          }
+        ]
+      },
+      {
+        "ID": "54615",
+        "SpecificTitle": "PSC -- District 2",
+        "GeneralTitle": "Public Service Commission Member",
+        "OfficeLevel": "160",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "0",
+        "Choice": [
+          {
+            "Color": "0x8970cb",
+            "ID": "102350",
+            "Desc": "Damon J. Baldone (REP)"
+          },
+          {
+            "Color": "0xb6dc6b",
+            "ID": "102347",
+            "Desc": "Craig C. Greene (REP)"
+          },
+          { "Color": "0xffec6c", "ID": "102424", "Desc": "Lenar Whitney (REP)" }
+        ]
+      },
+      {
+        "ID": "54762",
+        "SpecificTitle": "State Representative --  58th Representative District",
+        "GeneralTitle": "State Representative",
+        "OfficeLevel": "205",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "0",
+        "Choice": [
+          {
+            "Color": "0x8970cb",
+            "ID": "102437",
+            "Desc": "Miguel D. Aubert (DEM)"
+          },
+          {
+            "Color": "0xb6dc6b",
+            "ID": "102409",
+            "Desc": "\"Ken\" Brass (DEM)"
+          },
+          {
+            "Color": "0xffec6c",
+            "ID": "102511",
+            "Desc": "Adrienne Ricard Conish (DEM)"
+          },
+          { "Color": "0xff836b", "ID": "102498", "Desc": "Alsie Dunbar (DEM)" }
+        ]
+      },
+      {
+        "ID": "54761",
+        "SpecificTitle": "State Representative --  77th Representative District",
+        "GeneralTitle": "State Representative",
+        "OfficeLevel": "205",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "0",
+        "Choice": [
+          {
+            "Color": "0x8970cb",
+            "ID": "102471",
+            "Desc": "Lisa Condrey Ward (NOPTY)"
+          },
+          {
+            "Color": "0xb6dc6b",
+            "ID": "102397",
+            "Desc": "\"Rob\" Maness (REP)"
+          },
+          { "Color": "0xffec6c", "ID": "102468", "Desc": "Casey Revere (REP)" },
+          { "Color": "0xff836b", "ID": "102372", "Desc": "Mark Wright (REP)" }
+        ]
+      },
+      {
+        "ID": "54556",
+        "SpecificTitle": "District Judge -- 18th Judicial District Court, ES 4, Div. A",
+        "GeneralTitle": "District Judge",
+        "OfficeLevel": "210",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "0",
+        "Choice": [
+          {
+            "Color": "0x8970cb",
+            "ID": "102358",
+            "Desc": "Lonny Guidroz (DEM)"
+          },
+          {
+            "Color": "0xb6dc6b",
+            "ID": "102476",
+            "Desc": "Kevin Kimball (DEM)"
+          },
+          {
+            "Color": "0xffec6c",
+            "ID": "102359",
+            "Desc": "\"Steve\" Marionneaux (DEM)"
+          }
+        ]
+      },
+      {
+        "ID": "54611",
+        "SpecificTitle": "District Judge -- 22nd Judicial District Court, Division E",
+        "GeneralTitle": "District Judge",
+        "OfficeLevel": "210",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "0",
+        "Choice": [
+          {
+            "Color": "0x8970cb",
+            "ID": "102414",
+            "Desc": "James W. \"Jay\" Adair (REP)"
+          },
+          {
+            "Color": "0xb6dc6b",
+            "ID": "102406",
+            "Desc": "William H. Burris (REP)"
+          }
+        ]
+      },
+      {
+        "ID": "54555",
+        "SpecificTitle": "District Judge -- 22nd Judicial District Court, Division H",
+        "GeneralTitle": "District Judge",
+        "OfficeLevel": "210",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "0",
+        "Choice": [
+          {
+            "Color": "0x8970cb",
+            "ID": "102417",
+            "Desc": "Reginald \"Reggie\" Laurent (REP)"
+          },
+          {
+            "Color": "0xb6dc6b",
+            "ID": "102385",
+            "Desc": "Alan A. Zaunbrecher (REP)"
+          }
+        ]
+      },
+      {
+        "ID": "54529",
+        "SpecificTitle": "District Judge -- 26th Judicial District Court, Division C",
+        "GeneralTitle": "District Judge",
+        "OfficeLevel": "210",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "0",
+        "Choice": [
+          {
+            "Color": "0x8970cb",
+            "ID": "102356",
+            "Desc": "Cynthia Carroll-Bridges (REP)"
+          },
+          { "Color": "0xb6dc6b", "ID": "102394", "Desc": "Lane Pittard (REP)" }
+        ]
+      },
+      {
+        "ID": "54758",
+        "SpecificTitle": "District Judge -- 30th Judicial District Court, Division A",
+        "GeneralTitle": "District Judge",
+        "OfficeLevel": "210",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "0",
+        "Choice": [
+          { "Color": "0x8970cb", "ID": "102345", "Desc": "Tony Bennett (IND)" },
+          { "Color": "0xb6dc6b", "ID": "102410", "Desc": "Lisa Nelson (REP)" }
+        ]
+      },
+      {
+        "ID": "54612",
+        "SpecificTitle": "Judge -- Civil District Court, Division J",
+        "GeneralTitle": "District Judge",
+        "OfficeLevel": "210",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "0",
+        "Choice": [
+          { "Color": "0x8970cb", "ID": "102415", "Desc": "Omar Mason (DEM)" },
+          {
+            "Color": "0xb6dc6b",
+            "ID": "102506",
+            "Desc": "Edward \"Ed\" Morris (DEM)"
+          },
+          { "Color": "0xffec6c", "ID": "102546", "Desc": "Morris Reed (DEM)" },
+          {
+            "Color": "0xff836b",
+            "ID": "102467",
+            "Desc": "D. Nicole Sheppard (DEM)"
+          }
+        ]
+      },
+      {
+        "ID": "10812",
+        "SpecificTitle": "CA NO. 1 (Act 428 - SB 140) -- Exemption of property taxes for construction sites",
+        "GeneralTitle": "Constitutional Amendment",
+        "OfficeLevel": "998",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": "Amendment No. 1",
+        "FullText": "Do you support an amendment to exempt from property taxes materials and other property delivered to a construction site to be made part of a building or other construction? (Adds Article VII, Section 21(N))",
+        "IsClosedParty": "0",
+        "Choice": [
+          { "Color": "0x8970cb", "ID": "3", "Desc": "YES" },
+          { "Color": "0xb6dc6b", "ID": "4", "Desc": "NO" }
+        ]
+      },
+      {
+        "ID": "10813",
+        "SpecificTitle": "CA NO. 2 (Act 427 - HB 145) -- Homestead exemption for unmarried surviving spouse",
+        "GeneralTitle": "Constitutional Amendment",
+        "OfficeLevel": "998",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": "Amendment No. 2",
+        "FullText": "Do you support an amendment to authorize an exemption from ad valorem property tax for the total assessed value of the homestead of an unmarried surviving spouse of a person who died while performing their duties as an emergency medical responder, technician, paramedic, volunteer firefighter, or a law enforcement or fire protection officer? (Effective January 1, 2018) (Amends Article VII, Section 21(M)(1))",
+        "IsClosedParty": "0",
+        "Choice": [
+          { "Color": "0x8970cb", "ID": "3", "Desc": "YES" },
+          { "Color": "0xb6dc6b", "ID": "4", "Desc": "NO" }
+        ]
+      },
+      {
+        "ID": "10814",
+        "SpecificTitle": "CA NO. 3 (Act 429 - HB 354) -- Dedicate any new taxes (gas) into the Construction Subfund",
+        "GeneralTitle": "Constitutional Amendment",
+        "OfficeLevel": "998",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": "Amendment No. 3",
+        "FullText": "Do you support an amendment that would dedicate any new tax levied on gasoline, diesel, and special fuels into the Construction Subfund, which solely shall be used for project delivery, construction, and maintenance of transportation and capital transit infrastructure projects and not for funding for the payment of employee wages and related benefits or employee retirement benefits? (Amends Article VII, Section 27(B))",
+        "IsClosedParty": "0",
+        "Choice": [
+          { "Color": "0x8970cb", "ID": "3", "Desc": "YES" },
+          { "Color": "0xb6dc6b", "ID": "4", "Desc": "NO" }
+        ]
+      }
+    ]
+  }
+}

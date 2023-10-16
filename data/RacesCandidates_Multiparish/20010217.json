@@ -1,0 +1,84 @@
+{
+  "Races": {
+    "WriteTime": "2023-01-20T16:02:26.650",
+    "Race": [
+      {
+        "ID": "23446",
+        "SpecificTitle": "State Representative --  86th Representative District",
+        "GeneralTitle": "State Representative",
+        "OfficeLevel": "205",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "0",
+        "Choice": [
+          {
+            "Color": "0x8970cb",
+            "ID": "45116",
+            "Desc": "\"Hank\" Berchak (REP)"
+          },
+          {
+            "Color": "0xb6dc6b",
+            "ID": "45117",
+            "Desc": "Robert B. \"Robby\" Evans III (REP)"
+          },
+          { "Color": "0xffec6c", "ID": "45118", "Desc": "\"Ed\" Markle (REP)" },
+          { "Color": "0xff836b", "ID": "45119", "Desc": "Leo Palazzo (REP)" },
+          { "Color": "0xa20017", "ID": "45120", "Desc": "\"Jim\" Tucker (REP)" }
+        ]
+      },
+      {
+        "ID": "23447",
+        "SpecificTitle": "State Representative -- 100th Representative District",
+        "GeneralTitle": "State Representative",
+        "OfficeLevel": "205",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "0",
+        "Choice": [
+          { "Color": "0x8970cb", "ID": "45121", "Desc": "Joe Aidoo (DEM)" },
+          {
+            "Color": "0xb6dc6b",
+            "ID": "45122",
+            "Desc": "Cynthia Gullette Banks (DEM)"
+          },
+          {
+            "Color": "0xffec6c",
+            "ID": "45123",
+            "Desc": "Madalyn J. Cochrane (DEM)"
+          },
+          {
+            "Color": "0xff836b",
+            "ID": "45124",
+            "Desc": "Sherman N. Copelin, Jr. (DEM)"
+          },
+          {
+            "Color": "0xa20017",
+            "ID": "45125",
+            "Desc": "Terrie Carrie Guerin (DEM)"
+          },
+          {
+            "Color": "0x81b1d5",
+            "ID": "45126",
+            "Desc": "Wayne A. Johnson (OTHER)"
+          },
+          {
+            "Color": "0x009899",
+            "ID": "45127",
+            "Desc": "George E. Robinson III (DEM)"
+          },
+          {
+            "Color": "0xed1b24",
+            "ID": "45128",
+            "Desc": "Patrick Swilling (DEM)"
+          }
+        ]
+      }
+    ]
+  }
+}

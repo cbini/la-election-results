@@ -1,0 +1,21 @@
+{
+  "Races": {
+    "WriteTime": "2023-01-20T16:31:04.890",
+    "Race": {
+      "ID": "6483",
+      "SpecificTitle": "Acadia & Evangeline FPD -- Tax                                          ",
+      "GeneralTitle": "Proposition",
+      "OfficeLevel": "999",
+      "IsPresidentialNominee": "0",
+      "IsMultiParish": "1",
+      "NumberToBeElected": "1",
+      "SummaryText": null,
+      "FullText": null,
+      "IsClosedParty": "0",
+      "Choice": [
+        { "Color": "0x8970cb", "ID": "3", "Desc": "YES" },
+        { "Color": "0xb6dc6b", "ID": "4", "Desc": "NO" }
+      ]
+    }
+  }
+}

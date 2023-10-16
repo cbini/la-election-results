@@ -1,0 +1,29 @@
+{
+  "Races": {
+    "WriteTime": "2023-01-20T16:01:47.117",
+    "Race": {
+      "ID": "23635",
+      "SpecificTitle": "State Representative --  53rd Representative District",
+      "GeneralTitle": "State Representative",
+      "OfficeLevel": "205",
+      "IsPresidentialNominee": "0",
+      "IsMultiParish": "1",
+      "NumberToBeElected": "1",
+      "SummaryText": null,
+      "FullText": null,
+      "IsClosedParty": "0",
+      "Choice": [
+        {
+          "Color": "0x8970cb",
+          "ID": "45555",
+          "Desc": "Damon J. Baldone (DEM)"
+        },
+        {
+          "Color": "0xb6dc6b",
+          "ID": "45556",
+          "Desc": "\"Johnny\" Glover (DEM)"
+        }
+      ]
+    }
+  }
+}

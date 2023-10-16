@@ -1,0 +1,25 @@
+{
+  "Races": {
+    "WriteTime": "2023-01-20T16:11:50.753",
+    "Race": {
+      "ID": "19100",
+      "SpecificTitle": "Judge, Court of Appeal -- 4th Circuit at Large",
+      "GeneralTitle": "Judge of a Court of Appeal",
+      "OfficeLevel": "155",
+      "IsPresidentialNominee": "0",
+      "IsMultiParish": "1",
+      "NumberToBeElected": "1",
+      "SummaryText": null,
+      "FullText": null,
+      "IsClosedParty": "0",
+      "Choice": [
+        { "Color": "0x8970cb", "ID": "37403", "Desc": "David Marcello (DEM)" },
+        {
+          "Color": "0xb6dc6b",
+          "ID": "37404",
+          "Desc": "James F. McKay III (DEM)"
+        }
+      ]
+    }
+  }
+}

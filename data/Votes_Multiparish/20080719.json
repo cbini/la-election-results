@@ -1,0 +1,72 @@
+{
+  "Races": {
+    "VersionDateTime": "1900-01-01T00:00:00",
+    "Race": [
+      {
+        "ID": "5350",
+        "PrecinctsReporting": "139",
+        "PrecinctsExpected": "139",
+        "NumAbsenteeReporting": "2",
+        "NumAbsenteeExpected": "2",
+        "VoterCountQualified": "-1",
+        "VoterCountVoted": "-1",
+        "Choice": [
+          { "ID": "3", "VoteTotal": "3569", "Outcome": "Approved" },
+          { "ID": "4", "VoteTotal": "915", "Outcome": null }
+        ]
+      },
+      {
+        "ID": "5351",
+        "PrecinctsReporting": "139",
+        "PrecinctsExpected": "139",
+        "NumAbsenteeReporting": "2",
+        "NumAbsenteeExpected": "2",
+        "VoterCountQualified": "-1",
+        "VoterCountVoted": "-1",
+        "Choice": [
+          { "ID": "3", "VoteTotal": "3407", "Outcome": "Approved" },
+          { "ID": "4", "VoteTotal": "1059", "Outcome": null }
+        ]
+      },
+      {
+        "ID": "5352",
+        "PrecinctsReporting": "139",
+        "PrecinctsExpected": "139",
+        "NumAbsenteeReporting": "2",
+        "NumAbsenteeExpected": "2",
+        "VoterCountQualified": "-1",
+        "VoterCountVoted": "-1",
+        "Choice": [
+          { "ID": "3", "VoteTotal": "3449", "Outcome": "Approved" },
+          { "ID": "4", "VoteTotal": "1003", "Outcome": null }
+        ]
+      },
+      {
+        "ID": "5353",
+        "PrecinctsReporting": "139",
+        "PrecinctsExpected": "139",
+        "NumAbsenteeReporting": "2",
+        "NumAbsenteeExpected": "2",
+        "VoterCountQualified": "-1",
+        "VoterCountVoted": "-1",
+        "Choice": [
+          { "ID": "3", "VoteTotal": "3515", "Outcome": "Approved" },
+          { "ID": "4", "VoteTotal": "936", "Outcome": null }
+        ]
+      },
+      {
+        "ID": "5354",
+        "PrecinctsReporting": "139",
+        "PrecinctsExpected": "139",
+        "NumAbsenteeReporting": "2",
+        "NumAbsenteeExpected": "2",
+        "VoterCountQualified": "-1",
+        "VoterCountVoted": "-1",
+        "Choice": [
+          { "ID": "3", "VoteTotal": "3433", "Outcome": "Approved" },
+          { "ID": "4", "VoteTotal": "1007", "Outcome": null }
+        ]
+      }
+    ]
+  }
+}

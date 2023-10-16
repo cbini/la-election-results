@@ -1,0 +1,80 @@
+{
+  "Races": {
+    "WriteTime": "2023-01-20T16:41:33",
+    "Race": [
+      {
+        "ID": "30692",
+        "SpecificTitle": "Judge -- Civil District Court, Division F",
+        "GeneralTitle": "District Judge",
+        "OfficeLevel": "210",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "0",
+        "Choice": [
+          {
+            "Color": "0x8970cb",
+            "ID": "58706",
+            "Desc": "William A. \"Bill\" Hawkins (REP)"
+          },
+          { "Color": "0xb6dc6b", "ID": "58707", "Desc": "Yada T. Magee (DEM)" },
+          {
+            "Color": "0xffec6c",
+            "ID": "58708",
+            "Desc": "Walter \"Jeff\" Wilkerson (DEM)"
+          }
+        ]
+      },
+      {
+        "ID": "30693",
+        "SpecificTitle": "Judge -- Civil District Court, Division L",
+        "GeneralTitle": "District Judge",
+        "OfficeLevel": "210",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "0",
+        "Choice": [
+          {
+            "Color": "0x8970cb",
+            "ID": "58711",
+            "Desc": "Sherman F. Raphael (REP)"
+          },
+          {
+            "Color": "0xb6dc6b",
+            "ID": "58712",
+            "Desc": "Max N. Tobias, Jr. (DEM)"
+          }
+        ]
+      },
+      {
+        "ID": "30727",
+        "SpecificTitle": "Judge -- Criminal District Court, Section J",
+        "GeneralTitle": "District Judge",
+        "OfficeLevel": "210",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "0",
+        "Choice": [
+          {
+            "Color": "0x8970cb",
+            "ID": "58981",
+            "Desc": "John M. \"Johnny\" Blanchard (DEM)"
+          },
+          {
+            "Color": "0xb6dc6b",
+            "ID": "58982",
+            "Desc": "Leon A. Cannizzaro, Jr. (DEM)"
+          }
+        ]
+      }
+    ]
+  }
+}

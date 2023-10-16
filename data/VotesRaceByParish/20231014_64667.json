@@ -1,0 +1,18 @@
+{
+  "Parishes": {
+    "VersionDateTime": "1900-01-01T00:00:00",
+    "Parish": {
+      "ParishValue": "52",
+      "PrecinctsReporting": "28",
+      "PrecinctsExpected": "28",
+      "NumAbsenteeReporting": "1",
+      "NumAbsenteeExpected": "1",
+      "VoterCountQualified": "30736",
+      "VoterCountVoted": "0",
+      "Choice": [
+        { "ID": "118401", "VoteTotal": "6260", "Outcome": "Elected" },
+        { "ID": "120107", "VoteTotal": "3468", "Outcome": "Defeated" }
+      ]
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "Races": {
+    "WriteTime": "2023-01-20T15:50:25.783",
+    "Race": {
+      "ID": "30819",
+      "SpecificTitle": "State Senator --  6th Senatorial District",
+      "GeneralTitle": "State Senator",
+      "OfficeLevel": "200",
+      "IsPresidentialNominee": "0",
+      "IsMultiParish": "1",
+      "NumberToBeElected": "1",
+      "SummaryText": null,
+      "FullText": null,
+      "IsClosedParty": "0",
+      "Choice": [
+        { "Color": "0x8970cb", "ID": "59172", "Desc": "Una Anderson (DEM)" },
+        { "Color": "0xb6dc6b", "ID": "59173", "Desc": "Jack M. Capella (REP)" },
+        { "Color": "0xffec6c", "ID": "59174", "Desc": "John LaBruzzo (REP)" },
+        { "Color": "0xff836b", "ID": "59175", "Desc": "Julie Quinn (REP)" },
+        {
+          "Color": "0xa20017",
+          "ID": "59176",
+          "Desc": "John F. Schwegmann (NOPTY)"
+        },
+        { "Color": "0x81b1d5", "ID": "59177", "Desc": "Arden Wells (NOPTY)" },
+        { "Color": "0x009899", "ID": "59178", "Desc": "Diane Winston (REP)" }
+      ]
+    }
+  }
+}

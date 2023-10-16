@@ -1,0 +1,20 @@
+{
+  "Races": {
+    "VersionDateTime": "1900-01-01T00:00:00",
+    "Race": {
+      "ID": "61657",
+      "PrecinctsReporting": "66",
+      "PrecinctsExpected": "66",
+      "NumAbsenteeReporting": "3",
+      "NumAbsenteeExpected": "3",
+      "VoterCountQualified": "67782",
+      "VoterCountVoted": "6898",
+      "Choice": [
+        { "ID": "114179", "VoteTotal": "948", "Outcome": "Defeated" },
+        { "ID": "114175", "VoteTotal": "4137", "Outcome": "Elected" },
+        { "ID": "114177", "VoteTotal": "601", "Outcome": "Defeated" },
+        { "ID": "114178", "VoteTotal": "1181", "Outcome": "Defeated" }
+      ]
+    }
+  }
+}

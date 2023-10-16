@@ -1,0 +1,25 @@
+{
+  "Races": {
+    "WriteTime": "2023-01-20T16:20:46.903",
+    "Race": {
+      "ID": "9688",
+      "SpecificTitle": "State Representative --  95th Representative District",
+      "GeneralTitle": "State Representative",
+      "OfficeLevel": "205",
+      "IsPresidentialNominee": "0",
+      "IsMultiParish": "1",
+      "NumberToBeElected": "1",
+      "SummaryText": null,
+      "FullText": null,
+      "IsClosedParty": "0",
+      "Choice": [
+        { "Color": "0x8970cb", "ID": "20476", "Desc": "\"Alex\" Heaton (DEM)" },
+        {
+          "Color": "0xb6dc6b",
+          "ID": "20477",
+          "Desc": "Venessa Washington (REP)"
+        }
+      ]
+    }
+  }
+}

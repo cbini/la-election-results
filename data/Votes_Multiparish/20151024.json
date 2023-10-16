@@ -1,0 +1,1282 @@
+{
+  "Races": {
+    "VersionDateTime": "1900-01-01T00:00:00",
+    "Race": [
+      {
+        "ID": "50499",
+        "PrecinctsReporting": "3945",
+        "PrecinctsExpected": "3945",
+        "NumAbsenteeReporting": "64",
+        "NumAbsenteeExpected": "64",
+        "VoterCountQualified": "2894469",
+        "VoterCountVoted": "1134727",
+        "Choice": [
+          { "ID": "96866", "VoteTotal": "214982", "Outcome": "Defeated" },
+          { "ID": "97437", "VoteTotal": "5694", "Outcome": "Defeated" },
+          { "ID": "97127", "VoteTotal": "166656", "Outcome": "Defeated" },
+          { "ID": "97272", "VoteTotal": "11763", "Outcome": "Defeated" },
+          { "ID": "97064", "VoteTotal": "444517", "Outcome": "Runoff" },
+          { "ID": "98374", "VoteTotal": "4756", "Outcome": "Defeated" },
+          { "ID": "98505", "VoteTotal": "2248", "Outcome": "Defeated" },
+          { "ID": "98185", "VoteTotal": "7420", "Outcome": "Defeated" },
+          { "ID": "96645", "VoteTotal": "256300", "Outcome": "Runoff" }
+        ]
+      },
+      {
+        "ID": "50526",
+        "PrecinctsReporting": "3945",
+        "PrecinctsExpected": "3945",
+        "NumAbsenteeReporting": "64",
+        "NumAbsenteeExpected": "64",
+        "VoterCountQualified": "2894469",
+        "VoterCountVoted": "1134727",
+        "Choice": [
+          { "ID": "96602", "VoteTotal": "85520", "Outcome": "Defeated" },
+          { "ID": "98280", "VoteTotal": "361092", "Outcome": "Runoff" },
+          { "ID": "96618", "VoteTotal": "324849", "Outcome": "Runoff" },
+          { "ID": "96606", "VoteTotal": "313364", "Outcome": "Defeated" }
+        ]
+      },
+      {
+        "ID": "50527",
+        "PrecinctsReporting": "3945",
+        "PrecinctsExpected": "3945",
+        "NumAbsenteeReporting": "64",
+        "NumAbsenteeExpected": "64",
+        "VoterCountQualified": "2894469",
+        "VoterCountVoted": "1134727",
+        "Choice": [
+          { "ID": "98097", "VoteTotal": "649540", "Outcome": "Elected" },
+          { "ID": "97506", "VoteTotal": "394587", "Outcome": "Defeated" }
+        ]
+      },
+      {
+        "ID": "50523",
+        "PrecinctsReporting": "3945",
+        "PrecinctsExpected": "3945",
+        "NumAbsenteeReporting": "64",
+        "NumAbsenteeExpected": "64",
+        "VoterCountQualified": "2894469",
+        "VoterCountVoted": "1134727",
+        "Choice": [
+          { "ID": "98488", "VoteTotal": "187575", "Outcome": "Defeated" },
+          { "ID": "96599", "VoteTotal": "376407", "Outcome": "Runoff" },
+          { "ID": "98661", "VoteTotal": "115188", "Outcome": "Defeated" },
+          { "ID": "97261", "VoteTotal": "347605", "Outcome": "Runoff" },
+          { "ID": "96644", "VoteTotal": "37830", "Outcome": "Defeated" }
+        ]
+      },
+      {
+        "ID": "50528",
+        "PrecinctsReporting": "3945",
+        "PrecinctsExpected": "3945",
+        "NumAbsenteeReporting": "64",
+        "NumAbsenteeExpected": "64",
+        "VoterCountQualified": "2894469",
+        "VoterCountVoted": "1134727",
+        "Choice": [
+          { "ID": "97749", "VoteTotal": "787677", "Outcome": "Elected" },
+          { "ID": "97631", "VoteTotal": "195791", "Outcome": "Defeated" }
+        ]
+      },
+      {
+        "ID": "50524",
+        "PrecinctsReporting": "3945",
+        "PrecinctsExpected": "3945",
+        "NumAbsenteeReporting": "64",
+        "NumAbsenteeExpected": "64",
+        "VoterCountQualified": "2894469",
+        "VoterCountVoted": "1134727",
+        "Choice": [
+          { "ID": "98175", "VoteTotal": "312705", "Outcome": "Defeated" },
+          { "ID": "97089", "VoteTotal": "36214", "Outcome": "Defeated" },
+          { "ID": "98452", "VoteTotal": "85424", "Outcome": "Defeated" },
+          { "ID": "97410", "VoteTotal": "603892", "Outcome": "Elected" }
+        ]
+      },
+      {
+        "ID": "50525",
+        "PrecinctsReporting": "3945",
+        "PrecinctsExpected": "3945",
+        "NumAbsenteeReporting": "64",
+        "NumAbsenteeExpected": "64",
+        "VoterCountQualified": "2894469",
+        "VoterCountVoted": "1134727",
+        "Choice": [
+          { "ID": "97502", "VoteTotal": "561743", "Outcome": "Elected" },
+          { "ID": "98500", "VoteTotal": "140636", "Outcome": "Defeated" },
+          { "ID": "98024", "VoteTotal": "199606", "Outcome": "Defeated" },
+          { "ID": "97273", "VoteTotal": "147558", "Outcome": "Defeated" }
+        ]
+      },
+      {
+        "ID": "50673",
+        "PrecinctsReporting": "387",
+        "PrecinctsExpected": "387",
+        "NumAbsenteeReporting": "3",
+        "NumAbsenteeExpected": "3",
+        "VoterCountQualified": "357276",
+        "VoterCountVoted": "136892",
+        "Choice": [
+          { "ID": "97777", "VoteTotal": "34487", "Outcome": "Defeated" },
+          { "ID": "97864", "VoteTotal": "84447", "Outcome": "Elected" }
+        ]
+      },
+      {
+        "ID": "50674",
+        "PrecinctsReporting": "491",
+        "PrecinctsExpected": "491",
+        "NumAbsenteeReporting": "6",
+        "NumAbsenteeExpected": "6",
+        "VoterCountQualified": "361528",
+        "VoterCountVoted": "128450",
+        "Choice": [
+          { "ID": "98011", "VoteTotal": "76704", "Outcome": "Elected" },
+          { "ID": "98444", "VoteTotal": "35140", "Outcome": "Defeated" }
+        ]
+      },
+      {
+        "ID": "50675",
+        "PrecinctsReporting": "452",
+        "PrecinctsExpected": "452",
+        "NumAbsenteeReporting": "15",
+        "NumAbsenteeExpected": "15",
+        "VoterCountQualified": "331996",
+        "VoterCountVoted": "140344",
+        "Choice": [
+          { "ID": "97945", "VoteTotal": "46605", "Outcome": "Defeated" },
+          { "ID": "96637", "VoteTotal": "74078", "Outcome": "Elected" }
+        ]
+      },
+      {
+        "ID": "50676",
+        "PrecinctsReporting": "561",
+        "PrecinctsExpected": "561",
+        "NumAbsenteeReporting": "10",
+        "NumAbsenteeExpected": "10",
+        "VoterCountQualified": "362972",
+        "VoterCountVoted": "133578",
+        "Choice": [
+          { "ID": "98571", "VoteTotal": "40895", "Outcome": "Runoff" },
+          { "ID": "96629", "VoteTotal": "47834", "Outcome": "Runoff" },
+          { "ID": "98125", "VoteTotal": "22107", "Outcome": "Defeated" }
+        ]
+      },
+      {
+        "ID": "50677",
+        "PrecinctsReporting": "675",
+        "PrecinctsExpected": "675",
+        "NumAbsenteeReporting": "19",
+        "NumAbsenteeExpected": "19",
+        "VoterCountQualified": "378370",
+        "VoterCountVoted": "147503",
+        "Choice": [
+          { "ID": "98032", "VoteTotal": "46863", "Outcome": "Defeated" },
+          { "ID": "97900", "VoteTotal": "77301", "Outcome": "Elected" }
+        ]
+      },
+      {
+        "ID": "50678",
+        "PrecinctsReporting": "400",
+        "PrecinctsExpected": "400",
+        "NumAbsenteeReporting": "5",
+        "NumAbsenteeExpected": "5",
+        "VoterCountQualified": "379193",
+        "VoterCountVoted": "154596",
+        "Choice": [
+          { "ID": "97709", "VoteTotal": "64184", "Outcome": "Runoff" },
+          { "ID": "98614", "VoteTotal": "25995", "Outcome": "Runoff" },
+          { "ID": "98191", "VoteTotal": "15457", "Outcome": "Defeated" },
+          { "ID": "98551", "VoteTotal": "6913", "Outcome": "Defeated" },
+          { "ID": "98305", "VoteTotal": "24065", "Outcome": "Defeated" }
+        ]
+      },
+      {
+        "ID": "50679",
+        "PrecinctsReporting": "439",
+        "PrecinctsExpected": "439",
+        "NumAbsenteeReporting": "9",
+        "NumAbsenteeExpected": "9",
+        "VoterCountQualified": "381717",
+        "VoterCountVoted": "147597",
+        "Choice": [
+          { "ID": "97299", "VoteTotal": "72246", "Outcome": "Elected" },
+          { "ID": "98027", "VoteTotal": "62987", "Outcome": "Defeated" }
+        ]
+      },
+      {
+        "ID": "50680",
+        "PrecinctsReporting": "540",
+        "PrecinctsExpected": "540",
+        "NumAbsenteeReporting": "14",
+        "NumAbsenteeExpected": "14",
+        "VoterCountQualified": "341417",
+        "VoterCountVoted": "145765",
+        "Choice": [
+          { "ID": "97658", "VoteTotal": "58992", "Outcome": "Defeated" },
+          { "ID": "97818", "VoteTotal": "64729", "Outcome": "Elected" }
+        ]
+      },
+      {
+        "ID": "50634",
+        "PrecinctsReporting": "85",
+        "PrecinctsExpected": "85",
+        "NumAbsenteeReporting": "4",
+        "NumAbsenteeExpected": "4",
+        "VoterCountQualified": "77870",
+        "VoterCountVoted": "29246",
+        "Choice": [
+          { "ID": "97557", "VoteTotal": "15537", "Outcome": "Elected" },
+          { "ID": "97899", "VoteTotal": "10810", "Outcome": "Defeated" }
+        ]
+      },
+      {
+        "ID": "50635",
+        "PrecinctsReporting": "122",
+        "PrecinctsExpected": "122",
+        "NumAbsenteeReporting": "8",
+        "NumAbsenteeExpected": "8",
+        "VoterCountQualified": "71825",
+        "VoterCountVoted": "36750",
+        "Choice": [
+          { "ID": "97835", "VoteTotal": "23829", "Outcome": "Elected" },
+          { "ID": "97616", "VoteTotal": "4072", "Outcome": "Defeated" },
+          { "ID": "98270", "VoteTotal": "5208", "Outcome": "Defeated" }
+        ]
+      },
+      {
+        "ID": "50637",
+        "PrecinctsReporting": "118",
+        "PrecinctsExpected": "118",
+        "NumAbsenteeReporting": "1",
+        "NumAbsenteeExpected": "1",
+        "VoterCountQualified": "82995",
+        "VoterCountVoted": "28299",
+        "Choice": [
+          { "ID": "96651", "VoteTotal": "16336", "Outcome": "Elected" },
+          { "ID": "97580", "VoteTotal": "6195", "Outcome": "Defeated" },
+          { "ID": "98567", "VoteTotal": "2665", "Outcome": "Defeated" }
+        ]
+      },
+      {
+        "ID": "50640",
+        "PrecinctsReporting": "66",
+        "PrecinctsExpected": "66",
+        "NumAbsenteeReporting": "3",
+        "NumAbsenteeExpected": "3",
+        "VoterCountQualified": "65105",
+        "VoterCountVoted": "22321",
+        "Choice": [
+          { "ID": "98354", "VoteTotal": "6858", "Outcome": "Runoff" },
+          { "ID": "98143", "VoteTotal": "7700", "Outcome": "Runoff" },
+          { "ID": "96954", "VoteTotal": "3097", "Outcome": "Defeated" },
+          { "ID": "98503", "VoteTotal": "2957", "Outcome": "Defeated" }
+        ]
+      },
+      {
+        "ID": "50642",
+        "PrecinctsReporting": "97",
+        "PrecinctsExpected": "97",
+        "NumAbsenteeReporting": "2",
+        "NumAbsenteeExpected": "2",
+        "VoterCountQualified": "74944",
+        "VoterCountVoted": "30383",
+        "Choice": [
+          { "ID": "97619", "VoteTotal": "14701", "Outcome": "Elected" },
+          { "ID": "98573", "VoteTotal": "11109", "Outcome": "Defeated" }
+        ]
+      },
+      {
+        "ID": "50645",
+        "PrecinctsReporting": "98",
+        "PrecinctsExpected": "98",
+        "NumAbsenteeReporting": "3",
+        "NumAbsenteeExpected": "3",
+        "VoterCountQualified": "74304",
+        "VoterCountVoted": "35102",
+        "Choice": [
+          { "ID": "97773", "VoteTotal": "6827", "Outcome": "Defeated" },
+          { "ID": "97696", "VoteTotal": "14344", "Outcome": "Runoff" },
+          { "ID": "96589", "VoteTotal": "10767", "Outcome": "Runoff" },
+          { "ID": "97376", "VoteTotal": "1138", "Outcome": "Defeated" }
+        ]
+      },
+      {
+        "ID": "50646",
+        "PrecinctsReporting": "70",
+        "PrecinctsExpected": "70",
+        "NumAbsenteeReporting": "3",
+        "NumAbsenteeExpected": "3",
+        "VoterCountQualified": "73771",
+        "VoterCountVoted": "28050",
+        "Choice": [
+          { "ID": "98192", "VoteTotal": "9655", "Outcome": "Defeated" },
+          { "ID": "97380", "VoteTotal": "17117", "Outcome": "Elected" }
+        ]
+      },
+      {
+        "ID": "50648",
+        "PrecinctsReporting": "91",
+        "PrecinctsExpected": "91",
+        "NumAbsenteeReporting": "1",
+        "NumAbsenteeExpected": "1",
+        "VoterCountQualified": "71694",
+        "VoterCountVoted": "28105",
+        "Choice": [
+          { "ID": "97510", "VoteTotal": "14101", "Outcome": "Elected" },
+          { "ID": "98677", "VoteTotal": "3683", "Outcome": "Defeated" },
+          { "ID": "97360", "VoteTotal": "8796", "Outcome": "Defeated" }
+        ]
+      },
+      {
+        "ID": "50649",
+        "PrecinctsReporting": "87",
+        "PrecinctsExpected": "87",
+        "NumAbsenteeReporting": "1",
+        "NumAbsenteeExpected": "1",
+        "VoterCountQualified": "78602",
+        "VoterCountVoted": "34634",
+        "Choice": [
+          { "ID": "98413", "VoteTotal": "4564", "Outcome": "Defeated" },
+          { "ID": "98204", "VoteTotal": "16506", "Outcome": "Elected" },
+          { "ID": "96591", "VoteTotal": "11462", "Outcome": "Defeated" }
+        ]
+      },
+      {
+        "ID": "50653",
+        "PrecinctsReporting": "94",
+        "PrecinctsExpected": "94",
+        "NumAbsenteeReporting": "2",
+        "NumAbsenteeExpected": "2",
+        "VoterCountQualified": "62831",
+        "VoterCountVoted": "24466",
+        "Choice": [
+          { "ID": "98468", "VoteTotal": "1456", "Outcome": "Defeated" },
+          { "ID": "98365", "VoteTotal": "11921", "Outcome": "Elected" },
+          { "ID": "96977", "VoteTotal": "9944", "Outcome": "Defeated" }
+        ]
+      },
+      {
+        "ID": "50656",
+        "PrecinctsReporting": "69",
+        "PrecinctsExpected": "69",
+        "NumAbsenteeReporting": "1",
+        "NumAbsenteeExpected": "1",
+        "VoterCountQualified": "83232",
+        "VoterCountVoted": "34694",
+        "Choice": [
+          { "ID": "97436", "VoteTotal": "27231", "Outcome": "Elected" },
+          { "ID": "98303", "VoteTotal": "5235", "Outcome": "Defeated" }
+        ]
+      },
+      {
+        "ID": "50657",
+        "PrecinctsReporting": "101",
+        "PrecinctsExpected": "101",
+        "NumAbsenteeReporting": "3",
+        "NumAbsenteeExpected": "3",
+        "VoterCountQualified": "83163",
+        "VoterCountVoted": "32235",
+        "Choice": [
+          { "ID": "97455", "VoteTotal": "17846", "Outcome": "Elected" },
+          { "ID": "97238", "VoteTotal": "11528", "Outcome": "Defeated" }
+        ]
+      },
+      {
+        "ID": "50660",
+        "PrecinctsReporting": "70",
+        "PrecinctsExpected": "70",
+        "NumAbsenteeReporting": "1",
+        "NumAbsenteeExpected": "1",
+        "VoterCountQualified": "75789",
+        "VoterCountVoted": "23540",
+        "Choice": [
+          { "ID": "97894", "VoteTotal": "14648", "Outcome": "Elected" },
+          { "ID": "98161", "VoteTotal": "7901", "Outcome": "Defeated" }
+        ]
+      },
+      {
+        "ID": "50662",
+        "PrecinctsReporting": "124",
+        "PrecinctsExpected": "124",
+        "NumAbsenteeReporting": "7",
+        "NumAbsenteeExpected": "7",
+        "VoterCountQualified": "69909",
+        "VoterCountVoted": "24470",
+        "Choice": [
+          { "ID": "96831", "VoteTotal": "9225", "Outcome": "Defeated" },
+          { "ID": "97167", "VoteTotal": "13462", "Outcome": "Elected" }
+        ]
+      },
+      {
+        "ID": "50666",
+        "PrecinctsReporting": "124",
+        "PrecinctsExpected": "124",
+        "NumAbsenteeReporting": "6",
+        "NumAbsenteeExpected": "6",
+        "VoterCountQualified": "73837",
+        "VoterCountVoted": "27704",
+        "Choice": [
+          { "ID": "98448", "VoteTotal": "9626", "Outcome": "Defeated" },
+          { "ID": "96706", "VoteTotal": "15891", "Outcome": "Elected" }
+        ]
+      },
+      {
+        "ID": "50668",
+        "PrecinctsReporting": "118",
+        "PrecinctsExpected": "118",
+        "NumAbsenteeReporting": "6",
+        "NumAbsenteeExpected": "6",
+        "VoterCountQualified": "70941",
+        "VoterCountVoted": "27055",
+        "Choice": [
+          { "ID": "96840", "VoteTotal": "11956", "Outcome": "Defeated" },
+          { "ID": "96890", "VoteTotal": "13430", "Outcome": "Elected" }
+        ]
+      },
+      {
+        "ID": "50669",
+        "PrecinctsReporting": "107",
+        "PrecinctsExpected": "107",
+        "NumAbsenteeReporting": "4",
+        "NumAbsenteeExpected": "4",
+        "VoterCountQualified": "71359",
+        "VoterCountVoted": "26399",
+        "Choice": [
+          { "ID": "96867", "VoteTotal": "10202", "Outcome": "Runoff" },
+          { "ID": "98338", "VoteTotal": "8649", "Outcome": "Runoff" },
+          { "ID": "98341", "VoteTotal": "6465", "Outcome": "Defeated" }
+        ]
+      },
+      {
+        "ID": "50671",
+        "PrecinctsReporting": "86",
+        "PrecinctsExpected": "86",
+        "NumAbsenteeReporting": "2",
+        "NumAbsenteeExpected": "2",
+        "VoterCountQualified": "73177",
+        "VoterCountVoted": "28542",
+        "Choice": [
+          { "ID": "97230", "VoteTotal": "9566", "Outcome": "Runoff" },
+          { "ID": "97848", "VoteTotal": "5885", "Outcome": "Defeated" },
+          { "ID": "98162", "VoteTotal": "9061", "Outcome": "Runoff" },
+          { "ID": "98538", "VoteTotal": "2693", "Outcome": "Defeated" }
+        ]
+      },
+      {
+        "ID": "50529",
+        "PrecinctsReporting": "34",
+        "PrecinctsExpected": "34",
+        "NumAbsenteeReporting": "2",
+        "NumAbsenteeExpected": "2",
+        "VoterCountQualified": "26190",
+        "VoterCountVoted": "9113",
+        "Choice": [
+          { "ID": "98610", "VoteTotal": "1755", "Outcome": "Defeated" },
+          { "ID": "96919", "VoteTotal": "6699", "Outcome": "Elected" }
+        ]
+      },
+      {
+        "ID": "50530",
+        "PrecinctsReporting": "30",
+        "PrecinctsExpected": "30",
+        "NumAbsenteeReporting": "2",
+        "NumAbsenteeExpected": "2",
+        "VoterCountQualified": "25318",
+        "VoterCountVoted": "6474",
+        "Choice": [
+          { "ID": "97660", "VoteTotal": "3505", "Outcome": "Elected" },
+          { "ID": "97224", "VoteTotal": "2282", "Outcome": "Defeated" }
+        ]
+      },
+      {
+        "ID": "50532",
+        "PrecinctsReporting": "21",
+        "PrecinctsExpected": "21",
+        "NumAbsenteeReporting": "1",
+        "NumAbsenteeExpected": "1",
+        "VoterCountQualified": "26722",
+        "VoterCountVoted": "8635",
+        "Choice": [
+          { "ID": "98644", "VoteTotal": "4136", "Outcome": "Elected" },
+          { "ID": "98020", "VoteTotal": "1614", "Outcome": "Defeated" },
+          { "ID": "98553", "VoteTotal": "2096", "Outcome": "Defeated" }
+        ]
+      },
+      {
+        "ID": "50533",
+        "PrecinctsReporting": "24",
+        "PrecinctsExpected": "24",
+        "NumAbsenteeReporting": "1",
+        "NumAbsenteeExpected": "1",
+        "VoterCountQualified": "27947",
+        "VoterCountVoted": "10304",
+        "Choice": [
+          { "ID": "97315", "VoteTotal": "6956", "Outcome": "Elected" },
+          { "ID": "97606", "VoteTotal": "2827", "Outcome": "Defeated" }
+        ]
+      },
+      {
+        "ID": "50535",
+        "PrecinctsReporting": "41",
+        "PrecinctsExpected": "41",
+        "NumAbsenteeReporting": "3",
+        "NumAbsenteeExpected": "3",
+        "VoterCountQualified": "29279",
+        "VoterCountVoted": "12043",
+        "Choice": [
+          { "ID": "96684", "VoteTotal": "5531", "Outcome": "Elected" },
+          { "ID": "97844", "VoteTotal": "2775", "Outcome": "Defeated" },
+          { "ID": "98583", "VoteTotal": "2170", "Outcome": "Defeated" }
+        ]
+      },
+      {
+        "ID": "50537",
+        "PrecinctsReporting": "28",
+        "PrecinctsExpected": "28",
+        "NumAbsenteeReporting": "1",
+        "NumAbsenteeExpected": "1",
+        "VoterCountQualified": "26733",
+        "VoterCountVoted": "7901",
+        "Choice": [
+          { "ID": "96868", "VoteTotal": "4584", "Outcome": "Elected" },
+          { "ID": "97920", "VoteTotal": "2602", "Outcome": "Defeated" }
+        ]
+      },
+      {
+        "ID": "50541",
+        "PrecinctsReporting": "93",
+        "PrecinctsExpected": "93",
+        "NumAbsenteeReporting": "4",
+        "NumAbsenteeExpected": "4",
+        "VoterCountQualified": "27501",
+        "VoterCountVoted": "13717",
+        "Choice": [
+          { "ID": "98671", "VoteTotal": "5091", "Outcome": "Defeated" },
+          { "ID": "97881", "VoteTotal": "7719", "Outcome": "Elected" }
+        ]
+      },
+      {
+        "ID": "50545",
+        "PrecinctsReporting": "27",
+        "PrecinctsExpected": "27",
+        "NumAbsenteeReporting": "1",
+        "NumAbsenteeExpected": "1",
+        "VoterCountQualified": "26954",
+        "VoterCountVoted": "7408",
+        "Choice": [
+          { "ID": "97731", "VoteTotal": "1496", "Outcome": "Defeated" },
+          { "ID": "98262", "VoteTotal": "1166", "Outcome": "Defeated" },
+          { "ID": "97263", "VoteTotal": "4337", "Outcome": "Elected" }
+        ]
+      },
+      {
+        "ID": "50548",
+        "PrecinctsReporting": "76",
+        "PrecinctsExpected": "76",
+        "NumAbsenteeReporting": "5",
+        "NumAbsenteeExpected": "5",
+        "VoterCountQualified": "29601",
+        "VoterCountVoted": "15399",
+        "Choice": [
+          { "ID": "97125", "VoteTotal": "8610", "Outcome": "Elected" },
+          { "ID": "97370", "VoteTotal": "5489", "Outcome": "Defeated" }
+        ]
+      },
+      {
+        "ID": "50550",
+        "PrecinctsReporting": "74",
+        "PrecinctsExpected": "74",
+        "NumAbsenteeReporting": "5",
+        "NumAbsenteeExpected": "5",
+        "VoterCountQualified": "26070",
+        "VoterCountVoted": "13309",
+        "Choice": [
+          { "ID": "96746", "VoteTotal": "6627", "Outcome": "Elected" },
+          { "ID": "97475", "VoteTotal": "6026", "Outcome": "Defeated" }
+        ]
+      },
+      {
+        "ID": "50552",
+        "PrecinctsReporting": "75",
+        "PrecinctsExpected": "75",
+        "NumAbsenteeReporting": "3",
+        "NumAbsenteeExpected": "3",
+        "VoterCountQualified": "27248",
+        "VoterCountVoted": "13203",
+        "Choice": [
+          { "ID": "96621", "VoteTotal": "7274", "Outcome": "Elected" },
+          { "ID": "97954", "VoteTotal": "5109", "Outcome": "Defeated" }
+        ]
+      },
+      {
+        "ID": "50555",
+        "PrecinctsReporting": "37",
+        "PrecinctsExpected": "37",
+        "NumAbsenteeReporting": "1",
+        "NumAbsenteeExpected": "1",
+        "VoterCountQualified": "28974",
+        "VoterCountVoted": "10165",
+        "Choice": [
+          { "ID": "98199", "VoteTotal": "6342", "Outcome": "Elected" },
+          { "ID": "96771", "VoteTotal": "3425", "Outcome": "Defeated" }
+        ]
+      },
+      {
+        "ID": "50556",
+        "PrecinctsReporting": "49",
+        "PrecinctsExpected": "49",
+        "NumAbsenteeReporting": "1",
+        "NumAbsenteeExpected": "1",
+        "VoterCountQualified": "24500",
+        "VoterCountVoted": "12505",
+        "Choice": [
+          { "ID": "97559", "VoteTotal": "2966", "Outcome": "Defeated" },
+          { "ID": "97356", "VoteTotal": "8796", "Outcome": "Elected" }
+        ]
+      },
+      {
+        "ID": "50557",
+        "PrecinctsReporting": "40",
+        "PrecinctsExpected": "40",
+        "NumAbsenteeReporting": "2",
+        "NumAbsenteeExpected": "2",
+        "VoterCountQualified": "27535",
+        "VoterCountVoted": "11295",
+        "Choice": [
+          { "ID": "98537", "VoteTotal": "1054", "Outcome": "Defeated" },
+          { "ID": "97994", "VoteTotal": "3733", "Outcome": "Runoff" },
+          { "ID": "97771", "VoteTotal": "2966", "Outcome": "Runoff" },
+          { "ID": "97395", "VoteTotal": "2593", "Outcome": "Defeated" }
+        ]
+      },
+      {
+        "ID": "50559",
+        "PrecinctsReporting": "22",
+        "PrecinctsExpected": "22",
+        "NumAbsenteeReporting": "2",
+        "NumAbsenteeExpected": "2",
+        "VoterCountQualified": "29456",
+        "VoterCountVoted": "12429",
+        "Choice": [
+          { "ID": "97545", "VoteTotal": "10005", "Outcome": "Elected" },
+          { "ID": "98463", "VoteTotal": "1809", "Outcome": "Defeated" }
+        ]
+      },
+      {
+        "ID": "50560",
+        "PrecinctsReporting": "53",
+        "PrecinctsExpected": "53",
+        "NumAbsenteeReporting": "3",
+        "NumAbsenteeExpected": "3",
+        "VoterCountQualified": "25662",
+        "VoterCountVoted": "10858",
+        "Choice": [
+          { "ID": "96937", "VoteTotal": "5226", "Outcome": "Runoff" },
+          { "ID": "96656", "VoteTotal": "1395", "Outcome": "Defeated" },
+          { "ID": "98220", "VoteTotal": "3957", "Outcome": "Runoff" }
+        ]
+      },
+      {
+        "ID": "50562",
+        "PrecinctsReporting": "33",
+        "PrecinctsExpected": "33",
+        "NumAbsenteeReporting": "1",
+        "NumAbsenteeExpected": "1",
+        "VoterCountQualified": "29052",
+        "VoterCountVoted": "9339",
+        "Choice": [
+          { "ID": "98076", "VoteTotal": "3501", "Outcome": "Runoff" },
+          { "ID": "98209", "VoteTotal": "3215", "Outcome": "Runoff" },
+          { "ID": "97058", "VoteTotal": "743", "Outcome": "Defeated" },
+          { "ID": "97146", "VoteTotal": "1668", "Outcome": "Defeated" }
+        ]
+      },
+      {
+        "ID": "50564",
+        "PrecinctsReporting": "25",
+        "PrecinctsExpected": "25",
+        "NumAbsenteeReporting": "1",
+        "NumAbsenteeExpected": "1",
+        "VoterCountQualified": "29467",
+        "VoterCountVoted": "10612",
+        "Choice": [
+          { "ID": "97917", "VoteTotal": "5607", "Outcome": "Elected" },
+          { "ID": "96682", "VoteTotal": "4654", "Outcome": "Defeated" }
+        ]
+      },
+      {
+        "ID": "50567",
+        "PrecinctsReporting": "27",
+        "PrecinctsExpected": "27",
+        "NumAbsenteeReporting": "2",
+        "NumAbsenteeExpected": "2",
+        "VoterCountQualified": "29638",
+        "VoterCountVoted": "12498",
+        "Choice": [
+          { "ID": "98414", "VoteTotal": "6149", "Outcome": "Elected" },
+          { "ID": "98310", "VoteTotal": "5902", "Outcome": "Defeated" }
+        ]
+      },
+      {
+        "ID": "50568",
+        "PrecinctsReporting": "47",
+        "PrecinctsExpected": "47",
+        "NumAbsenteeReporting": "1",
+        "NumAbsenteeExpected": "1",
+        "VoterCountQualified": "29951",
+        "VoterCountVoted": "11807",
+        "Choice": [
+          { "ID": "98504", "VoteTotal": "924", "Outcome": "Defeated" },
+          { "ID": "98031", "VoteTotal": "530", "Outcome": "Defeated" },
+          { "ID": "96982", "VoteTotal": "682", "Outcome": "Defeated" },
+          { "ID": "98611", "VoteTotal": "1624", "Outcome": "Defeated" },
+          { "ID": "96613", "VoteTotal": "2116", "Outcome": "Runoff" },
+          { "ID": "98412", "VoteTotal": "3285", "Outcome": "Runoff" },
+          { "ID": "97400", "VoteTotal": "1176", "Outcome": "Defeated" },
+          { "ID": "97090", "VoteTotal": "806", "Outcome": "Defeated" }
+        ]
+      },
+      {
+        "ID": "50569",
+        "PrecinctsReporting": "41",
+        "PrecinctsExpected": "41",
+        "NumAbsenteeReporting": "3",
+        "NumAbsenteeExpected": "3",
+        "VoterCountQualified": "27469",
+        "VoterCountVoted": "11746",
+        "Choice": [
+          { "ID": "97715", "VoteTotal": "6308", "Outcome": "Elected" },
+          { "ID": "97897", "VoteTotal": "3036", "Outcome": "Defeated" },
+          { "ID": "98157", "VoteTotal": "1956", "Outcome": "Defeated" }
+        ]
+      },
+      {
+        "ID": "50572",
+        "PrecinctsReporting": "31",
+        "PrecinctsExpected": "31",
+        "NumAbsenteeReporting": "1",
+        "NumAbsenteeExpected": "1",
+        "VoterCountQualified": "25860",
+        "VoterCountVoted": "9034",
+        "Choice": [
+          { "ID": "98324", "VoteTotal": "1319", "Outcome": "Defeated" },
+          { "ID": "97787", "VoteTotal": "6987", "Outcome": "Elected" }
+        ]
+      },
+      {
+        "ID": "50573",
+        "PrecinctsReporting": "26",
+        "PrecinctsExpected": "26",
+        "NumAbsenteeReporting": "1",
+        "NumAbsenteeExpected": "1",
+        "VoterCountQualified": "26391",
+        "VoterCountVoted": "11656",
+        "Choice": [
+          { "ID": "97857", "VoteTotal": "4578", "Outcome": "Runoff" },
+          { "ID": "98037", "VoteTotal": "4098", "Outcome": "Runoff" },
+          { "ID": "98005", "VoteTotal": "2458", "Outcome": "Defeated" }
+        ]
+      },
+      {
+        "ID": "50577",
+        "PrecinctsReporting": "42",
+        "PrecinctsExpected": "42",
+        "NumAbsenteeReporting": "2",
+        "NumAbsenteeExpected": "2",
+        "VoterCountQualified": "26230",
+        "VoterCountVoted": "11476",
+        "Choice": [
+          { "ID": "97542", "VoteTotal": "1557", "Outcome": "Defeated" },
+          { "ID": "96704", "VoteTotal": "8634", "Outcome": "Elected" }
+        ]
+      },
+      {
+        "ID": "50579",
+        "PrecinctsReporting": "42",
+        "PrecinctsExpected": "42",
+        "NumAbsenteeReporting": "4",
+        "NumAbsenteeExpected": "4",
+        "VoterCountQualified": "23978",
+        "VoterCountVoted": "8905",
+        "Choice": [
+          { "ID": "97694", "VoteTotal": "3391", "Outcome": "Runoff" },
+          { "ID": "98675", "VoteTotal": "1899", "Outcome": "Defeated" },
+          { "ID": "97643", "VoteTotal": "3070", "Outcome": "Runoff" }
+        ]
+      },
+      {
+        "ID": "50580",
+        "PrecinctsReporting": "38",
+        "PrecinctsExpected": "38",
+        "NumAbsenteeReporting": "2",
+        "NumAbsenteeExpected": "2",
+        "VoterCountQualified": "26597",
+        "VoterCountVoted": "10601",
+        "Choice": [
+          { "ID": "97267", "VoteTotal": "5043", "Outcome": "Defeated" },
+          { "ID": "97226", "VoteTotal": "5049", "Outcome": "Elected" }
+        ]
+      },
+      {
+        "ID": "50581",
+        "PrecinctsReporting": "37",
+        "PrecinctsExpected": "37",
+        "NumAbsenteeReporting": "2",
+        "NumAbsenteeExpected": "2",
+        "VoterCountQualified": "24556",
+        "VoterCountVoted": "9433",
+        "Choice": [
+          { "ID": "98188", "VoteTotal": "2809", "Outcome": "Defeated" },
+          { "ID": "97830", "VoteTotal": "3093", "Outcome": "Runoff" },
+          { "ID": "98340", "VoteTotal": "3064", "Outcome": "Runoff" }
+        ]
+      },
+      {
+        "ID": "50586",
+        "PrecinctsReporting": "49",
+        "PrecinctsExpected": "49",
+        "NumAbsenteeReporting": "3",
+        "NumAbsenteeExpected": "3",
+        "VoterCountQualified": "25521",
+        "VoterCountVoted": "13112",
+        "Choice": [
+          { "ID": "98370", "VoteTotal": "3478", "Outcome": "Defeated" },
+          { "ID": "97059", "VoteTotal": "6625", "Outcome": "Elected" },
+          { "ID": "97770", "VoteTotal": "1881", "Outcome": "Defeated" }
+        ]
+      },
+      {
+        "ID": "50587",
+        "PrecinctsReporting": "25",
+        "PrecinctsExpected": "25",
+        "NumAbsenteeReporting": "1",
+        "NumAbsenteeExpected": "1",
+        "VoterCountQualified": "28477",
+        "VoterCountVoted": "11317",
+        "Choice": [
+          { "ID": "96858", "VoteTotal": "6987", "Outcome": "Elected" },
+          { "ID": "97751", "VoteTotal": "2654", "Outcome": "Defeated" },
+          { "ID": "98328", "VoteTotal": "947", "Outcome": "Defeated" }
+        ]
+      },
+      {
+        "ID": "50588",
+        "PrecinctsReporting": "57",
+        "PrecinctsExpected": "57",
+        "NumAbsenteeReporting": "2",
+        "NumAbsenteeExpected": "2",
+        "VoterCountQualified": "29051",
+        "VoterCountVoted": "18087",
+        "Choice": [
+          { "ID": "98612", "VoteTotal": "4240", "Outcome": "Runoff" },
+          { "ID": "97264", "VoteTotal": "7622", "Outcome": "Runoff" },
+          { "ID": "98665", "VoteTotal": "1597", "Outcome": "Defeated" },
+          { "ID": "98405", "VoteTotal": "3125", "Outcome": "Defeated" }
+        ]
+      },
+      {
+        "ID": "50589",
+        "PrecinctsReporting": "28",
+        "PrecinctsExpected": "28",
+        "NumAbsenteeReporting": "1",
+        "NumAbsenteeExpected": "1",
+        "VoterCountQualified": "25371",
+        "VoterCountVoted": "8936",
+        "Choice": [
+          { "ID": "97077", "VoteTotal": "3237", "Outcome": "Defeated" },
+          { "ID": "98347", "VoteTotal": "4971", "Outcome": "Elected" }
+        ]
+      },
+      {
+        "ID": "50590",
+        "PrecinctsReporting": "67",
+        "PrecinctsExpected": "67",
+        "NumAbsenteeReporting": "3",
+        "NumAbsenteeExpected": "3",
+        "VoterCountQualified": "29325",
+        "VoterCountVoted": "14799",
+        "Choice": [
+          { "ID": "96936", "VoteTotal": "8783", "Outcome": "Elected" },
+          { "ID": "98658", "VoteTotal": "5068", "Outcome": "Defeated" }
+        ]
+      },
+      {
+        "ID": "50591",
+        "PrecinctsReporting": "36",
+        "PrecinctsExpected": "36",
+        "NumAbsenteeReporting": "1",
+        "NumAbsenteeExpected": "1",
+        "VoterCountQualified": "26947",
+        "VoterCountVoted": "10072",
+        "Choice": [
+          { "ID": "98546", "VoteTotal": "3030", "Outcome": "Runoff" },
+          { "ID": "97702", "VoteTotal": "2739", "Outcome": "Runoff" },
+          { "ID": "97935", "VoteTotal": "2047", "Outcome": "Defeated" },
+          { "ID": "98514", "VoteTotal": "697", "Outcome": "Defeated" },
+          { "ID": "98205", "VoteTotal": "724", "Outcome": "Defeated" }
+        ]
+      },
+      {
+        "ID": "50594",
+        "PrecinctsReporting": "33",
+        "PrecinctsExpected": "33",
+        "NumAbsenteeReporting": "1",
+        "NumAbsenteeExpected": "1",
+        "VoterCountQualified": "31445",
+        "VoterCountVoted": "12864",
+        "Choice": [
+          { "ID": "98268", "VoteTotal": "1924", "Outcome": "Defeated" },
+          { "ID": "98211", "VoteTotal": "2869", "Outcome": "Runoff" },
+          { "ID": "97978", "VoteTotal": "4660", "Outcome": "Runoff" },
+          { "ID": "97726", "VoteTotal": "1889", "Outcome": "Defeated" },
+          { "ID": "97816", "VoteTotal": "1007", "Outcome": "Defeated" }
+        ]
+      },
+      {
+        "ID": "50596",
+        "PrecinctsReporting": "29",
+        "PrecinctsExpected": "29",
+        "NumAbsenteeReporting": "1",
+        "NumAbsenteeExpected": "1",
+        "VoterCountQualified": "26900",
+        "VoterCountVoted": "11759",
+        "Choice": [
+          { "ID": "96675", "VoteTotal": "6095", "Outcome": "Elected" },
+          { "ID": "98062", "VoteTotal": "2094", "Outcome": "Defeated" },
+          { "ID": "98657", "VoteTotal": "2945", "Outcome": "Defeated" }
+        ]
+      },
+      {
+        "ID": "50597",
+        "PrecinctsReporting": "33",
+        "PrecinctsExpected": "33",
+        "NumAbsenteeReporting": "1",
+        "NumAbsenteeExpected": "1",
+        "VoterCountQualified": "27144",
+        "VoterCountVoted": "11849",
+        "Choice": [
+          { "ID": "97345", "VoteTotal": "4295", "Outcome": "Runoff" },
+          { "ID": "98585", "VoteTotal": "4213", "Outcome": "Runoff" },
+          { "ID": "98154", "VoteTotal": "2782", "Outcome": "Defeated" }
+        ]
+      },
+      {
+        "ID": "50598",
+        "PrecinctsReporting": "31",
+        "PrecinctsExpected": "31",
+        "NumAbsenteeReporting": "1",
+        "NumAbsenteeExpected": "1",
+        "VoterCountQualified": "28314",
+        "VoterCountVoted": "11996",
+        "Choice": [
+          { "ID": "97584", "VoteTotal": "8401", "Outcome": "Elected" },
+          { "ID": "98166", "VoteTotal": "2891", "Outcome": "Defeated" }
+        ]
+      },
+      {
+        "ID": "50600",
+        "PrecinctsReporting": "37",
+        "PrecinctsExpected": "37",
+        "NumAbsenteeReporting": "3",
+        "NumAbsenteeExpected": "3",
+        "VoterCountQualified": "27756",
+        "VoterCountVoted": "13712",
+        "Choice": [
+          { "ID": "97956", "VoteTotal": "1585", "Outcome": "Defeated" },
+          { "ID": "97928", "VoteTotal": "2536", "Outcome": "Runoff" },
+          { "ID": "97735", "VoteTotal": "5457", "Outcome": "Runoff" },
+          { "ID": "96921", "VoteTotal": "2046", "Outcome": "Defeated" },
+          { "ID": "98167", "VoteTotal": "1029", "Outcome": "Defeated" }
+        ]
+      },
+      {
+        "ID": "50601",
+        "PrecinctsReporting": "24",
+        "PrecinctsExpected": "24",
+        "NumAbsenteeReporting": "1",
+        "NumAbsenteeExpected": "1",
+        "VoterCountQualified": "27693",
+        "VoterCountVoted": "11066",
+        "Choice": [
+          { "ID": "97512", "VoteTotal": "5003", "Outcome": "Defeated" },
+          { "ID": "97721", "VoteTotal": "5341", "Outcome": "Elected" }
+        ]
+      },
+      {
+        "ID": "50603",
+        "PrecinctsReporting": "38",
+        "PrecinctsExpected": "38",
+        "NumAbsenteeReporting": "2",
+        "NumAbsenteeExpected": "2",
+        "VoterCountQualified": "23428",
+        "VoterCountVoted": "11468",
+        "Choice": [
+          { "ID": "97166", "VoteTotal": "4868", "Outcome": "Defeated" },
+          { "ID": "96634", "VoteTotal": "5906", "Outcome": "Elected" }
+        ]
+      },
+      {
+        "ID": "50609",
+        "PrecinctsReporting": "35",
+        "PrecinctsExpected": "35",
+        "NumAbsenteeReporting": "4",
+        "NumAbsenteeExpected": "4",
+        "VoterCountQualified": "27325",
+        "VoterCountVoted": "12565",
+        "Choice": [
+          { "ID": "97827", "VoteTotal": "4016", "Outcome": "Defeated" },
+          { "ID": "97847", "VoteTotal": "7290", "Outcome": "Elected" }
+        ]
+      },
+      {
+        "ID": "50611",
+        "PrecinctsReporting": "24",
+        "PrecinctsExpected": "24",
+        "NumAbsenteeReporting": "1",
+        "NumAbsenteeExpected": "1",
+        "VoterCountQualified": "28834",
+        "VoterCountVoted": "8857",
+        "Choice": [
+          { "ID": "96810", "VoteTotal": "4198", "Outcome": "Elected" },
+          { "ID": "97615", "VoteTotal": "3904", "Outcome": "Defeated" }
+        ]
+      },
+      {
+        "ID": "50615",
+        "PrecinctsReporting": "22",
+        "PrecinctsExpected": "22",
+        "NumAbsenteeReporting": "1",
+        "NumAbsenteeExpected": "1",
+        "VoterCountQualified": "23414",
+        "VoterCountVoted": "6837",
+        "Choice": [
+          { "ID": "97566", "VoteTotal": "2883", "Outcome": "Elected" },
+          { "ID": "98641", "VoteTotal": "2034", "Outcome": "Defeated" }
+        ]
+      },
+      {
+        "ID": "50617",
+        "PrecinctsReporting": "29",
+        "PrecinctsExpected": "29",
+        "NumAbsenteeReporting": "1",
+        "NumAbsenteeExpected": "1",
+        "VoterCountQualified": "30144",
+        "VoterCountVoted": "11643",
+        "Choice": [
+          { "ID": "97389", "VoteTotal": "7135", "Outcome": "Elected" },
+          { "ID": "97516", "VoteTotal": "3683", "Outcome": "Defeated" }
+        ]
+      },
+      {
+        "ID": "50622",
+        "PrecinctsReporting": "39",
+        "PrecinctsExpected": "39",
+        "NumAbsenteeReporting": "2",
+        "NumAbsenteeExpected": "2",
+        "VoterCountQualified": "31939",
+        "VoterCountVoted": "13212",
+        "Choice": [
+          { "ID": "98491", "VoteTotal": "6866", "Outcome": "Elected" },
+          { "ID": "97021", "VoteTotal": "5343", "Outcome": "Defeated" }
+        ]
+      },
+      {
+        "ID": "50624",
+        "PrecinctsReporting": "42",
+        "PrecinctsExpected": "42",
+        "NumAbsenteeReporting": "3",
+        "NumAbsenteeExpected": "3",
+        "VoterCountQualified": "26674",
+        "VoterCountVoted": "10730",
+        "Choice": [
+          { "ID": "97781", "VoteTotal": "7900", "Outcome": "Elected" },
+          { "ID": "98269", "VoteTotal": "1502", "Outcome": "Defeated" }
+        ]
+      },
+      {
+        "ID": "50625",
+        "PrecinctsReporting": "53",
+        "PrecinctsExpected": "53",
+        "NumAbsenteeReporting": "1",
+        "NumAbsenteeExpected": "1",
+        "VoterCountQualified": "34012",
+        "VoterCountVoted": "12274",
+        "Choice": [
+          { "ID": "96609", "VoteTotal": "9491", "Outcome": "Elected" },
+          { "ID": "98634", "VoteTotal": "1289", "Outcome": "Defeated" }
+        ]
+      },
+      {
+        "ID": "50627",
+        "PrecinctsReporting": "44",
+        "PrecinctsExpected": "44",
+        "NumAbsenteeReporting": "1",
+        "NumAbsenteeExpected": "1",
+        "VoterCountQualified": "31510",
+        "VoterCountVoted": "9393",
+        "Choice": [
+          { "ID": "97354", "VoteTotal": "2514", "Outcome": "Runoff" },
+          { "ID": "97404", "VoteTotal": "3957", "Outcome": "Runoff" },
+          { "ID": "98635", "VoteTotal": "1929", "Outcome": "Defeated" }
+        ]
+      },
+      {
+        "ID": "50628",
+        "PrecinctsReporting": "34",
+        "PrecinctsExpected": "34",
+        "NumAbsenteeReporting": "1",
+        "NumAbsenteeExpected": "1",
+        "VoterCountQualified": "28692",
+        "VoterCountVoted": "9670",
+        "Choice": [
+          { "ID": "96958", "VoteTotal": "3007", "Outcome": "Runoff" },
+          { "ID": "98495", "VoteTotal": "1906", "Outcome": "Defeated" },
+          { "ID": "98617", "VoteTotal": "885", "Outcome": "Defeated" },
+          { "ID": "98092", "VoteTotal": "2202", "Outcome": "Runoff" }
+        ]
+      },
+      {
+        "ID": "50630",
+        "PrecinctsReporting": "37",
+        "PrecinctsExpected": "37",
+        "NumAbsenteeReporting": "1",
+        "NumAbsenteeExpected": "1",
+        "VoterCountQualified": "28422",
+        "VoterCountVoted": "9349",
+        "Choice": [
+          { "ID": "97407", "VoteTotal": "4914", "Outcome": "Elected" },
+          { "ID": "98095", "VoteTotal": "360", "Outcome": "Defeated" },
+          { "ID": "98461", "VoteTotal": "1395", "Outcome": "Defeated" },
+          { "ID": "98376", "VoteTotal": "513", "Outcome": "Defeated" },
+          { "ID": "98519", "VoteTotal": "98", "Outcome": "Defeated" },
+          { "ID": "96673", "VoteTotal": "1410", "Outcome": "Defeated" }
+        ]
+      },
+      {
+        "ID": "50631",
+        "PrecinctsReporting": "38",
+        "PrecinctsExpected": "38",
+        "NumAbsenteeReporting": "3",
+        "NumAbsenteeExpected": "3",
+        "VoterCountQualified": "29403",
+        "VoterCountVoted": "12450",
+        "Choice": [
+          { "ID": "98582", "VoteTotal": "2275", "Outcome": "Defeated" },
+          { "ID": "98250", "VoteTotal": "2244", "Outcome": "Defeated" },
+          { "ID": "98141", "VoteTotal": "4588", "Outcome": "Runoff" },
+          { "ID": "98227", "VoteTotal": "2597", "Outcome": "Runoff" }
+        ]
+      },
+      {
+        "ID": "50633",
+        "PrecinctsReporting": "22",
+        "PrecinctsExpected": "22",
+        "NumAbsenteeReporting": "3",
+        "NumAbsenteeExpected": "3",
+        "VoterCountQualified": "27151",
+        "VoterCountVoted": "12149",
+        "Choice": [
+          { "ID": "98659", "VoteTotal": "4522", "Outcome": "Defeated" },
+          { "ID": "97329", "VoteTotal": "6841", "Outcome": "Elected" }
+        ]
+      },
+      {
+        "ID": "51553",
+        "PrecinctsReporting": "145",
+        "PrecinctsExpected": "145",
+        "NumAbsenteeReporting": "3",
+        "NumAbsenteeExpected": "3",
+        "VoterCountQualified": "89011",
+        "VoterCountVoted": "40987",
+        "Choice": [
+          { "ID": "97209", "VoteTotal": "13215", "Outcome": "Runoff" },
+          { "ID": "96843", "VoteTotal": "10420", "Outcome": "Defeated" },
+          { "ID": "97824", "VoteTotal": "13120", "Outcome": "Runoff" }
+        ]
+      },
+      {
+        "ID": "51720",
+        "PrecinctsReporting": "73",
+        "PrecinctsExpected": "73",
+        "NumAbsenteeReporting": "1",
+        "NumAbsenteeExpected": "1",
+        "VoterCountQualified": "23790",
+        "VoterCountVoted": "10963",
+        "Choice": [
+          { "ID": "97544", "VoteTotal": "3913", "Outcome": "Defeated" },
+          { "ID": "96741", "VoteTotal": "6557", "Outcome": "Elected" }
+        ]
+      },
+      {
+        "ID": "51583",
+        "PrecinctsReporting": "151",
+        "PrecinctsExpected": "151",
+        "NumAbsenteeReporting": "1",
+        "NumAbsenteeExpected": "1",
+        "VoterCountQualified": "163232",
+        "VoterCountVoted": "53356",
+        "Choice": [
+          { "ID": "98319", "VoteTotal": "4233", "Outcome": "Defeated" },
+          { "ID": "97880", "VoteTotal": "2435", "Outcome": "Defeated" },
+          { "ID": "97805", "VoteTotal": "2145", "Outcome": "Defeated" },
+          { "ID": "97814", "VoteTotal": "3100", "Outcome": "Defeated" },
+          { "ID": "98292", "VoteTotal": "21030", "Outcome": "Runoff" },
+          { "ID": "97526", "VoteTotal": "18562", "Outcome": "Runoff" }
+        ]
+      },
+      {
+        "ID": "10035",
+        "PrecinctsReporting": "3945",
+        "PrecinctsExpected": "3945",
+        "NumAbsenteeReporting": "64",
+        "NumAbsenteeExpected": "64",
+        "VoterCountQualified": "2894469",
+        "VoterCountVoted": "1134727",
+        "Choice": [
+          { "ID": "3", "VoteTotal": "466434", "Outcome": null },
+          { "ID": "4", "VoteTotal": "515827", "Outcome": "Defeated" }
+        ]
+      },
+      {
+        "ID": "10036",
+        "PrecinctsReporting": "3945",
+        "PrecinctsExpected": "3945",
+        "NumAbsenteeReporting": "64",
+        "NumAbsenteeExpected": "64",
+        "VoterCountQualified": "2894469",
+        "VoterCountVoted": "1134727",
+        "Choice": [
+          { "ID": "3", "VoteTotal": "529273", "Outcome": "Approved" },
+          { "ID": "4", "VoteTotal": "471989", "Outcome": null }
+        ]
+      },
+      {
+        "ID": "10037",
+        "PrecinctsReporting": "3945",
+        "PrecinctsExpected": "3945",
+        "NumAbsenteeReporting": "64",
+        "NumAbsenteeExpected": "64",
+        "VoterCountQualified": "2894469",
+        "VoterCountVoted": "1134727",
+        "Choice": [
+          { "ID": "3", "VoteTotal": "452627", "Outcome": null },
+          { "ID": "4", "VoteTotal": "537785", "Outcome": "Defeated" }
+        ]
+      },
+      {
+        "ID": "10038",
+        "PrecinctsReporting": "3945",
+        "PrecinctsExpected": "3945",
+        "NumAbsenteeReporting": "64",
+        "NumAbsenteeExpected": "64",
+        "VoterCountQualified": "2894469",
+        "VoterCountVoted": "1134727",
+        "Choice": [
+          { "ID": "3", "VoteTotal": "510103", "Outcome": "Approved" },
+          { "ID": "4", "VoteTotal": "481905", "Outcome": null }
+        ]
+      }
+    ]
+  }
+}

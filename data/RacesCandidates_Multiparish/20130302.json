@@ -1,0 +1,49 @@
+{
+  "Races": {
+    "WriteTime": "2023-01-20T15:27:15.623",
+    "Race": [
+      {
+        "ID": "47298",
+        "SpecificTitle": "State Representative --  65th Representative District",
+        "GeneralTitle": "State Representative",
+        "OfficeLevel": "205",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "0",
+        "Choice": [
+          { "Color": "0x8970cb", "ID": "90648", "Desc": "Barry Ivey (REP)" },
+          { "Color": "0xb6dc6b", "ID": "90645", "Desc": "Scott Wilson (REP)" }
+        ]
+      },
+      {
+        "ID": "47307",
+        "SpecificTitle": "State Representative --  79th Representative District",
+        "GeneralTitle": "State Representative",
+        "OfficeLevel": "205",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "0",
+        "Choice": [
+          {
+            "Color": "0x8970cb",
+            "ID": "90647",
+            "Desc": "Allison Bent Bowler (REP)"
+          },
+          { "Color": "0xb6dc6b", "ID": "90646", "Desc": "Jack Rizzuto (REP)" },
+          { "Color": "0xffec6c", "ID": "90649", "Desc": "Julie Stokes (REP)" },
+          {
+            "Color": "0xff836b",
+            "ID": "90650",
+            "Desc": "Paul Hankins Villalobos (REP)"
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "Races": {
+    "WriteTime": "2023-01-20T16:11:58.870",
+    "Race": {
+      "ID": "17776",
+      "SpecificTitle": "Judge, Court of Appeal -- 4th Circuit at Large",
+      "GeneralTitle": "Judge of a Court of Appeal",
+      "OfficeLevel": "155",
+      "IsPresidentialNominee": "0",
+      "IsMultiParish": "1",
+      "NumberToBeElected": "1",
+      "SummaryText": null,
+      "FullText": null,
+      "IsClosedParty": "0",
+      "Choice": [
+        {
+          "Color": "0x8970cb",
+          "ID": "34508",
+          "Desc": "Philip C. Ciaccio, Jr. (DEM)"
+        },
+        { "Color": "0xb6dc6b", "ID": "34509", "Desc": "David Marcello (DEM)" },
+        {
+          "Color": "0xffec6c",
+          "ID": "34510",
+          "Desc": "James F. McKay III (DEM)"
+        }
+      ]
+    }
+  }
+}

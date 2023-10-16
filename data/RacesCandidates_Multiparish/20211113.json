@@ -1,0 +1,161 @@
+{
+  "Races": {
+    "WriteTime": "2023-01-20T15:02:40.097",
+    "Race": [
+      {
+        "ID": "61680",
+        "SpecificTitle": "State Senator -- 27th Senatorial District",
+        "GeneralTitle": "State Senator",
+        "OfficeLevel": "200",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "0",
+        "Choice": [
+          {
+            "Color": "0x8970cb",
+            "ID": "114369",
+            "Desc": "Dustin Granger (DEM)"
+          },
+          {
+            "Color": "0xb6dc6b",
+            "ID": "114371",
+            "Desc": "Jacob \"Jake\" Shaheen (REP)"
+          },
+          { "Color": "0xffec6c", "ID": "114366", "Desc": "Jeremy Stine (REP)" }
+        ]
+      },
+      {
+        "ID": "61679",
+        "SpecificTitle": "State Representative --  16th Representative District",
+        "GeneralTitle": "State Representative",
+        "OfficeLevel": "205",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "0",
+        "Choice": [
+          {
+            "Color": "0x8970cb",
+            "ID": "114370",
+            "Desc": "Charles Henry Bradford (DEM)"
+          },
+          {
+            "Color": "0xb6dc6b",
+            "ID": "114368",
+            "Desc": "Adrian Fisher (DEM)"
+          },
+          {
+            "Color": "0xffec6c",
+            "ID": "114372",
+            "Desc": "Alicia \"Cocoa\" McCoy Calvin (DEM)"
+          }
+        ]
+      },
+      {
+        "ID": "61676",
+        "SpecificTitle": "State Representative -- 102nd Representative District",
+        "GeneralTitle": "State Representative",
+        "OfficeLevel": "205",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "0",
+        "Choice": [
+          { "Color": "0x8970cb", "ID": "114220", "Desc": "Delisha Boyd (DEM)" },
+          {
+            "Color": "0xb6dc6b",
+            "ID": "114363",
+            "Desc": "Jordan Bridges (DEM)"
+          }
+        ]
+      },
+      {
+        "ID": "12165",
+        "SpecificTitle": "CA NO. 1 (ACT 131, 2021 - HB 199) -- Authorizes streamlined electronic filing, remittance, and collection of sales and use tax",
+        "GeneralTitle": "Constitutional Amendment",
+        "OfficeLevel": "998",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": "Amendment No. 1",
+        "FullText": "Do you support an amendment to authorize the legislature to provide for the streamlined electronic filing, electronic remittance, and the collection of sales and use taxes levied within the state by the State and Local Streamlined Sales and Use Tax Commission and to provide for the funding, duties, and responsibilities of the commission? (Adds Article VII, Section 3.1)",
+        "IsClosedParty": "0",
+        "Choice": [
+          { "Color": "0x8970cb", "ID": "3", "Desc": "YES" },
+          { "Color": "0xb6dc6b", "ID": "4", "Desc": "NO" }
+        ]
+      },
+      {
+        "ID": "12166",
+        "SpecificTitle": "CA NO. 2 (ACT 134, 2021 - SB 159) -- Lowers maximum allowed rate of income tax and allows providing a deduction for federal income taxes",
+        "GeneralTitle": "Constitutional Amendment",
+        "OfficeLevel": "998",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": "Amendment No. 2",
+        "FullText": "Do you support an amendment to lower the maximum allowable rate of individual income tax and to authorize the legislature to provide by law for a deduction for federal income taxes paid? (Amends Article VII, Section 4(A))",
+        "IsClosedParty": "0",
+        "Choice": [
+          { "Color": "0x8970cb", "ID": "3", "Desc": "YES" },
+          { "Color": "0xb6dc6b", "ID": "4", "Desc": "NO" }
+        ]
+      },
+      {
+        "ID": "12167",
+        "SpecificTitle": "CA NO. 3 (ACT 132, 2021 - SB 87) -- Allows certain levee districts to levy an annual tax for certain purposes",
+        "GeneralTitle": "Constitutional Amendment",
+        "OfficeLevel": "998",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": "Amendment No. 3",
+        "FullText": "Do you support an amendment to allow levee districts created after January 1, 2006, and before October 9, 2021, whose electors approve the amendment to levy an annual tax not to exceed five mills for the purpose of constructing and maintaining levees, levee drainage, flood protection, and hurricane flood protection? (Amends Article VI, Section 39)",
+        "IsClosedParty": "0",
+        "Choice": [
+          { "Color": "0x8970cb", "ID": "3", "Desc": "YES" },
+          { "Color": "0xb6dc6b", "ID": "4", "Desc": "NO" }
+        ]
+      },
+      {
+        "ID": "12168",
+        "SpecificTitle": "CA NO. 4 (ACT 157, 2021 - HB 487) -- Increases amount of allowed reduction to certain dedicated funds when a budget deficit is projected",
+        "GeneralTitle": "Constitutional Amendment",
+        "OfficeLevel": "998",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": "Amendment No. 4",
+        "FullText": "Do you support an amendment to increase the amount of allowable deficit reductions to statutory dedications and constitutionally protected funds from five percent to ten percent? (Amends Article VII, Section 10(F)(2)(a) and (b))",
+        "IsClosedParty": "0",
+        "Choice": [
+          { "Color": "0x8970cb", "ID": "3", "Desc": "YES" },
+          { "Color": "0xb6dc6b", "ID": "4", "Desc": "NO" }
+        ]
+      },
+      {
+        "ID": "12065",
+        "SpecificTitle": "Town of Arnaudville -- 7 Mills Renewal - M&BOA - 10 Yrs.",
+        "GeneralTitle": "Proposition",
+        "OfficeLevel": "999",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": "Town of Arnaudville Proposition \n(Tax Renewal)",
+        "FullText": "Shall the Town of Arnaudville, State of Louisiana (the \"Town\"), be authorized to continue the levy of a special tax of seven (7) mills on all property subject to taxation in said Town (an estimated $54,206 expected at this time to be collected from the levy of the tax for an entire year), for a period of ten (10) years, beginning with the year 2022 and ending with the year 2031, for the purpose of supplementing the cost of constructing, acquiring, improving, maintaining and operating the Town's waterworks system, sewer system and natural gas transmission and distribution system?",
+        "IsClosedParty": "0",
+        "Choice": [
+          { "Color": "0x8970cb", "ID": "3", "Desc": "YES" },
+          { "Color": "0xb6dc6b", "ID": "4", "Desc": "NO" }
+        ]
+      }
+    ]
+  }
+}

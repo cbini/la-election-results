@@ -1,0 +1,31 @@
+{
+  "Races": {
+    "WriteTime": "2023-01-20T16:23:56.947",
+    "Race": {
+      "ID": "7912",
+      "SpecificTitle": "Judge -- Civil District Court, Division A",
+      "GeneralTitle": "District Judge",
+      "OfficeLevel": "210",
+      "IsPresidentialNominee": "0",
+      "IsMultiParish": "1",
+      "NumberToBeElected": "1",
+      "SummaryText": null,
+      "FullText": null,
+      "IsClosedParty": "0",
+      "Choice": [
+        { "Color": "0x8970cb", "ID": "16201", "Desc": "David Band (REP)" },
+        {
+          "Color": "0xb6dc6b",
+          "ID": "16202",
+          "Desc": "Carolyn W. Gill-Jefferson (DEM)"
+        },
+        {
+          "Color": "0xffec6c",
+          "ID": "16203",
+          "Desc": "Yvonne L. Hughes (DEM)"
+        },
+        { "Color": "0xff836b", "ID": "16204", "Desc": "Walter Willard (DEM)" }
+      ]
+    }
+  }
+}

@@ -1,0 +1,935 @@
+{
+  "Races": {
+    "WriteTime": "2023-01-20T15:07:49.347",
+    "Race": [
+      {
+        "ID": "57627",
+        "SpecificTitle": "Governor",
+        "GeneralTitle": "Governor",
+        "OfficeLevel": "100",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "0",
+        "Choice": [
+          {
+            "Color": "0x8970cb",
+            "ID": "108667",
+            "Desc": "John Bel Edwards (DEM)"
+          },
+          {
+            "Color": "0xb6dc6b",
+            "ID": "108668",
+            "Desc": "\"Eddie\" Rispone (REP)"
+          }
+        ]
+      },
+      {
+        "ID": "57706",
+        "SpecificTitle": "Secretary of State",
+        "GeneralTitle": "Secretary of State",
+        "OfficeLevel": "110",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "0",
+        "Choice": [
+          { "Color": "0x8970cb", "ID": "108826", "Desc": "Kyle Ardoin (REP)" },
+          {
+            "Color": "0xb6dc6b",
+            "ID": "108827",
+            "Desc": "\"Gwen\" Collins-Greenup (DEM)"
+          }
+        ]
+      },
+      {
+        "ID": "57579",
+        "SpecificTitle": "Associate Justice -- Supreme Court, 1st Supreme Court District",
+        "GeneralTitle": "Justice of the Supreme Court",
+        "OfficeLevel": "150",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "0",
+        "Choice": [
+          {
+            "Color": "0x8970cb",
+            "ID": "108571",
+            "Desc": "\"Will\" Crain (REP)"
+          },
+          {
+            "Color": "0xb6dc6b",
+            "ID": "108572",
+            "Desc": "Hans Liljeberg (REP)"
+          }
+        ]
+      },
+      {
+        "ID": "57580",
+        "SpecificTitle": "BESE -- District 6",
+        "GeneralTitle": "State Board or Commission Member",
+        "OfficeLevel": "165",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "0",
+        "Choice": [
+          {
+            "Color": "0x8970cb",
+            "ID": "108573",
+            "Desc": "\"Ronnie\" Morris (REP)"
+          },
+          {
+            "Color": "0xb6dc6b",
+            "ID": "108574",
+            "Desc": "Gregory Spiers (REP)"
+          }
+        ]
+      },
+      {
+        "ID": "57750",
+        "SpecificTitle": "State Senator --  3rd Senatorial District",
+        "GeneralTitle": "State Senator",
+        "OfficeLevel": "200",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "0",
+        "Choice": [
+          {
+            "Color": "0x8970cb",
+            "ID": "108914",
+            "Desc": "John H. Bagneris (DEM)"
+          },
+          {
+            "Color": "0xb6dc6b",
+            "ID": "108915",
+            "Desc": "Joseph \"Joe\" Bouie (DEM)"
+          }
+        ]
+      },
+      {
+        "ID": "57746",
+        "SpecificTitle": "State Senator -- 11th Senatorial District",
+        "GeneralTitle": "State Senator",
+        "OfficeLevel": "200",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "0",
+        "Choice": [
+          {
+            "Color": "0x8970cb",
+            "ID": "108906",
+            "Desc": "Reid Falconer (REP)"
+          },
+          {
+            "Color": "0xb6dc6b",
+            "ID": "108907",
+            "Desc": "Patrick McMath (REP)"
+          }
+        ]
+      },
+      {
+        "ID": "57747",
+        "SpecificTitle": "State Senator -- 16th Senatorial District",
+        "GeneralTitle": "State Senator",
+        "OfficeLevel": "200",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "0",
+        "Choice": [
+          {
+            "Color": "0x8970cb",
+            "ID": "108908",
+            "Desc": "Beverly Brooks Thompson (DEM)"
+          },
+          { "Color": "0xb6dc6b", "ID": "108909", "Desc": "Franklin Foil (REP)" }
+        ]
+      },
+      {
+        "ID": "57748",
+        "SpecificTitle": "State Senator -- 35th Senatorial District",
+        "GeneralTitle": "State Senator",
+        "OfficeLevel": "200",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "0",
+        "Choice": [
+          {
+            "Color": "0x8970cb",
+            "ID": "108910",
+            "Desc": "James R. \"Jim\" Fannin (REP)"
+          },
+          {
+            "Color": "0xb6dc6b",
+            "ID": "108911",
+            "Desc": "\"Jay\" Morris (REP)"
+          }
+        ]
+      },
+      {
+        "ID": "57749",
+        "SpecificTitle": "State Senator -- 36th Senatorial District",
+        "GeneralTitle": "State Senator",
+        "OfficeLevel": "200",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "0",
+        "Choice": [
+          { "Color": "0x8970cb", "ID": "108912", "Desc": "Ryan Gatti (REP)" },
+          { "Color": "0xb6dc6b", "ID": "108913", "Desc": "Robert Mills (REP)" }
+        ]
+      },
+      {
+        "ID": "57730",
+        "SpecificTitle": "State Representative --   3rd Representative District",
+        "GeneralTitle": "State Representative",
+        "OfficeLevel": "205",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "0",
+        "Choice": [
+          { "Color": "0x8970cb", "ID": "108874", "Desc": "Tammy Phelps (DEM)" },
+          {
+            "Color": "0xb6dc6b",
+            "ID": "108875",
+            "Desc": "Daryl Joy Walters (DEM)"
+          }
+        ]
+      },
+      {
+        "ID": "57722",
+        "SpecificTitle": "State Representative --  15th Representative District",
+        "GeneralTitle": "State Representative",
+        "OfficeLevel": "205",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "0",
+        "Choice": [
+          { "Color": "0x8970cb", "ID": "108858", "Desc": "Foy Gadberry (REP)" },
+          {
+            "Color": "0xb6dc6b",
+            "ID": "108859",
+            "Desc": "Justin M. Tidwell (REP)"
+          }
+        ]
+      },
+      {
+        "ID": "57724",
+        "SpecificTitle": "State Representative --  20th Representative District",
+        "GeneralTitle": "State Representative",
+        "OfficeLevel": "205",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "0",
+        "Choice": [
+          { "Color": "0x8970cb", "ID": "108862", "Desc": "Kevin Bates (REP)" },
+          { "Color": "0xb6dc6b", "ID": "108863", "Desc": "Neil Riser (REP)" }
+        ]
+      },
+      {
+        "ID": "57725",
+        "SpecificTitle": "State Representative --  21st Representative District",
+        "GeneralTitle": "State Representative",
+        "OfficeLevel": "205",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "0",
+        "Choice": [
+          {
+            "Color": "0x8970cb",
+            "ID": "108864",
+            "Desc": "C. Travis Johnson (DEM)"
+          },
+          {
+            "Color": "0xb6dc6b",
+            "ID": "108865",
+            "Desc": "Glen B. McGlothin, Jr. (IND)"
+          }
+        ]
+      },
+      {
+        "ID": "57726",
+        "SpecificTitle": "State Representative --  30th Representative District",
+        "GeneralTitle": "State Representative",
+        "OfficeLevel": "205",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "0",
+        "Choice": [
+          {
+            "Color": "0x8970cb",
+            "ID": "108866",
+            "Desc": "A. C. \"Chuck\" Dowden, Jr. (REP)"
+          },
+          {
+            "Color": "0xb6dc6b",
+            "ID": "108867",
+            "Desc": "Charles \"Chuck\" Owen (REP)"
+          }
+        ]
+      },
+      {
+        "ID": "57727",
+        "SpecificTitle": "State Representative --  31st Representative District",
+        "GeneralTitle": "State Representative",
+        "OfficeLevel": "205",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "0",
+        "Choice": [
+          {
+            "Color": "0x8970cb",
+            "ID": "108868",
+            "Desc": "Jonathan Goudeau (REP)"
+          },
+          { "Color": "0xb6dc6b", "ID": "108869", "Desc": "\"Gus\" Rantz (REP)" }
+        ]
+      },
+      {
+        "ID": "57728",
+        "SpecificTitle": "State Representative --  34th Representative District",
+        "GeneralTitle": "State Representative",
+        "OfficeLevel": "205",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "0",
+        "Choice": [
+          {
+            "Color": "0x8970cb",
+            "ID": "108870",
+            "Desc": "Wilford Carter, Sr. (DEM)"
+          },
+          {
+            "Color": "0xb6dc6b",
+            "ID": "108871",
+            "Desc": "Kevin D. Guidry (DEM)"
+          }
+        ]
+      },
+      {
+        "ID": "57729",
+        "SpecificTitle": "State Representative --  37th Representative District",
+        "GeneralTitle": "State Representative",
+        "OfficeLevel": "205",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "0",
+        "Choice": [
+          {
+            "Color": "0x8970cb",
+            "ID": "108872",
+            "Desc": "Shalon Latour (REP)"
+          },
+          {
+            "Color": "0xb6dc6b",
+            "ID": "108873",
+            "Desc": "Troy D. Romero (REP)"
+          }
+        ]
+      },
+      {
+        "ID": "57731",
+        "SpecificTitle": "State Representative --  46th Representative District",
+        "GeneralTitle": "State Representative",
+        "OfficeLevel": "205",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "0",
+        "Choice": [
+          { "Color": "0x8970cb", "ID": "108876", "Desc": "Keith Baudin (REP)" },
+          {
+            "Color": "0xb6dc6b",
+            "ID": "108877",
+            "Desc": "Michael \"Mike Pete\" Huval (REP)"
+          }
+        ]
+      },
+      {
+        "ID": "57732",
+        "SpecificTitle": "State Representative --  48th Representative District",
+        "GeneralTitle": "State Representative",
+        "OfficeLevel": "205",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "0",
+        "Choice": [
+          {
+            "Color": "0x8970cb",
+            "ID": "108878",
+            "Desc": "\"Beau\" Beaullieu (REP)"
+          },
+          {
+            "Color": "0xb6dc6b",
+            "ID": "108879",
+            "Desc": "Ricky Gonsoulin (REP)"
+          }
+        ]
+      },
+      {
+        "ID": "57733",
+        "SpecificTitle": "State Representative --  50th Representative District",
+        "GeneralTitle": "State Representative",
+        "OfficeLevel": "205",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "0",
+        "Choice": [
+          {
+            "Color": "0x8970cb",
+            "ID": "108880",
+            "Desc": "Raymond Harris, Jr. (NOPTY)"
+          },
+          {
+            "Color": "0xb6dc6b",
+            "ID": "108881",
+            "Desc": "Vincent J. St. Blanc III (REP)"
+          }
+        ]
+      },
+      {
+        "ID": "57734",
+        "SpecificTitle": "State Representative --  62nd Representative District",
+        "GeneralTitle": "State Representative",
+        "OfficeLevel": "205",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "0",
+        "Choice": [
+          {
+            "Color": "0x8970cb",
+            "ID": "108882",
+            "Desc": "Roy Daryl Adams (IND)"
+          },
+          {
+            "Color": "0xb6dc6b",
+            "ID": "108883",
+            "Desc": "\"Johnny\" Arceneaux (REP)"
+          }
+        ]
+      },
+      {
+        "ID": "57735",
+        "SpecificTitle": "State Representative --  67th Representative District",
+        "GeneralTitle": "State Representative",
+        "OfficeLevel": "205",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "0",
+        "Choice": [
+          { "Color": "0x8970cb", "ID": "108884", "Desc": "Leah Cullins (DEM)" },
+          { "Color": "0xb6dc6b", "ID": "108885", "Desc": "Larry Selders (DEM)" }
+        ]
+      },
+      {
+        "ID": "57736",
+        "SpecificTitle": "State Representative --  68th Representative District",
+        "GeneralTitle": "State Representative",
+        "OfficeLevel": "205",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "0",
+        "Choice": [
+          {
+            "Color": "0x8970cb",
+            "ID": "108886",
+            "Desc": "Taryn C. Branson (DEM)"
+          },
+          {
+            "Color": "0xb6dc6b",
+            "ID": "108887",
+            "Desc": "Scott McKnight (REP)"
+          }
+        ]
+      },
+      {
+        "ID": "57737",
+        "SpecificTitle": "State Representative --  70th Representative District",
+        "GeneralTitle": "State Representative",
+        "OfficeLevel": "205",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "0",
+        "Choice": [
+          {
+            "Color": "0x8970cb",
+            "ID": "108888",
+            "Desc": "Belinda Davis (DEM)"
+          },
+          {
+            "Color": "0xb6dc6b",
+            "ID": "108889",
+            "Desc": "Barbara Reich Freiberg (REP)"
+          }
+        ]
+      },
+      {
+        "ID": "57738",
+        "SpecificTitle": "State Representative --  71st Representative District",
+        "GeneralTitle": "State Representative",
+        "OfficeLevel": "205",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "0",
+        "Choice": [
+          { "Color": "0x8970cb", "ID": "108890", "Desc": "Lori Callais (DEM)" },
+          {
+            "Color": "0xb6dc6b",
+            "ID": "108891",
+            "Desc": "\"Buddy\" Mincey, Jr. (REP)"
+          }
+        ]
+      },
+      {
+        "ID": "57739",
+        "SpecificTitle": "State Representative --  88th Representative District",
+        "GeneralTitle": "State Representative",
+        "OfficeLevel": "205",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "0",
+        "Choice": [
+          {
+            "Color": "0x8970cb",
+            "ID": "108892",
+            "Desc": "Kathy Edmonston (REP)"
+          },
+          {
+            "Color": "0xb6dc6b",
+            "ID": "108893",
+            "Desc": "Brandon Trosclair (REP)"
+          }
+        ]
+      },
+      {
+        "ID": "57740",
+        "SpecificTitle": "State Representative --  89th Representative District",
+        "GeneralTitle": "State Representative",
+        "OfficeLevel": "205",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "0",
+        "Choice": [
+          {
+            "Color": "0x8970cb",
+            "ID": "108894",
+            "Desc": "\"Vince\" Liuzza (REP)"
+          },
+          {
+            "Color": "0xb6dc6b",
+            "ID": "108895",
+            "Desc": "Richard Nelson (REP)"
+          }
+        ]
+      },
+      {
+        "ID": "57741",
+        "SpecificTitle": "State Representative --  91st Representative District",
+        "GeneralTitle": "State Representative",
+        "OfficeLevel": "205",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "0",
+        "Choice": [
+          {
+            "Color": "0x8970cb",
+            "ID": "108896",
+            "Desc": "Mandie Landry (DEM)"
+          },
+          {
+            "Color": "0xb6dc6b",
+            "ID": "108897",
+            "Desc": "Robert McKnight (DEM)"
+          }
+        ]
+      },
+      {
+        "ID": "57742",
+        "SpecificTitle": "State Representative --  94th Representative District",
+        "GeneralTitle": "State Representative",
+        "OfficeLevel": "205",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "0",
+        "Choice": [
+          {
+            "Color": "0x8970cb",
+            "ID": "108898",
+            "Desc": "Stephanie Hilferty (REP)"
+          },
+          { "Color": "0xb6dc6b", "ID": "108899", "Desc": "Tammy Savoie (DEM)" }
+        ]
+      },
+      {
+        "ID": "57743",
+        "SpecificTitle": "State Representative --  97th Representative District",
+        "GeneralTitle": "State Representative",
+        "OfficeLevel": "205",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "0",
+        "Choice": [
+          { "Color": "0x8970cb", "ID": "108900", "Desc": "Eugene Green (DEM)" },
+          {
+            "Color": "0xb6dc6b",
+            "ID": "108901",
+            "Desc": "Matthew Willard (DEM)"
+          }
+        ]
+      },
+      {
+        "ID": "57744",
+        "SpecificTitle": "State Representative --  98th Representative District",
+        "GeneralTitle": "State Representative",
+        "OfficeLevel": "205",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "0",
+        "Choice": [
+          {
+            "Color": "0x8970cb",
+            "ID": "108902",
+            "Desc": "Aimee Adatto Freeman (DEM)"
+          },
+          { "Color": "0xb6dc6b", "ID": "108903", "Desc": "Kea Sherman (DEM)" }
+        ]
+      },
+      {
+        "ID": "57745",
+        "SpecificTitle": "State Representative --  99th Representative District",
+        "GeneralTitle": "State Representative",
+        "OfficeLevel": "205",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "0",
+        "Choice": [
+          {
+            "Color": "0x8970cb",
+            "ID": "108904",
+            "Desc": "Adonis C. Expose' (DEM)"
+          },
+          {
+            "Color": "0xb6dc6b",
+            "ID": "108905",
+            "Desc": "Candace N. Newell (DEM)"
+          }
+        ]
+      },
+      {
+        "ID": "57721",
+        "SpecificTitle": "State Representative -- 105th Representative District",
+        "GeneralTitle": "State Representative",
+        "OfficeLevel": "205",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "0",
+        "Choice": [
+          { "Color": "0x8970cb", "ID": "108856", "Desc": "Mack Cormier (DEM)" },
+          {
+            "Color": "0xb6dc6b",
+            "ID": "108857",
+            "Desc": "Christopher J. \"Chris\" Leopold (REP)"
+          }
+        ]
+      },
+      {
+        "ID": "57623",
+        "SpecificTitle": "District Judge -- 17th Judicial District Court, Division C",
+        "GeneralTitle": "District Judge",
+        "OfficeLevel": "210",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "0",
+        "Choice": [
+          { "Color": "0x8970cb", "ID": "108659", "Desc": "Marla Abel (REP)" },
+          {
+            "Color": "0xb6dc6b",
+            "ID": "108660",
+            "Desc": "Rene C. Gautreaux (IND)"
+          }
+        ]
+      },
+      {
+        "ID": "57624",
+        "SpecificTitle": "District Judge -- 19th Judicial District Court, ES 2, Div. L",
+        "GeneralTitle": "District Judge",
+        "OfficeLevel": "210",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "0",
+        "Choice": [
+          {
+            "Color": "0x8970cb",
+            "ID": "108661",
+            "Desc": "Ronald \"Ron\" Johnson (DEM)"
+          },
+          {
+            "Color": "0xb6dc6b",
+            "ID": "108662",
+            "Desc": "\"Trae\" Welch (REP)"
+          }
+        ]
+      },
+      {
+        "ID": "57625",
+        "SpecificTitle": "District Judge -- 21st Judicial District Court, Division D",
+        "GeneralTitle": "District Judge",
+        "OfficeLevel": "210",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "0",
+        "Choice": [
+          { "Color": "0x8970cb", "ID": "108663", "Desc": "Brian Abels (REP)" },
+          {
+            "Color": "0xb6dc6b",
+            "ID": "108664",
+            "Desc": "\"Ernie\" Drake (REP)"
+          }
+        ]
+      },
+      {
+        "ID": "57626",
+        "SpecificTitle": "District Judge -- 22nd Judicial District Court, Division F",
+        "GeneralTitle": "District Judge",
+        "OfficeLevel": "210",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "0",
+        "Choice": [
+          {
+            "Color": "0x8970cb",
+            "ID": "108665",
+            "Desc": "Harold Bartholomew, Jr. (REP)"
+          },
+          {
+            "Color": "0xb6dc6b",
+            "ID": "108666",
+            "Desc": "Vincent J. \"Vinny\" Lobello (REP)"
+          }
+        ]
+      },
+      {
+        "ID": "57619",
+        "SpecificTitle": "Councilman at Large -- City of DeRidder",
+        "GeneralTitle": "Alderman / City Council at Large",
+        "OfficeLevel": "308",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "0",
+        "Choice": [
+          {
+            "Color": "0x8970cb",
+            "ID": "108651",
+            "Desc": "Lydia Reynolds (REP)"
+          },
+          { "Color": "0xb6dc6b", "ID": "108652", "Desc": "Billy Spikes (DEM)" }
+        ]
+      },
+      {
+        "ID": "11564",
+        "SpecificTitle": "School District No. 22 -- $4M Bond - SB - 20 Yrs.",
+        "GeneralTitle": "Proposition",
+        "OfficeLevel": "999",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": "School District No. 22 Proposition\n(Bond)",
+        "FullText": "Shall School District No. 22 of the Parishes of Jefferson Davis and Allen, State of Louisiana (the \"District\"), incur debt and issue bonds to the amount of not exceeding $4,000,000, in one or more series, to run not exceeding 20 years from date thereof, with interest at a rate not exceeding 8% per annum, for the purpose of acquiring and/or improving lands for building sites and playgrounds, including construction of necessary sidewalks and streets adjacent thereto; purchasing, erecting and/or improving school buildings and other school related facilities within and for the District and acquiring the necessary equipment and furnishings therefor, title to which shall be in the public; which bonds will be general obligations of the District and will be payable from ad valorem taxes to be levied and collected in the manner provided by Article VI, Section 33 of the Constitution of the State of Louisiana of 1974 and statutory authority supplemental thereto, with an estimated increase of ten and twenty-three hundredths mills (10.23) to be levied in the first year of issue above the 13.77 mills currently being levied to pay General Obligation Bonds of the District?",
+        "IsClosedParty": "0",
+        "Choice": [
+          { "Color": "0x8970cb", "ID": "3", "Desc": "YES" },
+          { "Color": "0xb6dc6b", "ID": "4", "Desc": "NO" }
+        ]
+      },
+      {
+        "ID": "11645",
+        "SpecificTitle": "City of Shreveport Prop. No. 1 of 3 -- $32M Bond - CC - 20 Yrs.",
+        "GeneralTitle": "Proposition",
+        "OfficeLevel": "999",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": "City of Shreveport Proposition No. 1 of 3",
+        "FullText": "Shall the City of Shreveport, State of Louisiana (the \"City\"), (a) incur debt and issue bonds, in one or more series, not exceeding the amount of Thirty-Two Million Dollars ($32,000,000), to run twenty (20) years from date thereof, with interest at a rate or rates not exceeding nine per centum (9%) per annum, if taxable and not exceeding seven per centum (7%) per annum, if tax-exempt (the estimated millage rate to be levied in the first year of issue is 2.01 mills), for the purpose of constructing, acquiring, and/or improving the water and sewer system and appurtenances thereto, and acquiring the necessary land or rights therein, equipment and furnishings therefore, which bonds will be general obligations of the City and will be payable from ad valorem taxes to be levied and collected in the manner provided by Article VI, Section 33 of the Constitution of the State of Louisiana of 1974 and statutory authority supplemental thereto?",
+        "IsClosedParty": "0",
+        "Choice": [
+          { "Color": "0x8970cb", "ID": "3", "Desc": "YES" },
+          { "Color": "0xb6dc6b", "ID": "4", "Desc": "NO" }
+        ]
+      },
+      {
+        "ID": "11646",
+        "SpecificTitle": "City of Shreveport Prop. No. 2 of 3 -- $76.14M Bond - CC - 20 Yrs.",
+        "GeneralTitle": "Proposition",
+        "OfficeLevel": "999",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": "City of Shreveport Proposition No. 2 of 3",
+        "FullText": "Shall the City of Shreveport, State of Louisiana (the \"City\"), incur debt and issue bonds, in one or more series, not exceeding the amount of Seventy-Six Million One Hundred Forty Thousand Dollars ($76,140,000), to run twenty (20) years from date thereof, with interest at a rate or rates not exceeding nine per centum (9%) per annum, if taxable and not exceeding seven per centum (7%) per annum, if tax-exempt (the estimated millage rate to be levied in the first year of issue is 4.78 mills), for the purposes of constructing, acquiring, and improving public facilities and equipment for parks and recreations, public buildings, police department, fire department, and acquiring the necessary land or rights therein, equipment and furnishing therefore, which bonds will be general obligations of the City and will be payable from ad valorem taxes to be levied and collected in the manner provided by Article VI, Section 33 of the Constitution of the State of Louisiana of 1974 and statutory authority supplemental thereto?",
+        "IsClosedParty": "0",
+        "Choice": [
+          { "Color": "0x8970cb", "ID": "3", "Desc": "YES" },
+          { "Color": "0xb6dc6b", "ID": "4", "Desc": "NO" }
+        ]
+      },
+      {
+        "ID": "11647",
+        "SpecificTitle": "City of Shreveport Prop. No. 3 of 3 -- $77.86M Bond - CC - 20 Yrs.",
+        "GeneralTitle": "Proposition",
+        "OfficeLevel": "999",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": "City of Shreveport Proposition No. 3 of 3",
+        "FullText": "Shall the City of Shreveport, State of Louisiana (the \"City\"), incur debt and issue bonds, in one or more series, not exceeding the amount of Seventy-Seven Million Eight Hundred Sixty Thousand Dollars ($77,860,000), to run twenty (20) years from date thereof, with interest at a rate or rates not exceeding nine per centum (9%) per annum, if taxable and not exceeding seven per centum (7%) per annum, if tax-exempt (the estimated millage rate to be levied in the first year of issue is 4.89 mills), for the purpose of constructing, acquiring, and/or improving streets, highways, bridges, and drainage systems, and appurtenances thereto and acquiring the necessary land or rights therein, equipment and furnishings therefore, which bonds will be general obligations of the City and will be payable from ad valorem taxes to be levied and collected in the manner provided by Article VI, Section 33 of the Constitution of the State of Louisiana of 1974 and statutory authority supplemental thereto?",
+        "IsClosedParty": "0",
+        "Choice": [
+          { "Color": "0x8970cb", "ID": "3", "Desc": "YES" },
+          { "Color": "0xb6dc6b", "ID": "4", "Desc": "NO" }
+        ]
+      },
+      {
+        "ID": "11531",
+        "SpecificTitle": "Eunice Gravity Drainage District No. 9 -- 3.57 Mills Renewal - BOC - 10 Yrs.",
+        "GeneralTitle": "Proposition",
+        "OfficeLevel": "999",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": "Eunice Gravity Drainage District No. 9 Proposition\n(Millage Renewal)",
+        "FullText": "Shall Eunice Gravity Drainage District No. 9 of the Parishes of St. Landry and Evangeline, Louisiana (the \"District\"), levy a special tax of three and fifty-seven hundredths (3.57) mills on all the property subject to taxation in said District (an estimated $63,900 reasonably expected at this time to be collected from the levy of the tax for an entire year), for a period of ten (10) years, beginning with the year 2021 and ending with the year 2030, for the purpose of acquiring, constructing, improving, maintaining or operating drainage works within and for the District?",
+        "IsClosedParty": "0",
+        "Choice": [
+          { "Color": "0x8970cb", "ID": "3", "Desc": "YES" },
+          { "Color": "0xb6dc6b", "ID": "4", "Desc": "NO" }
+        ]
+      },
+      {
+        "ID": "11594",
+        "SpecificTitle": "Twin Parish Port District -- 4 Mills/1 Mill Renewal - TPPC - 10 Yrs.",
+        "GeneralTitle": "Proposition",
+        "OfficeLevel": "999",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": "Twin Parish Port District Proposition\n(Millage Renewal)",
+        "FullText": "Shall the Twin Parish Port District of the Parishes of Iberia and Vermilion, State of Louisiana (the \"District\"), be authorized to continue to levy (i) a tax of four (4) mills on all the property subject to taxation in the District, for a period of ten (10) years, beginning with the year 2020 and ending with the year 2029 (an estimated $149,200 reasonably expected at this time to be collected from the levy of the tax for an entire year), for the purpose of acquiring, constructing, improving, maintaining or operating an industrial park, waterfront developments, and community redevelopment projects throughout the District and (ii) a tax of one (1) mill on all the property subject to taxation in the District, beginning with the year 2020 and ending with the year 2029 (an estimated $37,300 reasonably expected at this time to be collected from the levy of the tax for an entire year), to provide for the general fund of the District?",
+        "IsClosedParty": "0",
+        "Choice": [
+          { "Color": "0x8970cb", "ID": "3", "Desc": "YES" },
+          { "Color": "0xb6dc6b", "ID": "4", "Desc": "NO" }
+        ]
+      }
+    ]
+  }
+}

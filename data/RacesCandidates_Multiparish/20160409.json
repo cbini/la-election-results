@@ -1,0 +1,74 @@
+{
+  "Races": {
+    "WriteTime": "2023-01-20T15:17:29.920",
+    "Race": [
+      {
+        "ID": "54224",
+        "SpecificTitle": "State Representative --  29th Representative District",
+        "GeneralTitle": "State Representative",
+        "OfficeLevel": "205",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "0",
+        "Choice": [
+          {
+            "Color": "0x8970cb",
+            "ID": "100901",
+            "Desc": "Tyra Banks Sterling (DEM)"
+          },
+          {
+            "Color": "0xb6dc6b",
+            "ID": "100899",
+            "Desc": "Edmond Jordan (DEM)"
+          },
+          {
+            "Color": "0xffec6c",
+            "ID": "100900",
+            "Desc": "Vereta T. Lee (DEM)"
+          },
+          { "Color": "0xff836b", "ID": "100903", "Desc": "Albert White (DEM)" },
+          {
+            "Color": "0xa20017",
+            "ID": "100902",
+            "Desc": "Victor Woods, Jr. (DEM)"
+          }
+        ]
+      },
+      {
+        "ID": "10313",
+        "SpecificTitle": "PW Caddo-Bossier Port Commission -- 2.5 Mills - BOC - 25 Yrs.",
+        "GeneralTitle": "Proposition",
+        "OfficeLevel": "999",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": "Parishwide Caddo-Bossier Parishes Port Commission Proposition\n(Millage Renewal)",
+        "FullText": "Shall the Caddo-Bossier Parishes Port Commission (the \"Commission\"), acting under the authority of Article VI, Sections 30 and 32 of the Louisiana Constitution of 1974, as amended, and Chapter 37 of Title 34 of the Louisiana Revised Statutes of 1950, as amended (the \"Act\"), and other constitutional and statutory authority, continue to levy a special tax of two and one-half (2-1/2) mills on all the property subject to taxation in the port area consisting of Caddo and Bossier Parishes (the \"Port Area\"), (an estimated $6,800,000 reasonably expected at this time to be collected from the levy of the tax for an entire year) for a period of twenty-five (25) years, commencing with the year 2018, for the purpose of site acquisition and for constructing, acquiring, improving and equipping docks and wharves, transfer and storage facilities, commercial and industrial facilities and other port, transportation and infrastructure facilities and improvements within the Port Area, as more fully described in the Act, title to which shall be in the public, and for paying the Commission's expenses of administering, maintaining, operating and marketing its facilities in the Port Area?",
+        "IsClosedParty": "0",
+        "Choice": [
+          { "Color": "0x8970cb", "ID": "3", "Desc": "YES" },
+          { "Color": "0xb6dc6b", "ID": "4", "Desc": "NO" }
+        ]
+      },
+      {
+        "ID": "10212",
+        "SpecificTitle": "PW Florida Parishes Juv. Justice Dist. -- 3 Mills - Fla. Par. Juv. Justice Comm. - 10 Yrs.",
+        "GeneralTitle": "Proposition",
+        "OfficeLevel": "999",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": "Florida Parishes Juvenile Justice District Proposition\n(Tax Continuation)",
+        "FullText": "Shall the Florida Parishes Juvenile Justice District (the \"District\"), continue to levy a special tax of three (3) mills on all the property subject to taxation in the District (an estimated $9,550,000 reasonably expected at this time to be collected from the levy of the tax for an entire year), for a period of ten (10) years, beginning with the year 2016 and ending with the year 2025, for the purpose of improving, maintaining and operating the Florida Parishes Juvenile Detention Center and acquiring, maintaining and operating necessary equipment and furnishings for said Center, said tax to be subject to homestead exemption as provided by law?",
+        "IsClosedParty": "0",
+        "Choice": [
+          { "Color": "0x8970cb", "ID": "3", "Desc": "YES" },
+          { "Color": "0xb6dc6b", "ID": "4", "Desc": "NO" }
+        ]
+      }
+    ]
+  }
+}

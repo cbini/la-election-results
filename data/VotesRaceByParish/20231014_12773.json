@@ -1,0 +1,711 @@
+{
+  "Parishes": {
+    "VersionDateTime": "1900-01-01T00:00:00",
+    "Parish": [
+      {
+        "ParishValue": "01",
+        "PrecinctsReporting": "47",
+        "PrecinctsExpected": "47",
+        "VoterCountQualified": "38752",
+        "VoterCountVoted": "0",
+        "Choice": [
+          { "ID": "3", "VoteTotal": "7436", "Outcome": "Approved" },
+          { "ID": "4", "VoteTotal": "6441", "Outcome": null }
+        ]
+      },
+      {
+        "ParishValue": "02",
+        "PrecinctsReporting": "34",
+        "PrecinctsExpected": "34",
+        "VoterCountQualified": "12471",
+        "VoterCountVoted": "0",
+        "Choice": [
+          { "ID": "3", "VoteTotal": "2518", "Outcome": "Approved" },
+          { "ID": "4", "VoteTotal": "1665", "Outcome": null }
+        ]
+      },
+      {
+        "ParishValue": "03",
+        "PrecinctsReporting": "72",
+        "PrecinctsExpected": "72",
+        "VoterCountQualified": "83001",
+        "VoterCountVoted": "0",
+        "Choice": [
+          { "ID": "3", "VoteTotal": "15893", "Outcome": "Approved" },
+          { "ID": "4", "VoteTotal": "12571", "Outcome": null }
+        ]
+      },
+      {
+        "ParishValue": "04",
+        "PrecinctsReporting": "30",
+        "PrecinctsExpected": "30",
+        "VoterCountQualified": "14460",
+        "VoterCountVoted": "0",
+        "Choice": [
+          { "ID": "3", "VoteTotal": "3252", "Outcome": "Approved" },
+          { "ID": "4", "VoteTotal": "2688", "Outcome": null }
+        ]
+      },
+      {
+        "ParishValue": "05",
+        "PrecinctsReporting": "56",
+        "PrecinctsExpected": "56",
+        "VoterCountQualified": "23613",
+        "VoterCountVoted": "0",
+        "Choice": [
+          { "ID": "3", "VoteTotal": "5326", "Outcome": "Approved" },
+          { "ID": "4", "VoteTotal": "3683", "Outcome": null }
+        ]
+      },
+      {
+        "ParishValue": "06",
+        "PrecinctsReporting": "37",
+        "PrecinctsExpected": "37",
+        "VoterCountQualified": "22926",
+        "VoterCountVoted": "0",
+        "Choice": [
+          { "ID": "3", "VoteTotal": "4260", "Outcome": "Approved" },
+          { "ID": "4", "VoteTotal": "2950", "Outcome": null }
+        ]
+      },
+      {
+        "ParishValue": "07",
+        "PrecinctsReporting": "35",
+        "PrecinctsExpected": "35",
+        "VoterCountQualified": "8842",
+        "VoterCountVoted": "0",
+        "Choice": [
+          { "ID": "3", "VoteTotal": "2219", "Outcome": "Approved" },
+          { "ID": "4", "VoteTotal": "1534", "Outcome": null }
+        ]
+      },
+      {
+        "ParishValue": "08",
+        "PrecinctsReporting": "85",
+        "PrecinctsExpected": "85",
+        "VoterCountQualified": "74231",
+        "VoterCountVoted": "0",
+        "Choice": [
+          { "ID": "3", "VoteTotal": "14062", "Outcome": "Approved" },
+          { "ID": "4", "VoteTotal": "7849", "Outcome": null }
+        ]
+      },
+      {
+        "ParishValue": "09",
+        "PrecinctsReporting": "157",
+        "PrecinctsExpected": "157",
+        "VoterCountQualified": "153895",
+        "VoterCountVoted": "0",
+        "Choice": [
+          { "ID": "3", "VoteTotal": "27034", "Outcome": "Approved" },
+          { "ID": "4", "VoteTotal": "16312", "Outcome": null }
+        ]
+      },
+      {
+        "ParishValue": "10",
+        "PrecinctsReporting": "123",
+        "PrecinctsExpected": "123",
+        "VoterCountQualified": "125167",
+        "VoterCountVoted": "0",
+        "Choice": [
+          { "ID": "3", "VoteTotal": "22449", "Outcome": "Approved" },
+          { "ID": "4", "VoteTotal": "17474", "Outcome": null }
+        ]
+      },
+      {
+        "ParishValue": "11",
+        "PrecinctsReporting": "28",
+        "PrecinctsExpected": "28",
+        "VoterCountQualified": "6069",
+        "VoterCountVoted": "0",
+        "Choice": [
+          { "ID": "3", "VoteTotal": "1771", "Outcome": "Approved" },
+          { "ID": "4", "VoteTotal": "1154", "Outcome": null }
+        ]
+      },
+      {
+        "ParishValue": "12",
+        "PrecinctsReporting": "11",
+        "PrecinctsExpected": "11",
+        "VoterCountQualified": "4878",
+        "VoterCountVoted": "0",
+        "Choice": [
+          { "ID": "3", "VoteTotal": "1574", "Outcome": "Approved" },
+          { "ID": "4", "VoteTotal": "964", "Outcome": null }
+        ]
+      },
+      {
+        "ParishValue": "13",
+        "PrecinctsReporting": "28",
+        "PrecinctsExpected": "28",
+        "VoterCountQualified": "6300",
+        "VoterCountVoted": "0",
+        "Choice": [
+          { "ID": "3", "VoteTotal": "1627", "Outcome": "Approved" },
+          { "ID": "4", "VoteTotal": "1283", "Outcome": null }
+        ]
+      },
+      {
+        "ParishValue": "14",
+        "PrecinctsReporting": "28",
+        "PrecinctsExpected": "28",
+        "VoterCountQualified": "8650",
+        "VoterCountVoted": "0",
+        "Choice": [
+          { "ID": "3", "VoteTotal": "2343", "Outcome": "Approved" },
+          { "ID": "4", "VoteTotal": "1576", "Outcome": null }
+        ]
+      },
+      {
+        "ParishValue": "15",
+        "PrecinctsReporting": "26",
+        "PrecinctsExpected": "26",
+        "VoterCountQualified": "12191",
+        "VoterCountVoted": "0",
+        "Choice": [
+          { "ID": "3", "VoteTotal": "2121", "Outcome": "Approved" },
+          { "ID": "4", "VoteTotal": "1858", "Outcome": null }
+        ]
+      },
+      {
+        "ParishValue": "16",
+        "PrecinctsReporting": "57",
+        "PrecinctsExpected": "57",
+        "VoterCountQualified": "18968",
+        "VoterCountVoted": "0",
+        "Choice": [
+          { "ID": "3", "VoteTotal": "5068", "Outcome": "Approved" },
+          { "ID": "4", "VoteTotal": "3024", "Outcome": null }
+        ]
+      },
+      {
+        "ParishValue": "17",
+        "PrecinctsReporting": "328",
+        "PrecinctsExpected": "328",
+        "VoterCountQualified": "285493",
+        "VoterCountVoted": "0",
+        "Choice": [
+          { "ID": "3", "VoteTotal": "46211", "Outcome": "Approved" },
+          { "ID": "4", "VoteTotal": "49248", "Outcome": null }
+        ]
+      },
+      {
+        "ParishValue": "18",
+        "PrecinctsReporting": "17",
+        "PrecinctsExpected": "17",
+        "VoterCountQualified": "4747",
+        "VoterCountVoted": "0",
+        "Choice": [
+          { "ID": "3", "VoteTotal": "821", "Outcome": "Approved" },
+          { "ID": "4", "VoteTotal": "603", "Outcome": null }
+        ]
+      },
+      {
+        "ParishValue": "19",
+        "PrecinctsReporting": "23",
+        "PrecinctsExpected": "23",
+        "VoterCountQualified": "13813",
+        "VoterCountVoted": "0",
+        "Choice": [
+          { "ID": "3", "VoteTotal": "3596", "Outcome": "Approved" },
+          { "ID": "4", "VoteTotal": "2535", "Outcome": null }
+        ]
+      },
+      {
+        "ParishValue": "20",
+        "PrecinctsReporting": "56",
+        "PrecinctsExpected": "56",
+        "VoterCountQualified": "21234",
+        "VoterCountVoted": "0",
+        "Choice": [
+          { "ID": "3", "VoteTotal": "3977", "Outcome": "Approved" },
+          { "ID": "4", "VoteTotal": "3386", "Outcome": null }
+        ]
+      },
+      {
+        "ParishValue": "21",
+        "PrecinctsReporting": "25",
+        "PrecinctsExpected": "25",
+        "VoterCountQualified": "13203",
+        "VoterCountVoted": "0",
+        "Choice": [
+          { "ID": "3", "VoteTotal": "2733", "Outcome": "Approved" },
+          { "ID": "4", "VoteTotal": "2415", "Outcome": null }
+        ]
+      },
+      {
+        "ParishValue": "22",
+        "PrecinctsReporting": "31",
+        "PrecinctsExpected": "31",
+        "VoterCountQualified": "12911",
+        "VoterCountVoted": "0",
+        "Choice": [
+          { "ID": "3", "VoteTotal": "3393", "Outcome": "Approved" },
+          { "ID": "4", "VoteTotal": "1724", "Outcome": null }
+        ]
+      },
+      {
+        "ParishValue": "23",
+        "PrecinctsReporting": "58",
+        "PrecinctsExpected": "58",
+        "VoterCountQualified": "45384",
+        "VoterCountVoted": "0",
+        "Choice": [
+          { "ID": "3", "VoteTotal": "9252", "Outcome": "Approved" },
+          { "ID": "4", "VoteTotal": "6459", "Outcome": null }
+        ]
+      },
+      {
+        "ParishValue": "24",
+        "PrecinctsReporting": "33",
+        "PrecinctsExpected": "33",
+        "VoterCountQualified": "21168",
+        "VoterCountVoted": "0",
+        "Choice": [
+          { "ID": "3", "VoteTotal": "5407", "Outcome": "Approved" },
+          { "ID": "4", "VoteTotal": "4839", "Outcome": null }
+        ]
+      },
+      {
+        "ParishValue": "25",
+        "PrecinctsReporting": "31",
+        "PrecinctsExpected": "31",
+        "VoterCountQualified": "9715",
+        "VoterCountVoted": "0",
+        "Choice": [
+          { "ID": "3", "VoteTotal": "2582", "Outcome": "Approved" },
+          { "ID": "4", "VoteTotal": "1805", "Outcome": null }
+        ]
+      },
+      {
+        "ParishValue": "26",
+        "PrecinctsReporting": "273",
+        "PrecinctsExpected": "273",
+        "VoterCountQualified": "269632",
+        "VoterCountVoted": "0",
+        "Choice": [
+          { "ID": "3", "VoteTotal": "47563", "Outcome": "Approved" },
+          { "ID": "4", "VoteTotal": "34187", "Outcome": null }
+        ]
+      },
+      {
+        "ParishValue": "27",
+        "PrecinctsReporting": "28",
+        "PrecinctsExpected": "28",
+        "VoterCountQualified": "20435",
+        "VoterCountVoted": "0",
+        "Choice": [
+          { "ID": "3", "VoteTotal": "4551", "Outcome": "Approved" },
+          { "ID": "4", "VoteTotal": "3153", "Outcome": null }
+        ]
+      },
+      {
+        "ParishValue": "28",
+        "PrecinctsReporting": "134",
+        "PrecinctsExpected": "134",
+        "VoterCountQualified": "157431",
+        "VoterCountVoted": "0",
+        "Choice": [
+          { "ID": "3", "VoteTotal": "30633", "Outcome": "Approved" },
+          { "ID": "4", "VoteTotal": "23612", "Outcome": null }
+        ]
+      },
+      {
+        "ParishValue": "29",
+        "PrecinctsReporting": "72",
+        "PrecinctsExpected": "72",
+        "VoterCountQualified": "59093",
+        "VoterCountVoted": "0",
+        "Choice": [
+          { "ID": "3", "VoteTotal": "11133", "Outcome": "Approved" },
+          { "ID": "4", "VoteTotal": "8791", "Outcome": null }
+        ]
+      },
+      {
+        "ParishValue": "30",
+        "PrecinctsReporting": "26",
+        "PrecinctsExpected": "26",
+        "VoterCountQualified": "8736",
+        "VoterCountVoted": "0",
+        "Choice": [
+          { "ID": "3", "VoteTotal": "3059", "Outcome": "Approved" },
+          { "ID": "4", "VoteTotal": "1671", "Outcome": null }
+        ]
+      },
+      {
+        "ParishValue": "31",
+        "PrecinctsReporting": "50",
+        "PrecinctsExpected": "50",
+        "VoterCountQualified": "26720",
+        "VoterCountVoted": "0",
+        "Choice": [
+          { "ID": "3", "VoteTotal": "4666", "Outcome": "Approved" },
+          { "ID": "4", "VoteTotal": "3076", "Outcome": null }
+        ]
+      },
+      {
+        "ParishValue": "32",
+        "PrecinctsReporting": "79",
+        "PrecinctsExpected": "79",
+        "VoterCountQualified": "85952",
+        "VoterCountVoted": "0",
+        "Choice": [
+          { "ID": "3", "VoteTotal": "19191", "Outcome": "Approved" },
+          { "ID": "4", "VoteTotal": "14546", "Outcome": null }
+        ]
+      },
+      {
+        "ParishValue": "33",
+        "PrecinctsReporting": "27",
+        "PrecinctsExpected": "27",
+        "VoterCountQualified": "7383",
+        "VoterCountVoted": "0",
+        "Choice": [
+          { "ID": "3", "VoteTotal": "1393", "Outcome": "Approved" },
+          { "ID": "4", "VoteTotal": "1271", "Outcome": null }
+        ]
+      },
+      {
+        "ParishValue": "34",
+        "PrecinctsReporting": "40",
+        "PrecinctsExpected": "40",
+        "VoterCountQualified": "17182",
+        "VoterCountVoted": "0",
+        "Choice": [
+          { "ID": "3", "VoteTotal": "2803", "Outcome": "Approved" },
+          { "ID": "4", "VoteTotal": "2526", "Outcome": null }
+        ]
+      },
+      {
+        "ParishValue": "35",
+        "PrecinctsReporting": "50",
+        "PrecinctsExpected": "50",
+        "VoterCountQualified": "23343",
+        "VoterCountVoted": "0",
+        "Choice": [
+          { "ID": "3", "VoteTotal": "5151", "Outcome": "Approved" },
+          { "ID": "4", "VoteTotal": "3436", "Outcome": null }
+        ]
+      },
+      {
+        "ParishValue": "36",
+        "PrecinctsReporting": "351",
+        "PrecinctsExpected": "351",
+        "VoterCountQualified": "264018",
+        "VoterCountVoted": "0",
+        "Choice": [
+          { "ID": "3", "VoteTotal": "29627", "Outcome": "Approved" },
+          { "ID": "4", "VoteTotal": "36620", "Outcome": null }
+        ]
+      },
+      {
+        "ParishValue": "37",
+        "PrecinctsReporting": "87",
+        "PrecinctsExpected": "87",
+        "VoterCountQualified": "102604",
+        "VoterCountVoted": "0",
+        "Choice": [
+          { "ID": "3", "VoteTotal": "15835", "Outcome": "Approved" },
+          { "ID": "4", "VoteTotal": "12672", "Outcome": null }
+        ]
+      },
+      {
+        "ParishValue": "38",
+        "PrecinctsReporting": "21",
+        "PrecinctsExpected": "21",
+        "VoterCountQualified": "14343",
+        "VoterCountVoted": "0",
+        "Choice": [
+          { "ID": "3", "VoteTotal": "3157", "Outcome": "Approved" },
+          { "ID": "4", "VoteTotal": "2283", "Outcome": null }
+        ]
+      },
+      {
+        "ParishValue": "39",
+        "PrecinctsReporting": "27",
+        "PrecinctsExpected": "27",
+        "VoterCountQualified": "15266",
+        "VoterCountVoted": "0",
+        "Choice": [
+          { "ID": "3", "VoteTotal": "3979", "Outcome": "Approved" },
+          { "ID": "4", "VoteTotal": "3070", "Outcome": null }
+        ]
+      },
+      {
+        "ParishValue": "40",
+        "PrecinctsReporting": "113",
+        "PrecinctsExpected": "113",
+        "VoterCountQualified": "80787",
+        "VoterCountVoted": "0",
+        "Choice": [
+          { "ID": "3", "VoteTotal": "17876", "Outcome": "Approved" },
+          { "ID": "4", "VoteTotal": "10822", "Outcome": null }
+        ]
+      },
+      {
+        "ParishValue": "41",
+        "PrecinctsReporting": "18",
+        "PrecinctsExpected": "18",
+        "VoterCountQualified": "5591",
+        "VoterCountVoted": "0",
+        "Choice": [
+          { "ID": "3", "VoteTotal": "1128", "Outcome": "Approved" },
+          { "ID": "4", "VoteTotal": "811", "Outcome": null }
+        ]
+      },
+      {
+        "ParishValue": "42",
+        "PrecinctsReporting": "25",
+        "PrecinctsExpected": "25",
+        "VoterCountQualified": "13864",
+        "VoterCountVoted": "0",
+        "Choice": [
+          { "ID": "3", "VoteTotal": "2677", "Outcome": "Approved" },
+          { "ID": "4", "VoteTotal": "2201", "Outcome": null }
+        ]
+      },
+      {
+        "ParishValue": "43",
+        "PrecinctsReporting": "32",
+        "PrecinctsExpected": "32",
+        "VoterCountQualified": "14502",
+        "VoterCountVoted": "0",
+        "Choice": [
+          { "ID": "3", "VoteTotal": "3523", "Outcome": "Approved" },
+          { "ID": "4", "VoteTotal": "2505", "Outcome": null }
+        ]
+      },
+      {
+        "ParishValue": "44",
+        "PrecinctsReporting": "31",
+        "PrecinctsExpected": "31",
+        "VoterCountQualified": "26611",
+        "VoterCountVoted": "0",
+        "Choice": [
+          { "ID": "3", "VoteTotal": "5837", "Outcome": "Approved" },
+          { "ID": "4", "VoteTotal": "3748", "Outcome": null }
+        ]
+      },
+      {
+        "ParishValue": "45",
+        "PrecinctsReporting": "44",
+        "PrecinctsExpected": "44",
+        "VoterCountQualified": "35694",
+        "VoterCountVoted": "0",
+        "Choice": [
+          { "ID": "3", "VoteTotal": "7971", "Outcome": "Approved" },
+          { "ID": "4", "VoteTotal": "5346", "Outcome": null }
+        ]
+      },
+      {
+        "ParishValue": "46",
+        "PrecinctsReporting": "11",
+        "PrecinctsExpected": "11",
+        "VoterCountQualified": "8513",
+        "VoterCountVoted": "0",
+        "Choice": [
+          { "ID": "3", "VoteTotal": "2419", "Outcome": "Approved" },
+          { "ID": "4", "VoteTotal": "1673", "Outcome": null }
+        ]
+      },
+      {
+        "ParishValue": "47",
+        "PrecinctsReporting": "20",
+        "PrecinctsExpected": "20",
+        "VoterCountQualified": "15129",
+        "VoterCountVoted": "0",
+        "Choice": [
+          { "ID": "3", "VoteTotal": "4505", "Outcome": "Approved" },
+          { "ID": "4", "VoteTotal": "3377", "Outcome": null }
+        ]
+      },
+      {
+        "ParishValue": "48",
+        "PrecinctsReporting": "36",
+        "PrecinctsExpected": "36",
+        "VoterCountQualified": "29003",
+        "VoterCountVoted": "0",
+        "Choice": [
+          { "ID": "3", "VoteTotal": "5492", "Outcome": "Approved" },
+          { "ID": "4", "VoteTotal": "4122", "Outcome": null }
+        ]
+      },
+      {
+        "ParishValue": "49",
+        "PrecinctsReporting": "91",
+        "PrecinctsExpected": "91",
+        "VoterCountQualified": "57454",
+        "VoterCountVoted": "0",
+        "Choice": [
+          { "ID": "3", "VoteTotal": "9312", "Outcome": "Approved" },
+          { "ID": "4", "VoteTotal": "8401", "Outcome": null }
+        ]
+      },
+      {
+        "ParishValue": "50",
+        "PrecinctsReporting": "43",
+        "PrecinctsExpected": "43",
+        "VoterCountQualified": "36546",
+        "VoterCountVoted": "0",
+        "Choice": [
+          { "ID": "3", "VoteTotal": "7551", "Outcome": "Approved" },
+          { "ID": "4", "VoteTotal": "6351", "Outcome": null }
+        ]
+      },
+      {
+        "ParishValue": "51",
+        "PrecinctsReporting": "46",
+        "PrecinctsExpected": "46",
+        "VoterCountQualified": "31623",
+        "VoterCountVoted": "0",
+        "Choice": [
+          { "ID": "3", "VoteTotal": "6191", "Outcome": "Approved" },
+          { "ID": "4", "VoteTotal": "4664", "Outcome": null }
+        ]
+      },
+      {
+        "ParishValue": "52",
+        "PrecinctsReporting": "170",
+        "PrecinctsExpected": "170",
+        "VoterCountQualified": "187224",
+        "VoterCountVoted": "0",
+        "Choice": [
+          { "ID": "3", "VoteTotal": "36920", "Outcome": "Approved" },
+          { "ID": "4", "VoteTotal": "26887", "Outcome": null }
+        ]
+      },
+      {
+        "ParishValue": "53",
+        "PrecinctsReporting": "74",
+        "PrecinctsExpected": "74",
+        "VoterCountQualified": "78358",
+        "VoterCountVoted": "0",
+        "Choice": [
+          { "ID": "3", "VoteTotal": "16721", "Outcome": "Approved" },
+          { "ID": "4", "VoteTotal": "10926", "Outcome": null }
+        ]
+      },
+      {
+        "ParishValue": "54",
+        "PrecinctsReporting": "18",
+        "PrecinctsExpected": "18",
+        "VoterCountQualified": "3520",
+        "VoterCountVoted": "0",
+        "Choice": [
+          { "ID": "3", "VoteTotal": "972", "Outcome": "Approved" },
+          { "ID": "4", "VoteTotal": "840", "Outcome": null }
+        ]
+      },
+      {
+        "ParishValue": "55",
+        "PrecinctsReporting": "78",
+        "PrecinctsExpected": "78",
+        "VoterCountQualified": "61857",
+        "VoterCountVoted": "0",
+        "Choice": [
+          { "ID": "3", "VoteTotal": "11597", "Outcome": "Approved" },
+          { "ID": "4", "VoteTotal": "8641", "Outcome": null }
+        ]
+      },
+      {
+        "ParishValue": "56",
+        "PrecinctsReporting": "33",
+        "PrecinctsExpected": "33",
+        "VoterCountQualified": "15476",
+        "VoterCountVoted": "0",
+        "Choice": [
+          { "ID": "3", "VoteTotal": "3926", "Outcome": "Approved" },
+          { "ID": "4", "VoteTotal": "2389", "Outcome": null }
+        ]
+      },
+      {
+        "ParishValue": "57",
+        "PrecinctsReporting": "66",
+        "PrecinctsExpected": "66",
+        "VoterCountQualified": "37811",
+        "VoterCountVoted": "0",
+        "Choice": [
+          { "ID": "3", "VoteTotal": "8296", "Outcome": "Approved" },
+          { "ID": "4", "VoteTotal": "6841", "Outcome": null }
+        ]
+      },
+      {
+        "ParishValue": "58",
+        "PrecinctsReporting": "60",
+        "PrecinctsExpected": "60",
+        "VoterCountQualified": "24888",
+        "VoterCountVoted": "0",
+        "Choice": [
+          { "ID": "3", "VoteTotal": "5179", "Outcome": "Approved" },
+          { "ID": "4", "VoteTotal": "2892", "Outcome": null }
+        ]
+      },
+      {
+        "ParishValue": "59",
+        "PrecinctsReporting": "41",
+        "PrecinctsExpected": "41",
+        "VoterCountQualified": "28121",
+        "VoterCountVoted": "0",
+        "Choice": [
+          { "ID": "3", "VoteTotal": "6684", "Outcome": "Approved" },
+          { "ID": "4", "VoteTotal": "4769", "Outcome": null }
+        ]
+      },
+      {
+        "ParishValue": "60",
+        "PrecinctsReporting": "49",
+        "PrecinctsExpected": "49",
+        "VoterCountQualified": "23056",
+        "VoterCountVoted": "0",
+        "Choice": [
+          { "ID": "3", "VoteTotal": "4510", "Outcome": "Approved" },
+          { "ID": "4", "VoteTotal": "2801", "Outcome": null }
+        ]
+      },
+      {
+        "ParishValue": "61",
+        "PrecinctsReporting": "30",
+        "PrecinctsExpected": "30",
+        "VoterCountQualified": "17615",
+        "VoterCountVoted": "0",
+        "Choice": [
+          { "ID": "3", "VoteTotal": "4990", "Outcome": "Approved" },
+          { "ID": "4", "VoteTotal": "4330", "Outcome": null }
+        ]
+      },
+      {
+        "ParishValue": "62",
+        "PrecinctsReporting": "23",
+        "PrecinctsExpected": "23",
+        "VoterCountQualified": "7018",
+        "VoterCountVoted": "0",
+        "Choice": [
+          { "ID": "3", "VoteTotal": "1383", "Outcome": "Approved" },
+          { "ID": "4", "VoteTotal": "860", "Outcome": null }
+        ]
+      },
+      {
+        "ParishValue": "63",
+        "PrecinctsReporting": "30",
+        "PrecinctsExpected": "30",
+        "VoterCountQualified": "7786",
+        "VoterCountVoted": "0",
+        "Choice": [
+          { "ID": "3", "VoteTotal": "1741", "Outcome": "Approved" },
+          { "ID": "4", "VoteTotal": "1794", "Outcome": null }
+        ]
+      },
+      {
+        "ParishValue": "64",
+        "PrecinctsReporting": "26",
+        "PrecinctsExpected": "26",
+        "VoterCountQualified": "8417",
+        "VoterCountVoted": "0",
+        "Choice": [
+          { "ID": "3", "VoteTotal": "2470", "Outcome": "Approved" },
+          { "ID": "4", "VoteTotal": "1773", "Outcome": null }
+        ]
+      }
+    ]
+  }
+}

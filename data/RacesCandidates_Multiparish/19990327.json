@@ -1,0 +1,225 @@
+{
+  "Races": {
+    "WriteTime": "2023-01-20T16:08:07.047",
+    "Race": [
+      {
+        "ID": "19741",
+        "SpecificTitle": "Judge, Court of Appeal -- 4th Circuit, 1st District, Division E",
+        "GeneralTitle": "Judge of a Court of Appeal",
+        "OfficeLevel": "155",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "0",
+        "Choice": [
+          {
+            "Color": "0x8970cb",
+            "ID": "38769",
+            "Desc": "Robert \"Bobby\" Katz (DEM)"
+          },
+          {
+            "Color": "0xb6dc6b",
+            "ID": "38770",
+            "Desc": "Avis Marie Russell (DEM)"
+          }
+        ]
+      },
+      {
+        "ID": "20769",
+        "SpecificTitle": "State Representative --  75th Representative District",
+        "GeneralTitle": "State Representative",
+        "OfficeLevel": "205",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "0",
+        "Choice": [
+          { "Color": "0x8970cb", "ID": "41092", "Desc": "Robert Crain (DEM)" },
+          { "Color": "0xb6dc6b", "ID": "41093", "Desc": "Bill McGehee (REP)" },
+          {
+            "Color": "0xffec6c",
+            "ID": "41094",
+            "Desc": "\"Chuck\" Nassauer (DEM)"
+          },
+          { "Color": "0xff836b", "ID": "41095", "Desc": "Ben W. Nevers (DEM)" }
+        ]
+      },
+      {
+        "ID": "20762",
+        "SpecificTitle": "State Representative --  81st Representative District",
+        "GeneralTitle": "State Representative",
+        "OfficeLevel": "205",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "0",
+        "Choice": [
+          {
+            "Color": "0x8970cb",
+            "ID": "41066",
+            "Desc": "Susan Bernecker (REP)"
+          },
+          { "Color": "0xb6dc6b", "ID": "41067", "Desc": "Paul Brannon (REP)" },
+          {
+            "Color": "0xffec6c",
+            "ID": "41068",
+            "Desc": "Donald Clausing (DEM)"
+          },
+          {
+            "Color": "0xff836b",
+            "ID": "41069",
+            "Desc": "Mitchell W. \"Mitch\" Gibbs (REP)"
+          },
+          {
+            "Color": "0xa20017",
+            "ID": "41070",
+            "Desc": "Edward Gleason (REP)"
+          },
+          {
+            "Color": "0x81b1d5",
+            "ID": "41071",
+            "Desc": "Bruce C. Kincade (OTHER)"
+          },
+          {
+            "Color": "0x009899",
+            "ID": "41072",
+            "Desc": "William \"Billy\" Kraus (REP)"
+          },
+          {
+            "Color": "0xed1b24",
+            "ID": "41073",
+            "Desc": "John \"Spud\" McConnell (REP)"
+          },
+          { "Color": "0x2db04a", "ID": "41074", "Desc": "Roy Raspanti (REP)" },
+          {
+            "Color": "0x02538a",
+            "ID": "41075",
+            "Desc": "Crawford \"C. A.\" Rose (REP)"
+          },
+          {
+            "Color": "0x642a7f",
+            "ID": "41076",
+            "Desc": "Eric F. Skrmetta (REP)"
+          },
+          {
+            "Color": "0xf15a25",
+            "ID": "41077",
+            "Desc": "\"Ben\" Slater (REP)"
+          },
+          {
+            "Color": "0xa67c52",
+            "ID": "41078",
+            "Desc": "Jennifer Sneed (REP)"
+          },
+          { "Color": "0xffcc06", "ID": "41079", "Desc": "\"Kathy\" Vogt (REP)" }
+        ]
+      },
+      {
+        "ID": "20780",
+        "SpecificTitle": "State Representative -- 105th Representative District",
+        "GeneralTitle": "State Representative",
+        "OfficeLevel": "205",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "0",
+        "Choice": [
+          { "Color": "0x8970cb", "ID": "41121", "Desc": "Jerry Hodnett (DEM)" },
+          {
+            "Color": "0xb6dc6b",
+            "ID": "41122",
+            "Desc": "Ernest D. Wooton (DEM)"
+          }
+        ]
+      },
+      {
+        "ID": "19736",
+        "SpecificTitle": "District Judge --  4th JDC, Election Section 2, Division A",
+        "GeneralTitle": "District Judge",
+        "OfficeLevel": "210",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "0",
+        "Choice": [
+          {
+            "Color": "0x8970cb",
+            "ID": "38760",
+            "Desc": "Jimmy N. Dimos (DEM)"
+          },
+          {
+            "Color": "0xb6dc6b",
+            "ID": "38761",
+            "Desc": "Marshall Sanson (REP)"
+          }
+        ]
+      },
+      {
+        "ID": "19728",
+        "SpecificTitle": "District Judge -- 24th JDC, Election Section 1, Division O",
+        "GeneralTitle": "District Judge",
+        "OfficeLevel": "210",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "0",
+        "Choice": [
+          {
+            "Color": "0x8970cb",
+            "ID": "38737",
+            "Desc": "James K. \"Jim\" Gaudet (REP)"
+          },
+          {
+            "Color": "0xb6dc6b",
+            "ID": "38738",
+            "Desc": "\"Herb\" Gautreaux (DEM)"
+          },
+          { "Color": "0xffec6c", "ID": "38739", "Desc": "Ross LaDart (REP)" },
+          {
+            "Color": "0xff836b",
+            "ID": "38740",
+            "Desc": "Joseph Marino (OTHER)"
+          },
+          { "Color": "0xa20017", "ID": "38741", "Desc": "Caren Morgan (DEM)" },
+          { "Color": "0x81b1d5", "ID": "38742", "Desc": "Leo Palazzo (REP)" }
+        ]
+      },
+      {
+        "ID": "19726",
+        "SpecificTitle": "District Judge -- 24th JDC, Election Section 2, Division N",
+        "GeneralTitle": "District Judge",
+        "OfficeLevel": "210",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "0",
+        "Choice": [
+          {
+            "Color": "0x8970cb",
+            "ID": "38732",
+            "Desc": "Ronald D. Bodenheimer (REP)"
+          },
+          {
+            "Color": "0xb6dc6b",
+            "ID": "38733",
+            "Desc": "\"Jim\" Donelon (REP)"
+          }
+        ]
+      }
+    ]
+  }
+}

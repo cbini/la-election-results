@@ -1,0 +1,639 @@
+{
+  "Races": {
+    "WriteTime": "2023-01-20T16:05:09.330",
+    "Race": [
+      {
+        "ID": "22524",
+        "SpecificTitle": "Commissioner -- Insurance",
+        "GeneralTitle": "Commissioner of Insurance",
+        "OfficeLevel": "130",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "0",
+        "Choice": [
+          {
+            "Color": "0x8970cb",
+            "ID": "43007",
+            "Desc": "Allen Boudreaux (REP)"
+          },
+          { "Color": "0xb6dc6b", "ID": "43008", "Desc": "\"Jim\" Brown (DEM)" }
+        ]
+      },
+      {
+        "ID": "22525",
+        "SpecificTitle": "Commissioner -- Elections",
+        "GeneralTitle": "Commissioner of Elections",
+        "OfficeLevel": "135",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "0",
+        "Choice": [
+          {
+            "Color": "0x8970cb",
+            "ID": "43009",
+            "Desc": "Louis \"Woody\" Jenkins (REP)"
+          },
+          {
+            "Color": "0xb6dc6b",
+            "ID": "43010",
+            "Desc": "Suzanne Haik Terrell (REP)"
+          }
+        ]
+      },
+      {
+        "ID": "22526",
+        "SpecificTitle": "BESE -- 6th District",
+        "GeneralTitle": "State Board or Commission Member",
+        "OfficeLevel": "165",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "0",
+        "Choice": [
+          {
+            "Color": "0x8970cb",
+            "ID": "43011",
+            "Desc": "Elizabeth Dent (REP)"
+          },
+          {
+            "Color": "0xb6dc6b",
+            "ID": "43012",
+            "Desc": "Richard Musemeche (DEM)"
+          }
+        ]
+      },
+      {
+        "ID": "22527",
+        "SpecificTitle": "State Senator --  1st Senatorial District",
+        "GeneralTitle": "State Senator",
+        "OfficeLevel": "200",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "0",
+        "Choice": [
+          { "Color": "0x8970cb", "ID": "43013", "Desc": "Lynn Dean (REP)" },
+          {
+            "Color": "0xb6dc6b",
+            "ID": "43014",
+            "Desc": "Diana B. Dysart (DEM)"
+          }
+        ]
+      },
+      {
+        "ID": "22528",
+        "SpecificTitle": "State Senator --  2nd Senatorial District",
+        "GeneralTitle": "State Senator",
+        "OfficeLevel": "200",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "0",
+        "Choice": [
+          {
+            "Color": "0x8970cb",
+            "ID": "43015",
+            "Desc": "Louis Charbonnet (DEM)"
+          },
+          { "Color": "0xb6dc6b", "ID": "43016", "Desc": "Jon D. Johnson (DEM)" }
+        ]
+      },
+      {
+        "ID": "22529",
+        "SpecificTitle": "State Senator -- 17th Senatorial District",
+        "GeneralTitle": "State Senator",
+        "OfficeLevel": "200",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "0",
+        "Choice": [
+          { "Color": "0x8970cb", "ID": "43017", "Desc": "Tim Johnson (REP)" },
+          {
+            "Color": "0xb6dc6b",
+            "ID": "43018",
+            "Desc": "Robert \"Rob\" Marionneaux, Jr. (DEM)"
+          }
+        ]
+      },
+      {
+        "ID": "22530",
+        "SpecificTitle": "State Senator -- 37th Senatorial District",
+        "GeneralTitle": "State Senator",
+        "OfficeLevel": "200",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "0",
+        "Choice": [
+          { "Color": "0x8970cb", "ID": "43019", "Desc": "Max T. Malone (REP)" },
+          {
+            "Color": "0xb6dc6b",
+            "ID": "43020",
+            "Desc": "Donald \"Don\" M. Pierson, Jr. (DEM)"
+          }
+        ]
+      },
+      {
+        "ID": "22531",
+        "SpecificTitle": "State Representative --   2nd Representative District",
+        "GeneralTitle": "State Representative",
+        "OfficeLevel": "205",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "0",
+        "Choice": [
+          {
+            "Color": "0x8970cb",
+            "ID": "43021",
+            "Desc": "Willie Bradford (DEM)"
+          },
+          {
+            "Color": "0xb6dc6b",
+            "ID": "43022",
+            "Desc": "Lydia P. Jackson (DEM)"
+          }
+        ]
+      },
+      {
+        "ID": "22533",
+        "SpecificTitle": "State Representative --  27th Representative District",
+        "GeneralTitle": "State Representative",
+        "OfficeLevel": "205",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "0",
+        "Choice": [
+          { "Color": "0x8970cb", "ID": "43025", "Desc": "Rick Farrar (DEM)" },
+          {
+            "Color": "0xb6dc6b",
+            "ID": "43026",
+            "Desc": "Randy Tannehill (REP)"
+          }
+        ]
+      },
+      {
+        "ID": "22534",
+        "SpecificTitle": "State Representative --  39th Representative District",
+        "GeneralTitle": "State Representative",
+        "OfficeLevel": "205",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "0",
+        "Choice": [
+          { "Color": "0x8970cb", "ID": "43027", "Desc": "Tommy Angelle (DEM)" },
+          {
+            "Color": "0xb6dc6b",
+            "ID": "43028",
+            "Desc": "Clara Guilbeau Baudoin (DEM)"
+          }
+        ]
+      },
+      {
+        "ID": "22535",
+        "SpecificTitle": "State Representative --  43rd Representative District",
+        "GeneralTitle": "State Representative",
+        "OfficeLevel": "205",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "0",
+        "Choice": [
+          {
+            "Color": "0x8970cb",
+            "ID": "43029",
+            "Desc": "\"Ernie\" Alexander (REP)"
+          },
+          {
+            "Color": "0xb6dc6b",
+            "ID": "43030",
+            "Desc": "Ross Little, Jr. (REP)"
+          }
+        ]
+      },
+      {
+        "ID": "22536",
+        "SpecificTitle": "State Representative --  51st Representative District",
+        "GeneralTitle": "State Representative",
+        "OfficeLevel": "205",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "0",
+        "Choice": [
+          {
+            "Color": "0x8970cb",
+            "ID": "43031",
+            "Desc": "Carla Blanchard Dartez (DEM)"
+          },
+          {
+            "Color": "0xb6dc6b",
+            "ID": "43032",
+            "Desc": "Michael J. McIntire (DEM)"
+          }
+        ]
+      },
+      {
+        "ID": "22537",
+        "SpecificTitle": "State Representative --  56th Representative District",
+        "GeneralTitle": "State Representative",
+        "OfficeLevel": "205",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "0",
+        "Choice": [
+          {
+            "Color": "0x8970cb",
+            "ID": "43033",
+            "Desc": "Brian Champagne (DEM)"
+          },
+          {
+            "Color": "0xb6dc6b",
+            "ID": "43034",
+            "Desc": "Gary L. Smith, Jr. (DEM)"
+          }
+        ]
+      },
+      {
+        "ID": "22538",
+        "SpecificTitle": "State Representative --  60th Representative District",
+        "GeneralTitle": "State Representative",
+        "OfficeLevel": "205",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "0",
+        "Choice": [
+          {
+            "Color": "0x8970cb",
+            "ID": "43035",
+            "Desc": "Emma Devillier (DEM)"
+          },
+          {
+            "Color": "0xb6dc6b",
+            "ID": "43036",
+            "Desc": "Audrey A. McCain (DEM)"
+          }
+        ]
+      },
+      {
+        "ID": "22539",
+        "SpecificTitle": "State Representative --  71st Representative District",
+        "GeneralTitle": "State Representative",
+        "OfficeLevel": "205",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "0",
+        "Choice": [
+          {
+            "Color": "0x8970cb",
+            "ID": "43037",
+            "Desc": "Kathleen Dawkins (DEM)"
+          },
+          { "Color": "0xb6dc6b", "ID": "43038", "Desc": "Dale Erdey (REP)" }
+        ]
+      },
+      {
+        "ID": "22540",
+        "SpecificTitle": "State Representative --  76th Representative District",
+        "GeneralTitle": "State Representative",
+        "OfficeLevel": "205",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "0",
+        "Choice": [
+          { "Color": "0x8970cb", "ID": "43039", "Desc": "A. G. Crowe (REP)" },
+          {
+            "Color": "0xb6dc6b",
+            "ID": "43040",
+            "Desc": "Suzanne Mayfield Krieger (REP)"
+          }
+        ]
+      },
+      {
+        "ID": "22541",
+        "SpecificTitle": "State Representative --  93rd Representative District",
+        "GeneralTitle": "State Representative",
+        "OfficeLevel": "205",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "0",
+        "Choice": [
+          {
+            "Color": "0x8970cb",
+            "ID": "43041",
+            "Desc": "Larry Bagneris, Jr. (DEM)"
+          },
+          {
+            "Color": "0xb6dc6b",
+            "ID": "43042",
+            "Desc": "Karen R. Carter (DEM)"
+          }
+        ]
+      },
+      {
+        "ID": "22542",
+        "SpecificTitle": "State Representative --  99th Representative District",
+        "GeneralTitle": "State Representative",
+        "OfficeLevel": "205",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "0",
+        "Choice": [
+          {
+            "Color": "0x8970cb",
+            "ID": "43043",
+            "Desc": "Sherman Copelin (DEM)"
+          },
+          {
+            "Color": "0xb6dc6b",
+            "ID": "43044",
+            "Desc": "Leonard Lucas, Jr. (DEM)"
+          }
+        ]
+      },
+      {
+        "ID": "22543",
+        "SpecificTitle": "State Representative -- 101st Representative District",
+        "GeneralTitle": "State Representative",
+        "OfficeLevel": "205",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "0",
+        "Choice": [
+          {
+            "Color": "0x8970cb",
+            "ID": "43045",
+            "Desc": "Cedric Richmond (DEM)"
+          },
+          { "Color": "0xb6dc6b", "ID": "43046", "Desc": "Eddie Scott (DEM)" }
+        ]
+      },
+      {
+        "ID": "22546",
+        "SpecificTitle": "District Judge -- 10th JDC, Division A",
+        "GeneralTitle": "District Judge",
+        "OfficeLevel": "210",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "0",
+        "Choice": [
+          {
+            "Color": "0x8970cb",
+            "ID": "43051",
+            "Desc": "Richard deVargas (DEM)"
+          },
+          {
+            "Color": "0xb6dc6b",
+            "ID": "43052",
+            "Desc": "\"Rick\" Harrington (DEM)"
+          }
+        ]
+      },
+      {
+        "ID": "22548",
+        "SpecificTitle": "District Judge -- 14th JDC, Division I",
+        "GeneralTitle": "District Judge",
+        "OfficeLevel": "210",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "0",
+        "Choice": [
+          {
+            "Color": "0x8970cb",
+            "ID": "43055",
+            "Desc": "\"Mike\" Canaday (DEM)"
+          },
+          { "Color": "0xb6dc6b", "ID": "43056", "Desc": "Lilynn Cutrer (DEM)" }
+        ]
+      },
+      {
+        "ID": "22544",
+        "SpecificTitle": "District Judge -- 32nd JDC, Division D",
+        "GeneralTitle": "District Judge",
+        "OfficeLevel": "210",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "0",
+        "Choice": [
+          {
+            "Color": "0x8970cb",
+            "ID": "43047",
+            "Desc": "David Arceneaux (REP)"
+          },
+          {
+            "Color": "0xb6dc6b",
+            "ID": "43048",
+            "Desc": "Vincent Dagate, Jr. (DEM)"
+          }
+        ]
+      },
+      {
+        "ID": "22545",
+        "SpecificTitle": "District Judge -- 34th JDC, Division C",
+        "GeneralTitle": "District Judge",
+        "OfficeLevel": "210",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "0",
+        "Choice": [
+          { "Color": "0x8970cb", "ID": "43049", "Desc": "Wayne Cresap (DEM)" },
+          { "Color": "0xb6dc6b", "ID": "43050", "Desc": "\"Greg\" Noto (REP)" }
+        ]
+      },
+      {
+        "ID": "22547",
+        "SpecificTitle": "District Judge -- 34th JDC, Division E",
+        "GeneralTitle": "District Judge",
+        "OfficeLevel": "210",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "0",
+        "Choice": [
+          { "Color": "0x8970cb", "ID": "43053", "Desc": "Gilbert Andry (DEM)" },
+          {
+            "Color": "0xb6dc6b",
+            "ID": "43054",
+            "Desc": "Jacques A. Sanborn (DEM)"
+          }
+        ]
+      },
+      {
+        "ID": "1944",
+        "SpecificTitle": "CA No. 1 (Act 1401-1999) -- Limits Gubernatorial Pardons                 ",
+        "GeneralTitle": "Constitutional Amendment",
+        "OfficeLevel": "998",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "0",
+        "Choice": [
+          { "Color": "0x8970cb", "ID": "1", "Desc": "FOR" },
+          { "Color": "0xb6dc6b", "ID": "2", "Desc": "AGAINST" }
+        ]
+      },
+      {
+        "ID": "1945",
+        "SpecificTitle": "CA No. 2 (Act 1402-1999) -- Investment of certain funds in stocks        ",
+        "GeneralTitle": "Constitutional Amendment",
+        "OfficeLevel": "998",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "0",
+        "Choice": [
+          { "Color": "0x8970cb", "ID": "1", "Desc": "FOR" },
+          { "Color": "0xb6dc6b", "ID": "2", "Desc": "AGAINST" }
+        ]
+      },
+      {
+        "ID": "1946",
+        "SpecificTitle": "CA No. 3 (Act 1403-1999) -- Creates Zachary School Board                 ",
+        "GeneralTitle": "Constitutional Amendment",
+        "OfficeLevel": "998",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "0",
+        "Choice": [
+          { "Color": "0x8970cb", "ID": "1", "Desc": "FOR" },
+          { "Color": "0xb6dc6b", "ID": "2", "Desc": "AGAINST" }
+        ]
+      },
+      {
+        "ID": "1947",
+        "SpecificTitle": "CA No. 4 (Act 1404-1999) -- Limits methods of dissolving LWCC            ",
+        "GeneralTitle": "Constitutional Amendment",
+        "OfficeLevel": "998",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "0",
+        "Choice": [
+          { "Color": "0x8970cb", "ID": "1", "Desc": "FOR" },
+          { "Color": "0xb6dc6b", "ID": "2", "Desc": "AGAINST" }
+        ]
+      },
+      {
+        "ID": "1948",
+        "SpecificTitle": "CA No. 5 (Act 1405-1999) -- Permits LWCC to participate in guaranty fund ",
+        "GeneralTitle": "Constitutional Amendment",
+        "OfficeLevel": "998",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "0",
+        "Choice": [
+          { "Color": "0x8970cb", "ID": "1", "Desc": "FOR" },
+          { "Color": "0xb6dc6b", "ID": "2", "Desc": "AGAINST" }
+        ]
+      },
+      {
+        "ID": "1949",
+        "SpecificTitle": "CA No. 6 (Act 1406-1999) -- Exempts 70 yr. olds from jury service        ",
+        "GeneralTitle": "Constitutional Amendment",
+        "OfficeLevel": "998",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "0",
+        "Choice": [
+          { "Color": "0x8970cb", "ID": "1", "Desc": "FOR" },
+          { "Color": "0xb6dc6b", "ID": "2", "Desc": "AGAINST" }
+        ]
+      },
+      {
+        "ID": "1950",
+        "SpecificTitle": "City of Shreveport -- 7.99 Mills -- City Council                   ",
+        "GeneralTitle": "Proposition",
+        "OfficeLevel": "999",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "0",
+        "Choice": [
+          { "Color": "0x8970cb", "ID": "3", "Desc": "YES" },
+          { "Color": "0xb6dc6b", "ID": "4", "Desc": "NO" }
+        ]
+      }
+    ]
+  }
+}

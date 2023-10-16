@@ -1,0 +1,39 @@
+{
+  "Races": {
+    "VersionDateTime": "1900-01-01T00:00:00",
+    "Race": [
+      {
+        "ID": "6457",
+        "PrecinctsReporting": "55",
+        "PrecinctsExpected": "55",
+        "NumAbsenteeReporting": "4",
+        "NumAbsenteeExpected": "4",
+        "VoterCountQualified": "-1",
+        "VoterCountVoted": "-1",
+        "Choice": [
+          { "ID": "12646", "VoteTotal": "1169", "Outcome": "Defeated" },
+          { "ID": "12647", "VoteTotal": "1210", "Outcome": "Defeated" },
+          { "ID": "12648", "VoteTotal": "3062", "Outcome": "Runoff" },
+          { "ID": "12649", "VoteTotal": "4871", "Outcome": "Runoff" }
+        ]
+      },
+      {
+        "ID": "6458",
+        "PrecinctsReporting": "24",
+        "PrecinctsExpected": "24",
+        "NumAbsenteeReporting": "1",
+        "NumAbsenteeExpected": "1",
+        "VoterCountQualified": "-1",
+        "VoterCountVoted": "-1",
+        "Choice": [
+          { "ID": "12650", "VoteTotal": "322", "Outcome": "Defeated" },
+          { "ID": "12651", "VoteTotal": "43", "Outcome": "Defeated" },
+          { "ID": "12652", "VoteTotal": "71", "Outcome": "Defeated" },
+          { "ID": "12653", "VoteTotal": "1213", "Outcome": "Runoff" },
+          { "ID": "12654", "VoteTotal": "1075", "Outcome": "Runoff" },
+          { "ID": "12655", "VoteTotal": "107", "Outcome": "Defeated" }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "Races": {
+    "WriteTime": "2023-01-20T15:46:15.877",
+    "Race": [
+      {
+        "ID": "32628",
+        "SpecificTitle": "U. S. Representative -- 2nd Congressional District",
+        "GeneralTitle": "U.S. Representative",
+        "OfficeLevel": "145",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "0",
+        "Choice": [
+          { "Color": "0x8970cb", "ID": "63134", "Desc": "Karen Carter (DEM)" },
+          {
+            "Color": "0xb6dc6b",
+            "ID": "63135",
+            "Desc": "William J. Jefferson (DEM)"
+          }
+        ]
+      },
+      {
+        "ID": "32618",
+        "SpecificTitle": "State Senator -- 16th Senatorial District",
+        "GeneralTitle": "State Senator",
+        "OfficeLevel": "200",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "0",
+        "Choice": [
+          {
+            "Color": "0x8970cb",
+            "ID": "63114",
+            "Desc": "\"Bill\" Cassidy (REP)"
+          },
+          {
+            "Color": "0xb6dc6b",
+            "ID": "63115",
+            "Desc": "William Daniel (REP)"
+          },
+          {
+            "Color": "0xffec6c",
+            "ID": "63116",
+            "Desc": "S. B. A. Zaitoon (LBT)"
+          }
+        ]
+      }
+    ]
+  }
+}

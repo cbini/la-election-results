@@ -1,0 +1,154 @@
+{
+  "Races": {
+    "WriteTime": "2023-01-20T16:25:46.727",
+    "Race": [
+      {
+        "ID": "6325",
+        "SpecificTitle": "RSCC Member(s)-Ct. Order. -- 100th Rep. Dist. (See 11-3-92 for new votes)",
+        "GeneralTitle": "Republican State Central Committee Member",
+        "OfficeLevel": "062",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "1",
+        "Choice": [
+          { "Color": "0x8970cb", "ID": "12441", "Desc": "Larry Drake (REP)" },
+          {
+            "Color": "0xb6dc6b",
+            "ID": "12442",
+            "Desc": "Harold \"Hal\" Green (REP)"
+          },
+          { "Color": "0xffec6c", "ID": "12443", "Desc": "John Rondeno (REP)" }
+        ]
+      },
+      {
+        "ID": "5846",
+        "SpecificTitle": "State Senator -- 14th Senatorial District",
+        "GeneralTitle": "State Senator",
+        "OfficeLevel": "200",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "0",
+        "Choice": [
+          { "Color": "0x8970cb", "ID": "11596", "Desc": "Calvin Beal (DEM)" },
+          {
+            "Color": "0xb6dc6b",
+            "ID": "11597",
+            "Desc": "John Michael Guidry (DEM)"
+          },
+          {
+            "Color": "0xffec6c",
+            "ID": "11598",
+            "Desc": "Sandra Bologna Ribes (REP)"
+          },
+          {
+            "Color": "0xff836b",
+            "ID": "11599",
+            "Desc": "Arthur R. Thomas (DEM)"
+          },
+          {
+            "Color": "0xa20017",
+            "ID": "11600",
+            "Desc": "Richard \"Dick\" Turnley, Jr. (DEM)"
+          }
+        ]
+      },
+      {
+        "ID": "5847",
+        "SpecificTitle": "State Senator -- 28th Senatorial District",
+        "GeneralTitle": "State Senator",
+        "OfficeLevel": "200",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "0",
+        "Choice": [
+          {
+            "Color": "0x8970cb",
+            "ID": "11601",
+            "Desc": "I. Jackson \"Jack\" Burson, Jr. (DEM)"
+          },
+          {
+            "Color": "0xb6dc6b",
+            "ID": "11602",
+            "Desc": "\"Mona\" DeFries (REP)"
+          },
+          { "Color": "0xffec6c", "ID": "11603", "Desc": "Dirk Deville (DEM)" },
+          { "Color": "0xff836b", "ID": "11604", "Desc": "Nancy Hamlin (DEM)" },
+          { "Color": "0xa20017", "ID": "11605", "Desc": "\"Don\" Hines (DEM)" }
+        ]
+      },
+      {
+        "ID": "5850",
+        "SpecificTitle": "State Representative --  34th Representative District",
+        "GeneralTitle": "State Representative",
+        "OfficeLevel": "205",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "0",
+        "Choice": [
+          {
+            "Color": "0x8970cb",
+            "ID": "11608",
+            "Desc": "Milton \"Butch\" Bellard, Jr. (DEM)"
+          },
+          {
+            "Color": "0xb6dc6b",
+            "ID": "11609",
+            "Desc": "Faye Brown Blackwell (DEM)"
+          },
+          {
+            "Color": "0xffec6c",
+            "ID": "11610",
+            "Desc": "Elcie J. Guillory (DEM)"
+          },
+          {
+            "Color": "0xff836b",
+            "ID": "11611",
+            "Desc": "Donald Jackson (DEM)"
+          },
+          {
+            "Color": "0xa20017",
+            "ID": "11612",
+            "Desc": "Robert E. Patrick (DEM)"
+          },
+          {
+            "Color": "0x81b1d5",
+            "ID": "11613",
+            "Desc": "Robert Simpson, Jr. (DEM)"
+          }
+        ]
+      },
+      {
+        "ID": "6318",
+        "SpecificTitle": "State Representative --  95th Representative District",
+        "GeneralTitle": "State Representative",
+        "OfficeLevel": "205",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "0",
+        "Choice": [
+          {
+            "Color": "0x8970cb",
+            "ID": "12424",
+            "Desc": "Paulette R. Irons (DEM)"
+          },
+          { "Color": "0xb6dc6b", "ID": "12425", "Desc": "Howard Rodgers (DEM)" }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "Races": {
+    "WriteTime": "2023-01-20T15:51:06.400",
+    "Race": {
+      "ID": "30761",
+      "SpecificTitle": "State Representative --  96th Representative District",
+      "GeneralTitle": "State Representative",
+      "OfficeLevel": "205",
+      "IsPresidentialNominee": "0",
+      "IsMultiParish": "1",
+      "NumberToBeElected": "1",
+      "SummaryText": null,
+      "FullText": null,
+      "IsClosedParty": "0",
+      "Choice": [
+        { "Color": "0x8970cb", "ID": "59067", "Desc": "Juan LaFonta (DEM)" },
+        { "Color": "0xb6dc6b", "ID": "59068", "Desc": "Michael McKenna (DEM)" }
+      ]
+    }
+  }
+}

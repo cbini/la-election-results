@@ -1,0 +1,97 @@
+{
+  "Races": {
+    "WriteTime": "2023-01-20T15:57:41.380",
+    "Race": [
+      {
+        "ID": "26318",
+        "SpecificTitle": "U. S. Senator",
+        "GeneralTitle": "U.S. Senator",
+        "OfficeLevel": "140",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "0",
+        "Choice": [
+          { "Color": "0x8970cb", "ID": "50913", "Desc": "Mary Landrieu (DEM)" },
+          {
+            "Color": "0xb6dc6b",
+            "ID": "50914",
+            "Desc": "Suzanne Haik Terrell (REP)"
+          }
+        ]
+      },
+      {
+        "ID": "26319",
+        "SpecificTitle": "U. S. Representative -- 5th Congressional District",
+        "GeneralTitle": "U.S. Representative",
+        "OfficeLevel": "145",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "0",
+        "Choice": [
+          {
+            "Color": "0x8970cb",
+            "ID": "50915",
+            "Desc": "Rodney Alexander (DEM)"
+          },
+          { "Color": "0xb6dc6b", "ID": "50916", "Desc": "Lee Fletcher (REP)" }
+        ]
+      },
+      {
+        "ID": "26315",
+        "SpecificTitle": "State Representative --  12th Representative District",
+        "GeneralTitle": "State Representative",
+        "OfficeLevel": "205",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "0",
+        "Choice": [
+          {
+            "Color": "0x8970cb",
+            "ID": "50902",
+            "Desc": "James \"Jim\" Ball (DEM)"
+          },
+          { "Color": "0xb6dc6b", "ID": "50903", "Desc": "Ty Bromell (REP)" },
+          { "Color": "0xffec6c", "ID": "50904", "Desc": "Hollis Downs (REP)" },
+          { "Color": "0xff836b", "ID": "50905", "Desc": "Chuck Earle (REP)" }
+        ]
+      },
+      {
+        "ID": "26316",
+        "SpecificTitle": "State Representative --  28th Representative District",
+        "GeneralTitle": "State Representative",
+        "OfficeLevel": "205",
+        "IsPresidentialNominee": "0",
+        "IsMultiParish": "1",
+        "NumberToBeElected": "1",
+        "SummaryText": null,
+        "FullText": null,
+        "IsClosedParty": "0",
+        "Choice": [
+          {
+            "Color": "0x8970cb",
+            "ID": "50906",
+            "Desc": "Timothy Descant (DEM)"
+          },
+          { "Color": "0xb6dc6b", "ID": "50907", "Desc": "Jimmy Earles (DEM)" },
+          { "Color": "0xffec6c", "ID": "50908", "Desc": "Freeman Ford (DEM)" },
+          {
+            "Color": "0xff836b",
+            "ID": "50909",
+            "Desc": "Robert Johnson (DEM)"
+          },
+          { "Color": "0xa20017", "ID": "50910", "Desc": "Kirby Roy III (REP)" },
+          { "Color": "0x81b1d5", "ID": "50911", "Desc": "Monica Walker (DEM)" }
+        ]
+      }
+    ]
+  }
+}

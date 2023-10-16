@@ -1,0 +1,21 @@
+{
+  "Races": {
+    "WriteTime": "2023-01-20T16:00:09.503",
+    "Race": {
+      "ID": "2831",
+      "SpecificTitle": "Acadia-Evangeline FPD -- 1.04 Mills -- BOC -- 10 Years                ",
+      "GeneralTitle": "Proposition",
+      "OfficeLevel": "999",
+      "IsPresidentialNominee": "0",
+      "IsMultiParish": "1",
+      "NumberToBeElected": "1",
+      "SummaryText": "ACADIA-EVANGELINE FIRE PROTECTION DISTRICT\n(TAX CONTINUATION)\n\nSUMMARY: 10 YEAR, 1.04 MILLS TAX CONTINUATION FOR CONSTRUCTING, MAINTAINING AND OPERATING THE ACADIA-EVANGELINE FIRE PROTECTION DISTRICT'S FIRE PROTECTION FACILITIES, INCLUDING THE COST OF OBTAINING WATER FOR FIRE PROTECTION PURPOSES.\n",
+      "FullText": "Shall Acadia-Evangeline Fire Protection District of the Parishes of Acadia and Evangeline, State of Louisiana (the \"District\"), be authorized to continue to levy a one and four hundredths (1.04) mills tax on all the property subject to taxation in the District for a period of ten (10) years, beginning with the year 2002 and ending with the year 2011, for the purpose of constructing, maintaining and operating the District's fire protection facilities, including paying the cost of obtaining water for fire protection purposes? \n",
+      "IsClosedParty": "0",
+      "Choice": [
+        { "Color": "0x8970cb", "ID": "3", "Desc": "YES" },
+        { "Color": "0xb6dc6b", "ID": "4", "Desc": "NO" }
+      ]
+    }
+  }
+}
