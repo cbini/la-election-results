@@ -17,7 +17,6 @@ jobs:
         id: get_user
         with:
           route: GET /users/{username}
-          username: ${{ github.actor }}
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
