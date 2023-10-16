@@ -1,8 +1,4 @@
 {
-  "dbt.fileNameTemplateGenerateModel": "{prefix}_{sourceName}__{tableName}",
-  "dbt.prefixGenerateModel": "stg",
-  "dbt.queryLimit": 500,
-  "dbt.versionCheck": "status bar",
   "editor.defaultFormatter": "trunk.io",
   "editor.formatOnSave": true,
   "editor.inlineSuggest.enabled": true,
@@ -41,6 +37,5 @@
   },
   "[json]": {
     "editor.defaultFormatter": "vscode.json-language-features"
-  },
-  "dbt.enableNewLineagePanel": true
+  }
 }
