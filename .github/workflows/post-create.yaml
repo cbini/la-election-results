@@ -1,7 +1,9 @@
 name: Post-Create Setup
 
-on: create
-
+on: 
+  create: null
+  workflow_dispatch: null
+  
 jobs:
   post_create:
     runs-on: ubuntu-latest
