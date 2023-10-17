@@ -1,0 +1,1 @@
+{"Races": {"VersionDateTime": "1900-01-01T00:00:00", "Race": {"ID": "50192", "PrecinctsReporting": "46", "PrecinctsExpected": "46", "NumAbsenteeReporting": "1", "NumAbsenteeExpected": "1", "VoterCountQualified": "10111", "VoterCountVoted": "2727", "Choice": [{"ID": "91131", "VoteTotal": "1540", "Outcome": "Elected"}, {"ID": "91132", "VoteTotal": "1184", "Outcome": "Defeated"}]}}}
