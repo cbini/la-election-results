@@ -1,0 +1,1 @@
+{"Parishes": {"VersionDateTime": "1900-01-01T00:00:00", "Parish": {"ParishValue": "26", "PrecinctsReporting": "20", "PrecinctsExpected": "20", "NumAbsenteeReporting": "1", "NumAbsenteeExpected": "1", "Choice": [{"ID": "71142", "VoteTotal": "3414", "Outcome": "Elected"}, {"ID": "71143", "VoteTotal": "3284", "Outcome": "Defeated"}]}}}
