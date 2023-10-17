@@ -5,30 +5,26 @@ import pendulum
 import requests
 
 
-def foo(data_dir, asset_name, election_date_fmt, base_url):
-    asset_filepath = data_dir / asset_name / f"{election_date_fmt}.json"
-    asset_filepath.parent.mkdir(parents=True, exist_ok=True)
+def get_response_json(url, **kwargs):
+    response = requests.get(url=url, params=kwargs)
 
-    asset_response = requests.get(
-        url=base_url, params={"blob": f"{election_date_fmt}/{asset_name}.htm"}
-    )
-
-    json.dump(obj=asset_response.json(), fp=asset_filepath.open(mode="w"))
+    try:
+        response.raise_for_status()
+        return response.json()
+    except Exception as e:
+        print(e)
 
 
 def main():
     base_url = "https://voterportal.sos.la.gov/ElectionResults/ElectionResults/Data"
     data_dir = pathlib.Path("./data")
 
-    # get all election dates
+    # ElectionDates
     election_dates_filepath = data_dir / "ElectionDates" / "election_dates.json"
     election_dates_filepath.parent.mkdir(parents=True, exist_ok=True)
 
-    election_dates_response = requests.get(
-        url=base_url, params={"blob": "ElectionDates.htm"}
-    )
+    election_dates_data = get_response_json(url=base_url, blob="ElectionDates.htm")
 
-    election_dates_data = election_dates_response.json()
     json.dump(obj=election_dates_data, fp=election_dates_filepath.open(mode="w"))
 
     for date in election_dates_data["Dates"]["Date"]:
@@ -38,49 +34,64 @@ def main():
         election_date_fmt = election_date.format(fmt="YYYYMMDD")
         print(election_date_fmt)
 
-        # RacesCandidates_Multiparish
-        asset_name = "RacesCandidates_Multiparish"
-
-        asset_filepath = data_dir / asset_name / f"{election_date_fmt}.json"
-        asset_filepath.parent.mkdir(parents=True, exist_ok=True)
-
-        asset_response = requests.get(
-            url=base_url, params={"blob": f"{election_date_fmt}/{asset_name}.htm"}
-        )
-
-        json.dump(obj=asset_response.json(), fp=asset_filepath.open(mode="w"))
-
         # Votes_Multiparish
-        asset_name = "Votes_Multiparish"
-
-        asset_filepath = data_dir / asset_name / f"{election_date_fmt}.json"
+        asset_filepath = data_dir / "Votes_Multiparish" / f"{election_date_fmt}.json"
         asset_filepath.parent.mkdir(parents=True, exist_ok=True)
 
-        asset_response = requests.get(
-            url=base_url, params={"blob": f"{election_date_fmt}/{asset_name}.htm"}
+        votes_multiparish_data = get_response_json(
+            url=base_url, blob=f"{election_date_fmt}/Votes_Multiparish.htm"
         )
 
-        votes_multiparish_data = asset_response.json()
         json.dump(obj=votes_multiparish_data, fp=asset_filepath.open(mode="w"))
+
+        # ParishesInElection
+        asset_filepath = data_dir / "ParishesInElection" / f"{election_date_fmt}.json"
+        asset_filepath.parent.mkdir(parents=True, exist_ok=True)
+
+        parishes_in_election_data = get_response_json(
+            url=base_url, blob=f"{election_date_fmt}/ParishesInElection.htm"
+        )
+
+        json.dump(obj=parishes_in_election_data, fp=asset_filepath.open(mode="w"))
+
+        # RacesCandidates_Multiparish
+        asset_filepath = (
+            data_dir / "RacesCandidates_Multiparish" / f"{election_date_fmt}.json"
+        )
+        asset_filepath.parent.mkdir(parents=True, exist_ok=True)
+
+        races_candidates_multiparish_data = get_response_json(
+            url=base_url, blob=f"{election_date_fmt}/RacesCandidates_Multiparish.htm"
+        )
+
+        json.dump(
+            obj=races_candidates_multiparish_data, fp=asset_filepath.open(mode="w")
+        )
+
+        # RacesCandidates/ByParish_{parish_id}.htm
+
+        # VotesParish/Votes_{parish_id}.htm
 
         # VotesRaceByParish
         asset_name = "VotesRaceByParish"
-        for race in votes_multiparish_data["Races"]["Race"]:
+
+        races = votes_multiparish_data["Races"].get("Race", [])
+        if not isinstance(races, list):
+            races = [races]
+
+        for race in races:
             race_id = race["ID"]
 
             asset_filepath = (
-                data_dir / asset_name / f"{election_date_fmt}_{race_id}.json"
+                data_dir / asset_name / election_date_fmt / f"{race_id}.json"
             )
             asset_filepath.parent.mkdir(parents=True, exist_ok=True)
 
-            asset_response = requests.get(
+            votes_race_by_parish_data = get_response_json(
                 url=base_url,
-                params={
-                    "blob": f"{election_date_fmt}/{asset_name}/Votes_{race_id}.htm"
-                },
+                blob=f"{election_date_fmt}/{asset_name}/Votes_{race_id}.htm",
             )
 
-            votes_race_by_parish_data = asset_response.json()
             json.dump(obj=votes_race_by_parish_data, fp=asset_filepath.open(mode="w"))
 
 

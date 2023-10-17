@@ -1,18 +1,1 @@
-{
-  "Races": {
-    "VersionDateTime": "1900-01-01T00:00:00",
-    "Race": {
-      "ID": "9546",
-      "PrecinctsReporting": "15",
-      "PrecinctsExpected": "15",
-      "NumAbsenteeReporting": "2",
-      "NumAbsenteeExpected": "2",
-      "VoterCountQualified": "6719",
-      "VoterCountVoted": "386",
-      "Choice": [
-        { "ID": "3", "VoteTotal": "281", "Outcome": "Approved" },
-        { "ID": "4", "VoteTotal": "94", "Outcome": null }
-      ]
-    }
-  }
-}
+{"Races": {"VersionDateTime": "1900-01-01T00:00:00", "Race": {"ID": "9546", "PrecinctsReporting": "15", "PrecinctsExpected": "15", "NumAbsenteeReporting": "2", "NumAbsenteeExpected": "2", "VoterCountQualified": "6719", "VoterCountVoted": "386", "Choice": [{"ID": "3", "VoteTotal": "281", "Outcome": "Approved"}, {"ID": "4", "VoteTotal": "94", "Outcome": null}]}}}
