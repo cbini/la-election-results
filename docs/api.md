@@ -2,15 +2,16 @@
 
 - ElectionDates
 
-- {Election Date}/Votes_Multiparish
-- {Election Date}/ParishesInElection
-- {Election Date}/RacesCandidates_Multiparish
+- {ElectionDate}/Votes_Multiparish
+- {ElectionDate}/ParishesInElection
+- {ElectionDate}/RacesCandidates_Multiparish
 
-- {Election Date}/RacesCandidates/ByParish\_{Parish ID}
-- {Election Date}/VotesParish/Votes\_{Parish ID}
+- {ElectionDate}/VotesRaceByParish/Votes\_{RaceID}
 
-- {Election Date}/VotesRaceByParish/Votes\_{Race ID}
-- {Election Date}/VotesRaceByPrecinct/Votes\_{Race ID}\_{Parish ID}
+- {ElectionDate}/VotesRaceByPrecinct/Votes\_{RaceID}\_{ParishValue}
+
+- {ElectionDate}/RacesCandidates/ByParish\_{ParishValue}
+- {ElectionDate}/VotesParish/Votes\_{ParishValue}
 
 ## By Page
 
