@@ -1,5 +1,13 @@
-# Created by https://www.toptal.com/developers/gitignore/api/python,windows,macos,linux
-# Edit at https://www.toptal.com/developers/gitignore?templates=python,windows,macos,linux
+.data/
+
+# Created by https://www.toptal.com/developers/gitignore/api/linux,macos,python,windows,dbt
+# Edit at https://www.toptal.com/developers/gitignore?templates=linux,macos,python,windows,dbt
+
+### dbt ###
+target/
+dbt_modules/
+dbt_packages/
+logs/
 
 ### Linux ###
 *~
@@ -125,7 +133,6 @@ docs/_build/
 
 # PyBuilder
 .pybuilder/
-target/
 
 # Jupyter Notebook
 .ipynb_checkpoints
@@ -247,6 +254,4 @@ $RECYCLE.BIN/
 # Windows shortcuts
 *.lnk
 
-# End of https://www.toptal.com/developers/gitignore/api/python,windows,macos,linux
-
-.data/
+# End of https://www.toptal.com/developers/gitignore/api/linux,macos,python,windows,dbt
