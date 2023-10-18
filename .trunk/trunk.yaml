@@ -14,11 +14,6 @@ runtimes:
     - node@18.12.1
     - python@3.10.8
 lint:
-  ignore:
-    - linters:
-        - ALL
-      paths:
-        - data
   disabled:
     - bandit
   enabled:
