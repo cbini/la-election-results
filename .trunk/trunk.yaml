@@ -17,6 +17,7 @@ lint:
   disabled:
     - bandit
   enabled:
+    - sqlfmt@0.20.0
     - black@23.9.1
     - checkov@2.5.9
     - git-diff-check
