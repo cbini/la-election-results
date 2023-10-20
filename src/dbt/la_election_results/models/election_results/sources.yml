@@ -1,0 +1,46 @@
+version: 2
+
+sources:
+  - name: election_results
+    tables:
+      - name: election_dates
+        external:
+          location: gs://la-election-results/election_dates/*
+          options:
+            format: JSON
+      - name: parishes_in_election
+        external:
+          location: gs://la-election-results/parishes_in_election/*
+          options:
+            format: JSON
+            hive_partition_uri_prefix: gs://la-election-results/parishes_in_election/
+      - name: races_candidates
+        external:
+          location: gs://la-election-results/races_candidates/*
+          options:
+            format: JSON
+            hive_partition_uri_prefix: gs://la-election-results/races_candidates/
+      - name: votes_multiparish
+        external:
+          location: gs://la-election-results/votes_multiparish/*
+          options:
+            format: JSON
+            hive_partition_uri_prefix: gs://la-election-results/votes_multiparish/
+      - name: votes_parish_race
+        external:
+          location: gs://la-election-results/votes_parish_race/*
+          options:
+            format: JSON
+            hive_partition_uri_prefix: gs://la-election-results/votes_parish_race/
+      - name: votes_precinct
+        external:
+          location: gs://la-election-results/votes_precinct/*
+          options:
+            format: JSON
+            hive_partition_uri_prefix: gs://la-election-results/votes_precinct/
+      - name: votes_race_parish
+        external:
+          location: gs://la-election-results/votes_race_parish/*
+          options:
+            format: JSON
+            hive_partition_uri_prefix: gs://la-election-results/votes_race_parish/
