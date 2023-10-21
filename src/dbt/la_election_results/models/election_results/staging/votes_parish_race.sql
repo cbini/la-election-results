@@ -1,7 +1,7 @@
 select
-    vpr._election_date as _election_date,
-    vpr._parish as _parish,
     vpr.races.versiondatetime as version_date_time,
+    right(concat('0', vpr._parish), 2) as parish_value,
+    parse_date('%Y%m%d', safe_cast(vpr._election_date as string)) as election_date,
 
     r.id as race_id,
     r.precinctsexpected as precincts_expected,

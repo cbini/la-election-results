@@ -1,8 +1,8 @@
 select
-    rc._election_date as election_date,
     rc._level as `level`,
-    rc._parish as parish,
+    rc._parish as parish_value,
     rc.races.writetime as write_time,
+    parse_date('%Y%m%d', safe_cast(rc._election_date as string)) as election_date,
 
     r.id as race_id,
     r.generaltitle as general_title,
@@ -11,13 +11,13 @@ select
     r.summarytext as summary_text,
     r.fulltext as full_text,
     r.numbertobeelected as number_to_be_elected,
-    r.isclosedparty as is_closed_party,
-    r.ispresidentialnominee as is_presidential_nominee,
-    r.ismultiparish as is_multi_parish,
+    if(r.isclosedparty = 1, true, false) as is_closed_party,
+    if(r.ispresidentialnominee = 1, true, false) as is_presidential_nominee,
+    if(r.ismultiparish = 1, true, false) as is_multi_parish,
 
     c.id as choice_id,
     c.desc as choice_description,
-    c.color as choice_color,
+    format('0x%X', safe_cast(c.color as int)) as choice_color,
 from {{ source("election_results", "races_candidates") }} as rc
 cross join unnest(rc.races.race) as r
 cross join unnest(r.choice) as c
