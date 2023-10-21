@@ -16,8 +16,9 @@ select
     if(r.ismultiparish = 1, true, false) as is_multi_parish,
 
     c.id as choice_id,
-    c.desc as choice_description,
-    format('0x%X', safe_cast(c.color as int)) as choice_color,
+    lower(format('0x%X', safe_cast(c.color as int))) as choice_color,
+    regexp_replace(c.desc, r'\s\(\w+\)', '') as choice_description,
+    regexp_extract(c.desc, r'\((\w+)\)') as choice_party,
 from {{ source("election_results", "races_candidates") }} as rc
 cross join unnest(rc.races.race) as r
 cross join unnest(r.choice) as c
