@@ -92,44 +92,46 @@ def get_data_for_election_date(
     for race_id in race_ids:
         # VotesRaceByParish
         try:
-            votes_race_by_parish = client.votes_race_by_parish(
-                election_date=election_date, race_id=race_id
-            )
-
             blob = bucket.blob(
                 blob_name=(
                     f"votes_race_parish/_election_date={election_date}/"
                     f"_race={race_id}/data.json"
                 )
             )
-            blob.upload_from_string(data=json.dumps(obj=votes_race_by_parish))
+            blob.upload_from_string(
+                data=json.dumps(
+                    obj=client.votes_race_by_parish(
+                        election_date=election_date, race_id=race_id
+                    )
+                )
+            )
             print(f"\tSaved to {blob.public_url}...")
         except HTTPError as e:
             print(e)
             pass
 
-        for parish_value in parish_values:
-            # VotesRaceByPrecinct
-            try:
-                blob = bucket.blob(
-                    blob_name=(
-                        f"votes_precinct/_election_date={election_date}/"
-                        f"_race={race_id}/_parish={parish_value}/data.json"
-                    )
-                )
-                blob.upload_from_string(
-                    data=json.dumps(
-                        obj=client.votes_race_by_precinct(
-                            election_date=election_date,
-                            race_id=race_id,
-                            parish_value=parish_value,
-                        )
-                    )
-                )
-                print(f"\tSaved to {blob.public_url}...")
-            except HTTPError as e:
-                print(e)
-                pass
+        # for parish_value in parish_values:
+        #     # VotesRaceByPrecinct
+        #     try:
+        #         blob = bucket.blob(
+        #             blob_name=(
+        #                 f"votes_precinct/_election_date={election_date}/"
+        #                 f"_race={race_id}/_parish={parish_value}/data.json"
+        #             )
+        #         )
+        #         blob.upload_from_string(
+        #             data=json.dumps(
+        #                 obj=client.votes_race_by_precinct(
+        #                     election_date=election_date,
+        #                     race_id=race_id,
+        #                     parish_value=parish_value,
+        #                 )
+        #             )
+        #         )
+        #         print(f"\tSaved to {blob.public_url}...")
+        #     except HTTPError as e:
+        #         print(e)
+        #         pass
 
 
 def main():

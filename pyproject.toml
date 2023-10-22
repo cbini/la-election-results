@@ -12,6 +12,7 @@ dependencies = [
   "pendulum>=2.1.2",
   "dbt-bigquery>=1.6.7",
   "google-cloud-storage>=2.12.0",
+  "tenacity>=8.2.3",
 ]
 
 [build-system]

@@ -1,4 +1,5 @@
 import requests
+from tenacity import TryAgain, retry, wait_exponential
 
 
 class ElectionResultsClient(requests.Session):
@@ -9,12 +10,18 @@ class ElectionResultsClient(requests.Session):
             "https://voterportal.sos.la.gov/ElectionResults/ElectionResults/Data"
         )
 
+    @retry(wait=wait_exponential())
     def get_response_json(self, **kwargs):
         response = self.get(url=self.base_url, params=kwargs)
 
-        response.raise_for_status()
-
-        return response.json()
+        try:
+            response.raise_for_status()
+            return response.json()
+        except requests.HTTPError as e:
+            if response.status_code == 403:
+                raise TryAgain from e
+            else:
+                raise e
 
     def election_dates(self):
         return self.get_response_json(blob="ElectionDates.htm")
