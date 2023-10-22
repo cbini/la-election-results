@@ -34,3 +34,9 @@ models:
     election_results:
       staging:
         +materialized: table
+
+seeds:
+  la_election_results:
+    parish_metadata:
+      +column_types:
+        id: string
