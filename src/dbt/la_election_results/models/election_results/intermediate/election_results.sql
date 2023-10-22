@@ -21,7 +21,7 @@ select
     vp.voter_count_voted,
     vp.choice_vote_total,
 
-    pie.parish_name
+    pie.parish_name,
     pie.precincts,
     pie.precincts_reported,
     pie.complete_with_absentee,
