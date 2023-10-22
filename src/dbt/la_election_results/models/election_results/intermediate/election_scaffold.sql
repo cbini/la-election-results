@@ -25,7 +25,22 @@ with
     )
 
 select
-    dp.*,
+    dp.pk_election_id,
+    dp.election_date,
+    dp.rep_map_name,
+    dp.cong_map_name,
+    dp.sen_map_name,
+    dp.turnout_message,
+    dp.order,
+    dp.results_official,
+    dp.pwp_stats_exist,
+    dp.race_stats_exist,
+    dp.post_election_stats_available,
+    dp.display_turnout_stats,
+    dp.parish_value,
+    dp.precincts,
+    dp.precincts_reported,
+    dp.complete_with_absentee,
 
     rc.level,
     rc.race_id,
@@ -73,5 +88,4 @@ from date_parish as dp
 inner join
     {{ ref("races_candidates") }} as rc
     on dp.election_date = rc.election_date
-    and dp.parish_value = rc.parish_value
     and rc.level = 'multiparish'
