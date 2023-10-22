@@ -27,7 +27,7 @@ def dump_json_to_blob(blob_name, data):
     blob.upload_from_string(data=json.dumps(obj=data))
 
 
-def foo(election_date, race_id):
+def get_multiparish_race_data(election_date, race_id):
     # VotesRaceByParish
     votes_race_by_parish = CLIENT.votes_race_by_parish(
         election_date=election_date, race_id=race_id
@@ -64,7 +64,7 @@ def foo(election_date, race_id):
         )
 
 
-def bar(election_date, parish_value):
+def get_parish_race_data(election_date, parish_value):
     # VotesParish
     votes_parish = CLIENT.votes_parish(
         election_date=election_date, parish_value=parish_value
@@ -156,11 +156,11 @@ def get_data_for_election_date(election_date: str):
 
     # multiparish race votes
     for race_id in multiparish_race_ids:
-        foo(election_date=election_date, race_id=race_id)
+        get_multiparish_race_data(election_date=election_date, race_id=race_id)
 
     # parish-specific race votes
     for parish_value in parish_values:
-        bar(election_date=election_date, parish_value=parish_value)
+        get_parish_race_data(election_date=election_date, parish_value=parish_value)
 
 
 def main():
