@@ -4,7 +4,6 @@ import os
 import google.auth
 import pendulum
 from google.cloud import storage
-from requests import HTTPError
 
 from la_election_results.client import ElectionResultsClient
 
@@ -19,7 +18,7 @@ def get_data_for_election_date(
     blob.upload_from_string(
         data=json.dumps(obj=client.votes_multiparish(election_date=election_date))
     )
-    print(f"\tSaved to {blob.public_url}...")
+    print(f"Saved to {blob.public_url}...")
 
     # ParishesInElection
     parishes_in_election = client.parishes_in_election(election_date=election_date)
@@ -28,12 +27,15 @@ def get_data_for_election_date(
         blob_name=f"parishes_in_election/_election_date={election_date}/data.json"
     )
     blob.upload_from_string(data=json.dumps(obj=parishes_in_election))
-    print(f"\tSaved to {blob.public_url}...")
+    print(f"Saved to {blob.public_url}...")
 
-    # create set of all parish values
-    parish_values = set()
-    for parish in parishes_in_election["ParishesInElection"]["Parish"]:
-        parish_values.add(parish["ParishValue"])
+    # create list of all parish values
+    parish_values = sorted(
+        [
+            parish["ParishValue"]
+            for parish in parishes_in_election["ParishesInElection"]["Parish"]
+        ]
+    )
 
     # RacesCandidates_Multiparish
     races_candidates_multiparish = client.races_candidates_multiparish(
@@ -47,13 +49,50 @@ def get_data_for_election_date(
         )
     )
     blob.upload_from_string(data=json.dumps(obj=races_candidates_multiparish))
-    print(f"\tSaved to {blob.public_url}...")
+    print(f"Saved to {blob.public_url}...")
 
-    # add multiparish race_ids to set
-    race_ids = set()
-    for race in races_candidates_multiparish["Races"]["Race"]:
-        race_ids.add(race["ID"])
+    # multiparish race votes
+    multiparish_race_ids = sorted(
+        [race["ID"] for race in races_candidates_multiparish["Races"]["Race"]]
+    )
 
+    for race_id in multiparish_race_ids:
+        # VotesRaceByParish
+        blob = bucket.blob(
+            blob_name=(
+                f"votes_race_parish/_election_date={election_date}/"
+                f"_race={race_id}/data.json"
+            )
+        )
+        blob.upload_from_string(
+            data=json.dumps(
+                obj=client.votes_race_by_parish(
+                    election_date=election_date, race_id=race_id
+                )
+            )
+        )
+        print(f"Saved to {blob.public_url}...")
+
+        # VotesRaceByPrecinct
+        for parish_value in parish_values:
+            blob = bucket.blob(
+                blob_name=(
+                    f"votes_precinct/_election_date={election_date}/"
+                    f"_race={race_id}/_parish={parish_value}/data.json"
+                )
+            )
+            blob.upload_from_string(
+                data=json.dumps(
+                    obj=client.votes_race_by_precinct(
+                        election_date=election_date,
+                        race_id=race_id,
+                        parish_value=parish_value,
+                    )
+                )
+            )
+            print(f"Saved to {blob.public_url}...")
+
+    # parish-specific race votes
     for parish_value in parish_values:
         # VotesParish
         blob = bucket.blob(
@@ -69,7 +108,7 @@ def get_data_for_election_date(
                 )
             )
         )
-        print(f"\tSaved to {blob.public_url}...")
+        print(f"Saved to {blob.public_url}...")
 
         # RacesCandidates
         races_candidates_by_parish = client.races_candidates_by_parish(
@@ -83,55 +122,30 @@ def get_data_for_election_date(
             )
         )
         blob.upload_from_string(data=json.dumps(obj=races_candidates_by_parish))
-        print(f"\tSaved to {blob.public_url}...")
+        print(f"Saved to {blob.public_url}...")
 
-        # add parish race_ids to set
-        for race in races_candidates_by_parish["Races"]["Race"]:
-            race_ids.add(race["ID"])
+        # VotesRaceByPrecinct
+        parish_race_ids = sorted(
+            [race["ID"] for race in races_candidates_by_parish["Races"]["Race"]]
+        )
 
-    for race_id in race_ids:
-        # VotesRaceByParish
-        try:
+        for race_id in parish_race_ids:
             blob = bucket.blob(
                 blob_name=(
-                    f"votes_race_parish/_election_date={election_date}/"
-                    f"_race={race_id}/data.json"
+                    f"votes_precinct/_election_date={election_date}/"
+                    f"_race={race_id}/_parish={parish_value}/data.json"
                 )
             )
             blob.upload_from_string(
                 data=json.dumps(
-                    obj=client.votes_race_by_parish(
-                        election_date=election_date, race_id=race_id
+                    obj=client.votes_race_by_precinct(
+                        election_date=election_date,
+                        race_id=race_id,
+                        parish_value=parish_value,
                     )
                 )
             )
-            print(f"\tSaved to {blob.public_url}...")
-        except HTTPError as e:
-            print(e)
-            pass
-
-        # for parish_value in parish_values:
-        #     # VotesRaceByPrecinct
-        #     try:
-        #         blob = bucket.blob(
-        #             blob_name=(
-        #                 f"votes_precinct/_election_date={election_date}/"
-        #                 f"_race={race_id}/_parish={parish_value}/data.json"
-        #             )
-        #         )
-        #         blob.upload_from_string(
-        #             data=json.dumps(
-        #                 obj=client.votes_race_by_precinct(
-        #                     election_date=election_date,
-        #                     race_id=race_id,
-        #                     parish_value=parish_value,
-        #                 )
-        #             )
-        #         )
-        #         print(f"\tSaved to {blob.public_url}...")
-        #     except HTTPError as e:
-        #         print(e)
-        #         pass
+            print(f"Saved to {blob.public_url}...")
 
 
 def main():
@@ -149,7 +163,7 @@ def main():
 
     blob = bucket.blob(blob_name="election_dates/data.json")
     blob.upload_from_string(data=json.dumps(obj=election_dates))
-    print(f"\tSaved to {blob.public_url}...")
+    print(f"Saved to {blob.public_url}...")
 
     for date in election_dates["Dates"]["Date"]:
         election_date = pendulum.from_format(

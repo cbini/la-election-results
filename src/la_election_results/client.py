@@ -10,7 +10,7 @@ class ElectionResultsClient(requests.Session):
             "https://voterportal.sos.la.gov/ElectionResults/ElectionResults/Data"
         )
 
-    @retry(wait=wait_exponential())
+    # @retry(wait=wait_exponential(min=1, max=10))
     def get_response_json(self, **kwargs):
         response = self.get(url=self.base_url, params=kwargs)
 
@@ -19,6 +19,8 @@ class ElectionResultsClient(requests.Session):
             return response.json()
         except requests.HTTPError as e:
             if response.status_code == 403:
+                print(e)
+                print("Retrying")
                 raise TryAgain from e
             else:
                 raise e
