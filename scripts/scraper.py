@@ -7,29 +7,131 @@ from google.cloud import storage
 
 from la_election_results.client import ElectionResultsClient
 
+# instantiate client
+CLIENT = ElectionResultsClient()
 
-def get_data_for_election_date(
-    client: ElectionResultsClient, bucket: storage.Bucket, election_date: str
-):
+# setup gcs
+credentials, project_id = google.auth.load_credentials_from_dict(
+    info=json.loads(os.getenv("GOOGLE_APPLICATION_CREDENTIALS_JSON"))
+)
+
+storage_client = storage.Client(project=project_id, credentials=credentials)
+
+BUCKET = storage_client.get_bucket("la-election-results")
+
+
+def dump_json_to_blob(blob_name, data):
+    blob = BUCKET.blob(blob_name=blob_name)
+
+    print(f"Saving to {blob.public_url}...")
+    blob.upload_from_string(data=json.dumps(obj=data))
+
+
+def foo(election_date, race_id):
+    # VotesRaceByParish
+    votes_race_by_parish = CLIENT.votes_race_by_parish(
+        election_date=election_date, race_id=race_id
+    )
+
+    dump_json_to_blob(
+        blob_name=(
+            f"votes_race_parish/_election_date={election_date}/_race={race_id}/"
+            "data.json"
+        ),
+        data=votes_race_by_parish,
+    )
+
+    # get all parish values for race
+    parishes = votes_race_by_parish["Parishes"]["Parish"]
+
+    if isinstance(parishes, dict):
+        parishes = [parishes]
+
+    parish_values = sorted([parish["ParishValue"] for parish in parishes])
+
+    for parish_value in parish_values:
+        # VotesRaceByPrecinct
+        votes_race_by_precinct = CLIENT.votes_race_by_precinct(
+            election_date=election_date, race_id=race_id, parish_value=parish_value
+        )
+
+        dump_json_to_blob(
+            blob_name=(
+                f"votes_precinct/_election_date={election_date}/_race={race_id}/"
+                f"_parish={parish_value}/data.json"
+            ),
+            data=votes_race_by_precinct,
+        )
+
+
+def bar(election_date, parish_value):
+    # VotesParish
+    votes_parish = CLIENT.votes_parish(
+        election_date=election_date, parish_value=parish_value
+    )
+
+    dump_json_to_blob(
+        blob_name=(
+            f"votes_parish_race/_election_date={election_date}/_parish={parish_value}/"
+            "data.json"
+        ),
+        data=votes_parish,
+    )
+
+    # RacesCandidates
+    races_candidates_by_parish = CLIENT.races_candidates_by_parish(
+        election_date=election_date, parish_value=parish_value
+    )
+
+    dump_json_to_blob(
+        blob_name=(
+            f"races_candidates/_election_date={election_date}/_level=parish/"
+            f"_parish={parish_value}/data.json"
+        ),
+        data=races_candidates_by_parish,
+    )
+
+    # get all race ids for parish
+    parish_races = races_candidates_by_parish["Races"]["Race"]
+
+    if isinstance(parish_races, dict):
+        parish_races = [parish_races]
+
+    parish_race_ids = sorted([race["ID"] for race in parish_races])
+
+    for race_id in parish_race_ids:
+        # VotesRaceByPrecinct
+        votes_race_by_precinct = CLIENT.votes_race_by_precinct(
+            election_date=election_date, race_id=race_id, parish_value=parish_value
+        )
+
+        dump_json_to_blob(
+            blob_name=(
+                f"votes_precinct/_election_date={election_date}/_race={race_id}/"
+                f"_parish={parish_value}/data.json"
+            ),
+            data=votes_race_by_precinct,
+        )
+
+
+def get_data_for_election_date(election_date: str):
     # Votes_Multiparish
-    blob = bucket.blob(
-        blob_name=f"votes_multiparish/_election_date={election_date}/data.json"
+    votes_multiparish = CLIENT.votes_multiparish(election_date=election_date)
+
+    dump_json_to_blob(
+        blob_name=f"votes_multiparish/_election_date={election_date}/data.json",
+        data=votes_multiparish,
     )
-    blob.upload_from_string(
-        data=json.dumps(obj=client.votes_multiparish(election_date=election_date))
-    )
-    print(f"Saved to {blob.public_url}...")
 
     # ParishesInElection
-    parishes_in_election = client.parishes_in_election(election_date=election_date)
+    parishes_in_election = CLIENT.parishes_in_election(election_date=election_date)
 
-    blob = bucket.blob(
-        blob_name=f"parishes_in_election/_election_date={election_date}/data.json"
+    dump_json_to_blob(
+        blob_name=f"parishes_in_election/_election_date={election_date}/data.json",
+        data=parishes_in_election,
     )
-    blob.upload_from_string(data=json.dumps(obj=parishes_in_election))
-    print(f"Saved to {blob.public_url}...")
 
-    # create list of all parish values
+    # get all parish values
     parish_values = sorted(
         [
             parish["ParishValue"]
@@ -38,143 +140,42 @@ def get_data_for_election_date(
     )
 
     # RacesCandidates_Multiparish
-    races_candidates_multiparish = client.races_candidates_multiparish(
+    races_candidates_multiparish = CLIENT.races_candidates_multiparish(
         election_date=election_date
     )
 
-    blob = bucket.blob(
-        blob_name=(
-            f"races_candidates/_election_date={election_date}/"
-            "_level=multiparish/_parish=all/data.json"
-        )
+    dump_json_to_blob(
+        blob_name=f"races_candidates/_election_date={election_date}/_level=multiparish/_parish=all/data.json",
+        data=races_candidates_multiparish,
     )
-    blob.upload_from_string(data=json.dumps(obj=races_candidates_multiparish))
-    print(f"Saved to {blob.public_url}...")
 
-    # multiparish race votes
+    # get all multiparish race ids
     multiparish_race_ids = sorted(
         [race["ID"] for race in races_candidates_multiparish["Races"]["Race"]]
     )
 
+    # multiparish race votes
     for race_id in multiparish_race_ids:
-        # VotesRaceByParish
-        blob = bucket.blob(
-            blob_name=(
-                f"votes_race_parish/_election_date={election_date}/"
-                f"_race={race_id}/data.json"
-            )
-        )
-        blob.upload_from_string(
-            data=json.dumps(
-                obj=client.votes_race_by_parish(
-                    election_date=election_date, race_id=race_id
-                )
-            )
-        )
-        print(f"Saved to {blob.public_url}...")
-
-        # VotesRaceByPrecinct
-        for parish_value in parish_values:
-            blob = bucket.blob(
-                blob_name=(
-                    f"votes_precinct/_election_date={election_date}/"
-                    f"_race={race_id}/_parish={parish_value}/data.json"
-                )
-            )
-            blob.upload_from_string(
-                data=json.dumps(
-                    obj=client.votes_race_by_precinct(
-                        election_date=election_date,
-                        race_id=race_id,
-                        parish_value=parish_value,
-                    )
-                )
-            )
-            print(f"Saved to {blob.public_url}...")
+        foo(election_date=election_date, race_id=race_id)
 
     # parish-specific race votes
     for parish_value in parish_values:
-        # VotesParish
-        blob = bucket.blob(
-            blob_name=(
-                f"votes_parish_race/_election_date={election_date}/"
-                f"_parish={parish_value}/data.json"
-            )
-        )
-        blob.upload_from_string(
-            data=json.dumps(
-                obj=client.votes_parish(
-                    election_date=election_date, parish_value=parish_value
-                )
-            )
-        )
-        print(f"Saved to {blob.public_url}...")
-
-        # RacesCandidates
-        races_candidates_by_parish = client.races_candidates_by_parish(
-            election_date=election_date, parish_value=parish_value
-        )
-
-        blob = bucket.blob(
-            blob_name=(
-                f"races_candidates/_election_date={election_date}/_level=parish/"
-                f"_parish={parish_value}/data.json"
-            )
-        )
-        blob.upload_from_string(data=json.dumps(obj=races_candidates_by_parish))
-        print(f"Saved to {blob.public_url}...")
-
-        # VotesRaceByPrecinct
-        parish_race_ids = sorted(
-            [race["ID"] for race in races_candidates_by_parish["Races"]["Race"]]
-        )
-
-        for race_id in parish_race_ids:
-            blob = bucket.blob(
-                blob_name=(
-                    f"votes_precinct/_election_date={election_date}/"
-                    f"_race={race_id}/_parish={parish_value}/data.json"
-                )
-            )
-            blob.upload_from_string(
-                data=json.dumps(
-                    obj=client.votes_race_by_precinct(
-                        election_date=election_date,
-                        race_id=race_id,
-                        parish_value=parish_value,
-                    )
-                )
-            )
-            print(f"Saved to {blob.public_url}...")
+        bar(election_date=election_date, parish_value=parish_value)
 
 
 def main():
-    client = ElectionResultsClient()
-
-    # setup gcs
-    credentials, project_id = google.auth.load_credentials_from_dict(
-        info=json.loads(os.getenv("GOOGLE_APPLICATION_CREDENTIALS_JSON"))
-    )
-    storage_client = storage.Client(project=project_id, credentials=credentials)
-    bucket = storage_client.get_bucket("la-election-results")
-
     # ElectionDates
-    election_dates = client.election_dates()
+    election_dates = CLIENT.election_dates()
 
-    blob = bucket.blob(blob_name="election_dates/data.json")
-    blob.upload_from_string(data=json.dumps(obj=election_dates))
-    print(f"Saved to {blob.public_url}...")
+    dump_json_to_blob(blob_name="election_dates/data.json", data=election_dates)
 
     for date in election_dates["Dates"]["Date"]:
         election_date = pendulum.from_format(
             string=date["ElectionDate"], fmt="MM/DD/YYYY"
-        )
-        election_date_fmt = election_date.format(fmt="YYYYMMDD")
-        print(election_date_fmt)
+        ).format(fmt="YYYYMMDD")
 
-        get_data_for_election_date(
-            client=client, bucket=bucket, election_date=election_date_fmt
-        )
+        print(election_date)
+        get_data_for_election_date(election_date=election_date)
 
         break
 

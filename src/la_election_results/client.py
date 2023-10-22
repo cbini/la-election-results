@@ -1,5 +1,5 @@
 import requests
-from tenacity import TryAgain, retry, wait_exponential
+from tenacity import TryAgain
 
 
 class ElectionResultsClient(requests.Session):
