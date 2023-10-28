@@ -5,7 +5,7 @@ description = ""
 authors = [
   { name = "Charlie Bini", email = "5003326+cbini@users.noreply.github.com" },
 ]
-requires-python = ">=3.8"
+requires-python = ">=3.11,<3.12"
 license = { text = "GPL-3.0-or-later" }
 dependencies = [
   "requests>=2.31.0",

@@ -45,3 +45,266 @@ sources:
           options:
             format: JSON
             hive_partition_uri_prefix: gs://la-election-results/votes_race_parish/
+      - name: precinct_crosswalk
+        external:
+          options:
+            format: GOOGLE_SHEETS
+            uris:
+              - https://docs.google.com/spreadsheets/d/1U_SPYqDhJgf6fFIujxC458PB_BDYS7f4pXm1PEUXtOE
+            sheet_range: precinct_crosswalk
+            skip_leading_rows: 1
+      - name: census
+        external:
+          options:
+            format: GOOGLE_SHEETS
+            uris:
+              - https://docs.google.com/spreadsheets/d/1U_SPYqDhJgf6fFIujxC458PB_BDYS7f4pXm1PEUXtOE
+            sheet_range: census
+            skip_leading_rows: 1
+        columns:
+          - name: GISJOIN
+            data_type: STRING
+          - name: YEAR
+            data_type: STRING
+          - name: STUSAB
+            data_type: STRING
+          - name: GEOID
+            data_type: STRING
+          - name: GEOCODE
+            data_type: STRING
+          - name: REGIONA
+            data_type: STRING
+          - name: DIVISIONA
+            data_type: STRING
+          - name: STATE
+            data_type: STRING
+          - name: STATEA
+            data_type: STRING
+          - name: COUNTY
+            data_type: STRING
+          - name: COUNTYA
+            data_type: STRING
+          - name: COUSUBA
+            data_type: STRING
+          - name: COUSUBCC
+            data_type: STRING
+          - name: SUBMCDA
+            data_type: STRING
+          - name: CONCITA
+            data_type: STRING
+          - name: PLACEA
+            data_type: STRING
+          - name: PLACECC
+            data_type: STRING
+          - name: TRACTA
+            data_type: STRING
+          - name: BLKGRPA
+            data_type: STRING
+          - name: BLOCKA
+            data_type: STRING
+          - name: AIANHHA
+            data_type: STRING
+          - name: RES_ONLYA
+            data_type: STRING
+          - name: TRUSTA
+            data_type: STRING
+          - name: AIANHHCC
+            data_type: STRING
+          - name: AITSA
+            data_type: STRING
+          - name: ANRCA
+            data_type: STRING
+          - name: CBSAA
+            data_type: STRING
+          - name: MEMI
+            data_type: STRING
+          - name: CSAA
+            data_type: STRING
+          - name: METDIVA
+            data_type: STRING
+          - name: NECTAA
+            data_type: STRING
+          - name: NMEMI
+            data_type: STRING
+          - name: CNECTAA
+            data_type: STRING
+          - name: NECTADIVA
+            data_type: STRING
+          - name: CBSAPCI
+            data_type: STRING
+          - name: NECTAPCI
+            data_type: STRING
+          - name: CDA
+            data_type: STRING
+          - name: SLDU18A
+            data_type: STRING
+          - name: SLDL18A
+            data_type: STRING
+          - name: VTDA
+            data_type: STRING
+          - name: VTDI
+            data_type: STRING
+          - name: SDELMA
+            data_type: STRING
+          - name: SDSECA
+            data_type: STRING
+          - name: SDUNIA
+            data_type: STRING
+          - name: AREALAND
+            data_type: STRING
+          - name: AREAWATR
+            data_type: STRING
+          - name: BASENAME
+            data_type: STRING
+          - name: NAME
+            data_type: STRING
+          - name: FUNCSTAT
+            data_type: STRING
+          - name: INTPTLAT
+            data_type: STRING
+          - name: INTPTLON
+            data_type: STRING
+          - name: LSADC
+            data_type: STRING
+          - name: U7D001
+            data_type: STRING
+          - name: U7D002
+            data_type: STRING
+          - name: U7D003
+            data_type: STRING
+          - name: U7D004
+            data_type: STRING
+          - name: U7D005
+            data_type: STRING
+          - name: U7D006
+            data_type: STRING
+          - name: U7D007
+            data_type: STRING
+          - name: U7D008
+            data_type: STRING
+          - name: U7D009
+            data_type: STRING
+          - name: U7D010
+            data_type: STRING
+          - name: U7D011
+            data_type: STRING
+          - name: U7D012
+            data_type: STRING
+          - name: U7D013
+            data_type: STRING
+          - name: U7D014
+            data_type: STRING
+          - name: U7D015
+            data_type: STRING
+          - name: U7D016
+            data_type: STRING
+          - name: U7D017
+            data_type: STRING
+          - name: U7D018
+            data_type: STRING
+          - name: U7D019
+            data_type: STRING
+          - name: U7D020
+            data_type: STRING
+          - name: U7D021
+            data_type: STRING
+          - name: U7D022
+            data_type: STRING
+          - name: U7D023
+            data_type: STRING
+          - name: U7D024
+            data_type: STRING
+          - name: U7D025
+            data_type: STRING
+          - name: U7D026
+            data_type: STRING
+          - name: U7D027
+            data_type: STRING
+          - name: U7D028
+            data_type: STRING
+          - name: U7D029
+            data_type: STRING
+          - name: U7D030
+            data_type: STRING
+          - name: U7D031
+            data_type: STRING
+          - name: U7D032
+            data_type: STRING
+          - name: U7D033
+            data_type: STRING
+          - name: U7D034
+            data_type: STRING
+          - name: U7D035
+            data_type: STRING
+          - name: U7D036
+            data_type: STRING
+          - name: U7D037
+            data_type: STRING
+          - name: U7D038
+            data_type: STRING
+          - name: U7D039
+            data_type: STRING
+          - name: U7D040
+            data_type: STRING
+          - name: U7D041
+            data_type: STRING
+          - name: U7D042
+            data_type: STRING
+          - name: U7D043
+            data_type: STRING
+          - name: U7D044
+            data_type: STRING
+          - name: U7D045
+            data_type: STRING
+          - name: U7D046
+            data_type: STRING
+          - name: U7D047
+            data_type: STRING
+          - name: U7D048
+            data_type: STRING
+          - name: U7D049
+            data_type: STRING
+          - name: U7D050
+            data_type: STRING
+          - name: U7D051
+            data_type: STRING
+          - name: U7D052
+            data_type: STRING
+          - name: U7D053
+            data_type: STRING
+          - name: U7D054
+            data_type: STRING
+          - name: U7D055
+            data_type: STRING
+          - name: U7D056
+            data_type: STRING
+          - name: U7D057
+            data_type: STRING
+          - name: U7D058
+            data_type: STRING
+          - name: U7D059
+            data_type: STRING
+          - name: U7D060
+            data_type: STRING
+          - name: U7D061
+            data_type: STRING
+          - name: U7D062
+            data_type: STRING
+          - name: U7D063
+            data_type: STRING
+          - name: U7D064
+            data_type: STRING
+          - name: U7D065
+            data_type: STRING
+          - name: U7D066
+            data_type: STRING
+          - name: U7D067
+            data_type: STRING
+          - name: U7D068
+            data_type: STRING
+          - name: U7D069
+            data_type: STRING
+          - name: U7D070
+            data_type: STRING
+          - name: U7D071
+            data_type: STRING

@@ -26,6 +26,8 @@ select
     pie.precincts_reported,
     pie.complete_with_absentee,
 
+    c.u7d001 as total_population_18plus,
+
     coalesce(rcp.office_level, rcm.office_level) as office_level,
     coalesce(rcp.general_title, rcm.general_title) as general_title,
     coalesce(rcp.specific_title, rcm.specific_title) as specific_title,
@@ -61,3 +63,7 @@ left join
     and vp.race_id = rcm.race_id
     and vp.choice_id = rcm.choice_id
     and rcm.level = 'multiparish'
+left join
+    {{ ref("census") }} as c
+    on pie.parish_name = c.parish_name
+    and vp.precinct = c.precinct
