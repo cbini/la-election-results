@@ -26,7 +26,10 @@ select
     pie.precincts_reported,
     pie.complete_with_absentee,
 
-    c.u7d001 as total_population_18plus,
+    safe_cast(c.u7d001 as int) as total_population_18plus,
+    st_geogpoint(
+        safe_cast(c.intptlon as numeric), safe_cast(c.intptlat as numeric)
+    ) as internal_point,
 
     coalesce(rcp.office_level, rcm.office_level) as office_level,
     coalesce(rcp.general_title, rcm.general_title) as general_title,
